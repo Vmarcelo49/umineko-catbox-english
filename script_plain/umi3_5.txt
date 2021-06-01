@@ -1,1420 +1,1420 @@
-"......{f:5:Beatrice}.
- I have been calling to you for a while.
- Did you not hear me...?"
-"......Hmm.
- Were you?
- My apologies.
- I was lost in my thoughts.
- Forgive me."
-"The weather is pleasant.
- ...I see, I can understand how the weather has stolen your heart.
- Will you drink your black tea here...?"
-"...............Who...am I?"
-".................................
- ......I will bring some black tea now.
- Wait here for a while."
-"Forget about the black tea.
- Talk with me."
-"......Very well."
-Kinzo had used the excuse of going to bring some black tea to try and interrupt the conversation for the time being.
- ...But his attempt had been very transparent.
-I sat in the garden chair, and beckoned Kinzo to do the same.
-{n}Kinzo sat down heavily, exaggerating his age.
-For a while, we sat, appreciating the silence...
-"......Who am I?
- To this day, no one has answered me this question.
- ......For some reason, everyone averts their gaze and evades me."
-"........................"
-"......I have known you for a long time.
- I think of you as my best friend, even as a father.
- ......That is why I want so much for you to tell me.
- You must know.
- ...Who I am."
-"..................
- ............Why do you worry about something like that?
- You are {f:5:Beatrice}.
- The master of this mansion, is that not so?
- ......What more could you want to know?"
-"............I do not know."
-"What\'s this?
- ......Don\'t you even understand yourself what it is you want to know?
- That is baffling.
- In my younger days, I sometimes found myself wanting to play in the maze of thought that has no exit.
- Maybe that is what your worries are..."
-Kinzo laughed as though it was a trivial matter.
- ...However, I couldn\'t help but feel that this behavior was nothing but another attempt to force me to stop my further questioning.
-"...........................
- ...Hmph.
- ......So not even you will tell me that...after all."
-"There is nothing to tell.
- You are {f:5:Beatrice}.
- Isn\'t that more than enough?"
-"......No, that\'s not it.
- ............What I wish to know is not my name.
- It is...
-who...
-I am."
-"......Who am I, what am I?
- ...How long have I been here, ...and how long will I continue my days here?"
-"........................
- ...I really should bring some black tea.
- Do you not think it a waste of all this fine weather?"
-"................................."
-".........What is this all about...?
- Somehow, it looks like the story of your past, right?"
-"It appears so.
- ...To think that we would go this far back..."
-"Wondering who you were...
- ...It looks like you had some pretty high‐minded worries."
-"......That is to be expected.
- At the time, I was unable to understand who I was,
- or why I was alive."
-"Well, in puberty,
- everyone is captured by those philosophical worries, wondering what meaning there is to their life, at least once.
- Doesn\'t this just mean that you had this kind of charming period once in your life?"
-".....................
- ...I had been in that mansion since the time I was born.
- And I lived only inside the mansion.
- Of course, I was able to go out into the garden, but the area around the mansion was surrounded by a very tall fence, which I was unable to leave through,
- and I would be told severely that I mustn\'t leave."
-"......I could walk freely throughout the mansion and the garden,
- but my desire to take just one step outside those of my own accord was never granted."
-"...............What do you mean by that?
- ...Are you trying to say that, for as long as you can remember, you were always a bird in a cage?"
-"......I thought that was just how things were.
- After all, I had been living like that as far back as I could remember.
- I didn\'t even think to question it."
-"What in the world............are you?"
-"That\'s it.
- That is what I also hoped to know."
-"............Heh.
- I\'m sure you\'ll say something like "I wasn\'t a human, I was a witch", right?"
-"No, that\'s not correct.
- Not {i:yet} correct.
- ......Or, should I say, it was {i:once} correct.
- ......I was constructed by Kinzo, a human built by a human.
- ...No, maybe I should call it a cage made of flesh."
-"What\'s that supposed to mean...?
- ...This is starting to sound weird."
-"......You probably won\'t believe it anyway.
- Listen first.
- .........I was a great witch who had lived for one thousand years.
- But at some time, I was summoned by Kinzo,
- ...and by his hidden arts, I was bound as his prisoner for eternity."
-"............Never heard that before.
- From what we hear in the Ushiromiya family, you were summoned by Grandfather,
- made something like a devil\'s contract with him, and gave him the gold."
-"Yes.
- That is correct.
- ...Then I was supposed to hide myself until the contract was over.
- But, .........well, it\'s tough being a popular woman.
- .........By some turn of events, Kinzo fell in love with me."
-"...Grandfather\'s nearsightedness must have gotten pretty bad.
- With astigmatism too, ihihi.
- To fall in love with you, of all things."
-".........Hmph.
- Well, to me it was supremely annoying."
-"...However, the power of {y:0:Human}{n:0:human}s is a frightening thing.
- He exhibited fearsome power and rooted me to this place.
- ...He said I wouldn\'t be freed until I nodded my head in agreement.
- ...Such an overbearing man."
-"Isn\'t that awesome.
- Everyone knows Grandfather\'s obsessed with the occult, but...
-...who knew he had the power to root down the Great Witch {f:5:Beatrice}‐sama."
-"......Heh, ridiculous.
- You think I\'d believe such a weird story?"
-"...As I thought, you don\'t believe."
-"All I believe is the fact that you lived in this hidden mansion in the middle of the forest.
- You are the 19th person on Rokkenjima, right?!"
-"......Indeed.
- Just as you imagine, this is deep in the forest of Rokkenjima.
- A hidden mansion not to be found from the outside world.
- Its name is {ruby:Nine Birds\' Retreat:Kuwadorian}."
-"......Come to think of it, I heard that the guesthouse\'s real name was {ruby:Visitor\'s Retreat:Toraian}.
- ...I see, the naming sense is similar.
- ......So, you were Grandfather\'s lover, who lived here in secret.
- Isn\'t that right?!"
-"Lover isn\'t the right way to say it.
- ......You should probably call it Kinzo\'s unrequited love.
- I spoke of it just recently, correct?
- He fell in love with me of his own accord.
- He then courted me, but I rejected him."
-"......Then, I was shut up in this hidden mansion.
- .........No, I shouldn\'t say that I was shut up in the mansion.
- ......It would be more correct to say that I was shut up in this body."
-"............I have no idea what you just said at the end there."
-"You will just make fun of it and not listen, right?
- After all, you say that you don\'t believe in witches or magic.
- If you have no ears to hear what I tell you,
- saying it would be the pinnacle of foolishness."
-"...........................
- ......I\'ll decide whether I believe or not.
- ...After all, if I don\'t hear it, the story won\'t move on.
- Tell me.
- ...The story of your past."
-"Alright.
- .........I refused Kinzo when he courted me, but he was not a man to lose heart just because of that.
- He wanted to get my consent no matter what.
- He shut me up in this mansion, and spent an eternity trying to win my heart."
-"...He really is overbearing.
- No one likes a man who can\'t take a hint, right?"
-".........*cackle*cackle*.
- Regardless of whether I responded to his courting or not,
- to make a man so desperate for me was...well, as a woman, it wasn\'t unpleasant."
-"......However, I never nodded my head.
- I tried what I could to escape his restrictions,
- but that barrier was firm, and I couldn\'t break it."
-"......And then?"
-"After trying to resist in various ways,
- I eventually reached the conclusion that, to escape from Kinzo\'s barrier, I would have to throw away my body of flesh.
- ......The physical body is a vessel which carries many restrictions in terms of magic."
-"Throw away your body of flesh......?
- What\'s that?
- Something like an out‐of‐body experience?"
-"Well, if you want to think of it that way.
- However, I am not a spirit.
- Even though I am a witch, in the beginning, I was born with a human\'s body of flesh.
- So for me, throwing away that physical body,
- while it didn\'t mean the same thing as death, did require a corresponding level of resolve."
-"So in other words,
- ......you made up your mind that you couldn\'t be released except by suicide, is that what you mean?"
-"It wasn\'t suicide.
- It was nothing more than throwing away my body of flesh.
- ......Of course, becoming nothing more than soul is a precarious situation.
- When the soul leaves its body of flesh, it is constantly exposed to the strong winds of the sun.
- It was not easy even for me to maintain myself and avoid being scattered by them."
-"It was a final measure that I wanted to avoid if I could.
- However, there was no other way to break through Kinzo\'s barrier."
-"......*cackle*, after all, I am a free spirit.
- I couldn\'t stand being kept in a cage until Kinzo\'s life was over."
-I couldn\'t understand this story Beato kept going on about, about throwing away her body of flesh,
- as anything more than suicide.
-Grandfather persistently courted her, and to escape from that,
- ......she chose her own death...?
-"...............So you\'re saying you committed suicide?
- What are you saying?
- Isn\'t that you, sitting carefree there in the garden chair?"
-"......That\'s right.
- That is the new cage I was given by Kinzo."
-"............Cage?
- You mean this mansion?"
-"No.
- I mean my body, relaxing in the garden chair over there.
- .........After I became a soul and tried to escape,
- even then, Kinzo had no intention of allowing me to escape."
-"...Yes, indeed, he is a frightening person.
- Normally, seeing the woman of your one‐sided desires take her own life should be enough to bring anyone to their senses, even if their love was a hundred years old.
- ......I suppose it makes him somewhat of a mage after all.
- ......*cackle*."
-"Don\'t try to speak in riddles with that incomprehensible witch‐girl talk.
- ...In short, what are you trying to say?"
-"That Kinzo didn\'t let me escape even after I became a soul.
- ......Human emotions are terrifying.
- That he would be able to exhibit this much power..."
-"Tying down a spirit of the dead...
-is not a level readily attained, even for a mage seeking that as his specialty.
- Because I knew that, Kinzo\'s fearful magical power shocked me then for the first time."
-"............Then Kinzo seized my soul and brought me back.
- However, a cage to hold a seized soul cannot be made, not from iron nor from lead.
- ......There is but one exception."
-"............What?
- You aren\'t going to say it was a magical cage or something, are you?"
-"Wrong.
- That body of flesh over there, just like yours or mine.
- ...Only a cage made of flesh and blood can tie a spirit down to this world.
- ......Kinzo shut my soul up once more into a cage of flesh built to be exactly like me."
-".....................
- ...So in summary, is it something like this?
- Grandfather persistently courted you, you started to hate it, and you committed suicide,
- but you weren\'t clever enough to finish the job?
- ...Damn, you really took a roundabout way to say something like that."
-"No, that\'s wrong.
- My soul was shut up in the seed of a homunculus,
- and I was born out of a test tube."
-"Huh?!
- Ridiculous...!
- That\'s goddamn impossible and you know it!"
-"Kinzo accomplished even the miracle of creating life.
- And only to shut my soul up in that cage.
- ......That he would show such magical power simply because of his own love...
- A thoroughly terrifying person."
-"Aah, okay, it\'s really gotten to the point of ridiculousness now!
- Say whatever you want.
- I won\'t believe a word of it.
- Just do what you like, for hell\'s sake."
-"...............mh.
- ...What is this unpleasant attitude?"
-"Heh,
- in the beginning, I showed a little interest, thinking there might be some huge hint hidden,
- but the more I hear, the weirder this story starts to get.
- This is supposed to be a game about denying witches,
- but I get the feeling that I\'m suddenly being made to just swallow a witch story."
-"Sorry, but I don\'t feel like listening to this any more.
- Just keep rambling on to yourself as much as you want.
- I\'ll just be here digging out some earwax or something."
-".....................
- ......Hmph."
-When I started showing a cold attitude, Beato acted unusually discouraged.
-Of course, her expression was still brazen...
-but I had the feeling that I was able to catch a glimpse of loneliness because I hadn\'t found the story of her past interesting,
- in that really easy to understand expression of hers.
-......For some reason, that slight reaction made her seem pitiful,
- so even though I kept my couldn\'t‐care‐less attitude, I decided to humor her slightly.
-Damn it, even though she\'s an irritating witch, I\'m still weak against her because her chromosomes are XX...
-"......Well, I have absolutely no desire to believe you, but,
- ............keep going.
- I\'ll listen to your story in place of cookies."
-"So you treat the story of my past like cookies.
- ......You think that if you abuse me like that, I will just casually tell you...?"
-After I made fun of her, Beato reacted a little sensitively.
-It looked like, even though making fun of people was her specialty, she was horrible at being made fun of by other people.
-Just then, my cup of black tea suddenly made a sound, surprising me.
-"......Milady\'s soul was seized and breathed into a cage of new life.
- In other words, Milady received life as a human once more."
-Before I had realized it, the demon butler had appeared and taken my cup, and was adding more black tea to it.
-"Ronove.
- That is enough of that story.
- He says that it is too ridiculous to listen to.
- I now also feel ridiculous and have no intention of speaking."
-"Some new cookies are currently being baked.
- I thought that, until then, the story of Milady\'s past would be a perfect substitute.
- Pu ku ku...!"
-"I, ...I already said that I\'ve had enough of talking about me!
- You are both unpleasant people.
- I\'m leaving!
- Ronove, leave as soon as you are done serving.
- No idle talking with Battler."
-"Certainly.
- I will make an effort."
-Beato\'s confusing female short temper took hold of her, and she turned her body into gold butterflies, scattered, and disappeared.
-After that, only Ronove and the scent of the black tea were left...
-"......I feel kind of bad for making her angry."
-"It appears that you are aware of it, so there is nothing more to be said."
-"Wait a second.
- Weren\'t you the one that pushed her over the edge?"
-"Pu ku ku ku.
- My, whatever could you mean?
- Would you care for some sugar and milk?"
-"...Just milk will be fine.
- ............And I also want some cookies."
-".........You are aware that baking the cookies will take some more time?"
-"There\'s a substitute, you said?"
-"......Certainly.
- If you would listen quietly, I will continue the story."
-"She said something about a homunculus.
- ...I know a bit about that.
- It\'s that thing, right?
- A manufactured human created with alchemy or something?"
-"Yes.
- Milady\'s soul was shut up in a homunculus, and she was revived into this world, receiving life again as a baby.
- ......However, because she was a baby,
- even if Kinzo tried to profess his love to her, it would be useless."
-"........................
- .........You aren\'t saying...
-......Grandfather shut that baby up in this hidden mansion,
- until it grew to reach the same age?!"
-"Yes.
- That is what I am saying.
- However, while her soul was the same, a human spirit receives a strong influence from its vessel.
- Milady lost all of her memories of the past, and grew up as a very normal human girl."
-"And you\'re saying......that\'s the Beato sitting in the garden chair?"
-"Yes.
- That is correct.
- She grew to be completely identical.
- However, she did not possess her power as a witch.
- ......I must stress that Milady was a human."
-"................................."
-Beato, who was sitting in the garden chair, looking up at the sky, asked that same question again.
-She asked who she was.
-...The meaning of those words was finally starting to click.
- She couldn\'t understand why she was living here, all locked up.
-Grandfather had seized {f:5:Beatrice}\'s soul, shut it up in a body of flesh,
- and then shut that up in a hidden mansion.
-However, since she had lived here since the time she was born, she couldn\'t even understand who she was,
- or why she lived shut up in there...
-......W‐...wait, wait.
-{n}Who would take such a stupid story seriously?
-Why don\'t I change my interpretation?
-{n}...Essentially, couldn\'t it be something like this?
-Grandfather met {f:5:Beatrice}.
-{n}He then fell in love with her and courted her, but she didn\'t nod her head in agreement.
-{n}And so he got angry, and shut her up inside this hidden mansion.
-{f:5:Beatrice} tried to escape, but no matter what she did, she couldn\'t succeed,
- ......so she finally chose her own death.
-......And then, .........hmm.
-...Maybe there was a girl that looked just like {f:5:Beatrice}, ...no, a baby.
-And Grandfather raised this child with care.
-But maybe Grandfather didn\'t view this child as his daughter.
-"Shut my soul up once more into a cage of flesh".
-Those words probably meant...
-...that he didn\'t view this kid as her child, but as her reincarnation.
- Maybe that\'s what it meant.
-If you interpret it that way, even a story that weird might make a little sense...
-...No no no.
- This might be some bullshit Beato cooked up to confuse me.
-As if I could accept any of this...!
-{n}In the first place, ...Kuwadorian, was it?
-{n}There\'s no proof whatsoever that a hidden mansion actually existed.
-Couldn\'t this be something she just fabricated on the spot?
-"
-{p:1:A hidden mansion called Kuwadorian does exist in the forest of Rokkenjima}.
- That is the place we were just talking about."
-".........Huh?
- R‐...red?!"
-Ronove used the red to say that Kuwadorian actually existed.
-...Did that mean the same thing as the red Beato used?
-"Even if I am not much of one, I am a demon all the same.
- ...Please keep this a secret from Milady, yes?"
-"...Y‐......yeah!"
-Beato, who knew I would try to trip her up, had grown extremely cautious when using red.
-To think that Ronove could also use that red...
-Of course, it\'s the red of a crafty man.
- I don\'t know how far I can accept it,
- but anyway, I might be able to get some hint out of it......
-"So that Beato relaxing in the garden of Kuwadorian, ...and that conversation she had with Grandfather, were the truth?"
-"Yes.
- It is the truth.
- In the past,
- {p:1:the pair actually had a conversation like that in this place}."
-"Th‐thanks a lot.
- I\'ll ask for some more red.
- She said that she was born from a homunculus,
- but does that kind of unscientific, magical thing actually exist?!"
-"I am unable to answer that question.
- The reason is that it would cause a stalemate."
-"......A stalemate??
- What do you mean?"
-"It\'s a chess term referring to a state in which, similar to a "perpetual check",
- any further progress in a game becomes impossible.
- This is the opposite of an endless repetition of moves,
- and refers to a situation in which all moves disappear, resulting in a kind of deadlock."
-"In chess this would lead to a draw, just as if there were a perpetual check.
- ...However, there is no draw in the game between you and Milady.
- Therefore, I am unable to answer in red any question that would bring about a stalemate."
-".........You\'re speaking in riddles by saying something I don\'t really understand,
- but when it comes down to it, you\'re just trying to trick me because you can\'t say in red that something magical like a homunculus exists, right?"
-"If I were to say in red that "witches exist", what would you do, Battler‐sama?"
-"...............mh.
- ......That\'s what we\'re having this big fight over whether or not to believe, right?
- If you told me that outright, there\'d be nothing more to discuss.
- It\'d be game over."
-"If I said "witches exist" in red, you would have no room for argument.
- However, since the reason would never have been made clear to you, Battler‐sama, you probably wouldn\'t accept it.
- However, after being told that in red, you would have no room for argument and would not have been shown any proof."
-"In this situation, Battler‐sama,
- even though you wouldn\'t be able to admit defeat, you would have no way to make a counterargument, and it would become a deadlock.
- Even though checkmate would not have been reached, no more moves would exist."
-"Since you would not be able to make your next move, it would never become Milady\'s turn,
- and the game would stop there for all eternity.
- As a result, Milady would be unable to force you to submit.
- ......That would be a deadlock situation."
-"In order to avoid that,
- I am unable to answer questions of this form in red."
-"......So, to cut to the chase, you mean that questions that leave no room for discussion are prohibited?
- Well, that makes sense, I guess.
- If I was told "witches exist" in red, I\'d have to give up from the start."
-"I am pleased that you understand.
- I believe we might be able to work together if you ask a question of a different form."
-"......Can you respond to the repetition request she dodged?
- About the number of people on this island."
-"If Milady held back on the request, then of course I cannot respond.
- As Milady\'s furniture, I am unable to act too forward."
-Ronove made an exaggerated gesture, trying to act like a loyal retainer.
- This guy\'s so shameless.
-"Tch.
- Just when I thought you might be useful."
-"......I\'ll give up on that and search for a different question.
- ...That\'s right.
- I was forgetting to check something important.
- .........This is a story about Beato\'s memories, right?
- When did it happen?
- It couldn\'t be happening right now, right?"
-"Correct.
- {p:1:This is the world of 1967}.
- It is the world of 19 years ago."
-"............Hmmmmm..."
-Let\'s go through the story one more time.
-{n}I wonder if it couldn\'t be something like this.
-Grandfather had a person with whom he fell in unrequited love, called {f:5:Beatrice}.
-{n}And he confined her in this hidden mansion and continually courted her.
-{n}But she was stubborn and didn\'t say yes.
-Eventually, she grew pessimistic about being unable to escape from here...
-and probably, committed suicide.
-......And then,
- ......her soul was put in a homunculus and......
-No, no, if I accept that, it\'s the same as accepting the witch.
-I can interpret that part like this.
-{n}She probably......left a daughter behind when she died.
-That talk about the soul being put in a new body...probably meant...
-that Grandfather raised that child believing it to be the reincarnation of {f:5:Beatrice}...
-...In that case, Beato must have existed on this island for at least the last 19 years as the 19th person, and then...
-...umm......
-"......I\'m starting to get confused.
- ...In any event, none of this leaves the realm of guesswork.
- The only thing that I can definitely say in red,
- is that in 1967, in a hidden mansion on Rokkenjima, {f:5:Beatrice} existed as a human.
- That\'s all."
-"That is correct.
- {p:1:In 1967, in a hidden mansion on Rokkenjima, {f:5:Beatrice}‐sama existed as a human}."
-"Oh, thank you.
- That really helps."
-"Congratulations.
- With this, you have made clear the existence of the piece known as the 19th person.
- The 19th human outside of the 18 who you can blame, just as you longed for."
-"......A sacrificial sheep that you can shift the blame of any crime onto.
- And you must be so glad that it is Milady.
- Pu ku ku ku."
-Ronove laughed indiscreetly.
-Somehow, I didn\'t like his phrasing, so I didn\'t feel like laughing along with him.
-"......That\'s right.
- Auntie Rosa said it.
- ......‘{f:5:Beatrice} is dead’?
- "I killed her"?
- What does that mean...?"
-"As for that, it may be faster to see the actual circumstances rather than listen to me tell you.
- Let us advance the clock a little more."
-Ronove pulled a stylish pocket watch from his pocket, and made to wind the crown.
-As soon as he did, I saw gold butterflies gather behind Ronove\'s back and take the form of a person.
-...Was it Beato?!
- I quickly realized that it was someone else.
-It was her.
- That oldest sister of the Seven Stakes, who loved tormenting me more than anything else.
-......If I don\'t think myself lucky to see that sexy ass, I won\'t be able to play along with their torture game...
-"Ronove‐sama.
- So, you were still here.
- This is an urgent call from {f:5:Beatrice}‐sama."
-"My, my,
- what kind of urgent business could it be?
- ......It appears as though I have spent slightly too long chatting with you, Battler‐sama.
- Well then, Battler‐sama, if you will excuse me.
- Please continue to enjoy your game with Milady."
-"Yeah, yeah.
- I\'ll enjoy it as best as I can.
- ...\'Cause the conversations are more lively with you than with Beato.
- And you use the red more graciously.
- Come talk again any time."
-"............Battler‐sama.
- Despite how I look, I am Milady\'s furniture.
- ...I cannot do something that Milady does not wish.
- What I said in red was something that normally should have come from Milady\'s mouth.
- ...I did nothing more than announce the red truth in Milady\'s place as she sulked."
-"So she really was sulking then?
- Ihihihi!"
-"Pu ku kuku."
-Seeing me and Ronove incomprehensibly hitting it off, that Seven Stakes chick cocked her head slightly.
-"Ronove‐sama.
- We are keeping {f:5:Beatrice}‐sama waiting.
- Let us hurry."
-"Yes, I will come immediately.
- Well then, Battler‐sama, I shall see you later.
- ......It appears that we have finally started getting along.
- As I thought, I have the feeling that we can become good friends."
-"If by that you mean partners at gossiping behind Beato\'s back."
-"Ronove‐sama!"
-"Yes, yes.
- Then, if you will excuse me."
-Maybe it was because she really didn\'t like seeing him act friendly with me, or maybe it was because she had really been told to hurry.
-The Seven Stakes babe bellowed sharply at Ronove, and he laughed foolishly and disappeared, as if running away...
-"......Hmph.
- How could I, the eldest sister of the Seven Stakes of Purgatory, be called on for this level of work!
- ...{f:5:Beatrice}‐sama could easily have told one of the younger sisters, who look like they have so much free time, for something like this. Sheesh...!"
-"Why so grumpy, girl?
- If you\'re hungry, eat a cookie or something.
- Why don\'t I give you the last one?
- Ihihi!"
-"......Hummmmm?
- How thoughtful.
- Then, shall I take one?"
-I lightly pushed the snack plate with the last remaining cookie on it over to her.
-"Thank you"
-As though coming as a replacement for the period at the end of the sentence, a sharp sound pierced the table...
-The nails on three of her fingers had sharply extended, and were stuck...
-a hair\'s breadth into the gaps between my fingers on the hand I had used to push the plate.
-......It had happened in an instant, ...so for a while, I didn\'t even realize that her fingernails had grown.
-The tips of those sharp nails were like blades with a red manicure.
-......The spaces between the bases of my fingers prickled.
-......Those razor‐like blades were sticking sharply into the back of my hand, and into the spaces between my fingers...
-By those three blades, my carelessly outstretched right hand was not even permitted to shake, and all I could do now was allow a single line of cold sweat to drip down.
-"............Wowee.
- ...Isn\'t it about time you cut your nails, babe?"
-"Lucifer.
- ......That is my noble name.
- Honored furniture serving {f:5:Beatrice}‐sama, and the eldest sister of the Seven Stakes of Purgatory."
-".........I\'m not like my disgraceful and cretinous younger sisters.
- If you don\'t show the proper respect, you will regret it."
-"...How would I regret it?
- I don\'t have a clue."
-".........Heheheheheh.
- Stupid kid.
- ...Do you really want me to play with you that much?
- You really can\'t get me out of your mind?"
-"I\'ll thrust my stake deep, deep into you and make you really enjoy being gouged, got it......?
- Hehehe{0}he{0}heh{0}heheh{0}he{0}hehehhh......!"
-".........You bitch.
- One day I\'ll push you down and say that back to you."
-"Oh, really?
- I\'ll be looking forward to that, then?
- Ehhehe{0}heh{0}heheheh......
- ...Ahhahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!!"
-Rosa eventually regained her calm.
-The men wanted to hurry her into talking faster, but Kyrie intervened.
-...If something like she had just mentioned really had happened, ......it was an abominable past that she wouldn\'t want to remember.
-After taking several deep breaths with her hand over her chest, it seemed that she had more or less gathered the resolve to talk...
-"......How old was I then, I wonder...
- ...Probably...middle school, or... ...I don\'t remember well.
- Anyway, I think I was about that old..."
-"Which means... Maybe about twenty years ago?"
-"Back then, my grades weren\'t very good, and Mother was always angry at me.
- ......I was trying to do my best in my own way,
- but I couldn\'t respond to Mother\'s expectations at all..."
-"......Mother was always very strict with Rosa.
- I sympathized with her at the time."
-"Hmm.
- You say that even though you were always talking behind her back."
-"Would you give it a rest, Eva.
- So?
- Where did you meet {f:5:Beatrice}, Rosa‐san?!"
-"Hideyoshi‐san, you mustn\'t rush her now.
- ......It\'s alright, Rosa‐san.
- Tell us at your leisure."
-".........Thank you.
- ...It was a day when I had been scolded particularly harshly by Mother."
-Even though my tutor had promised to keep it a secret,
- ...apparently, they told Mother all about how I had complained.
-Mother scolded me horribly, saying that I was a disgrace to the Ushiromiya family.
-......Of course, I was doing the best I could.
-But I had none of Krauss nii‐san\'s dignity,
- I couldn\'t get excellent grades like Eva nee‐san,
- and I had no leadership like Rudolf nii‐san.
-...I never stood out, didn\'t particularly excel at anything,
- and I almost wanted to ask myself why I had even been born into the Ushiromiya family.
-I didn\'t know why I had been born.
-{n}...On that day, I had the experience of my mind going blank for the first time......
-For the first time since I was born,
- ...I realized that in addition to facing or surrendering to my problems,
- I had the third choice of running away.
-Even though I say run away, there was no way I could have left Rokkenjima and gone somewhere else.
-But, anyway, I wanted to run away from the mansion and the way I was at the time.
-......In a way, it was like running away from home, or maybe a half‐hearted suicide...
-"......I wanted to disappear.
- Or maybe it was that child‐like form of resistance where I tried to make my parents worry by disappearing..."
-".........I thought childishly that if I went into the center of the forest, I could escape from the Ushiromiya house,
- or maybe I could get back at them by getting lost and making them worry."
-"So then, ......you went into the forest that you\'d been told not to go into?"
-"......Yes.
- After reaching the beach, I followed alongside the ocean.
- ......I didn\'t have any particular reason,
- ......but I felt that, if I went around to the opposite side of the island, there might be a place there that no one knew about,
- which might become a hidden house just for me."
-"Starting by the beach, it\'d be impossible to go all the way around.
- It becomes a cliff partway, right?
- There\'s no way you could pass that way."
-"...Of course.
- So, I kept going wherever I could, and kept going deeper and deeper in.
- ......It was a horrible forest without any paths, but that was comforting to me then.
- ...If I could make it through such a dangerous forest, then it would be that much greater of an escape from the Ushiromiya family,
- ...which made me feel good."
-".........How shameful.
- If you were scolded because of your grades, all you had to do was work harder."
-"You mustn\'t say that.
- Doesn\'t Rosa have her talent as a designer instead?"
-Literally this could be taken as him covering for Rosa,
- but everyone knew that Rosa\'s company was not making any profits.
-"Quit it.
- Now isn\'t the time for sarcasm.
- ......And then you arrived there by coincidence...?
- ...{f:5:Beatrice}\'s...
-hidden mansion."
-Rosa nodded weakly......
-"About how far did you walk.
- Could you show it to us on a map...?
- Natsuhi‐san, is there a map of this island?"
-"No, not right here and now..."
-"That would be impossible.
- I was just walking randomly.
- Even if you showed me a map, I wouldn\'t know.
- ......And twenty years have passed since then.
- I probably couldn\'t reach it again even if I went into the forest..."
-".........Hmmmmmm..."
-Several people let out dejected sighs.
-It was vividly clear that in their haste,
- they had thought that some hint related to the witch\'s epitaph, or maybe even the gold itself, might be resting there in that hidden mansion.
-"The only part of Rokkenjima that got made ready for development is the area around the mansion.
- ...The rest is completely uncultivated, and it would probably take considerable effort to survey the entire island."
-"But just knowing that it actually exists is helpful.
- It would take some money, but if we enlisted an aerial photography company to investigate,
- or asked the contractors who constructed this mansion about what happened at the time,
- we could probably find some way to search for it."
-"Yes.
- ...There should be more ways to do it now that there isn\'t a question about whether it exists or not."
-"......Mmhm.
- It is probably worth investigating right away."
-"We will do that investigation together as siblings.
- We won\'t let you do it alone, Nii‐san."
-It wasn\'t certain that the gold was hidden in that secret mansion,
- but it seemed that the fireworks between Krauss and Eva had already begun.
-"Give it a rest for now, you two.
- ...Rosa, please continue."
-"..................Yes."
-Blindly, randomly, I kept running, on and on.
-Suddenly, it felt like I had come across something like an animal trail.
-I had no idea how far I\'d walked, and I was very tired,
- so by then, I was just naturally taking the easiest path to walk on.
-As I did, .........suddenly, right before my eyes, a very, very tall fence appeared.
-It was a fence wonderfully adorned in a gothic style.
-For an instant, I spun around, thinking that I might have returned to the original mansion.
-Of course, there were fences around the mansion to stop us from entering the forest.
- But this fence was decorated differently, ......and most of all, it was very tall.
-It probably reached a full two stories up.
-It was covered with ivy, and created a mysterious, solemn atmosphere...
-At the time, ......I believed the legend of the witch of the forest, {f:5:Beatrice}.
-I had been told that she was frightening,
- but some of the servants told me that she would sometimes help you if you respected her.
-......Since I had started to lose confidence in how my life was going,
- I believed that the only way I could be saved was by receiving her help.
-So that\'s what made me think it.
- ......I believed that this was the fence of the mansion of {f:5:Beatrice}, the witch of the forest.
-I thought that if I could meet with {f:5:Beatrice}, she would definitely save me.
-So I thought I would try to go in.
-But that fence was very, very tall, and it didn\'t look like I could go over it.
-So I decided to walk around it.
-{n}I thought that if I did, I would eventually reach a gate.
-But it wasn\'t that easy.
- The fence had a length to match its height, and no matter how far I went, I didn\'t reach a corner.
-It might have been enclosing a very massive area,
- ...or maybe it just felt that way because my child\'s legs made it difficult to walk in the forest.
-Anyway, because I couldn\'t find a gate for a while,
- I started to feel sad, as though the witch had rejected me...
-As I did, I eventually came upon a large tree, whose twisted root had bent the fence.
-I might get my clothes dirty, but if I crawled, it looked like I would be able to sneak in...
-".........And that was the hidden mansion?"
-"I don\'t know whether it was the hidden mansion we\'ve been talking about...
- Still, at the very least, it wasn\'t a place that we know of."
-It wasn\'t as though I came out into a garden as soon as I passed the fence.
-{n}I had to continue through a lot more uncultivated forest after that.
-And then......the forest suddenly opened up.
- And what appeared there was an unbelievably...
-.........fantastical scene.
-To think that Rokkenjima, where I had believed no one other than us lived,
- ...had been hiding such a wonderful mansion...
-A beautiful flower garden spanned the front of the mansion.
-{n}It was a flower garden of a completely different design from the rose garden we know so well, and was very lovely.
-Of course, the mansion was also wonderful.
-...It was one or two sizes smaller than ours,
- but it was a very elegant, and yet lovely mansion.
-Then, ...............I saw her.
-{n}I saw her sitting in a garden chair, positioned to give a view of the flower garden, wearing an elegant dress.
-It was that black dress embroidered in gold that we would later know from that portrait.
-......I hadn\'t seen an elegant dress like that except in fairy tales and on the stage of musicals.
-...That a person would be wearing it as their normal clothes... That in itself seemed quite fantastical.
-That magical scene was enough to make me lose my sense of reality.
-If someone had told me then that it was a dream,
- I might have nodded obediently, and waited to wake up in my bed...
-Since, in my shock, I had forgotten to hide myself, she eventually noticed me.
-At first, her expression was quite listless,
- but when she noticed me, her eyes opened very wide.
-...It was only natural—a guest that she didn\'t know had suddenly appeared.
-I automatically bowed my head, feeling that I should greet her and apologize for entering without permission...
-"............Who are you?
- A new gardener?"
-Those were the first words she said to me.
-{n}...That calmed me down a little bit.
-{n}Because I realized that she could be talked with.
-Because I hadn\'t been turned into a frog just by meeting her eyes, like the terrifying witch in that fairy tale.
-"......I,
- ......I\'m sorry.
- ...I shouldn\'t have entered the garden without permission..."
-"........................
- ......Who are you?
- Name yourself."
-"I, ...I am Ushiromiya Rosa."
-"......Ushiromiya.
- .....................Hoh.
- ...So you are one of Kinzo\'s family."
-"Huh?
- Ah, ...yes!
- I\'m Kinzo\'s daughter.
- G‐good afternoon...!"
-I was just a little surprised.
-{n}...After all, Father was a great man feared by everyone.
-And she had referred to him without using honorifics.
-{n}So she quickly became frightening.
-...After all,
- if she could refer to my fearsome father that way, she must be a witch with incredible power.
-After staring at me curiously, she beckoned me to come over to her.
-And I obeyed, although filled with belated trepidation.
-{n}......After all, I thought I really might be turned into a frog.
-...And the closer and closer I got, the stronger that fear became.
-After all, ...I said it several times already, but,
- ............that woman and her dress and the flower garden and the mansion,
- ......that entire harmony was so fantastical and beautiful that it seemed separate from reality.
-It surely wouldn\'t have surprised me even if she was actually a witch...
-And I was truly lucky.
-{n}She didn\'t turn me into a frog.
-As I awkwardly stood there stock still, she motioned to an open chair, and urged me to sit down.
-"Sit.
- Welcoming and speaking to those who visit this garden for the first time is my only pleasure.
- .........That said, I have nothing else to find pleasure in."
-As she said that, she showed an unhappy smile for just an instant.
-Because I was full of a strange mix of tension and excitement, I rudely asked her a question suddenly.
-"...Umm,
- ............are you the witch of the forest,
- ...{f:5:Beatrice}......?"
-"Indeed.
- I am {f:5:Beatrice}."
-"As I thought.
- {f:5:Beatrice} actually existed..."
-"...Did she look just like the portrait?"
-"......Yes.
- Exactly like the portrait."
-"So she wasn\'t just...
-...a witch from Father\'s imagination..."
-"And then, what did you talk with her about?"
-"...As she prepared some tea, she asked me various things about myself.
- ......First, she was surprised that I had come through the forest.
- It seems she believed that many dangerous wolves lived outside the fence."
-"...So when I told her I had reached this place by going through the forest, she was very surprised.
- She asked how I had managed to escape from the wolves—did I give them biscuits and they let me go?
- Or did I cover myself in a magic cloak, or...
- Those kinds of things, I think."
-"Wahahaha.
- ...That sure sounds like a witch.
- What an interestin\' person."
-"Quiet, honey.
- ............It was a long time ago,
- but didn\'t Father threaten us, saying that wolves lived in the forest, so we shouldn\'t get close to there?"
-"Yes, there was a time like that.
- Ridiculous.
- Even though Japanese wolves went extinct long ago.
- What a childish trick."
-"I don\'t remember, though...?
- Did Dad really tell us something like that...?
- It was the witch of the forest, right?
- I don\'t think I\'ve ever heard about wolves."
-"You were still in elementary school.
- Don\'t you remember?"
-"You actually went and replied that you\'d want to try petting the wolves.
- So Father immediately gave up the wolf story and changed it to the story about the witch.
- Such obvious lies, ahahahahaha."
-"Hahahaha.
- At the time, the witch story had a much more immediate effect on you, Rudolf, than the wolves.
- I remember it well.
- Don\'t you remember those nights when you clung to my back?"
-"...*giggle*.
- I see, even Rudolf‐san used to have that cute period."
-"Oh, put a lid on it.
- I was just a kid."
-"......Well, anyway.
- If Father was the one who shut {f:5:Beatrice} up in there, it makes sense that he would use the same wolf story.
- To him, the vast forest of Rokkenjima was a wall that shouldn\'t be crossed,
- dividing his two incompatible worlds: the Ushiromiya family and his mistress\'s mansion."
-"If you think about the height of that fence, it does seem that Father had turned the whole area, garden and all, into a giant jail cell.
- ......Just like a national border dividing his two separate worlds."
-"...Forget the wolves, were there any kinds of stray dogs there at the time?
- It could have been a fence to protect against those."
-"There are no wolves or stray dogs on Rokkenjima.
- Just as Nii‐san and Kyrie‐san are saying,
- that fence was probably a border between us and {f:5:Beatrice}."
-"However, if she innocently believed the story about the wolves, that\'s pretty...naive.
- That\'s nothin\' like the way I\'d imagine a witch."
-"......That\'s right.
- I also sensed that.
- ...She was very pompous, just like my image of a witch,
- ...but she was somehow very childish, and...
-...how should I say it, too honest?
- ......She gave me the impression that she didn\'t know anything about the world."
-"If I had to describe it, ...it was almost as though she had come from a fairy‐tale land.
- ......She was a truly mysterious person."
-"......What happened after that?
- ...Did you end up talking about Dad at all?"
-"Yes.
- Once every few days, sometimes on an arranged day and sometimes suddenly,
- Father would appear casually, and they would drink tea together, or take a walk together or something, she said.
- And that, by coincidence, she was by herself on the day I visited."
-"I see.
- Truly a mistress, then.
- ...My, my.
- I don\'t know how much younger she was, but... not bad, Father."
-"......I remain firmly convinced that it was not an indecent relationship."
-"Gosh, you are an idiot. There\'s no way a lover\'s meeting between a man and a woman wouldn\'t have {i:some} sensuality.
- What happened next?
- What did you talk about after that?"
-".........Because I had introduced myself, I then asked her about herself."
-"...When I did, the atmosphere quickly grew depressing.
- ......How should I say it, she seemed very listless and lonely.
- ...It was the same expression as the one I had first seen on her face."
-"Well, that\'s because she was his hidden mistress.
- If she just walked around wherever she liked, she might have been discovered by Mother.
- ......I\'m sure the situation was almost like house arrest."
-"Even though she had beautiful clothes, a beautiful mansion, and a garden, she must have felt very constrained.
- No surprise she felt it hard.
- .........And then?"
-"There was definitely something on her mind.
- ......I remember getting the impression that it wasn\'t something that I could resolve just by talking to her,
- and feeling very sad about it as well."
-".........She seemed to have forgotten that I was even there.
- ...She was gazing vaguely off into the distance, and was silent for a long, long time."
-"...I thought that I must have said something wrong,
- ......but it didn\'t seem to be the type of atmosphere where I could offer words of apology...
- ......So, I too remained silent for a long, long time, until she remembered that I was there..."
-When she did, ......she muttered unexpectedly.
-".........Are there really no wolves beyond the fence?"
-"...Hmm?
- Y‐yes.
- I\'ve never seen wolves even in a zoo."
-"What is this "zoo"?"
-"Ah, ...it\'s a place where they keep all kinds of animals.
- They\'re full of rare animals like elephants and giraffes and pandas."
-"..............................
- ...Are there no wolves in a zoo?
- Then, umm, ...that might not be scary."
-"Even if there were wolves, all of the animals are put in cages, so it\'s safe.
- So you can feel safe as you look at and learn about them."
-The witch of the forest, of all people, was for some reason scared of and didn\'t like wolves.
-I remember it looked pretty comical.
-"..................
- ...How does that differ from myself?"
-"............Huh?"
-She didn\'t even know about zoos.
-I explained how fun zoos could be,
- but it was very difficult to get a person like her, who had never been to one, to understand...
-Quite the opposite, as I explained it to her, her expression grew increasingly dismal.
-...She couldn\'t see the difference.
-It seemed that, although this mansion surrounded by a high fence appeared at a glance to afford her a completely provided‐for life of comfort,
- she couldn\'t see how she was different from the animals shut up in cages...
-"Who am I?
- ......Everyone calls me {f:5:Beatrice}.
- ...And that does certainly seem to be the name of a great witch, as you say."
-"......But that is not me.
- I cannot use any magic.
- ......I simply have the soul of that witch sealed inside my body."
-"..................?"
-There was definitely something mysterious about her.
- It wasn\'t just that she was somehow at odds with the world,
- but it seemed that she truly believed that a thing called magic actually exists.
-I think she talked about various weird things, but I don\'t remember the details.
-All I thought was:
- ......this might be a pitiful person.
-She was unable to leave this mansion of her own will, a prisoner without even realizing it.
-......And she didn\'t know anything about the outside world, didn\'t even understand who she was.
-......She probably vaguely understood herself that she was pitiful.
-But since she didn\'t know anything, it seemed that she couldn\'t realize that this was unhappiness.
-Nee‐san, long ago, when I told you that I felt sorry for a bird in a cage, I remember you said this to me.
-"A bird that only knows the inside of a cage doesn\'t long for the outside".
-But she wasn\'t a bird.
-{n}She was, ultimately, a human.
-Even if she had never been outside the cage, she understood that it wasn\'t the whole world.
-So,
- .........I invited her.
-"Do you want to try...
-...going outside the fence?"
-".........Th‐there really aren\'t any wolves?"
-"There aren\'t.
- You\'ll definitely be safe."
-"..............................
- ......I want to leave.
- But the gate is always closed."
-"There\'s the place I came in through.
- There\'s a crack you can slip through."
-"......If we go through there, is there a world outside?"
-"Yes."
-"........................There really aren\'t any wolves?"
-"*giggle*.
- No, none at all."
-".............................."
-I had only planned to invite her for a short walk,
- ...but she kept looking over her shoulder at the mansion, as though she were seriously deliberating over something.
-Then I learned what she was preparing herself for.
-"...............I...have had enough of this place.
- ......I want to go...outside.
- And I want to know...who I am, what\'s happening in this world,
- ...and the purpose for which I was born."
-I didn\'t know what her life had been like until then.
-It was probably something that she couldn\'t express easily.
-If it was harsh, she just had to say that she wanted to escape.
-{n}If it was sweet, she just had to say that she would stay.
-To liken it to something,
- perhaps it was similar to how a hot fireplace on a winter day makes the air get thicker and thicker, giving you a headache...?
-Even though you know that you shouldn\'t keep things the way they are, you still need the courage to open the window and be tormented by the cold wind...
-She was starting to realize that she couldn\'t stay there forever.
-She was starting to realize that she had to go outside sometime.
-But, since she didn\'t know about the outside world,
- to take that first step outside must have required an unimaginable amount of courage...
-And she had taken that into consideration, and resolved herself.
-She had put that resolution to go outside into words, for what was surely the first time in her entire life.
-...I hesitated slightly.
-{n}It had been decided that she would live here by Father.
-{n}It was as if she were Father\'s beloved bird in a cage.
-If I just let her escape,
- ......wouldn\'t I be harshly scolded by Father...?
-"I want to see."
-".........Hm?
- See what?"
-"I want to see...a zoo."
-".....................ah."
-I was just a little surprised when she finally showed me a very soft smile.
-That might have been...
-an inner peace, coming from her newfound readiness to venture out from her cage.
-A soft smile which I wouldn\'t have imagined could have come out of that dark face...
-"......When I speak with you, I keep hearing about things I don\'t know.
- ...I don\'t know about this thing called school, nor about zoos.
- I don\'t know about movie theaters.
- I don\'t know about amusement parks."
-".........And I think, from the bottom of my heart, that I want to know about them.
- ...Will you take me there?"
-"Huh? ......Y‐yes."
-...I was nervous about how I would do it and keep it a secret from Father,
- ...but her face looked so happy, so I went along with her and nodded.
-But it seemed that the meaning behind my vague expression was not communicated to her.
-It seemed that she believed that I would really take her to all of those places if we left.
-She was pure and genuine.
- ......She had probably never been tricked by anyone.
- No, ......maybe it should be said that she hadn\'t been taught how to doubt.
-Her face was somewhat radiant, and yet pathetic.
-{n}...I wanted to somehow grant her modest wish.
-"I...have had enough of {f:5:Beatrice}.
- I want to know who I am.
- I want to start out as a new human, not {f:5:Beatrice}."
-"So, I want you to take me from here.
- .........I don\'t need tea anymore.
- I don\'t need this dress.
- I won\'t meet with Kinzo again.
- ......Please, take me from here.
- Rosa."
-However, that responsibility was one that a child such as me couldn\'t possibly bear fully.
-But her serious gaze and her brilliant smile,
- ...almost as though an evil spirit had lifted from her,
- ......made me feel a little courage start to rise up inside myself.
-This was definitely something that would get me in a lot of trouble.
-{n}......But it was definitely the right thing to do.
-I don\'t know how it will turn out, but......
- ......I\'ll take her out.
-Of course, I won\'t be able to ask help from Father, and not Mother either.
-.........Should I talk to Onii‐sama or Onee‐sama?
-{n}No, what about that reliable Genji‐san, or...
-that\'s right, what about Kumasawa‐san, to whom I can always talk when I\'m in trouble.
-I\'m sure they\'ll be able to do something.
-Anyway, for now, I\'ll take her out of here.
-{n}Because this is no longer a place where she wishes to be.
-......And so, I took her to the crack in the fence and led her outside.
-She was all nervous, checking to make sure there were no wolves around,
- but after that fear disappeared,
- she seemed somehow to be having fun even just walking around this dense forest.
-Every time she found something, she would ask me about it.
-{n}And they were all really minor things.
-......What\'s that flower?
- What\'s that leaf?
- And that sound?
- And that smell?
-It was really like...the inside of that fence had been her entire world.
-So, to her, who had stepped {i:out} of the world, this was.........
-......You know, it\'s strange.
-In the beginning, when I first saw her, I thought that she was the absolute incarnation of a witch relaxing by a witch\'s mansion.
-But now it was different.
- Or actually, the complete opposite.
-......She had gone out of a world she had believed to be finite, and was full of joy at realizing for the first time that the world was endless.
-So everything she saw was new.
-{n}......It was almost as though she was the one who had been thrown into a fairy tale.
-If she was Alice, then I felt almost like a rabbit holding a watch......
-To her, it was probably a really fun walk, filled to the brim with excitement.
- ...But as for me, the truth was, I was completely bewildered.
-......After all, I had walked randomly to get there.
-{n}So there was no way I could have known the way back to the mansion.
-There were no lights in the forest, and I hadn\'t brought a flashlight.
-{n}I realized that it would be terrible if it got dark while we were still like this, and grew impatient.
-She was too innocent,
- and apparently, she couldn\'t understand at all how frightening it would be to face the night inside the forest.
-But I was the one who had brought her outside.
-{n}...Somehow, I had to take responsibility, and resolve this situation.
-So I thought.
- ......That for now we should just go out to the sea.
-{n}If we then followed the coast around, eventually we should definitely be able to make it back to the mansion.
-However, that was much more of a problem than I had imagined.
-{n}...After all, I didn\'t have a map or a compass.
-There was no way I could walk in a straight line through an uncultivated forest, and I had immediately lost my sense of direction.
-I already had no clue which trail I had come by, and was completely lost...
-At this rate, night would definitely fall before I even knew where I was walking.
-But I didn\'t have the luxury to complain.
-Because that woman following behind me was so innocent and having so much fun.
- ...Therefore, for the sake of her smile if nothing else,
- I absolutely had to guide her out of this forest.
-Gritting my teeth so that I didn\'t show her a troubled face,
- I pushed my way onward through the pathless woods.
-And, although we had various troubles, we were lucky enough to make it to the sea...
-At that time, I still didn\'t even have a clue where I was on the island,
- but for the time being, I was just a little reassured, realizing that if I just went around this way, I would surely be able to return to the mansion.
-Of course, although I said that we reached the sea, we were on the top of a rocky cliff.
- The beach was far below us.
-I was tired from walking around the forest for so long,
- so I thought that even though it was a rocky beach, an open area would probably be much easier to walk in.
-So I planned to somehow go down the rocky cliff.
-{n}...It did look pretty dangerous, and I wondered if there was some other way.
-However, {f:5:Beatrice} agreed with my plan without any doubts.
-......Even though she was probably older than me,
- ...she obeyed me truly obediently, almost as though she were some kind of chick who believed I was a mother bird.
-I searched to see if there wasn\'t some place where I could go down the cliff.
- ...Then I found a place where the cliff had crumbled into a slope.
-.......It looked a little dangerous,
- but if I went down on both hands and both legs, like I was crawling, I thought it would probably be okay.
-"......Let\'s go down here.
- It\'ll be dangerous if you aren\'t careful,
- but for now, if we go down to the beach and walk along it, I think we can avoid getting lost any more."
-"Mmhm.
- If you will do that, then let\'s go.
- I find this getting lost to be fun also.
- I\'m very happy."
-.........She really had no sense of danger.
-{n}There was probably no mistake that she had lived a life without discomfort.
-Even though she knew it would get dark when night fell,
- she couldn\'t imagine how dangerous the inside of a forest could be without a light.
-Furthermore, it seemed that she couldn\'t grasp at all how dangerous it might be if she fell from the cliff.
-I warned her once more to be careful.
-I cautiously examined the place where we could go down.
-{n}...It looked......pretty high up.
-{n}I think it might have been about ten meters down.
-If you looked at it from the bottom up, it would probably have looked shorter than the roof of the mansion.
- But looking from the top, it felt almost like staring down from the Tokyo Tower\'s observation room.
-But {f:5:Beatrice} still appeared to be completely without fear.
- ...It felt as though she had never even been taught that high places were dangerous.
-......No, maybe she truly believed that she was a witch,
- and that she could fly, so there wasn\'t anything dangerous.
-"Please be careful.
- ...It\'s pretty...high."
-"Mmhm.
- I will be careful.
- I see there\'s a beach if we go down there.
- Is there an aquarium there?"
-"No, there are no aquariums on this island.
- But I think there are lots of fish in the sea."
-"I see.
- So there are fish.
- Are there, ...umm, whales and dolphins and penguins, like you talked about?"
-"No, you would have to go to an aquarium for those.
- ......And there aren\'t any aquariums unless you leave this island."
-"Is that so?
- ......But I look forward to it.
- What kind of fish are whales?"
-"Umm, ...they\'re really big fish and...huh, aren\'t they mammals?
- And they spit out seawater."
-"Hoh.
- Then the dolphins?"
-"Umm, they\'re really smart fish and...{0}huh...{0}aren\'t they also mammals?
- They\'re really smart and they can be taught tricks and stuff."
-"Hohhoh.
- Then what about penguins?"
-"Umm, ...huh, weren\'t they birds...?"
-"What\'s this?
- Didn\'t you say that there were fish in aquariums?"
-"Ummm, ummm...
- Well, um, there isn\'t only fish, they\'re full of all kinds of things that live in the ocean."
-"Hohhoh.
- I am really looking forward to that!
- .........nn—"
-{a:c:
-Wa, hyaa.}
-She made...some might have described it as a funny,
- ...rushed and short voice,
- ...no, probably it was a scream, I think.
-She suddenly made a sound like that.
-......Her body separated from the cliff, and gently fell down.
-I immediately thought to say to her.
-{n}"How many times did I warn you to be careful!"
-......It was the thought of a child.
- It was how a child immediately gets mad when something happens, trying to show that they are not at fault.
-Of course, I said it too.
-{n}Are you alright?
- How many times did I warn you......
-"...............So,
- ...after she fell from the cliff,
- ...what happened?"
-"..........................."
-"......What happened to her?
- ...Rosa."
-Rosa fell silent.
- ...Her gaze fell to her feet, ...as though she were seeing through the floor to some disgusting memory...
-"She...died, right......?"
-Eva\'s brutal words were the ones that Rosa had most wanted to avoid.
-And when she was hit with them, ......she screamed in resignation.
-"Yes, she died!!
- It was a rocky beach, many sharp and dangerous rocks lay exposed!!
- Her eyes were still open, the blood kept pouring out... Suddenly a red carpet was spreading out...!"
-"I spoke to her, shook her!!
- But she refused to respond, not even a blink, ......no, she wouldn\'t even close her eyelids!!"
-"It was my fault!
- She was wearing a dress, remember?!
- Even though I knew that her outfit was difficult to move in, I said that we should go down the cliff!!
- She was incredibly innocent, so she obeyed what I said without any doubts...!!"
-"......How long do you plan on remaining dead?
- Open your eyes already.
- Honestly, just turning into a lump of meat without me."
-"I was just flirting with your friend the sexy‐assed chick.
- ......More importantly, what is all this?"
-"Mmm.
- It is as you see.
- ......I missed my footing, fell down,
- {i:and died}."
-"What did you say...
- .........Even though you appeared as the 19th person,
- ......you say you died......?"
-"Don\'t mess with me, that can\'t be...!
- Auntie Rosa was a kid, and she was panicking.
- It\'s not like there was a doctor.
- She probably made a mistake, thinking you were dead, and you probably, umm, ......were in a state of apparent death, or something, but actually alive.
- Right?!"
-It can\'t be.
- She\'s obviously alive.
-{n}Otherwise, she wouldn\'t be here in front of me, right...?!
-...The kid‐aged Auntie Rosa was shaking {f:5:Beatrice}\'s body, crying.
-I too stared into that face,
- ...............but her eyes were still open, and it really was a corpse.
-...I wanted to brush it off with something vague like a state of apparent death,
- ......but from any angle, there was nothing "apparent" about it; ...she really didn\'t look anything but dead...
-{f:5:Beatrice} had fallen upside‐down from a cliff of that height,
- ......and her head had smashed against the pointed tip of those sharp rocks.
-............You would die, wouldn\'t you,
- ......from that height,
- ......on those rocks......
-But I can\'t accept that...
-No matter how dead she looks, ......she has to be alive...!
- And she became this damn irritating witch!
- That way, all of the inconsistencies fit.
-She\'d been confined by Grandfather in a hidden mansion the whole time.
-And then to avenge herself, she planned out her revenge,
- ......and would go on to commit a number of atrocious murders!
-Auntie Rosa probably just mistakenly thought that she was dead.
- But she was really alive, and as soon as Auntie Rosa left, she miraculously started breathing again.
-......And then she somehow lived until today, and would open the curtain on the scene of her revenge.
-Otherwise, the facts don\'t fit together!!
-"......I won\'t let you trick me so easily.
- Can you repeat it in red?!
- That she died for certain!!
- She has to be alive, right?!
- It\'s obvious!!"
-"How does {i:that} look like {i:being alive} to you?
- {p:1:She\'s definitely dead}!"
-".................................mgghhhh..."
-My theory that the 19th person was Grandfather\'s mistress, who was a human {f:5:Beatrice}, broke down.
-...I thought I had managed to segue from a defensive position into a counterattack, but......
-"......Then, ......who are you?
- You just died, this very minute!
- You aren\'t going to say that you revived yourself with magic, are you?!"
-"*cackle*cackle*.
- I think that I\'ve already explained it, though."
-"......The me that is lying over there definitely has my soul,
- but that body was nothing more than a cage of flesh tying me to the physical world.
- And that cage of flesh was thus broken.
- ......Do you understand what that means?"
-"...............I don\'t have a clue anymore.
- ......Keep having fun with your witch‐girl talk.
- I\'ll listen instead of eating a cookie!
- What the... It\'s empty.
- Hey, could I get some more black tea?"
-"*cackle*cackle*!
- Ronove.
- Our guest wants some black tea."
-When Beato clapped her hands, Ronove appeared.
-......Butlers sure are convenient.
-"A refill, is it?
- Certainly.
- How much shall I pour you?"
-"Well, I\'ve got more than enough to go with it.
- Half will be fine."
-"Filling it to the brim regardless is the English custom."
-Even though just enough to wet my throat would have been fine, he filled it to the top with tea.
-I turned my back to Beato, sipping it in silence...
-"Wait... Open your eyes...!!
- {f:5:Beatrice}...!!"
-Rosa shook me,
- ............no, shook the corpse that had once been me.
-I watched over her from a short distance away.
-Ah, ...so I fell from there and died.........
-I believed that was true for a while.
- ...After that, I saw Rosa spend a long time beside my corpse, then watched her as she ran away.
-......Eventually, I realized that I was a different individual from that corpse...
-".....................That\'s right.
- I am......me.
- ...So, I have finally been able to escape from Kinzo\'s restrictions..."
-Eventually, I felt the memory returning...
-{n}The fact that I was an Endless Witch who had lived for one thousand years.
-And then I remembered that I had been summoned by Kinzo, and for a long time, had been imprisoned by him...
-While I had been imprisoned in a cage of flesh, I had completely lost my memory as a witch.
-However, thanks to Rosa, if you could say that...
-Thanks to my accidental but fortunate death, I had now finally brought myself together......
-"......Rosa.
- You are probably regretting that you brought about my death.
- But as for me, I could even thank you.
- *cackle*cackle*...!"
-Rosa was already nowhere to be seen.
- Had she gone to call a doctor, or had she escaped from a scene which had become frightening?
-...That no longer matters.
-{n}That soulless shell is no longer worth anything.
-All that aside, ......how frail I am now.
-{n}Even this glorious midday sun is agony to me now.
-I destroyed my human form.
-{n}Then I changed it to several gold butterflies.
-......Yes, with my magic power as frail as it is now, this form is easier.
-And to escape even a little from the light of the sun, I rode the wind and lightly passed over the cliff.
-It will probably be somewhat cooler in the forest.
-Anyway, I\'ll take some time to recuperate, and regain my original power.
-......As I think of how I will pay Kinzo back for all he has done.
-Dancing alone through the air, I looked down at the shore one more time.
-On the rocky shore lay the figure I had once possessed, ......and that I would eventually regain.
-To regain the form of that physical body I have thrown away,
- ...it will probably take more than one hundred, two hundred days.
-...It might require one thousand days, or maybe even more.
-However, I am the Endless Witch.
-{n}The Golden Witch who has lived for one thousand years.
-{n}Waiting any countable number of days is no problem at all.
-*cackle*cackle*. Oh, Kinzo.
-{n}You may regret that you are not here now.
-{n}No longer will you be able to capture me.
-{n}...*cackle*cackle*!
-".........And then, you changed into gold butterflies, hid in the forest, and waited for your magic power to be restored? Is that what you\'re saying?"
-"That is correct.
- I take this form to sneer at you, but normally, it is easier magically for me to keep my form as gold butterflies."
-"Don\'t stress yourself and stay in an easy form.
- I wouldn\'t mind not hearing your irritating laugh."
-"*cackle*cackle*.
- When I turned into butterflies and slipped into the forest, it was already no longer possible for Kinzo to find me.
- ......However, Kinzo was not about to stand there doing nothing.
- Still, he would be unable to immediately prepare a way to catch me."
-"Therefore, he first moved immediately to prevent me from leaving this island,
- and to keep me from regaining my power."
-".........My, my. All I can say is that Kinzo\'s tenacity does defy the imagination.
- ...It is pretty tough to be loved by someone like that.
- *cackle*cackle*!"
-"A way to keep you from leaving after you became butterflies?
- What, did he put a bug net around the entire forest?"
-"Indeed.
- He did the magical equivalent.
- .........Did you know?
- On the sea in front of the harbor floats a reef, on which sits a small shrine of Eastern magic."
-"......Ah, that.
- It was gone this year, though.
- It was a small shrine built long ago by a mountaineering ascetic, right?"
-"This island was originally an island of distortions.
- Magical beings and other beings of similar ilk were attracted to it.
- ......Milady herself is one of them, I imagine.
- How about some more tea?"
-"*cackle*cackle*, please.
- ......They did harm to humans, and probably left several eerie legends behind them."
-"That small shrine was built in ancient times by an Eastern mage who heard of them.
- A long time passed, and that power was lost.
- By repairing it, Kinzo restored this island\'s barrier, and once again tied me to this island."
-"......Can Eastern magic work on a Western witch like you?"
-"Normally the affinity is poor.
- However, for the purpose of sealing me there, in a way, it might have been suitable."
-"If it was Western magic, I would have some knowledge.
- For any barrier, there would have been some measures I could have taken.
- But Eastern magic is outside my area of expertise.
- It was as if I had been given chopsticks instead of a spoon for some soup I was trying to eat."
-"In a space strongly controlled by Eastern magic, Western magic loses much of its power.
- It would likely have taken her a thousand days to regain her power even under normal circumstances,
- and now it would take her much, much longer."
-"......So you\'re trying to say that it took you twenty years to regain your power, and now you are revived, like this?"
-"Those were horribly long years...
- I spent many days in the form of gold butterflies, found Kinzo\'s mansion, and watched over him every day.
- I lived through those days with no means to enjoy myself except to ponder how I would get back at him."
-"......What was fortunate for me was that during those twenty years,
- Kinzo tried to use every magic to find and capture me, and failed in them all."
-"A human cannot bring about miracles very many times.
- Even simply holding me captive for that long had been a miracle far above his place.
- It would be unthinkable for me to be captured like that multiple times."
-".........Grandfather said something in the previous game.
- It was something like, magic dwells in probabilistic miracles."
-"Mmhm.
- While Kinzo searched for a hidden art to capture me again, he ended up at that.
- ...............Then, he finally worked out the ritual involving the offering of thirteeen sacrifices to revive me again."
-"Thirteen......sacrifices..."
-"That is the witch\'s epitaph.
- It is a poem of sacrifices.
- ......Six people on the first twilight.
- Two people on the second twilight.
- And then five more people on the fourth through eighth twilights.
- A forbidden ritual, involving the offering of a total of thirteen people as sacrifices...
- Those sacrifices are chosen randomly, and the one holding the ritual, Kinzo himself, is not an exception."
-"You\'re out of your mind...
- Are you saying that all of the gruesome murders that occurred on this island were all part of a weird ritual?!!"
-I was vaguely thinking that this might be a possibility...
-But I can\'t just hear that this is the truth from a witch and a demon and say "Oh, really?" and accept it!
-"There are eighteen people on Rokkenjima.
- Thirteen are sacrificed; only five are left alive.
- Then I revive."
-"......In other words, the odds that Kinzo will be able to meet me again are probably around one third.
- He bet his own life on those odds,
- wishing for a reunion with me for the last bit of his remaining life."
-".........You\'re saying he gathered our family for the sake of that fucked‐up ritual?!
- Oh, yeah, real fucking funny!!
- Don\'t say stuff like that, damn it!!"
-"It was according to the contract from the beginning.
- When Kinzo\'s life ended,
- all of the gold I had lent him, and all of the assets that Kinzo had created, were to be received by me."
-"......Kinzo put me through a nightmareish ordeal,
- but thinking back on it now, it was an extraordinary period, even amid the past thousand years.
- After all, the natural enemy of a witch is boredom.
- To Kinzo, who offered me a chance to run away from that for several decades,
- yes, considering that among other things, I might have a slight debt to him."
-"I decided to go along with Kinzo\'s game.
- And so, first off, Kinzo returns to me the Ushiromiya family Head\'s Ring.
- It is the house revived by my gold, you see."
-".........Then I choose thirteen people arbitrarily as sacrifices.
- And as that unfolds, you people are thrown into total confusion,
- and show me various aspects of the fabric of human relationships as you stand against me, which gives me great pleasure.
- I really do like this game of Kinzo\'s!
- *cackle*cackle*."
-"Aaaaaaaaaahh!!
- I definitely won\'t believe in that kind of magic story!
- ......Then who are you?!
- You fell off a cliff and died, dammit!
- Your soul slipped out, became butterflies, and went to the forest?
- That\'s all a load of bullshit!!"
-"But you are here!
- Who are you?!!
- Aren\'t you the 19th person?!"
-"That is true, I most surely am the 19th person.
- *cackle*cackle*cackle*!
- But it\'s no good, I\'m afraid...?
- It\'s no goddamn good at all!!"
-"
-{p:1:There are no more than 18 humans on this Rokkenjima}!"
-"Wha, ...............what did you saaaaaaay......
- So you\'re saying......the X of the 18+X doesn\'t exist?!
- Are you saying the piece that I took...{0}{nobreak:the X}...{0}doesn\'t exist?!"
-"Pu ku ku ku...
- That is what it means.
- You have my condolences.
- ...However, Milady, you truly are a fast worker.
- I thought you would let him flounder around a little more before turning everything over at the end.
- Well then, Battler‐sama, would some more tea be agreeable to you?"
-"I, I don\'t want any, damn it!!
- I don\'t believe!
- The culprit can\'t be one of the 18!"
-"Then, what the hell are you, why are you here?!!
- If the 19th person doesn\'t exist, then are you saying you\'re one of the 18 in disguise?!"
-"*cackle*cackle*!
- For you, although you are reluctant to use it,
- doubting one of the 18 will serve as a final escape route, much like castling."
-".........However, for me, the hard part is just beginning.
- You need only throw away appearances,
- and you can prepare a culprit freely amid the 18 people!
- Finding a route through those 18 pieces,
- in order to checkmate you and force you to accept me,
- .........will be truly difficult."
-"Like hell I\'d do that!!
- I won\'t doubt any of the 18!
- I don\'t want to doubt!!
- Have I really been cornered here again...?!
- Damn it, damn it damn it!!"
-"It looks like my game with you, which has lasted three rounds, is finally entering the endgame, doesn\'t it?
- There\'s nowhere to run anymore, you know?
- *cackle*cackle*!
- You don\'t want to doubt any of those beloved people in the 18, riiight? I can take that burden from you if you want?
- And yet, why do you refuse me?"
-"They say you should play the opening like a book, the middle game like a magician,
- and the endgame like a machine.
- I\'ll corner you from here on.
- Slowly, carefully, ...surely.
- Or, on the other hand, would it be better if I pressed you all at once, as would be fitting for you?"
-"That should suit you, let\'s do that.
- I already have a thorough knowledge of which methods of attack you cannot handle!
- *cackle*cackle*cackle* hihihi{0}hi{0}hi{0}hi{0}hi{0}hihihi!!"
+「……ベアトリーチェ。 => "......{f:5:Beatrice}.
+先ほどから呼んでおる。 => I have been calling to you for a while.
+聞こえなんだか…？」 => Did you not hear me...?"
+「……む。 => "......Hmm.
+そうであったか？ => Were you?
+すまぬ。 => My apologies.
+ぼんやり考え事をしていた。 => I was lost in my thoughts.
+許せ」 => Forgive me."
+「良い天気だな。 => "The weather is pleasant.
+…なるほど、陽気に心を奪われるのもわかるというもの。 => ...I see, I can understand how the weather has stolen your heart.
+紅茶はここで飲むか…？」 => Will you drink your black tea here...?"
+「……………妾は、何者なのか」 => "...............Who...am I?"
+「……………………………。 => ".................................
+……今、紅茶を持ってくる。 => ......I will bring some black tea now.
+しばし待て」 => Wait here for a while."
+「紅茶はよい。 => "Forget about the black tea.
+妾の話に付き合え」 => Talk with me."
+「……良かろう」 => "......Very well."
+金蔵は、紅茶を運ぶことを口実に、一度だけ話を切り上げようとした。 => Kinzo had used the excuse of going to bring some black tea to try and interrupt the conversation for the time being.
+…しかしそれはあまりに見え透いていた。 => ...But his attempt had been very transparent.
+妾はガーデンチェアに腰掛け、金蔵にも座るように勧める。 => I sat in the garden chair, and beckoned Kinzo to do the same.
+{n}金蔵は年齢相応のもったいぶった仕草で深々と腰を下ろした。 => {n}Kinzo sat down heavily, exaggerating his age.
+しばらくの間、妾たちは沈黙を尊ぶ…。 => For a while, we sat, appreciating the silence...
+「……妾は何者なのか。 => "......Who am I?
+この問いに、今日まで応えてくれた者はおらぬ。 => To this day, no one has answered me this question.
+……なぜか皆、目を逸らし、はぐらかす」 => ......For some reason, everyone averts their gaze and evades me."
+「……………………」 => "........................"
+「……そなたとは長い仲だ。 => "......I have known you for a long time.
+妾はそなたを、無二の友であり、そして父ですらあると思っておる。 => I think of you as my best friend, even as a father.
+……だからどうか教えて欲しい。 => ......That is why I want so much for you to tell me.
+そなたは知っているはずだ。 => You must know.
+…妾が何者であるかを」 => ...Who I am."
+「………………。 => "..................
+…………なぜに、そのようなことが気になるのか。 => ............Why do you worry about something like that?
+そなたはベアトリーチェ。 => You are {f:5:Beatrice}.
+この屋敷の主ではないか。 => The master of this mansion, is that not so?
+……それ以上の何を知りたいというのか」 => ......What more could you want to know?"
+「…………わからぬ」 => "............I do not know."
+「何だ。 => "What\'s this?
+……何が知りたいのか、自分でもわからぬというのか。 => ......Don\'t you even understand yourself what it is you want to know?
+それは不可解な。 => That is baffling.
+若き日には、出口無き思考の迷路にて遊びたくなることもある。 => In my younger days, I sometimes found myself wanting to play in the maze of thought that has no exit.
+そなたの悩みもそれであろう…」 => Maybe that is what your worries are..."
+金蔵は、些細なことだと笑ってみせる。 => Kinzo laughed as though it was a trivial matter.
+…しかし、その仕草もまた、妾にこの疑問をこれ以上、抱かせないためのものにしか感じられない。 => ...However, I couldn\'t help but feel that this behavior was nothing but another attempt to force me to stop my further questioning.
+「………………………。 => "...........................
+…ふ。 => ...Hmph.
+……やはり、…そなたもそれを語ってはくれぬのか」 => ......So not even you will tell me that...after all."
+「語ることなど何もない。 => "There is nothing to tell.
+そなたはベアトリーチェだ。 => You are {f:5:Beatrice}.
+それで充分ではないか」 => Isn\'t that more than enough?"
+「……いいや、違う。 => "......No, that\'s not it.
+…………妾が知りたいのは名前ではない。 => ............What I wish to know is not my name.
+妾が、 => It is...
+何者なのか、 => who...
+だ」 => I am."
+「……妾は誰で、何で。 => "......Who am I, what am I?
+…いつからここにいて、…そしていつまでここで日々を過ごせば良いのか」 => ...How long have I been here, ...and how long will I continue my days here?"
+「……………………。 => "........................
+…やはり紅茶を持ってこよう。 => ...I really should bring some black tea.
+せっかくの陽気が勿体無いとは思わぬか」 => Do you not think it a waste of all this fine weather?"
+「……………………………」 => "................................."
+「………これは何の話だ…？ => ".........What is this all about...?
+どうやらお前の昔話のようだが？」 => Somehow, it looks like the story of your past, right?"
+「そのようだな。 => "It appears so.
+…まさかここまで遡るとは」 => ...To think that we would go this far back..."
+「自分は誰なのか、とはまた、 => "Wondering who you were...
+…えらく高尚な悩みをお持ちのようじゃねぇか」 => ...It looks like you had some pretty high‐minded worries."
+「……無理もないわ。 => "......That is to be expected.
+当時の妾は、自分が何者なのか。 => At the time, I was unable to understand who I was,
+何の為に生きているのかを理解できなかった」 => or why I was alive."
+「ま、誰でも思春期になると、 => "Well, in puberty,
+自分の生きる意味とは何ぞやみたいな、哲学的な悩みに一度は囚われるものさ。 => everyone is captured by those philosophical worries, wondering what meaning there is to their life, at least once.
+お前にもそんな微笑ましい時期があっただけという話だろ？」 => Doesn\'t this just mean that you had this kind of charming period once in your life?"
+「…………………。 => ".....................
+…妾は生まれた時からその屋敷におった。 => ...I had been in that mansion since the time I was born.
+そして屋敷の中だけで生きた。 => And I lived only inside the mansion.
+もちろん、庭には出られたが、敷地はとても高い柵で囲まれており、それを出ることは出来ず、 => Of course, I was able to go out into the garden, but the area around the mansion was surrounded by a very tall fence, which I was unable to leave through,
+また出てはならないと厳しく言われておった」 => and I would be told severely that I mustn\'t leave."
+「……妾はな、屋敷と庭は自由に歩けたが、 => "......I could walk freely throughout the mansion and the garden,
+その外へは、自らの意思ではたった一歩、出ることさえ叶わなかったのだ」 => but my desire to take just one step outside those of my own accord was never granted."
+「……………そりゃどういう意味だよ。 => "...............What do you mean by that?
+…物心ついた時から、ずっと篭の鳥だったって言いたいのか」 => ...Are you trying to say that, for as long as you can remember, you were always a bird in a cage?"
+「……そういうモノだと思っていた。 => "......I thought that was just how things were.
+何しろ、気付いた時からそういう生活だったからな。 => After all, I had been living like that as far back as I could remember.
+疑問にも思わなかった」 => I didn\'t even think to question it."
+「お前、…………一体、何者なんだ」 => "What in the world............are you?"
+「それよ。 => "That\'s it.
+それこそ、妾もまた望んだものだった」 => That is what I also hoped to know."
+「…………へ。 => "............Heh.
+どうせ、人間ではなくて、魔女でしたーって言いやがるんだろ？」 => I\'m sure you\'ll say something like "I wasn\'t a human, I was a witch", right?"
+「いや、違う。 => "No, that\'s not correct.
+{i:まだ}違う。 => Not {i:yet} correct.
+……いや、{i:かつて}そうだったと言うべきか。 => ......Or, should I say, it was {i:once} correct.
+……妾は、金蔵によって造られた、人間によって作られた人間だ。 => ......I was constructed by Kinzo, a human built by a human.
+…いや、肉で出来た檻とでもいうべきか」 => ...No, maybe I should call it a cage made of flesh."
+「何だよそりゃ…。 => "What\'s that supposed to mean...?
+…妙な話を言い出しやがって」 => ...This is starting to sound weird."
+「……どうせそなたは信じぬだろうがな。 => "......You probably won\'t believe it anyway.
+まずは聞け。 => Listen first.
+………妾は千年を経た偉大なる魔女であった。 => .........I was a great witch who had lived for one thousand years.
+しかしある時、金蔵によって呼び出され、 => But at some time, I was summoned by Kinzo,
+…その秘術にて永遠の虜となるよう縛られたのだ」 => ...and by his hidden arts, I was bound as his prisoner for eternity."
+「…………そりゃ、初耳だぜ。 => "............Never heard that before.
+右代宮家で知られてる話では、お前は祖父さまに呼び出されて、 => From what we hear in the Ushiromiya family, you were summoned by Grandfather,
+悪魔の契約みたいなのを結んで、黄金を授けたってことになってるぜ」 => made something like a devil\'s contract with him, and gave him the gold."
+「うむ。 => "Yes.
+それは正しい。 => That is correct.
+…そして妾は黄金を授け、契約の終わる時まで姿を消すはずだった。 => ...Then I was supposed to hide myself until the contract was over.
+しかし、………まぁ、モテる女の辛いとこよな。 => But, .........well, it\'s tough being a popular woman.
+………金蔵は、こともあろうか、妾に恋をした」 => .........By some turn of events, Kinzo fell in love with me."
+「…祖父さまも近眼が進んでたんだろうよ。 => "...Grandfather\'s nearsightedness must have gotten pretty bad.
+ついでに乱視だなぁ、いっひっひ。 => With astigmatism too, ihihi.
+よりによってお前に惚れるとはよ」 => To fall in love with you, of all things."
+「………ふ。 => ".........Hmph.
+まぁ、妾にとっては迷惑この上ない話よ」 => Well, to me it was supremely annoying."
+「…しかし、ニンゲンの力とは恐ろしいものでな。 => "...However, the power of {y:0:Human}{n:0:human}s is a frightening thing.
+あれは恐ろしい力を発揮して、妾をこの地へ釘付けにしたのだ。 => He exhibited fearsome power and rooted me to this place.
+…妾が首を縦に振らぬ限り解放せぬと言ってな。 => ...He said I wouldn\'t be freed until I nodded my head in agreement.
+…何とも強引な男よ」 => ...Such an overbearing man."
+「すげぇじゃねぇかよ。 => "Isn\'t that awesome.
+祖父さまがオカルト被れなのは誰もが知るところだが…、 => Everyone knows Grandfather\'s obsessed with the occult, but...
+…大魔女ベアトリーチェさまを釘付けにするほどの力があったとはな」 => ...who knew he had the power to root down the Great Witch {f:5:Beatrice}‐sama."
+「……へ、馬鹿馬鹿しい。 => "......Heh, ridiculous.
+そんなおかしな話、信じると思うか？」 => You think I\'d believe such a weird story?"
+「…やはり信じぬか」 => "...As I thought, you don\'t believe."
+「俺が信じるのは、お前が森の中の秘密屋敷に隠居していたって事実だけだ。 => "All I believe is the fact that you lived in this hidden mansion in the middle of the forest.
+お前こそが六軒島の１９人目なんだろう？！」 => You are the 19th person on Rokkenjima, right?!"
+「……いかにも。 => "......Indeed.
+そなたの想像通り、ここは六軒島の森深く。 => Just as you imagine, this is deep in the forest of Rokkenjima.
+外界からは見つけることも叶わぬ隠し屋敷。 => A hidden mansion not to be found from the outside world.
+その名も九羽鳥庵」 => Its name is {ruby:Nine Birds\' Retreat:Kuwadorian}."
+「……そういや、ゲストハウスの正しい名は、渡来庵だって聞いたな。 => "......Come to think of it, I heard that the guesthouse\'s real name was {ruby:Visitor\'s Retreat:Toraian}.
+…なるほど、ネーミングセンスは近いな。 => ...I see, the naming sense is similar.
+……そして、お前はそこに隠居していた祖父さまの愛人。 => ......So, you were Grandfather\'s lover, who lived here in secret.
+そうだな？！」 => Isn\'t that right?!"
+「愛人、というのは正しくない。 => "Lover isn\'t the right way to say it.
+……金蔵の片思いであったというべきだろう。 => ......You should probably call it Kinzo\'s unrequited love.
+先ほども話したであろう？ => I spoke of it just recently, correct?
+あれが勝手に妾に惚れた。 => He fell in love with me of his own accord.
+そして妾に求愛したが、それを妾は拒んだ」 => He then courted me, but I rejected him."
+「……そして、妾をこの隠し屋敷へ閉じ込めたのだ。 => "......Then, I was shut up in this hidden mansion.
+………いや、屋敷に閉じ込めたというのは正しくないか。 => .........No, I shouldn\'t say that I was shut up in the mansion.
+……この体に閉じ込めた、というべきか」 => ......It would be more correct to say that I was shut up in this body."
+「…………最後が何を言ってるのかわかんねぇぜ」 => "............I have no idea what you just said at the end there."
+「どうせそなたは馬鹿にして聞かぬであろう？ => "You will just make fun of it and not listen, right?
+何しろ、魔女も魔法も信じぬという。 => After all, you say that you don\'t believe in witches or magic.
+語れど聞く耳を持たぬというならば、 => If you have no ears to hear what I tell you,
+それを口にするは愚の骨頂だ」 => saying it would be the pinnacle of foolishness."
+「………………………。 => "...........................
+……信じるかどうかは俺が判断するぜ。 => ......I\'ll decide whether I believe or not.
+…聞かなきゃ話も進まねぇしな。 => ...After all, if I don\'t hear it, the story won\'t move on.
+話せよ。 => Tell me.
+…お前の昔話を」 => ...The story of your past."
+「うむ。 => "Alright.
+………金蔵は妾に求愛を拒まれたが、それしきでへこたれる男ではない。 => .........I refused Kinzo when he courted me, but he was not a man to lose heart just because of that.
+どうあっても妾の首を縦に振らせたかった。 => He wanted to get my consent no matter what.
+妾をこの屋敷へ閉じ込め、妾を口説き落とそうと永遠の時間を費やしたのだ」 => He shut me up in this mansion, and spent an eternity trying to win my heart."
+「…強引なヤツだな。 => "...He really is overbearing.
+しつこい男は嫌われるだろ？」 => No one likes a man who can\'t take a hint, right?"
+「………くっくっくっく。 => ".........*cackle*cackle*.
+求愛に応えるかどうかは別にして、 => Regardless of whether I responded to his courting or not,
+男をそこまで必死にさせるのは、まぁ、女としてそう不愉快ではない」 => to make a man so desperate for me was...well, as a woman, it wasn\'t unpleasant."
+「……しかし妾は決して首を縦には振らなかった。 => "......However, I never nodded my head.
+何とかその戒めから逃れようとしたが、 => I tried what I could to escape his restrictions,
+あれの結界は強固で破れなかった」 => but that barrier was firm, and I couldn\'t break it."
+「……それで？」 => "......And then?"
+「様々な抵抗を試みた結果、 => "After trying to resist in various ways,
+金蔵の結界から逃れるには、肉の体を捨てるほかないという結論に至った。 => I eventually reached the conclusion that, to escape from Kinzo\'s barrier, I would have to throw away my body of flesh.
+……肉体というものは、魔法を語る上でとても制約の多い器なのだ」 => ......The physical body is a vessel which carries many restrictions in terms of magic."
+「肉の体を捨てる……？ => "Throw away your body of flesh......?
+何だよそれ。 => What\'s that?
+幽体離脱みたいなものか？」 => Something like an out‐of‐body experience?"
+「まぁ、そんなものと考えれば良い。 => "Well, if you want to think of it that way.
+しかし、妾は精霊ではない。 => However, I am not a spirit.
+魔女ではあっても、元々は肉の体で生れ落ちた人間だ。 => Even though I am a witch, in the beginning, I was born with a human\'s body of flesh.
+その妾にとって肉体を捨てるということは、 => So for me, throwing away that physical body,
+死を意味するほどではないにしても、それに準ずる覚悟が必要だった」 => while it didn\'t mean the same thing as death, did require a corresponding level of resolve."
+「それはつまり、 => "So in other words,
+……自殺することでしか解放されないと決意した、って意味なのか？」 => ......you made up your mind that you couldn\'t be released except by suicide, is that what you mean?"
+「自殺ではない。 => "It wasn\'t suicide.
+あくまでも、肉の体を捨てるだけのことだ。 => It was nothing more than throwing away my body of flesh.
+……もちろん、魂だけになるのは心もとない。 => ......Of course, becoming nothing more than soul is a precarious situation.
+魂は肉の体を出れば、太陽の強い風に絶えず晒されてしまう。 => When the soul leaves its body of flesh, it is constantly exposed to the strong winds of the sun.
+それによって吹き散らされないように、自らを維持するのは妾とて容易なことではない」 => It was not easy even for me to maintain myself and avoid being scattered by them."
+「できることなら避けたい最後の手段だった。 => "It was a final measure that I wanted to avoid if I could.
+しかし、金蔵の結界から逃れるにはそれしかなかったのだ」 => However, there was no other way to break through Kinzo\'s barrier."
+「……くっくく、何しろ妾は自由人。 => "......*cackle*, after all, I am a free spirit.
+金蔵の生が果てるまで篭にて飼われるのはごめんというもの」 => I couldn\'t stand being kept in a cage until Kinzo\'s life was over."
+ベアトが口にする、肉の体を捨てる云々という話は、 => I couldn\'t understand this story Beato kept going on about, about throwing away her body of flesh,
+どう聞いても自殺以上の意味には聞こえない。 => as anything more than suicide.
+祖父さまにしつこく求愛され、それから逃れるために、 => Grandfather persistently courted her, and to escape from that,
+……自ら死を…？ => ......she chose her own death...?
+「……………それで、自殺したってのか？ => "...............So you\'re saying you committed suicide?
+何を言ってやがる。 => What are you saying?
+当のお前は、そこでのんびりガーデンチェアに腰掛けてるじゃねぇか」 => Isn\'t that you, sitting carefree there in the garden chair?"
+「……そうだ。 => "......That\'s right.
+それこそが、金蔵によって与えられた新たな檻だったのだ」 => That is the new cage I was given by Kinzo."
+「…………檻？ => "............Cage?
+この屋敷のことか？」 => You mean this mansion?"
+「違う。 => "No.
+そこのガーデンチェアにてくつろぐ妾の体のことだ。 => I mean my body, relaxing in the garden chair over there.
+………金蔵は、魂となって抜け出そうとした妾を、 => .........After I became a soul and tried to escape,
+それでもなお逃すつもりはなかったのだ」 => even then, Kinzo had no intention of allowing me to escape."
+「…いやいや、恐ろしいヤツ。 => "...Yes, indeed, he is a frightening person.
+普通は、片思いの女が死んで見せれば、百年の恋も醒めるであろうに。 => Normally, seeing the woman of your one‐sided desires take her own life should be enough to bring anyone to their senses, even if their love was a hundred years old.
+……だからこそあれも魔術師の端くれなのか。 => ......I suppose it makes him somewhat of a mage after all.
+……くっくっく」 => ......*cackle*."
+「さっぱりわからねぇ魔女っ子トークで煙に巻くな。 => "Don\'t try to speak in riddles with that incomprehensible witch‐girl talk.
+…つまり何だってんだ」 => ...In short, what are you trying to say?"
+「金蔵は、魂となった妾すらも逃さなかったということだ。 => "That Kinzo didn\'t let me escape even after I became a soul.
+……人間の想いというやつは恐ろしい。 => ......Human emotions are terrifying.
+これほどまでの魔力を発揮するとは…」 => That he would be able to exhibit this much power..."
+「死者の魂を繋ぎ止めるなど、 => "Tying down a spirit of the dead...
+それを専門に求道する魔術師でも、おいそれと至れぬ境地よ。 => is not a level readily attained, even for a mage seeking that as his specialty.
+妾はそれを知るからこそ、金蔵の恐るべき魔力に、その時初めて驚愕した」 => Because I knew that, Kinzo\'s fearful magical power shocked me then for the first time."
+「…………そして金蔵は、妾の魂を捕まえ、連れ戻したのだ。 => "............Then Kinzo seized my soul and brought me back.
+だが、魂を捕らえておく檻は、鉄でも鉛でも作れない。 => However, a cage to hold a seized soul cannot be made, not from iron nor from lead.
+……ただひとつを除いて」 => ......There is but one exception."
+「…………何だよ。 => "............What?
+魔法の檻だとでも言い出すのかよ」 => You aren\'t going to say it was a magical cage or something, are you?"
+「違う。 => "Wrong.
+妾やそなたのような、この肉の体だ。 => That body of flesh over there, just like yours or mine.
+…肉と血で出来た檻だけが、魂をこの世に繋ぎ止める。 => ...Only a cage made of flesh and blood can tie a spirit down to this world.
+……金蔵は妾の魂を、妾と瓜二つに造り上げた肉の檻に再び閉じ込めたのだ」 => ......Kinzo shut my soul up once more into a cage of flesh built to be exactly like me."
+「…………………。 => ".....................
+…要約するとこういうことか。 => ...So in summary, is it something like this?
+祖父さまがしつこく求愛するんで嫌になり自殺したが、 => Grandfather persistently courted you, you started to hate it, and you committed suicide,
+うまく死に切れなかったってことだろう？ => but you weren\'t clever enough to finish the job?
+…回りくどい言い方しやがってからに」 => ...Damn, you really took a roundabout way to say something like that."
+「いいや、違う。 => "No, that\'s wrong.
+妾はホムンクルスの種子に魂を閉じ込められ、 => My soul was shut up in the seed of a homunculus,
+試験管の中より生まれ出でたのだ」 => and I was born out of a test tube."
+「はぁ？！ => "Huh?!
+馬鹿馬鹿しい…！ => Ridiculous...!
+そんなのあるわけねぇだろ？！」 => That\'s goddamn impossible and you know it!"
+「生命を生み出す奇跡すらも、金蔵は成し遂げたのだ。 => "Kinzo accomplished even the miracle of creating life.
+妾の魂を閉じ込める檻にするためだけにな。 => And only to shut my soul up in that cage.
+……己の恋心だけで、これほどの魔力を見せるとは。 => ......That he would show such magical power simply because of his own love...
+つくづく恐ろしいヤツよ」 => A thoroughly terrifying person."
+「あー、もうさすがに馬鹿馬鹿しくなってきたぜ！ => "Aah, okay, it\'s really gotten to the point of ridiculousness now!
+好きなだけ言ってろってんだ。 => Say whatever you want.
+俺は何も信じねぇぜ。 => I won\'t believe a word of it.
+勝手にやってやがれってんだ」 => Just do what you like, for hell\'s sake."
+「……………む。 => "...............mh.
+…何だ、その不愉快な態度は」 => ...What is this unpleasant attitude?"
+「へ。 => "Heh,
+最初は何か重大なヒントが隠されているだろうと、多少の興味を示したが。 => in the beginning, I showed a little interest, thinking there might be some huge hint hidden,
+聞けば聞くほどおかしな話になっていく。 => but the more I hear, the weirder this story starts to get.
+魔女を否定するゲームのはずなのに、 => This is supposed to be a game about denying witches,
+いつの間にか魔女話を鵜呑みにさせられていく気がするぜ」 => but I get the feeling that I\'m suddenly being made to just swallow a witch story."
+「悪いがこれ以上、耳を貸す気はねぇな。 => "Sorry, but I don\'t feel like listening to this any more.
+勝手に好きなだけほざいてろよ。 => Just keep rambling on to yourself as much as you want.
+耳クソでもほじってるからよー」 => I\'ll just be here digging out some earwax or something."
+「…………………。 => ".....................
+……ふ」 => ......Hmph."
+俺が素っ気無い態度を見せると、ベアトは珍しく気落ちしたような仕草を見せた。 => When I started showing a cold attitude, Beato acted unusually discouraged.
+もちろん、表情はふてぶてしいままだが…、 => Of course, her expression was still brazen...
+自分の身の上話に興味を持ってもらえなかったのが寂しい、 => but I had the feeling that I was able to catch a glimpse of loneliness because I hadn\'t found the story of her past interesting,
+というとてもわかりやすい感情が垣間見えた気がした。 => in that really easy to understand expression of hers.
+……そのわずかな仕草が、どういうわけか気の毒に感じ、 => ......For some reason, that slight reaction made her seem pitiful,
+俺は投げ遣りな態度を崩さないまま、だけれどもちょっぴりフォローしてやる。 => so even though I kept my couldn\'t‐care‐less attitude, I decided to humor her slightly.
+畜生、ムカつく魔女だってのに、染色体がＸＸだってだけで俺も甘いもんだぜ…。 => Damn it, even though she\'s an irritating witch, I\'m still weak against her because her chromosomes are XX...
+「……ま、信じる気は毛頭ねぇけどよ。 => "......Well, I have absolutely no desire to believe you, but,
+…………続けろよ。 => ............keep going.
+お茶菓子代わりに聞いてやるぜぇ？」 => I\'ll listen to your story in place of cookies."
+「妾の身の上話が茶菓扱いとはな。 => "So you treat the story of my past like cookies.
+……そこまで扱き下ろされてまで、のこのこ語ると思うかぁ…？」 => ......You think that if you abuse me like that, I will just casually tell you...?"
+俺のちょいと馬鹿にした仕草に、ベアトは敏感に反応する。 => After I made fun of her, Beato reacted a little sensitively.
+人を馬鹿にするのは大の得意だが、人から馬鹿にされるのはまったく駄目だと見える。 => It looked like, even though making fun of people was her specialty, she was horrible at being made fun of by other people.
+すると、急に俺の紅茶のカップが音を立て、びっくりした。 => Just then, my cup of black tea suddenly made a sound, surprising me.
+「……お嬢様の魂は捕らえられ、新しい生命の檻に吹き込まれました。 => "......Milady\'s soul was seized and breathed into a cage of new life.
+それはつまり、お嬢様が再び人間として生を受けたということです」 => In other words, Milady received life as a human once more."
+いつの間に現れたのか、悪魔の執事が俺のカップを取り、紅茶を注ぎ足していた。 => Before I had realized it, the demon butler had appeared and taken my cup, and was adding more black tea to it.
+「ロノウェ。 => "Ronove.
+もうその話はよい。 => That is enough of that story.
+こやつは馬鹿馬鹿しくて聞けんと言うでな。 => He says that it is too ridiculous to listen to.
+妾も馬鹿馬鹿しくて話す気にもならぬ」 => I now also feel ridiculous and have no intention of speaking."
+「新しいクッキーを今、焼かせているところでございます。 => "Some new cookies are currently being baked.
+それまで、お茶菓子代わりにお嬢様の昔話がちょうどいいかと思いまして。 => I thought that, until then, the story of Milady\'s past would be a perfect substitute.
+ぷっくっく…！」 => Pu ku ku...!"
+「も、…もう妾の話はよいというのに！ => "I, ...I already said that I\'ve had enough of talking about me!
+揃って不愉快なヤツらだ。 => You are both unpleasant people.
+妾は席を外すぞ！ => I\'m leaving!
+ロノウェ、給仕を済ませたらとっとと下がるのだぞ。 => Ronove, leave as soon as you are done serving.
+戦人と無駄話などするでないぞ」 => No idle talking with Battler."
+「かしこまりました。 => "Certainly.
+努力いたします」 => I will make an effort."
+ベアトは女特有のよくわからない短気を起こし、体を黄金の蝶にして散らせながら姿を消す。 => Beato\'s confusing female short temper took hold of her, and she turned her body into gold butterflies, scattered, and disappeared.
+後にはロノウェと紅茶の香りだけが残った…。 => After that, only Ronove and the scent of the black tea were left...
+「……何だか、俺が怒らせたみたいで気分が悪いぜ」 => "......I feel kind of bad for making her angry."
+「ご自覚があられるようですので、これ以上申し上げることはございませんよ」 => "It appears that you are aware of it, so there is nothing more to be said."
+「ちょっと待てよ。 => "Wait a second.
+トドメを刺したのはお前だろうが」 => Weren\'t you the one that pushed her over the edge?"
+「ぷっくっくっく。 => "Pu ku ku ku.
+はて、何のことやら。 => My, whatever could you mean?
+お砂糖とミルクはいかがですかな？」 => Would you care for some sugar and milk?"
+「…ミルクだけでいいぜ。 => "...Just milk will be fine.
+…………あとお茶菓子も欲しいな」 => ............And I also want some cookies."
+「………クッキーが焼けるにはまだ時間が掛かりますよ？」 => ".........You are aware that baking the cookies will take some more time?"
+「茶菓の代わりがあるって言ったぜ？」 => "There\'s a substitute, you said?"
+「……かしこまりました。 => "......Certainly.
+ご静聴をいただけるのでしたら、続きをお話しいたします」 => If you would listen quietly, I will continue the story."
+「ホムンクルスが何とかって言ったな。 => "She said something about a homunculus.
+…一応は知ってるぜ。 => ...I know a bit about that.
+あれだろ？ => It\'s that thing, right?
+錬金術だかで作り出す人造人間のことだろ？」 => A manufactured human created with alchemy or something?"
+「はい。 => "Yes.
+お嬢様の魂はホムンクルスに閉じ込められ、再び赤子となって生を受けこの世に蘇ったのです。 => Milady\'s soul was shut up in a homunculus, and she was revived into this world, receiving life again as a baby.
+……しかし、赤子でございますから、 => ......However, because she was a baby,
+金蔵さまが愛を語ろうとも、それは無駄なことでございます」 => even if Kinzo tried to profess his love to her, it would be useless."
+「……………………。 => "........................
+………まさか。 => .........You aren\'t saying...
+……祖父さまはその赤ん坊をこの隠し屋敷に、 => ......Grandfather shut that baby up in this hidden mansion,
+同じ歳に成長するまで閉じ込めたってのか？！」 => until it grew to reach the same age?!"
+「はい。 => "Yes.
+そのまさかでございます。 => That is what I am saying.
+しかし、魂は同じと言えど、人間の魂はその器に強く影響を受けます。 => However, while her soul was the same, a human spirit receives a strong influence from its vessel.
+お嬢様は、かつての記憶を全て失われ、ごく普通の人間の少女として成長されました」 => Milady lost all of her memories of the past, and grew up as a very normal human girl."
+「それが、……そこのガーデンチェアに座ってるベアトだってのか？」 => "And you\'re saying......that\'s the Beato sitting in the garden chair?"
+「はい。 => "Yes.
+その通りでございます。 => That is correct.
+まさに瓜二つに成長なされました。 => She grew to be completely identical.
+しかし魔女としての力は持ち合わせておりません。 => However, she did not possess her power as a witch.
+……あくまでも人間としてのお嬢様なのです」 => ......I must stress that Milady was a human."
+「………………………………」 => "................................."
+ガーデンチェアに座り、空を見上げるベアトは、再び同じ質問を口にしている。 => Beato, who was sitting in the garden chair, looking up at the sky, asked that same question again.
+自分は何者なのか、と。 => She asked who she was.
+…その言葉の意味がようやく繋がる。 => ...The meaning of those words was finally starting to click.
+彼女は、自分がなぜここに閉じ込められて暮らしているのか、理解できないのだ。 => She couldn\'t understand why she was living here, all locked up.
+祖父さまは、ベアトリーチェの魂を捕らえ、肉の体に閉じ込め、 => Grandfather had seized {f:5:Beatrice}\'s soul, shut it up in a body of flesh,
+さらに隠し屋敷にそれを閉じ込めた。 => and then shut that up in a hidden mansion.
+しかし、生まれてからずっとそこで過ごしてきた彼女には、自分が何者なのかも、 => However, since she had lived here since the time she was born, she couldn\'t even understand who she was,
+どうしてここに閉じ込められて生きているのかも理解できないのだ…。 => or why she lived shut up in there...
+……ま、…待て待て。 => ......W‐...wait, wait.
+{n}そんな馬鹿話を真に受けるヤツがあるか。 => {n}Who would take such a stupid story seriously?
+解釈を変えよう。 => Why don\'t I change my interpretation?
+{n}…つまりこういうことなんじゃないか？ => {n}...Essentially, couldn\'t it be something like this?
+祖父さまはベアトリーチェに出会った。 => Grandfather met {f:5:Beatrice}.
+{n}そして恋をして求愛したが、相手は首を縦に振らなかった。 => {n}He then fell in love with her and courted her, but she didn\'t nod her head in agreement.
+{n}それで逆ギレして隠し屋敷に閉じ込めてしまったわけだ。 => {n}And so he got angry, and shut her up inside this hidden mansion.
+ベアトリーチェは逃げ出そうとしたが、どうやっても叶わず、 => {f:5:Beatrice} tried to escape, but no matter what she did, she couldn\'t succeed,
+……それでとうとう自ら死を選んでしまった。 => ......so she finally chose her own death.
+……それで、………うーん。 => ......And then, .........hmm.
+…ベアトリーチェには、生き写しの娘、…いや、赤ん坊がいたとか。 => ...Maybe there was a girl that looked just like {f:5:Beatrice}, ...no, a baby.
+それで祖父さまはその子を大事に育てたわけだ。 => And Grandfather raised this child with care.
+しかし祖父さまは、その子を娘としては見ていなかったのではないだろうか。 => But maybe Grandfather didn\'t view this child as his daughter.
+“魂を肉の檻に再び閉じ込めた” => "Shut my soul up once more into a cage of flesh".
+この言葉の意味するところは多分、 => Those words probably meant...
+……その子を、彼女の子どもではなく、生まれ変わりだと信じた、 => ...that he didn\'t view this kid as her child, but as her reincarnation.
+という意味ではないだろうか。 => Maybe that\'s what it meant.
+こう解釈すれば、おかしな話も一応の筋が通るかもしれない…。 => If you interpret it that way, even a story that weird might make a little sense...
+…いやいやいや。 => ...No no no.
+こんなの、ベアトが俺を煙に巻くために作ったデタラメかもしれない。 => This might be some bullshit Beato cooked up to confuse me.
+何も鵜呑みになんかできるものか…！ => As if I could accept any of this...!
+{n}そもそも、…九羽鳥庵だっけ？ => {n}In the first place, ...Kuwadorian, was it?
+{n}隠し屋敷が実在する保証などあるものか。 => {n}There\'s no proof whatsoever that a hidden mansion actually existed.
+ヤツがたった今、適当にでっち上げただけかもしれないじゃないか。 => Couldn\'t this be something she just fabricated on the spot?
+「 => "
+{p:1:六軒島の森の中には、九羽鳥庵という隠し屋敷が実在します}。 => {p:1:A hidden mansion called Kuwadorian does exist in the forest of Rokkenjima}.
+それが、今、話をしていた場所です」 => That is the place we were just talking about."
+「………え？ => ".........Huh?
+あ、…赤？！」 => R‐...red?!"
+ロノウェが、九羽鳥庵が実在することを赤で語る。 => Ronove used the red to say that Kuwadorian actually existed.
+…それはベアトが使う赤と同じ意味なのか？ => ...Did that mean the same thing as the red Beato used?
+「これでも悪魔の端くれでございますので。 => "Even if I am not much of one, I am a demon all the same.
+…お嬢様には内緒にしてくださいね？」 => ...Please keep this a secret from Milady, yes?"
+「…あ、……あぁ！」 => "...Y‐......yeah!"
+俺が揚げ足を取ることを知っているベアトは、赤を使うのに今や非常に慎重だ。 => Beato, who knew I would try to trip her up, had grown extremely cautious when using red.
+その赤を、まさかロノウェも使えたとは…。 => To think that Ronove could also use that red...
+もっとも、食えない男の赤だ。 => Of course, it\'s the red of a crafty man.
+どこまで鵜呑みにしていいかはわからないが、 => I don\'t know how far I can accept it,
+とにかく何かのヒントには使えるだろう……。 => but anyway, I might be able to get some hint out of it......
+「この、九羽鳥庵の庭でくつろいでるベアトと、…さっきの祖父さまとの会話は、真実なのか？」 => "So that Beato relaxing in the garden of Kuwadorian, ...and that conversation she had with Grandfather, were the truth?"
+「はい。 => "Yes.
+真実です。 => It is the truth.
+かつて、 => In the past,
+{p:1:実際にこの場所で、お二人はこのような会話をなされました}」 => {p:1:the pair actually had a conversation like that in this place}."
+「た、助かるぜ。 => "Th‐thanks a lot.
+さらに赤で頼む。 => I\'ll ask for some more red.
+あいつ、ホムンクルスから生まれたなんて言いやがったが、 => She said that she was born from a homunculus,
+そんな非科学的な魔法的存在、実在するのか？！」 => but does that kind of unscientific, magical thing actually exist?!"
+「その問い掛けにはお答えできません。 => "I am unable to answer that question.
+理由は、ステイルメイトになるからでございます」 => The reason is that it would cause a stalemate."
+「……ステイルメイト？？ => "......A stalemate??
+何だそりゃ」 => What do you mean?"
+「チェスの用語で、千日手のパーペチュアルと同様に、 => "It\'s a chess term referring to a state in which, similar to a "perpetual check",
+それ以上のゲーム進行が不可能になる宣言です。 => any further progress in a game becomes impossible.
+これは、千日手とは正反対で、 => This is the opposite of an endless repetition of moves,
+指し手がなくなる、ある種の手詰まりの状態を指します」 => and refers to a situation in which all moves disappear, resulting in a kind of deadlock."
+「パーペチュアルに同じで、チェスではこれを引き分けにしております。 => "In chess this would lead to a draw, just as if there were a perpetual check.
+…ただし、お嬢様と戦人さまのゲームでは引き分けがございません。 => ...However, there is no draw in the game between you and Milady.
+ですので、ステイルメイトになる質問には、赤でお答えすることができないのです」 => Therefore, I am unable to answer in red any question that would bring about a stalemate."
+「………よくわからねぇこと言って煙に巻いてるが、 => ".........You\'re speaking in riddles by saying something I don\'t really understand,
+つまり、ホムンクルスなんて魔法的存在が実在するって、赤で言えないから誤魔化してるだけなんだろ？」 => but when it comes down to it, you\'re just trying to trick me because you can\'t say in red that something magical like a homunculus exists, right?"
+「仮に私が、赤で“魔女は実在する”と言ったら、戦人さまはどういたしますか？」 => "If I were to say in red that "witches exist", what would you do, Battler‐sama?"
+「……………む。 => "...............mh.
+……それを信じるか信じないかで俺たちは大喧嘩してるんじゃねぇかよ。 => ......That\'s what we\'re having this big fight over whether or not to believe, right?
+それを言われちまったら身も蓋もないぜ。 => If you told me that outright, there\'d be nothing more to discuss.
+ゲームオーバーだ」 => It\'d be game over."
+「“魔女は存在する”と赤で申し上げたなら、戦人さまには反論の余地がありません。 => "If I said "witches exist" in red, you would have no room for argument.
+しかし戦人さまは、その理由が示されない以上、それを受け容れないでしょう。 => However, since the reason would never have been made clear to you, Battler‐sama, you probably wouldn\'t accept it.
+しかし赤で語られる以上、反論の余地もなく証拠も示されない」 => However, after being told that in red, you would have no room for argument and would not have been shown any proof."
+「この場合、戦人さまは、 => "In this situation, Battler‐sama,
+敗北を認められないにもかかわらず、反論の手がなく、手詰まりとなってしまいます。 => even though you wouldn\'t be able to admit defeat, you would have no way to make a counterargument, and it would become a deadlock.
+チェックメイトされていないにもかかわらず、次なる指し手が存在しない」 => Even though checkmate would not have been reached, no more moves would exist."
+「戦人さまが次の一手を打てない以上、お嬢様に手番が回ってくることはなく、 => "Since you would not be able to make your next move, it would never become Milady\'s turn,
+ゲームはそこで永遠に止まってしまう。 => and the game would stop there for all eternity.
+その結果、お嬢様があなたを屈服させることもできない。 => As a result, Milady would be unable to force you to submit.
+……これが手詰まりの状態です」 => ......That would be a deadlock situation."
+「それを回避する為、 => "In order to avoid that,
+このような形になるご質問には、赤でお答えすることができないのです」 => I am unable to answer questions of this form in red."
+「……早い話が、身も蓋もない質問は禁止だと、そう言いたいわけだな？ => "......So, to cut to the chase, you mean that questions that leave no room for discussion are prohibited?
+まー、そりゃそうだよな。 => Well, that makes sense, I guess.
+赤で、“魔女は実在する”って言われちまったら、俺はハナからお手上げだぜ」 => If I was told "witches exist" in red, I\'d have to give up from the start."
+「ご理解いただけて助かります。 => "I am pleased that you understand.
+他の形の質問でしたら、ご協力できるかと思いますよ」 => I believe we might be able to work together if you ask a question of a different form."
+「……ヤツがはぐらかした復唱要求には応えられるか？ => "......Can you respond to the repetition request she dodged?
+この島の人数だ」 => About the number of people on this island."
+「お嬢様が保留されている復唱要求にも、もちろん応えられませんよ。 => "If Milady held back on the request, then of course I cannot respond.
+お嬢様の家具でございますので、出過ぎた真似は出来かねます」 => As Milady\'s furniture, I am unable to act too forward."
+ロノウェはキザったらしい仕草で、忠臣ぶりをアピールする。 => Ronove made an exaggerated gesture, trying to act like a loyal retainer.
+実に白々しいヤツだ。 => This guy\'s so shameless.
+「ちぇ。 => "Tch.
+一瞬でも、使えるヤツと思ったのによ」 => Just when I thought you might be useful."
+「……諦めて他の質問を探すか。 => "......I\'ll give up on that and search for a different question.
+…そうだ。 => ...That\'s right.
+大事なことを確認するのを忘れてた。 => I was forgetting to check something important.
+………これはベアトの思い出話なんだろ？ => .........This is a story about Beato\'s memories, right?
+いつの話なんだ。 => When did it happen?
+まさか現在ってことはないだろ？」 => It couldn\'t be happening right now, right?"
+「はい。 => "Correct.
+{p:1:ここは１９６７年の世界}。 => {p:1:This is the world of 1967}.
+１９年前の世界でございます」 => It is the world of 19 years ago."
+「…………ふーむ…」 => "............Hmmmmm..."
+もう一度、話を整理してみよう。 => Let\'s go through the story one more time.
+{n}多分、こういうことじゃないだろうか。 => {n}I wonder if it couldn\'t be something like this.
+祖父さまには、ベアトリーチェという片思いの愛人がいた。 => Grandfather had a person with whom he fell in unrequited love, called {f:5:Beatrice}.
+{n}そして、この隠し屋敷へ監禁し求愛を続けていた。 => {n}And he confined her in this hidden mansion and continually courted her.
+{n}しかし彼女は頑として首を縦に振らなかった。 => {n}But she was stubborn and didn\'t say yes.
+やがて彼女はここから逃げられないことに悲観して…、 => Eventually, she grew pessimistic about being unable to escape from here...
+多分、自殺してしまう。 => and probably, committed suicide.
+……それで、 => ......And then,
+……ホムンクルスに魂を……。 => ......her soul was put in a homunculus and......
+駄目だ駄目だ、こいつを受け容れちまったら、魔女を認めたも同然だぜ。 => No, no, if I accept that, it\'s the same as accepting the witch.
+そこはこう解釈するんだ。 => I can interpret that part like this.
+{n}死んだ彼女には多分、……忘れ形見の娘がいたんだろう。 => {n}She probably......left a daughter behind when she died.
+魂を新しい肉体に込めた…、みたいな話は多分、 => That talk about the soul being put in a new body...probably meant...
+その子をベアトリーチェの生まれ変わりだと信じて育てた、という意味に違いない…。 => that Grandfather raised that child believing it to be the reincarnation of {f:5:Beatrice}...
+…だとしたらつまり、少なくとも１９年前からベアトは１９人目としてこの島に存在してて、 => ...In that case, Beato must have existed on this island for at least the last 19 years as the 19th person, and then...
+……えぇと……。 => ...umm......
+「……混乱してきたぜ。 => "......I\'m starting to get confused.
+…いずれにせよ、憶測の域を出ない。 => ...In any event, none of this leaves the realm of guesswork.
+確実に赤で言えることは、 => The only thing that I can definitely say in red,
+１９６７年の六軒島の隠し屋敷に、人間としてのベアトリーチェが存在した。 => is that in 1967, in a hidden mansion on Rokkenjima, {f:5:Beatrice} existed as a human.
+それだけだ」 => That\'s all."
+「その通りでございます。 => "That is correct.
+{p:1:１９６７年の六軒島の隠し屋敷に、人間としてのベアトリーチェさまが存在した}」 => {p:1:In 1967, in a hidden mansion on Rokkenjima, {f:5:Beatrice}‐sama existed as a human}."
+「おう、サンキュ。 => "Oh, thank you.
+助かるぜ」 => That really helps."
+「おめでとうございます。 => "Congratulations.
+これで戦人さまの１９人目の駒は、その存在がはっきりしました。 => With this, you have made clear the existence of the piece known as the 19th person.
+戦人さまが熱望された、１８人以外に罪をなすりつけられる１９人目の人間」 => The 19th human outside of the 18 who you can blame, just as you longed for."
+「……如何なる罪をも擦り付けることのできる生贄の羊。 => "......A sacrificial sheep that you can shift the blame of any crime onto.
+それがお嬢様とは実に愉快。 => And you must be so glad that it is Milady.
+ぷっくっくっく」 => Pu ku ku ku."
+ロノウェが不謹慎そうに笑う。 => Ronove laughed indiscreetly.
+何となく言い回しが気に入らなくて、俺は一緒に笑う気がしなかった。 => Somehow, I didn\'t like his phrasing, so I didn\'t feel like laughing along with him.
+「……そうだ。 => "......That\'s right.
+楼座叔母さんは言った。 => Auntie Rosa said it.
+……ベアトリーチェは死んだ？ => ......‘{f:5:Beatrice} is dead’?
+私が殺した？ => "I killed her"?
+どういう意味なんだ…？」 => What does that mean...?"
+「それは私の口から語るよりも、実際に顛末をご覧になった方が早いでしょう。 => "As for that, it may be faster to see the actual circumstances rather than listen to me tell you.
+少々、時計を進めましょう」 => Let us advance the clock a little more."
+ロノウェはポケットより、洒落た懐中時計を取り出し、その竜頭を弄ろうとする。 => Ronove pulled a stylish pocket watch from his pocket, and made to wind the crown.
+するとその時、ロノウェの背後に黄金の蝶が集まり、人の姿を形作るのが見えた。 => As soon as he did, I saw gold butterflies gather behind Ronove\'s back and take the form of a person.
+…ベアトか？！ => ...Was it Beato?!
+すぐに別の人物であるとわかった。 => I quickly realized that it was someone else.
+あいつだ。 => It was her.
+俺を甚振るのが三度のメシより大好きな、あの七杭の姉ちゃんたちの長女だった。 => That oldest sister of the Seven Stakes, who loved tormenting me more than anything else.
+……エロい太ももが拝めてラッキーだとでも思わなきゃ、連中の拷問ごっこには付き合いきれねぇぜ…。 => ......If I don\'t think myself lucky to see that sexy ass, I won\'t be able to play along with their torture game...
+「ロノウェさま。 => "Ronove‐sama.
+まだこちらにおられましたか。 => So, you were still here.
+ベアトリーチェさまが、至急お呼びです」 => This is an urgent call from {f:5:Beatrice}‐sama."
+「はて。 => "My, my,
+至急のどのような御用やら。 => what kind of urgent business could it be?
+……少々、戦人さまとのお喋りが過ぎたようですね。 => ......It appears as though I have spent slightly too long chatting with you, Battler‐sama.
+それでは戦人さま、私めはこれで失礼させていただきます。 => Well then, Battler‐sama, if you will excuse me.
+どうか引き続き、お嬢様とのゲームをお楽しみ下さい」 => Please continue to enjoy your game with Milady."
+「へいへい。 => "Yeah, yeah.
+せいぜい楽しむぜ。 => I\'ll enjoy it as best as I can.
+…あんたはベアトよりゃ話が弾むからな。 => ...\'Cause the conversations are more lively with you than with Beato.
+赤も気前よく使ってくれるしよ。 => And you use the red more graciously.
+ぜひまたお喋りに来いよな」 => Come talk again any time."
+「…………戦人さま。 => "............Battler‐sama.
+私めも、こう見えてもお嬢様の家具。 => Despite how I look, I am Milady\'s furniture.
+…お嬢様が望まぬことは出来ませんよ。 => ...I cannot do something that Milady does not wish.
+私が語った赤は、本来ならお嬢様が自らの口で語るべきもの。 => What I said in red was something that normally should have come from Milady\'s mouth.
+…ヘソを曲げてしまわれたお嬢様に代わって赤き真実を披露したに過ぎません」 => ...I did nothing more than announce the red truth in Milady\'s place as she sulked."
+「やっぱあれ、ヘソを曲げてたよなぁ？ => "So she really was sulking then?
+いっひっひっひ！」 => Ihihihi!"
+「ぷっくっくく」 => "Pu ku kuku."
+俺とロノウェが訳のわからない意気投合をしているのを見て、七杭の姉ちゃんは首を傾げる。 => Seeing me and Ronove incomprehensibly hitting it off, that Seven Stakes chick cocked her head slightly.
+「ロノウェさま。 => "Ronove‐sama.
+ベアトリーチェさまをお待たせしております。 => We are keeping {f:5:Beatrice}‐sama waiting.
+お急ぎをっ」 => Let us hurry."
+「えぇ、直ちに参ります。 => "Yes, I will come immediately.
+それでは戦人さま、後ほど。 => Well then, Battler‐sama, I shall see you later.
+……ようやく仲良くなれてきましたね。 => ......It appears that we have finally started getting along.
+やはり、よい友人になれる気がします」 => As I thought, I have the feeling that we can become good friends."
+「ベアトの陰口仲間ってことならなー」 => "If by that you mean partners at gossiping behind Beato\'s back."
+「ロノウェさまっ！」 => "Ronove‐sama!"
+「はいはい。 => "Yes, yes.
+それでは失礼いたします」 => Then, if you will excuse me."
+俺と仲良くしてるのがよほど気に入らなかったのか、それともよほど急ぐように言われたのか。 => Maybe it was because she really didn\'t like seeing him act friendly with me, or maybe it was because she had really been told to hurry.
+七杭の姉ちゃんが鋭く一喝すると、ロノウェはへらへら笑いながら、逃げるように消えていった…。 => The Seven Stakes babe bellowed sharply at Ronove, and he laughed foolishly and disappeared, as if running away...
+「……ふん。 => "......Hmph.
+煉獄の七杭が長女のこの私が、この程度の用事で呼び付けられるなんて！ => How could I, the eldest sister of the Seven Stakes of Purgatory, be called on for this level of work!
+…ベアトリーチェさまも、この程度なら他の暇そうな妹たちに言い付ければいいのに。もう…！」 => ...{f:5:Beatrice}‐sama could easily have told one of the younger sisters, who look like they have so much free time, for something like this. Sheesh...!"
+「何をカリカリしてんだよ姉ちゃん。 => "Why so grumpy, girl?
+腹減ってんなら、クッキーでも食えよ。 => If you\'re hungry, eat a cookie or something.
+最後の一枚をくれてやるぜ？ => Why don\'t I give you the last one?
+いっひっひ！」 => Ihihi!"
+「……ふーん？ => "......Hummmmm?
+気が利くじゃない。 => How thoughtful.
+なら、ひとついただこうかしら？」 => Then, shall I take one?"
+最後の一枚のクッキーが残った菓子皿を、姉ちゃんの方にすいっと押し出してやる。 => I lightly pushed the snack plate with the last remaining cookie on it over to her.
+「ありがと」 => "Thank you"
+その言葉のピリオド代わりとでも言うかのように、鋭い音がテーブルを貫いた…。 => As though coming as a replacement for the period at the end of the sentence, a sharp sound pierced the table...
+彼女の、三本の指から爪が鋭く伸び、菓子皿を押した俺の…、 => The nails on three of her fingers had sharply extended, and were stuck...
+各指の間に紙一重で突き刺さっていたのだ。 => a hair\'s breadth into the gaps between my fingers on the hand I had used to push the plate.
+……あまりに一瞬の出来事で、…爪が伸びたのだということもしばらく理解できなかった。 => ......It had happened in an instant, ...so for a while, I didn\'t even realize that her fingernails had grown.
+その鋭い爪の先端は、赤いマニキュアで彩られた刀身のよう。 => The tips of those sharp nails were like blades with a red manicure.
+……指と指の付け根の間が、チリリと痛む。 => ......The spaces between the bases of my fingers prickled.
+……そのカミソリのような刃が、俺の手の甲と、指と指の間に紙一重で打ち込まれているのだ…。 => ......Those razor‐like blades were sticking sharply into the back of my hand, and into the spaces between my fingers...
+その三本の刃に、迂闊な俺の右手は震わせることもできず、今頃になって、冷たい汗を一筋零すしかない。 => By those three blades, my carelessly outstretched right hand was not even permitted to shake, and all I could do now was allow a single line of cold sweat to drip down.
+「…………ひゅう。 => "............Wowee.
+…姉ちゃん、そろそろ爪を切った方がいいぜ」 => ...Isn\'t it about time you cut your nails, babe?"
+「ルシファーよ。 => "Lucifer.
+……それが誇り高き私の名。 => ......That is my noble name.
+ベアトリーチェさまにお仕えする名誉ある家具、煉獄の七杭が長女」 => Honored furniture serving {f:5:Beatrice}‐sama, and the eldest sister of the Seven Stakes of Purgatory."
+「………他の面汚しな愚妹どもとは訳が違うの。 => ".........I\'m not like my disgraceful and cretinous younger sisters.
+それに見合った敬意を示さないと、後悔することになるわよ」 => If you don\'t show the proper respect, you will regret it."
+「…どう後悔するんだか。 => "...How would I regret it?
+俺には見当もつかねぇぜ」 => I don\'t have a clue."
+「………ふっふっふっふっふ。 => ".........Heheheheheh.
+馬鹿な子ね。 => Stupid kid.
+…そんなに遊んでほしいの？ => ...Do you really want me to play with you that much?
+そんなに忘れられないの？」 => You really can\'t get me out of your mind?"
+「私の杭を、思いっきり奥の奥までねじ込んで、たっぷり抉って楽しませてあげるわよ……？ => "I\'ll thrust my stake deep, deep into you and make you really enjoy being gouged, got it......?
+うっふふふふふふふふふふふふふふふ……！」 => Hehehe{0}he{0}heh{0}heheh{0}he{0}hehehhh......!"
+「………クソッタレ。 => ".........You bitch.
+いつか押し倒して同じセリフを言ってやるぜ」 => One day I\'ll push you down and say that back to you."
+「あらそう？ => "Oh, really?
+楽しみにしてるわね？ => I\'ll be looking forward to that, then?
+うっふふふふふふ……。 => Ehhehe{0}heh{0}heheheh......
+…あっははははははははははははははははは…！！！」 => ...Ahhahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!!"
+楼座はようやく落ち着きを取り戻す。 => Rosa eventually regained her calm.
+男たちは早く話すよう急かしたかったが、それを霧江が制した。 => The men wanted to hurry her into talking faster, but Kyrie intervened.
+…本当に彼女が口にするような話なら、……それは思い出したくない忌まわしい過去だ。 => ...If something like she had just mentioned really had happened, ......it was an abominable past that she wouldn\'t want to remember.
+彼女は自らの胸に手を当てて何度か深呼吸をすると、何とか話す覚悟を決めたようだった…。 => After taking several deep breaths with her hand over her chest, it seemed that she had more or less gathered the resolve to talk...
+「……あれはいくつの時だったのかしら…。 => "......How old was I then, I wonder...
+…多分、中学生か、……よく覚えてない。 => ...Probably...middle school, or... ...I don\'t remember well.
+とにかくそのくらいの頃だったと思うわ…」 => Anyway, I think I was about that old..."
+「ってことは、…大体、２０年位前ってとこか」 => "Which means... Maybe about twenty years ago?"
+「あの頃の私は、あまり成績が良くなくて、いつもお母様に怒られてばかりだった。 => "Back then, my grades weren\'t very good, and Mother was always angry at me.
+……私なりに努力していたつもりだったんだけど、 => ......I was trying to do my best in my own way,
+お母様の期待には全然応えられなくて…」 => but I couldn\'t respond to Mother\'s expectations at all..."
+「……母上は楼座にもずいぶん厳しかったな。 => "......Mother was always very strict with Rosa.
+当時は同情していたよ」 => I sympathized with her at the time."
+「ふん。 => "Hmm.
+陰口ばっかだったくせによく言うわねぇ」 => You say that even though you were always talking behind her back."
+「よさんか絵羽。 => "Would you give it a rest, Eva.
+それで？ => So?
+楼座さんはどこでベアトリーチェに会ったんや！」 => Where did you meet {f:5:Beatrice}, Rosa‐san?!"
+「秀吉さん、今は急かしては駄目よ。 => "Hideyoshi‐san, you mustn\'t rush her now.
+……いいのよ、楼座さん。 => ......It\'s alright, Rosa‐san.
+楽に話して」 => Tell us at your leisure."
+「………ありがとう。 => ".........Thank you.
+…あれは、お母様に特にひどく叱られた日よ」 => ...It was a day when I had been scolded particularly harshly by Mother."
+家庭教師が、内緒よと約束したはずなのに、 => Even though my tutor had promised to keep it a secret,
+…私が漏らした泣き言を、全てお母様に話してしまったらしい。 => ...apparently, they told Mother all about how I had complained.
+お母様は、右代宮家に名を連ねる者が情けないと、私をひどく叱ったわ。 => Mother scolded me horribly, saying that I was a disgrace to the Ushiromiya family.
+……私も、もちろん自分なりには努力していた。 => ......Of course, I was doing the best I could.
+でも、蔵臼兄さんのような貫禄は全然なかったし、 => But I had none of Krauss nii‐san\'s dignity,
+絵羽姉さんのような立派な成績はとても取れなかったし、 => I couldn\'t get excellent grades like Eva nee‐san,
+留弗夫兄さんのようなリーダーシップがあったわけでもない。 => and I had no leadership like Rudolf nii‐san.
+…いつも目立たず、特に秀でることもなく、 => ...I never stood out, didn\'t particularly excel at anything,
+何の為に右代宮家に生まれてきたのか、私自身が聞いてみたいくらいだった。 => and I almost wanted to ask myself why I had even been born into the Ushiromiya family.
+何の為に生まれてきたのかわからなくなって。 => I didn\'t know why I had been born.
+{n}…初めて頭の中が真っ白になるのを経験した、あの日のこと……。 => {n}...On that day, I had the experience of my mind going blank for the first time......
+私は生まれて初めて、 => For the first time since I was born,
+…物事には、立ち向かうことと屈することの他に、 => ...I realized that in addition to facing or surrendering to my problems,
+逃げ出すという選択肢があることを知ったの。 => I had the third choice of running away.
+逃げ出すと言っても、六軒島を出てどこかへ行けるはずもない。 => Even though I say run away, there was no way I could have left Rokkenjima and gone somewhere else.
+でも、とにかくお屋敷と今の自分から逃げ出したかった。 => But, anyway, I wanted to run away from the mansion and the way I was at the time.
+……ある意味それは、家出でもあり、消極的な自殺でもあった…。 => ......In a way, it was like running away from home, or maybe a half‐hearted suicide...
+「……いなくなりたかったの。 => "......I wanted to disappear.
+…あるいは、いなくなることによって親を心配させたいという、子どもなりの反抗だったのかも…」 => Or maybe it was that child‐like form of resistance where I tried to make my parents worry by disappearing..."
+「………私は、森のはるか奥に行けば、右代宮の家から逃れられる、 => ".........I thought childishly that if I went into the center of the forest, I could escape from the Ushiromiya house,
+あるいは迷子になって心配させることで仕返しができると、子どもながらに思ったの」 => or maybe I could get back at them by getting lost and making them worry."
+「それで、……行ってはいけないと言われていた森に？」 => "So then, ......you went into the forest that you\'d been told not to go into?"
+「……えぇ。 => "......Yes.
+浜辺へ出てから、海に沿うように。 => After reaching the beach, I followed alongside the ocean.
+……特に理由があったわけじゃないけれど、 => ......I didn\'t have any particular reason,
+……島をぐるりと回れば、その反対側には誰も知らない場所があって、 => ......but I felt that, if I went around to the opposite side of the island, there might be a place there that no one knew about,
+私だけの隠れ家になるような気がしたの」 => which might become a hidden house just for me."
+「浜辺からぐるっと、ってのは無理だな。 => "Starting by the beach, it\'d be impossible to go all the way around.
+途中で崖になっちまうだろ？ => It becomes a cliff partway, right?
+あんなとこ、通れるわけがねぇぜ」 => There\'s no way you could pass that way."
+「…もちろんよ。 => "...Of course.
+だから、通れる方へ通れる方へ、とにかく奥へ奥へ進んだわ。 => So, I kept going wherever I could, and kept going deeper and deeper in.
+……道なんかないひどい森だったけど、あの時の私にはそれが心地よかったの。 => ......It was a horrible forest without any paths, but that was comforting to me then.
+…それほどの険しい森を抜けたなら、その分、右代宮家から逃れられるって、 => ...If I could make it through such a dangerous forest, then it would be that much greater of an escape from the Ushiromiya family,
+…そんな気持ちだったの」 => ...which made me feel good."
+「………情けないわねぇ。 => ".........How shameful.
+成績で叱られたなら、その分、努力すればいいのに」 => If you were scolded because of your grades, all you had to do was work harder."
+「それを言ってはいかんね。 => "You mustn\'t say that.
+その代わり、楼座にはデザイナーとしての才能があったじゃないか」 => Doesn\'t Rosa have her talent as a designer instead?"
+言葉通りならこれはフォローになるが、 => Literally this could be taken as him covering for Rosa,
+楼座の会社がまったく儲かっていないことは誰もが知っている。 => but everyone knew that Rosa\'s company was not making any profits.
+「よせよ。 => "Quit it.
+今は嫌味を言ってる場合じゃねぇぜ。 => Now isn\'t the time for sarcasm.
+……そして、偶然辿り着いちまったんだな…？ => ......And then you arrived there by coincidence...?
+…ベアトリーチェの、 => ...{f:5:Beatrice}\'s...
+…隠し屋敷に」 => hidden mansion."
+楼座は弱々しく頷いた……。 => Rosa nodded weakly......
+「どのくらい歩いたんや。 => "About how far did you walk.
+地図で場所が示せるんか…？ => Could you show it to us on a map...?
+夏妃さん、この島の地図はあるかいな」 => Natsuhi‐san, is there a map of this island?"
+「いえ、今ここにはありませんが…」 => "No, not right here and now..."
+「無理よ。 => "That would be impossible.
+適当に歩いただけだもの。 => I was just walking randomly.
+地図を見せられたってわからないわ。 => Even if you showed me a map, I wouldn\'t know.
+……それに、あれから２０年も経ってる。 => ......And twenty years have passed since then.
+多分、森へ行っても二度と辿り着けないわ…」 => I probably couldn\'t reach it again even if I went into the forest..."
+「………ふーむ…」 => ".........Hmmmmmm..."
+何人かが落胆のため息をつく。 => Several people let out dejected sighs.
+その隠し屋敷に、魔女の碑文に纏わるヒント、 => It was vividly clear that in their haste,
+もしくは隠された黄金そのものが眠っているのではないかと、短絡的に考えていたのがありありとわかった。 => they had thought that some hint related to the witch\'s epitaph, or maybe even the gold itself, might be resting there in that hidden mansion.
+「六軒島は、この屋敷の周りが整地されているだけに過ぎねぇ。 => "The only part of Rokkenjima that got made ready for development is the area around the mansion.
+…他は完全に未開で、全島測量は、相当の手間が掛かるだろうな」 => ...The rest is completely uncultivated, and it would probably take considerable effort to survey the entire island."
+「でも、確かに存在するとわかっただけでも収穫よ。 => "But just knowing that it actually exists is helpful.
+お金は掛かるだろうけど、例えば航空写真の会社に調査を頼むとか、 => It would take some money, but if we enlisted an aerial photography company to investigate,
+このお屋敷を建設した業者に当時のことを聞くとか、 => or asked the contractors who constructed this mansion about what happened at the time,
+調べる方法はあるかもしれないわね」 => we could probably find some way to search for it."
+「そうね。 => "Yes.
+…あるかないかもわからないものを探すよりは、まだ方法があるはずよ」 => ...There should be more ways to do it now that there isn\'t a question about whether it exists or not."
+「……うむ。 => "......Mmhm.
+さっそく調べる価値があるだろう」 => It is probably worth investigating right away."
+「その調査は兄弟合同でやるわよ。 => "We will do that investigation together as siblings.
+兄さんひとりではさせないわ」 => We won\'t let you do it alone, Nii‐san."
+その隠し屋敷に黄金が隠されていると決まったわけではないが、 => It wasn\'t certain that the gold was hidden in that secret mansion,
+蔵臼と絵羽はさっそく火花を散らしあっているようだった。 => but it seemed that the fireworks between Krauss and Eva had already begun.
+「兄貴たち、今はよせよ。 => "Give it a rest for now, you two.
+…楼座、続きを話してくれ」 => ...Rosa, please continue."
+「………………うん」 => "..................Yes."
+闇雲に、でたらめに、どこまでも歩き続けたわ。 => Blindly, randomly, I kept running, on and on.
+突然、獣道のようなものに出た気がしたの。 => Suddenly, it felt like I had come across something like an animal trail.
+どれだけ歩いたかわからず、とても疲れていたから、 => I had no idea how far I\'d walked, and I was very tired,
+その頃には自然と歩きやすい方へ向かうようになっていたわ。 => so by then, I was just naturally taking the easiest path to walk on.
+すると、………突然、目の前に、とてもとても高い柵が現れたの。 => As I did, .........suddenly, right before my eyes, a very, very tall fence appeared.
+それはゴシック調の素敵な装飾のされた柵。 => It was a fence wonderfully adorned in a gothic style.
+私は一瞬、ぐるりと回って、元のお屋敷に戻ってきてしまったのではないかと思ったわ。 => For an instant, I spun around, thinking that I might have returned to the original mansion.
+確かに、私たちが森へ入らないように、お屋敷でも柵はあった。 => Of course, there were fences around the mansion to stop us from entering the forest.
+でも、それとは装飾が違う柵だったし、……何より、とても高かったの。 => But this fence was decorated differently, ......and most of all, it was very tall.
+多分、２階までたっぷり覆うくらい。 => It probably reached a full two stories up.
+それが蔦に塗れていて、とても不思議な、荘厳な雰囲気を醸していたっけ…。 => It was covered with ivy, and created a mysterious, solemn atmosphere...
+私ね、……当時は森の魔女、ベアトリーチェの伝説を信じてたの。 => At the time, ......I believed the legend of the witch of the forest, {f:5:Beatrice}.
+恐ろしい存在だと聞かされてはいたけれど、 => I had been told that she was frightening,
+使用人の人は、敬いを持っていれば助けてくれることもあるって教えてくれて。 => but some of the servants told me that she would sometimes help you if you respected her.
+……日々に自信を失いかけていた私には、 => ......Since I had started to lose confidence in how my life was going,
+彼女に助けてもらうことだけが、唯一の救いだと信じてたの。 => I believed that the only way I could be saved was by receiving her help.
+だから思ったわ。 => So that\'s what made me think it.
+……これが、森の魔女、ベアトリーチェの館の柵だと信じた。 => ......I believed that this was the fence of the mansion of {f:5:Beatrice}, the witch of the forest.
+ベアトリーチェに会えば、きっと私を救ってくれると思ったの。 => I thought that if I could meet with {f:5:Beatrice}, she would definitely save me.
+だから、中に入ってみようと思ったわ。 => So I thought I would try to go in.
+でも、その柵はとてもとても高くて、越えられそうにはなかった。 => But that fence was very, very tall, and it didn\'t look like I could go over it.
+だから、柵にそってぐるりと回ることにしたわ。 => So I decided to walk around it.
+{n}そうすればきっと門に辿り着けると思って。 => {n}I thought that if I did, I would eventually reach a gate.
+でも、そう簡単には行かなかった。 => But it wasn\'t that easy.
+その柵は高さに負けないくらい、とてもとても長くて、いつまで経っても角を迎えなかった。 => The fence had a length to match its height, and no matter how far I went, I didn\'t reach a corner.
+相当広大な範囲を囲んでいたのかもしれないし、 => It might have been enclosing a very massive area,
+…あるいは子どもの足だし、森は歩きにくかったからそういう印象を持ったのかもしれないわ。 => ...or maybe it just felt that way because my child\'s legs made it difficult to walk in the forest.
+とにかく、なかなか門を見つけられなかったので、 => Anyway, because I couldn\'t find a gate for a while,
+私は魔女に拒まれたような気持ちになり、悲しくなっていた…。 => I started to feel sad, as though the witch had rejected me...
+するとやがて、大木が歪な根を大きく張り出し、柵を歪ませているのを見つけたの。 => As I did, I eventually came upon a large tree, whose twisted root had bent the fence.
+お洋服を汚してしまうかもしれないけど、這えば潜り抜けられそうだった…。 => I might get my clothes dirty, but if I crawled, it looked like I would be able to sneak in...
+「………そこが、隠し屋敷だったの？」 => ".........And that was the hidden mansion?"
+「あれが私たちの言う隠し屋敷なのかはわからない…。 => "I don\'t know whether it was the hidden mansion we\'ve been talking about...
+でも少なくとも、私たちの知る場所ではなかったわ」 => Still, at the very least, it wasn\'t a place that we know of."
+柵を越えたらすぐに庭というわけではなかった。 => It wasn\'t as though I came out into a garden as soon as I passed the fence.
+{n}その後もずいぶんと未開の森を進まなければならなかった。 => {n}I had to continue through a lot more uncultivated forest after that.
+すると、……急に森が開けたわ。 => And then......the forest suddenly opened up.
+そこに現れたのは信じられないくらいに…、 => And what appeared there was an unbelievably...
+………幻想的な光景だった。 => .........fantastical scene.
+私たちしか住んでいないと信じていた六軒島に、 => To think that Rokkenjima, where I had believed no one other than us lived,
+…こんな素敵なお屋敷が隠されていたなんて…。 => ...had been hiding such a wonderful mansion...
+お屋敷の前には、美しいお花畑が広がっていた。 => A beautiful flower garden spanned the front of the mansion.
+{n}私たちのよく知る薔薇庭園とは、まったく装いの違うお花畑で、それはとても可愛らしかったわ。 => {n}It was a flower garden of a completely different design from the rose garden we know so well, and was very lovely.
+もちろん、お屋敷も素敵だった。 => Of course, the mansion was also wonderful.
+…私たちのお屋敷に比べると一回りも二回りも小さいけれど、 => ...It was one or two sizes smaller than ours,
+とても上品で、なのに可愛らしいお屋敷だった。 => but it was a very elegant, and yet lovely mansion.
+そして、……………私は、彼女の姿を見た。 => Then, ...............I saw her.
+{n}お花畑を一望できるガーデンチェアに、優雅なドレス姿で腰掛ける彼女の姿を見たわ。 => {n}I saw her sitting in a garden chair, positioned to give a view of the flower garden, wearing an elegant dress.
+それは、後に私たちが肖像画で知ることになる、あの黒い金刺繍のドレスよ。 => It was that black dress embroidered in gold that we would later know from that portrait.
+……あんな上品なドレス姿なんて、おとぎ話かミュージカルの舞台でしか知らなかった。 => ......I hadn\'t seen an elegant dress like that except in fairy tales and on the stage of musicals.
+…それを普段着として着る人がいるなんて、それだけでもとても幻想的だったわ。 => ...That a person would be wearing it as their normal clothes... That in itself seemed quite fantastical.
+その不思議な景色は、私の現実感を失わせるほどのものだった。 => That magical scene was enough to make me lose my sense of reality.
+それが夢だったと一言、言われたなら、 => If someone had told me then that it was a dream,
+私は素直に頷いて、朝のベッドで目を覚ますのを待ったかもしれないくらいに…。 => I might have nodded obediently, and waited to wake up in my bed...
+呆然として、姿を隠すことも忘れてしまった私を、やがて彼女は見つけるの。 => Since, in my shock, I had forgotten to hide myself, she eventually noticed me.
+その表情は初め、とても気だるそうなものだったけれど、 => At first, her expression was quite listless,
+私の姿を認めると、それは大きく見開かれた。 => but when she noticed me, her eyes opened very wide.
+…無理もないわね、突然の見知らぬ来客なのだから。 => ...It was only natural—a guest that she didn\'t know had suddenly appeared.
+私は挨拶し、そして勝手に入ってきたことを謝るべきだと思い、思わず頭を下げたわ…。 => I automatically bowed my head, feeling that I should greet her and apologize for entering without permission...
+「…………そなたは誰か。 => "............Who are you?
+新しい庭師なのか」 => A new gardener?"
+それが彼女が私に掛けた最初の言葉。 => Those were the first words she said to me.
+{n}…ちょっぴり安心したわ。 => {n}...That calmed me down a little bit.
+{n}言葉が通じることがわかったから。 => {n}Because I realized that she could be talked with.
+おとぎ話の恐ろしい魔女のように、目が合っただけでカエルにされてしまわなかったから。 => Because I hadn\'t been turned into a frog just by meeting her eyes, like the terrifying witch in that fairy tale.
+「……ご、 => "......I,
+……ごめんなさい。 => ......I\'m sorry.
+…勝手にお庭に立ち入ってすみません…」 => ...I shouldn\'t have entered the garden without permission..."
+「……………………。 => "........................
+……そなたは誰か。 => ......Who are you?
+名乗るが良い」 => Name yourself."
+「う、…右代宮楼座と言います」 => "I, ...I am Ushiromiya Rosa."
+「……右代宮。 => "......Ushiromiya.
+…………………ほぅ。 => .....................Hoh.
+…金蔵の一族の人間なのか」 => ...So you are one of Kinzo\'s family."
+「え？ => "Huh?
+あ、…はい！ => Ah, ...yes!
+金蔵の娘です。 => I\'m Kinzo\'s daughter.
+こ、こんにちは…！」 => G‐good afternoon...!"
+ちょっぴりだけ驚いたわ。 => I was just a little surprised.
+{n}…だって、お父様は誰にも恐れられる偉大な方。 => {n}...After all, Father was a great man feared by everyone.
+そのお父様を、呼びつけにしたのだから。 => And she had referred to him without using honorifics.
+{n}だから急に恐ろしくなってしまったの。 => {n}So she quickly became frightening.
+…だって、 => ...After all,
+あの恐ろしいお父様を呼びつけにできるほど、彼女はすごい力を持った魔女に違いないのだから。 => if she could refer to my fearsome father that way, she must be a witch with incredible power.
+彼女は私をじろじろと物珍しそうに見ると、こちらへ来るようにと手招きした。 => After staring at me curiously, she beckoned me to come over to her.
+私は今更のように怯えながら、それに従ったわ。 => And I obeyed, although filled with belated trepidation.
+{n}……だって、やっぱりカエルにされるんじゃないかと思ったから。 => {n}......After all, I thought I really might be turned into a frog.
+…そして近付けば近付くほどに、その怯えは強まった。 => ...And the closer and closer I got, the stronger that fear became.
+だって、…さっきから何度も口にしているけれど、 => After all, ...I said it several times already, but,
+…………彼女とドレスとお花畑とお屋敷と、 => ............that woman and her dress and the flower garden and the mansion,
+……全ての調和があまりに現実離れしてるくらいに幻想的で美しかったから。 => ......that entire harmony was so fantastical and beautiful that it seemed separate from reality.
+彼女が本当に魔女であっても、私は何も驚かないに違いなかった…。 => It surely wouldn\'t have surprised me even if she was actually a witch...
+そして本当に幸運だった。 => And I was truly lucky.
+{n}彼女は私をカエルにはしなかった。 => {n}She didn\'t turn me into a frog.
+ぎこちなく立ち尽くしている私に、空いている椅子を示し、着席を勧めてくれたの。 => As I awkwardly stood there stock still, she motioned to an open chair, and urged me to sit down.
+「座るが良い。 => "Sit.
+初めて訪れた者を庭へ招き、語らうのが妾の唯一の楽しみよ。 => Welcoming and speaking to those who visit this garden for the first time is my only pleasure.
+………他に、何の楽しみもないがな」 => .........That said, I have nothing else to find pleasure in."
+そう言って、彼女は一瞬だけ悲しそうな笑顔を見せる。 => As she said that, she showed an unhappy smile for just an instant.
+私は緊張と興奮の入り混じったおかしな気持ちだったので、不躾にも唐突な質問をしてしまった。 => Because I was full of a strange mix of tension and excitement, I rudely asked her a question suddenly.
+「…あの、 => "...Umm,
+…………森の魔女、 => ............are you the witch of the forest,
+…ベアトリーチェですか……？」 => ...{f:5:Beatrice}......?"
+「如何にも。 => "Indeed.
+妾がベアトリーチェである」 => I am {f:5:Beatrice}."
+「やはりな。 => "As I thought.
+ベアトリーチェは実在したんだ…」 => {f:5:Beatrice} actually existed..."
+「…その姿は、まさに肖像画の？」 => "...Did she look just like the portrait?"
+「……えぇ。 => "......Yes.
+まさにあの肖像画の通りよ」 => Exactly like the portrait."
+「お父さんの想像の中の魔女じゃ、 => "So she wasn\'t just...
+……なかったんやな…」 => ...a witch from Father\'s imagination..."
+「それで、あなたは彼女と何を話したの？」 => "And then, what did you talk with her about?"
+「…彼女はお茶を淹れながら、私のことを色々と聞いたわ。 => "...As she prepared some tea, she asked me various things about myself.
+……まず、森を抜けてやってきたことを驚かれた。 => ......First, she was surprised that I had come through the forest.
+彼女は、柵の外には危険な狼がたくさんいると信じていたみたいだった」 => It seems she believed that many dangerous wolves lived outside the fence."
+「…だから私が森を抜けて辿り着いたと言ったら、とても驚いていたわ。 => "...So when I told her I had reached this place by going through the forest, she was very surprised.
+どうやって、狼から逃れたのか、ビスケットを渡して許してもらったのか、 => She asked how I had managed to escape from the wolves—did I give them biscuits and they let me go?
+それとも魔法の外套を被って…、 => Or did I cover myself in a magic cloak, or...
+なんて感じのことを言ってたっけ」 => Those kinds of things, I think."
+「わっはっはっは。 => "Wahahaha.
+…そりゃあ、確かに魔女っぽいわなぁ。 => ...That sure sounds like a witch.
+面白いお人や」 => What an interestin\' person."
+「あなた、黙って。 => "Quiet, honey.
+…………ずいぶん昔だけど、 => ............It was a long time ago,
+お父様は、森には狼が住んでいるから近寄ってはならないって、私たちを脅さなかった？」 => but didn\'t Father threaten us, saying that wolves lived in the forest, so we shouldn\'t get close to there?"
+「あぁ、そんなこともあったな。 => "Yes, there was a time like that.
+馬鹿らしいね。 => Ridiculous.
+日本の狼はとっくの昔に絶滅しているというのに。 => Even though Japanese wolves went extinct long ago.
+まさに子供騙しだな」 => What a childish trick."
+「記憶にねぇなぁ？ => "I don\'t remember, though...?
+そんな話、親父に聞かされたっけ…？ => Did Dad really tell us something like that...?
+森には魔女だろ？ => It was the witch of the forest, right?
+狼なんて話、聞いたことないぜ？」 => I don\'t think I\'ve ever heard about wolves."
+「あんたがまだ小学校だった頃よ。 => "You were still in elementary school.
+覚えてない？」 => Don\'t you remember?"
+「そしたらあんた、むしろ狼を撫でてみたいなんて言い出すもんだから。 => "You actually went and replied that you\'d want to try petting the wolves.
+お父様はすぐに狼の話を引っ込めて、魔女の話に切り替えたのよ。 => So Father immediately gave up the wolf story and changed it to the story about the witch.
+もうそのウソっぽいことと言ったら、あっははははは」 => Such obvious lies, ahahahahaha."
+「はっはっはっは。 => "Hahahaha.
+当時の留弗夫には、狼よりも魔女の話の方が覿面だったね。 => At the time, the witch story had a much more immediate effect on you, Rudolf, than the wolves.
+よく覚えているよ。 => I remember it well.
+私の背中にしがみ付いた夜があったことを覚えているかね？」 => Don\'t you remember those nights when you clung to my back?"
+「…くす。 => "...*giggle*.
+留弗夫さんにも、そんな可愛らしい時代があったのね」 => I see, even Rudolf‐san used to have that cute period."
+「うるせーなぁ。 => "Oh, put a lid on it.
+子どもの頃の話だぜぇ」 => I was just a kid."
+「……ま、とにかく。 => "......Well, anyway.
+ベアトリーチェを閉じ込めていたのがお父さんなら、同じ狼の話をするのは道理ね。 => If Father was the one who shut {f:5:Beatrice} up in there, it makes sense that he would use the same wolf story.
+彼にとって六軒島の広大な森は、右代宮家と愛人の屋敷という、 => To him, the vast forest of Rokkenjima was a wall that shouldn\'t be crossed,
+相容れない二つの異世界を分断する、越えてはならない壁だったのだから」 => dividing his two incompatible worlds: the Ushiromiya family and his mistress\'s mansion."
+「柵の高さを考えると、どうやら親父殿は、庭ごと丸々を座敷牢にしたようだな。 => "If you think about the height of that fence, it does seem that Father had turned the whole area, garden and all, into a giant jail cell.
+……さながら、二つの世界を分ける国境も同然だったのだろう」 => ......Just like a national border dividing his two separate worlds."
+「…狼はともかく、野犬の類でもいたのではありませんか？ => "...Forget the wolves, were there any kinds of stray dogs there at the time?
+その為の柵だったかも知れません」 => It could have been a fence to protect against those."
+「六軒島に狼も野犬もいないわ。 => "There are no wolves or stray dogs on Rokkenjima.
+その柵は兄さんや霧江さんの言うように、 => Just as Nii‐san and Kyrie‐san are saying,
+ベアトリーチェと私たちの間の国境だったんでしょうね」 => that fence was probably a border between us and {f:5:Beatrice}."
+「しかし、狼の話を素直に信じるなんて、何ちゅうか、純朴やなぁ。 => "However, if she innocently believed the story about the wolves, that\'s pretty...naive.
+わしの想像していた魔女とはずいぶん違う感じやで」 => That\'s nothin\' like the way I\'d imagine a witch."
+「……そうね。 => "......That\'s right.
+それは私も感じたわ。 => I also sensed that.
+…とても尊大で、確かに魔女のイメージ通りの人だったんだけど。 => ...She was very pompous, just like my image of a witch,
+…どこかとても子どもっぽくて、 => ...but she was somehow very childish, and...
+……何て言うのか、素直過ぎるというか、 => ...how should I say it, too honest?
+……世間知らずな印象を受けたわ」 => ......She gave me the impression that she didn\'t know anything about the world."
+「例えるなら、…本当におとぎの国の人みたいというか。 => "If I had to describe it, ...it was almost as though she had come from a fairy‐tale land.
+……本当に不思議な人だったわ」 => ......She was a truly mysterious person."
+「……それからどうしたんだ。 => "......What happened after that?
+…親父の話とかは出たのか？」 => ...Did you end up talking about Dad at all?"
+「えぇ。 => "Yes.
+何日かに一度、約束されている日もあれば、突然の日もあったそうだけど、 => Once every few days, sometimes on an arranged day and sometimes suddenly,
+ふらりとお父様が訪れては、一緒にお茶を飲んだり、散歩したりしたんですって。 => Father would appear casually, and they would drink tea together, or take a walk together or something, she said.
+私が訪れたその日は、たまたま彼女ひとりだったと言っていたわ」 => And that, by coincidence, she was by herself on the day I visited."
+「なるほどな。 => "I see.
+まさに愛人、といったところだ。 => Truly a mistress, then.
+…やれやれ。 => ...My, my.
+いくつ年下か知らんが、親父殿もやるね」 => I don\'t know how much younger she was, but... not bad, Father."
+「……如何わしい意味での交流はなかったと確信しています」 => "......I remain firmly convinced that it was not an indecent relationship."
+「馬鹿ね、男と女の逢瀬に色気がないはずないじゃなぁい。 => "Gosh, you are an idiot. There\'s no way a lover\'s meeting between a man and a woman wouldn\'t have {i:some} sensuality.
+それでどうしたの。 => What happened next?
+それから何の話を？」 => What did you talk about after that?"
+「………私の自己紹介をしたので、逆に彼女のことを質問したわ」 => ".........Because I had introduced myself, I then asked her about herself."
+「…そうしたら、急に雰囲気が落ち込んでしまったの。 => "...When I did, the atmosphere quickly grew depressing.
+……何て言うのか、とても気だるそうな、寂しそうな。 => ......How should I say it, she seemed very listless and lonely.
+…私が初めて彼女の顔を見た時に浮かべていたのと同じ表情だった」 => ...It was the same expression as the one I had first seen on her face."
+「まぁ、秘密の愛人だからな。 => "Well, that\'s because she was his hidden mistress.
+好き勝手に歩かれてお袋に見付かっちまったらコトだ。 => If she just walked around wherever she liked, she might have been discovered by Mother.
+……きっと軟禁に近い状態だったろう」 => ......I\'m sure the situation was almost like house arrest."
+「綺麗なドレスに綺麗な屋敷や庭があっても、さぞや窮屈な思いをしてたんだろうぜ。 => "Even though she had beautiful clothes, a beautiful mansion, and a garden, she must have felt very constrained.
+そりゃ苦労もあったろうさ。 => No surprise she felt it hard.
+………それで？」 => .........And then?"
+「彼女はきっと何か悩みがあった。 => "There was definitely something on her mind.
+……それを私に話したところで何の解決にもならない、というような雰囲気が読み取れて、 => ......I remember getting the impression that it wasn\'t something that I could resolve just by talking to her,
+私もとても悲しかったのを覚えてる」 => and feeling very sad about it as well."
+「………私と一緒にいることさえ忘れてしまったかのようで。 => ".........She seemed to have forgotten that I was even there.
+…遠くをぼんやり見ながら、ずっとずっと無言でいたわ」 => ...She was gazing vaguely off into the distance, and was silent for a long, long time."
+「…私はきっと失言してしまったに違いないと思ったんだけど、 => "...I thought that I must have said something wrong,
+……謝罪の言葉すらも口にしていいような雰囲気じゃなくて…。 => ......but it didn\'t seem to be the type of atmosphere where I could offer words of apology...
+……だから私も、彼女が私と一緒にいることを思い出してくれるまで、ずっとずっと黙ってた…」 => ......So, I too remained silent for a long, long time, until she remembered that I was there..."
+そしたら、……ふと彼女が呟いたの。 => When she did, ......she muttered unexpectedly.
+「………柵の向こうには、本当に狼などおらぬのか」 => ".........Are there really no wolves beyond the fence?"
+「…え？ => "...Hmm?
+は、はい。 => Y‐yes.
+狼なんて、動物園でも見たことないです」 => I\'ve never seen wolves even in a zoo."
+「動物園とは何か」 => "What is this "zoo"?"
+「あ、…色んな動物が飼われているところです。 => "Ah, ...it\'s a place where they keep all kinds of animals.
+ゾウとかキリンとかパンダとか、珍しい動物がいっぱいいますよ」 => They\'re full of rare animals like elephants and giraffes and pandas."
+「…………………………。 => "..............................
+…動物園に、狼はいないのか。 => ...Are there no wolves in a zoo?
+ならその、…怖くないかもしれんな」 => Then, umm, ...that might not be scary."
+「狼がいたとしても、動物はみんな檻に入ってますから安全です。 => "Even if there were wolves, all of the animals are put in cages, so it\'s safe.
+だから安心して見学できるんですよ」 => So you can feel safe as you look at and learn about them."
+森の魔女ともあろうものが、どういうわけか狼は怖くて苦手みたいだった。 => The witch of the forest, of all people, was for some reason scared of and didn\'t like wolves.
+それが、何だかとても滑稽に見えたっけ。 => I remember it looked pretty comical.
+「………………。 => "..................
+…それは妾とどう違うのか？」 => ...How does that differ from myself?"
+「…………え？」 => "............Huh?"
+彼女は動物園のことも知らなかった。 => She didn\'t even know about zoos.
+私は動物園が、如何に楽しいところかを説明するのだが、 => I explained how fun zoos could be,
+一度も行ったことのない彼女にそれを理解してもらうのはとても難しいことだった…。 => but it was very difficult to get a person like her, who had never been to one, to understand...
+それどころか、それを説明する内に、彼女の表情はどんどん灰色になっていく。 => Quite the opposite, as I explained it to her, her expression grew increasingly dismal.
+…彼女には区別が付かなかったのだ。 => ...She couldn\'t see the difference.
+高い柵に囲まれたこのお屋敷で、一見不自由なく優雅に過ごしながらも、 => It seemed that, although this mansion surrounded by a high fence appeared at a glance to afford her a completely provided‐for life of comfort,
+檻に閉じ込められた動物たちとどう違うのか、区別がつかないようだった…。 => she couldn\'t see how she was different from the animals shut up in cages...
+「妾は何者なのか。 => "Who am I?
+……皆は妾のことをベアトリーチェと呼ぶ。 => ......Everyone calls me {f:5:Beatrice}.
+…それは確かに、そなたの言うように、偉大な魔女の名前らしい」 => ...And that does certainly seem to be the name of a great witch, as you say."
+「……しかし、それは妾ではないのだ。 => "......But that is not me.
+妾には魔法など何も使えぬ。 => I cannot use any magic.
+……妾はその魔女の魂をこの身に封じられているだけなのだ」 => ......I simply have the soul of that witch sealed inside my body."
+「………………？」 => "..................?"
+彼女はやっぱりどこか不思議な人だった。 => There was definitely something mysterious about her.
+どこか世間ズレしているだけじゃなく、 => It wasn\'t just that she was somehow at odds with the world,
+本当に魔法というものが実在すると信じているようだった。 => but it seemed that she truly believed that a thing called magic actually exists.
+色々と不思議な話を聞かされた気がするけれど、細かくは覚えていないわ。 => I think she talked about various weird things, but I don\'t remember the details.
+ただ私が思ったのは、 => All I thought was:
+……この人は、可哀想な人かもしれないということ。 => ......this might be a pitiful person.
+彼女はこのお屋敷の中から自分の意思で出ることもできない、自覚なき囚人だった。 => She was unable to leave this mansion of her own will, a prisoner without even realizing it.
+……そして外の世界について何も知らず、自分が何者かであるかさえ理解できていなかった。 => ......And she didn\'t know anything about the outside world, didn\'t even understand who she was.
+……多分、彼女も自分が不憫であることを、薄っすらと理解している。 => ......She probably vaguely understood herself that she was pitiful.
+でも、あまりに何も知らなくて、それが不幸であることにも気付けていないようだった。 => But since she didn\'t know anything, it seemed that she couldn\'t realize that this was unhappiness.
+昔、篭の中の小鳥を可哀想だと姉さんに言ったら、こう言ったわよね。 => Nee‐san, long ago, when I told you that I felt sorry for a bird in a cage, I remember you said this to me.
+“篭の中しか知らない鳥は、外に憧れたりしない”って。 => "A bird that only knows the inside of a cage doesn\'t long for the outside".
+でも、彼女は鳥じゃない。 => But she wasn\'t a bird.
+{n}やっぱり、人間だった。 => {n}She was, ultimately, a human.
+篭の中にしかいなくても、それが世界の全てじゃないって、理解していた。 => Even if she had never been outside the cage, she understood that it wasn\'t the whole world.
+だから、 => So,
+………私は誘ったの。 => .........I invited her.
+「柵の外へ、 => "Do you want to try...
+……出てみますか？」 => ...going outside the fence?"
+「………ほ、本当に狼はいないのか」 => ".........Th‐there really aren\'t any wolves?"
+「いないですよ。 => "There aren\'t.
+絶対平気ですから」 => You\'ll definitely be safe."
+「…………………………。 => "..............................
+……出たいぞ。 => ......I want to leave.
+だが、いつも門は閉まっている」 => But the gate is always closed."
+「私が入ってきたところがあります。 => "There\'s the place I came in through.
+潜り抜けられる隙間があるんです」 => There\'s a crack you can slip through."
+「……そこを抜ければ、外の世界があるのか」 => "......If we go through there, is there a world outside?"
+「はい」 => "Yes."
+「……………………狼は本当にいない？」 => "........................There really aren\'t any wolves?"
+「くす。 => "*giggle*.
+はい、いませんよ」 => No, none at all."
+「…………………………」 => ".............................."
+私は、ちょっとした散歩に誘うくらいのつもりでいたけど。 => I had only planned to invite her for a short walk,
+…彼女は何度かお屋敷に振り返り、真剣に迷っているようだった。 => ...but she kept looking over her shoulder at the mansion, as though she were seriously deliberating over something.
+そして、その覚悟の意味を知る。 => Then I learned what she was preparing herself for.
+「……………妾は、もうここは嫌だ。 => "...............I...have had enough of this place.
+……外へ、出たい。 => ......I want to go...outside.
+そして妾が何者で、この世界はどうなっていて。 => And I want to know...who I am, what\'s happening in this world,
+…妾は何のために生まれてきたのかを、知りたい」 => ...and the purpose for which I was born."
+彼女がここでどんな生活を送ってきたかはわからない。 => I didn\'t know what her life had been like until then.
+そして、それは彼女にとって、一言では言い表せないものだったのだろう。 => It was probably something that she couldn\'t express easily.
+辛いものだったなら、ここを逃げたいと一言、言えばいい。 => If it was harsh, she just had to say that she wanted to escape.
+{n}甘いものだったなら、ここにまだ居ると一言、言えばいい。 => {n}If it was sweet, she just had to say that she would stay.
+それは例えるなら、 => To liken it to something,
+冬の日の暖かな暖炉が、少しずつ空気を澱ませて頭痛を感じさせるようなもの…？ => perhaps it was similar to how a hot fireplace on a winter day makes the air get thicker and thicker, giving you a headache...?
+このままここに居続けてはいけないと知りつつも、窓を開け寒風に身を苛むには、なお勇気が必要なのだ…。 => Even though you know that you shouldn\'t keep things the way they are, you still need the courage to open the window and be tormented by the cold wind...
+彼女は、いつまでもここにいてはいけないと気付き始めていた。 => She was starting to realize that she couldn\'t stay there forever.
+いつかは外へ出なくてはならないと気付き始めていた。 => She was starting to realize that she had to go outside sometime.
+でも、外の世界のことを知らない彼女にとって、 => But, since she didn\'t know about the outside world,
+外へ踏み出す第一歩は想像を絶する勇気が必要だったに違いない…。 => to take that first step outside must have required an unimaginable amount of courage...
+その上で、彼女は決意した。 => And she had taken that into consideration, and resolved herself.
+外へ出たいと、きっと生まれて初めてに違いない決意を、口にしたのだ。 => She had put that resolution to go outside into words, for what was surely the first time in her entire life.
+…私は少しだけ戸惑った。 => ...I hesitated slightly.
+{n}彼女は、お父様によってここに住まうよう決められている。 => {n}It had been decided that she would live here by Father.
+{n}例えるなら、彼女はお父様が愛でる篭の中の小鳥。 => {n}It was as if she were Father\'s beloved bird in a cage.
+私が勝手に逃がしてしまったら、 => If I just let her escape,
+……私はお父様にひどく叱られるのではないか…。 => ......wouldn\'t I be harshly scolded by Father...?
+「見たい」 => "I want to see."
+「………え？ => ".........Hm?
+何を？」 => See what?"
+「動物園が、見たいのだ」 => "I want to see...a zoo."
+「…………………ぁ」 => ".....................ah."
+彼女が、ようやく、とてもやわらかい笑顔を見せてくれたので、ちょっぴりだけ驚いてしまった。 => I was just a little surprised when she finally showed me a very soft smile.
+それはひょっとすると、 => That might have been...
+…篭より旅立つ覚悟ができたからこその、達観なのか。 => an inner peace, coming from her newfound readiness to venture out from her cage.
+それまでの暗い顔からは想像もつかないくらい、やわらかい笑顔だった…。 => A soft smile which I wouldn\'t have imagined could have come out of that dark face...
+「……そなたと話すと、知らないことばかり出てくる。 => "......When I speak with you, I keep hearing about things I don\'t know.
+…妾は、学校なるものもわからぬし、動物園も知らぬ。 => ...I don\'t know about this thing called school, nor about zoos.
+映画館も知らぬ。 => I don\'t know about movie theaters.
+遊園地も知らぬ」 => I don\'t know about amusement parks."
+「………そしてそれを知りたいと、心の底から思う。 => ".........And I think, from the bottom of my heart, that I want to know about them.
+…そなたは、妾をそこへ連れて行ってくれるのか？」 => ...Will you take me there?"
+「え、……う、うん」 => "Huh? ......Y‐yes."
+…お父様に内緒でどうやって、という疑問は沸いたけど、 => ...I was nervous about how I would do it and keep it a secret from Father,
+…彼女があまりに嬉しそうに笑うものだから、私は調子を合わせて頷いてしまう。 => ...but her face looked so happy, so I went along with her and nodded.
+でも、彼女には私のそんな曖昧な笑顔の意味は伝わらないようだった。 => But it seemed that the meaning behind my vague expression was not communicated to her.
+ここを出れば、私が本当にそれらへ連れてってくれると、信じたようだった。 => It seemed that she believed that I would really take her to all of those places if we left.
+無垢で、純粋だった。 => She was pure and genuine.
+……多分、誰からも騙されたことがないのだ。 => ......She had probably never been tricked by anyone.
+いや、……疑うことを教えられなかったとでも言うべきなのか。 => No, ......maybe it should be said that she hadn\'t been taught how to doubt.
+そんな笑顔が何だか眩しくて、だけれども痛々しくて。 => Her face was somewhat radiant, and yet pathetic.
+{n}…私は何とか彼女のささやかな願いを叶えてあげたいと思った。 => {n}...I wanted to somehow grant her modest wish.
+「妾は、…もうベアトリーチェは嫌だ。 => "I...have had enough of {f:5:Beatrice}.
+妾が何者なのか、知りたい。 => I want to know who I am.
+ベアトリーチェではない、新しい人間を始めたい」 => I want to start out as a new human, not {f:5:Beatrice}."
+「だから、ここから連れ出して欲しい。 => "So, I want you to take me from here.
+………もう、紅茶もいらぬ。 => .........I don\'t need tea anymore.
+ドレスもいらぬ。 => I don\'t need this dress.
+金蔵とも二度と会わぬ。 => I won\'t meet with Kinzo again.
+……ここより妾を連れ出してくれ。 => ......Please, take me from here.
+楼座」 => Rosa."
+でもそれは、まだまだ子どもの私には到底背負いきれぬ責任。 => However, that responsibility was one that a child such as me couldn\'t possibly bear fully.
+だけど、彼女の真剣な眼差しと、 => But her serious gaze and her brilliant smile,
+…まるで憑き物が落ちたような晴れ晴れしい笑顔を見ていると、 => ...almost as though an evil spirit had lifted from her,
+……私の中にも小さな勇気が湧いて来るのを感じた。 => ......made me feel a little courage start to rise up inside myself.
+きっとこれは、とても怒られることに違いない。 => This was definitely something that would get me in a lot of trouble.
+{n}……でも、きっとこれは正しいことに違いなかった。 => {n}......But it was definitely the right thing to do.
+どうなるかはわからないけれど……、 => I don\'t know how it will turn out, but......
+……彼女を連れ出そう。 => ......I\'ll take her out.
+お父様はもちろん、お母様にも相談できないだろう。 => Of course, I won\'t be able to ask help from Father, and not Mother either.
+………お兄様かお姉様に相談を？ => .........Should I talk to Onii‐sama or Onee‐sama?
+{n}うぅん、頼りになる源次さんか、 => {n}No, what about that reliable Genji‐san, or...
+…そうだ、困った時はいつも相談に乗ってくれる熊沢さんはどうだろう。 => that\'s right, what about Kumasawa‐san, to whom I can always talk when I\'m in trouble.
+きっと何とかしてくれるに違いない。 => I\'m sure they\'ll be able to do something.
+今はとにかく、ここから連れ出してあげよう。 => Anyway, for now, I\'ll take her out of here.
+{n}彼女にとって、もはやここは望まざる場所なのだから。 => {n}Because this is no longer a place where she wishes to be.
+……そして、私は柵の隙間から彼女を外へ連れ出したの。 => ......And so, I took her to the crack in the fence and led her outside.
+彼女は狼がいないかとびくびくしていたけど、 => She was all nervous, checking to make sure there were no wolves around,
+その怯えがなくなってからは、 => but after that fear disappeared,
+うっそうとした森の中をただ歩くだけでも、どこか楽しそうだった。 => she seemed somehow to be having fun even just walking around this dense forest.
+彼女は何かを見つける度に私にそれを尋ねたわ。 => Every time she found something, she would ask me about it.
+{n}それは本当にささやかな何かばかりだった。 => {n}And they were all really minor things.
+……あの花は何？ => ......What\'s that flower?
+あの葉っぱは何？ => What\'s that leaf?
+あの音は？ => And that sound?
+あの匂いは？ => And that smell?
+彼女にとって、…本当にあの柵の内側だけが唯一の世界だったのよ。 => It was really like...the inside of that fence had been her entire world.
+だから、世界の外側に出た彼女にとっては、…………。 => So, to her, who had stepped {i:out} of the world, this was.........
+……おかしなものね。 => ......You know, it\'s strange.
+私は最初、彼女のことを見た時、魔女の館でくつろぐ魔女そのものだと思っていた。 => In the beginning, when I first saw her, I thought that she was the absolute incarnation of a witch relaxing by a witch\'s mansion.
+でも、今は違った。 => But now it was different.
+むしろ正反対。 => Or actually, the complete opposite.
+……有限だと信じていた世界の外に出て、初めて世界が無限だと知った喜びでいっぱい。 => ......She had gone out of a world she had believed to be finite, and was full of joy at realizing for the first time that the world was endless.
+だから目に入るもの全てが新しい。 => So everything she saw was new.
+{n}……まるで、彼女の方がおとぎの国に迷い込んだかのよう。 => {n}......It was almost as though she was the one who had been thrown into a fairy tale.
+彼女がアリスなら、私はまるで時計を持ったウサギのような気分だったっけ……。 => If she was Alice, then I felt almost like a rabbit holding a watch......
+彼女にとっては、そんなとても楽しい、刺激に満ち溢れた散歩だったろうけれど。 => To her, it was probably a really fun walk, filled to the brim with excitement.
+…私は実は途方に暮れていた。 => ...But as for me, the truth was, I was completely bewildered.
+……なぜなら、ここへはでたらめに歩いてやってきたから。 => ......After all, I had walked randomly to get there.
+{n}だから、お屋敷への帰り道などわかるはずもなかった。 => {n}So there was no way I could have known the way back to the mansion.
+森の中には灯りはないし、懐中電灯だって持っていない。 => There were no lights in the forest, and I hadn\'t brought a flashlight.
+{n}このまま暗くなったら大変なことになるだろうと気付き、焦ったわ。 => {n}I realized that it would be terrible if it got dark while we were still like this, and grew impatient.
+彼女は無邪気すぎて、 => She was too innocent,
+森の中で夜を迎えてしまうことがどれほど恐ろしいか、まったく理解できていないようだった。 => and apparently, she couldn\'t understand at all how frightening it would be to face the night inside the forest.
+でも、外へ連れ出したのは私。 => But I was the one who had brought her outside.
+{n}…何とか責任を持って、この事態を解決しなくちゃ。 => {n}...Somehow, I had to take responsibility, and resolve this situation.
+だから考えたの。 => So I thought.
+……とにかく海へ出ようって。 => ......That for now we should just go out to the sea.
+{n}そして海岸に沿って回れば、いつか必ず屋敷に戻れるはず。 => {n}If we then followed the coast around, eventually we should definitely be able to make it back to the mansion.
+しかし、それは想像するより大変なことだったわ。 => However, that was much more of a problem than I had imagined.
+{n}…何しろ、私には地図もコンパスもない。 => {n}...After all, I didn\'t have a map or a compass.
+未開の森はまっすぐ歩けるはずなどなく、方向感覚などすぐに失ってしまった。 => There was no way I could walk in a straight line through an uncultivated forest, and I had immediately lost my sense of direction.
+自分の来た道がどれだったか、もうさっぱりわからず、完全に迷ってしまっていたの…。 => I already had no clue which trail I had come by, and was completely lost...
+このままでは、どこを歩いているかもわからないまま、夜を迎えてしまうに違いなかったわ。 => At this rate, night would definitely fall before I even knew where I was walking.
+でも、泣き言なんて言っていられない。 => But I didn\'t have the luxury to complain.
+だって、後についてくる彼女はこんなにも無邪気で楽しそう。 => Because that woman following behind me was so innocent and having so much fun.
+…だからこそ、私は彼女の笑顔のためにも、 => ...Therefore, for the sake of her smile if nothing else,
+絶対にこの森の外へ案内してあげなければならないのだ。 => I absolutely had to guide her out of this forest.
+辛い顔を彼女に見せまいと歯を食いしばり、 => Gritting my teeth so that I didn\'t show her a troubled face,
+私は林を掻き分けながら道なき道を進んだわ。 => I pushed my way onward through the pathless woods.
+そして、色々と苦労したけれど、幸いにも海に出ることができた…。 => And, although we had various troubles, we were lucky enough to make it to the sea...
+今、島のどこにいるのかは、相変わらず見当もつかなかったけれど、 => At that time, I still didn\'t even have a clue where I was on the island,
+とにかく、こちら回りに進めば、必ずお屋敷へ帰れるとわかって、ちょっとだけ安心したわ。 => but for the time being, I was just a little reassured, realizing that if I just went around this way, I would surely be able to return to the mansion.
+もっとも、海に出たといっても、私たちは岩壁の上にいた。 => Of course, although I said that we reached the sea, we were on the top of a rocky cliff.
+海岸はずっと下だったわ。 => The beach was far below us.
+私はずっと森の中を歩いていて疲れていたから、 => I was tired from walking around the forest for so long,
+たとえ岩浜であっても、開けた場所の方がずっと歩きやすいだろうと考えた。 => so I thought that even though it was a rocky beach, an open area would probably be much easier to walk in.
+だから、何とかして岩壁を降りようと提案したの。 => So I planned to somehow go down the rocky cliff.
+{n}…一応、危なそうだったし、他に案はないかと思って。 => {n}...It did look pretty dangerous, and I wondered if there was some other way.
+でも、ベアトリーチェは私の提案に何の疑いもなく頷いた。 => However, {f:5:Beatrice} agreed with my plan without any doubts.
+……歳は向こうの方が上だろうに、 => ......Even though she was probably older than me,
+…まるで私を親鳥だと信じるアヒルか何かの雛のように、本当に素直に従ったわ。 => ...she obeyed me truly obediently, almost as though she were some kind of chick who believed I was a mother bird.
+私は岩壁を降りられる場所がないか探した。 => I searched to see if there wasn\'t some place where I could go down the cliff.
+…そして、崖が崩れて斜面を作っているところを見つけたの。 => ...Then I found a place where the cliff had crumbled into a slope.
+……ちょっと危なそうだけど、 => .......It looked a little dangerous,
+両手両足でしっかり這うようにして降りれば、多分大丈夫だと思った。 => but if I went down on both hands and both legs, like I was crawling, I thought it would probably be okay.
+「……ここを降りましょう。 => "......Let\'s go down here.
+気をつけないと危ないけど、 => It\'ll be dangerous if you aren\'t careful,
+とにかく海岸に下りて、あとは沿って歩けば、もう迷わずに済むと思うの」 => but for now, if we go down to the beach and walk along it, I think we can avoid getting lost any more."
+「うむ。 => "Mmhm.
+楼座がそうするのならそうしようぞ。 => If you will do that, then let\'s go.
+妾は迷うとやらも楽しいぞ。 => I find this getting lost to be fun also.
+とても愉快だ」 => I\'m very happy."
+………彼女には本当に危機感というものがなかった。 => .........She really had no sense of danger.
+{n}何不自由ない生活をしてきたのは間違いないだろう。 => {n}There was probably no mistake that she had lived a life without discomfort.
+夜になったら暗くなるのはわかっていても、 => Even though she knew it would get dark when night fell,
+灯りのない森の中がどれだけ危険か、想像が及んでいないのだ。 => she couldn\'t imagine how dangerous the inside of a forest could be without a light.
+ついでに、崖から転げ落ちたらどれだけ危ないかも、想像がまったく及んでいないようだった。 => Furthermore, it seemed that she couldn\'t grasp at all how dangerous it might be if she fell from the cliff.
+私は重ねて注意を促す。 => I warned her once more to be careful.
+私は慎重に降りられる場所を窺った。 => I cautiously examined the place where we could go down.
+{n}…高さは、……相当高く見えたわ。 => {n}...It looked......pretty high up.
+{n}多分１０ｍくらいはあったんじゃないかと思う。 => {n}I think it might have been about ten meters down.
+下から見ればきっと、お屋敷の屋根よりも低かったのかもしれないわね。 => If you looked at it from the bottom up, it would probably have looked shorter than the roof of the mansion.
+でも、上から見たら、まるで東京タワーの展望室から眼下を見下ろすような気分だった。 => But looking from the top, it felt almost like staring down from the Tokyo Tower\'s observation room.
+でも、ベアトリーチェは相変わらず、全然怖がっている様子がなかったわ。 => But {f:5:Beatrice} still appeared to be completely without fear.
+…まるで、高いところは危ないということすら教えられていなかったような感じ。 => ...It felt as though she had never even been taught that high places were dangerous.
+……いえ、彼女は自分が魔女だと信じていて、 => ......No, maybe she truly believed that she was a witch,
+空が飛べるから危なくないと本当に信じていたのかもしれない。 => and that she could fly, so there wasn\'t anything dangerous.
+「気をつけてくださいね。 => "Please be careful.
+…結構、高いから」 => ...It\'s pretty...high."
+「うむ。 => "Mmhm.
+気をつけるぞ。 => I will be careful.
+下へ降りたら、海があるな。 => I see there\'s a beach if we go down there.
+そこに水族館があるのか」 => Is there an aquarium there?"
+「いえ、この島には水族館はないですよ。 => "No, there are no aquariums on this island.
+でも海にはたくさんの魚がいると思います」 => But I think there are lots of fish in the sea."
+「そうか。 => "I see.
+魚はいるのか。 => So there are fish.
+そなたが話してくれた、…えぇと、クジラとかイルカとかペンギンとかはいるのか」 => Are there, ...umm, whales and dolphins and penguins, like you talked about?"
+「いえ、そういうのは水族館に行かないといないです。 => "No, you would have to go to an aquarium for those.
+……水族館は島を出ないとないですよ」 => ......And there aren\'t any aquariums unless you leave this island."
+「そうなのか。 => "Is that so?
+……だが楽しみだ。 => ......But I look forward to it.
+クジラとはどんな魚なのか」 => What kind of fish are whales?"
+「えっと、…すっごく大きな魚で、あれ、哺乳類かな？ => "Umm, ...they\'re really big fish and...huh, aren\'t they mammals?
+それで潮を吹いたりします」 => And they spit out seawater."
+「ほう。 => "Hoh.
+ならばイルカは」 => Then the dolphins?"
+「えっと、頭のいい魚で、あれ…、これも哺乳類だっけ？ => "Umm, they\'re really smart fish and...{0}huh...{0}aren\'t they also mammals?
+とても頭が良くて芸とかを覚えられるんですよ」 => They\'re really smart and they can be taught tricks and stuff."
+「ほほぅ。 => "Hohhoh.
+ならばペンギンはどうなのか」 => Then what about penguins?"
+「えっと、…あれ、これは鳥類だっけ…」 => "Umm, ...huh, weren\'t they birds...?"
+「何だ。 => "What\'s this?
+水族館なのに、さっきから魚が出てこんぞ？」 => Didn\'t you say that there were fish in aquariums?"
+「えーとえーと…。 => "Ummm, ummm...
+ま、その、魚だけでなく、色々な海の生き物がいっぱいいるんですよ」 => Well, um, there isn\'t only fish, they\'re full of all kinds of things that live in the ocean."
+「ほほぅ。 => "Hohhoh.
+それはとても楽しみだっ。 => I am really looking forward to that!
+………ん、」 => .........nn—"
+{a:c: => {a:c:
+わ、ひゃっ。} => Wa, hyaa.}
+彼女が聞きようによっては滑稽な、 => She made...some might have described it as a funny,
+…慌てた短い声、 => ...rushed and short voice,
+…いえ、多分それは悲鳴だったのかも。 => ...no, probably it was a scream, I think.
+そんな声を唐突にあげた。 => She suddenly made a sound like that.
+……彼女の体が岩壁から離れて、すぅっと落ちていった。 => ......Her body separated from the cliff, and gently fell down.
+私はすぐに言おうと思ったわ。 => I immediately thought to say to her.
+{n}だからあれほど注意して下さいって言ったのに！　って。 => {n}"How many times did I warn you to be careful!"
+……子どもの考えよね。 => ......It was the thought of a child.
+何かが起こった時、真っ先にそれを怒ることで、自分に過失がないことを示そうとする言い逃れ。 => It was how a child immediately gets mad when something happens, trying to show that they are not at fault.
+もちろん私も口にしたわ。 => Of course, I said it too.
+{n}大丈夫？ => {n}Are you alright?
+だからあれほど注意しなさいって……。 => How many times did I warn you......
+「……………それで。 => "...............So,
+…崖から落ちて、 => ...after she fell from the cliff,
+…どうなったんだ」 => ...what happened?"
+「………………………」 => "..........................."
+「……彼女はどうしたんだ。 => "......What happened to her?
+…楼座」 => ...Rosa."
+楼座は沈黙する。 => Rosa fell silent.
+…足元に目線を落とし、…床の向こうに、何かおぞましい記憶を透かし見ているようだった…。 => ...Her gaze fell to her feet, ...as though she were seeing through the floor to some disgusting memory...
+「死んだ、のね……？」 => "She...died, right......?"
+絵羽のあまりに残酷なその一言は、楼座がもっとも避けたい一言だった。 => Eva\'s brutal words were the ones that Rosa had most wanted to avoid.
+そしてそれを突きつけられ、……観念したように叫ぶ。 => And when she was hit with them, ......she screamed in resignation.
+「えぇ、死んだわッ！！ => "Yes, she died!!
+岩浜だったもの、尖った危険な岩がたくさんむき出しになっていた！！ => It was a rocky beach, many sharp and dangerous rocks lay exposed!!
+目を見開いたまま、すごい血が溢れ出して…たちまち真っ赤な絨毯を広げていった…！」 => Her eyes were still open, the blood kept pouring out... Suddenly a red carpet was spreading out...!"
+「声を掛けたわ、揺さぶったわ！！ => "I spoke to her, shook her!!
+でも、彼女は返事はおろか、瞬きすらも、……いえ、瞼を閉じることさえしてくれなかった！！」 => But she refused to respond, not even a blink, ......no, she wouldn\'t even close her eyelids!!"
+「私が悪いのよ！ => "It was my fault!
+彼女はドレス姿だったのよ？！ => She was wearing a dress, remember?!
+あんな動きにくい格好なのを知っていたのに、私が岩壁を降りようなんて言ってしまったから！！ => Even though I knew that her outfit was difficult to move in, I said that we should go down the cliff!!
+彼女はすごい素直だったから、私の言うことに何の疑いもせずに従って…！！」 => She was incredibly innocent, so she obeyed what I said without any doubts...!!"
+「……いつまで死んでいるつもりか。 => "......How long do you plan on remaining dead?
+いい加減に目を覚ませ。 => Open your eyes already.
+まったく、妾の与り知れぬところで勝手に肉塊に姿を変えおって」 => Honestly, just turning into a lump of meat without me."
+「お前ぇのとこの太もも姉ちゃんとイチャついてただけだぜ。 => "I was just flirting with your friend the sexy‐assed chick.
+……それより、こりゃどういうことだ」 => ......More importantly, what is all this?"
+「うむ。 => "Mmm.
+見たままよ。 => It is as you see.
+……妾は足を踏み外して転落し、 => ......I missed my footing, fell down,
+“死んだ”」 => {i:and died}."
+「何だとぉ…。 => "What did you say...
+………１９人目として登場しておきながら、 => .........Even though you appeared as the 19th person,
+……死んだだと……？」 => ......you say you died......?"
+「ふざけるな、そんなわけはない…！ => "Don\'t mess with me, that can\'t be...!
+楼座叔母さんは子どもだったし焦ってた。 => Auntie Rosa was a kid, and she was panicking.
+医者がいたわけでもない。 => It\'s not like there was a doctor.
+多分、死んだと誤解しただけで、お前は多分その、……仮死状態か何かで生きていたんだ。 => She probably made a mistake, thinking you were dead, and you probably, umm, ......were in a state of apparent death, or something, but actually alive.
+そうだろッ？！」 => Right?!"
+そんなはずはないんだ。 => It can\'t be.
+どうせ生きてるんだ。 => She\'s obviously alive.
+{n}じゃなきゃこいつがここにいるわけがないじゃないか…！ => {n}Otherwise, she wouldn\'t be here in front of me, right...?!
+…子ども時代の楼座叔母さんが、泣きながらベアトリーチェの体を揺さぶっている。 => ...The kid‐aged Auntie Rosa was shaking {f:5:Beatrice}\'s body, crying.
+俺もその顔を覗き込むが、 => I too stared into that face,
+……………目は見開かれたままで、本当に死体そのもの。 => ...............but her eyes were still open, and it really was a corpse.
+…仮死状態に違いないなんて曖昧なことで誤魔化したいが、 => ...I wanted to brush it off with something vague like a state of apparent death,
+……どう見ても、仮どころか、…本当に死んでいるようにしか見えない…。 => ......but from any angle, there was nothing "apparent" about it; ...she really didn\'t look anything but dead...
+ベアトリーチェは、岩壁のあの高さから真っ逆さまに落ち、 => {f:5:Beatrice} had fallen upside‐down from a cliff of that height,
+……あの尖った岩の先端で頭部を強打した。 => ......and her head had smashed against the pointed tip of those sharp rocks.
+…………死ぬだろ、 => ............You would die, wouldn\'t you,
+……あの高さで、 => ......from that height,
+……こんな岩じゃ……。 => ......on those rocks......
+だが、認めるわけにはいかない…。 => But I can\'t accept that...
+どんなに死んでるように見えても、……こいつは生きているはずなんだ…！ => No matter how dead she looks, ......she has to be alive...!
+そしてムカつくこのクソ魔女になった！ => And she became this damn irritating witch!
+それで全てのつじつまが合うんだ。 => That way, all of the inconsistencies fit.
+こいつは祖父さまによって、ずっと隠し屋敷に軟禁されていたんだ。 => She\'d been confined by Grandfather in a hidden mansion the whole time.
+そしてその恨みを晴らすために復讐を画策し、 => And then to avenge herself, she planned out her revenge,
+……数々の残忍な殺人を引き起こすんだ！ => ......and would go on to commit a number of atrocious murders!
+楼座叔母さんは死んだと思い込んでるだろう。 => Auntie Rosa probably just mistakenly thought that she was dead.
+だが本当は生きてて、楼座叔母さんが立ち去った後に奇跡的に息を吹き返したんだ。 => But she was really alive, and as soon as Auntie Rosa left, she miraculously started breathing again.
+……そしてどうにかして今日まで生き延び、復讐劇の幕を開けるんだ。 => ......And then she somehow lived until today, and would open the curtain on the scene of her revenge.
+そうじゃなきゃつじつまが合わねぇ！！ => Otherwise, the facts don\'t fit together!!
+「……そう簡単には騙されねぇぞ。 => "......I won\'t let you trick me so easily.
+赤で復唱できるか？！ => Can you repeat it in red?!
+確かに死んだと！！ => That she died for certain!!
+どうせ生きてるんだろ？！ => She has to be alive, right?!
+見え見えだぜ！！」 => It\'s obvious!!"
+「それのどこが生きているように見えるというのか。 => "How does {i:that} look like {i:being alive} to you?
+{p:1:間違いなく死んでいる}！」 => {p:1:She\'s definitely dead}!"
+「……………………………むぅぅぅ…」 => ".................................mgghhhh..."
+１９人目は祖父さまの愛人であり、そして人間であるベアトリーチェだ、という俺の仮説が、崩れる。 => My theory that the 19th person was Grandfather\'s mistress, who was a human {f:5:Beatrice}, broke down.
+…守勢から反撃に転じたつもりだったのだが……。 => ...I thought I had managed to segue from a defensive position into a counterattack, but......
+「……なら、……お前は何者だってんだ。 => "......Then, ......who are you?
+お前はたった今、死んだんだろうが！ => You just died, this very minute!
+まさか魔法で蘇ったとか言い出すんじゃねぇだろうなぁ？！」 => You aren\'t going to say that you revived yourself with magic, are you?!"
+「くっくっくっく。 => "*cackle*cackle*.
+すでに説明したと思うがな」 => I think that I\'ve already explained it, though."
+「……そこに倒れている妾は、確かに魂は妾だが、 => "......The me that is lying over there definitely has my soul,
+その体は妾を現世へ繋ぎ止めておく肉の檻に過ぎなかったと。 => but that body was nothing more than a cage of flesh tying me to the physical world.
+そしてその肉の檻が、こうして壊れた。 => And that cage of flesh was thus broken.
+……それがどういうことかわかるか？」 => ......Do you understand what that means?"
+「……………もう、さっぱりだぜ。 => "...............I don\'t have a clue anymore.
+……好きなだけ魔女っ子トークに興じろよ。 => ......Keep having fun with your witch‐girl talk.
+茶菓の代わりに聞いてやらぁ！ => I\'ll listen instead of eating a cookie!
+何だ、空っぽか。 => What the... It\'s empty.
+おい、紅茶のお代わりを頼むぜ」 => Hey, could I get some more black tea?"
+「くっくっくっく！ => "*cackle*cackle*!
+ロノウェ。 => Ronove.
+客人が紅茶をお望みだ」 => Our guest wants some black tea."
+ベアトが手をパンと叩くと、ロノウェが姿を現す。 => When Beato clapped her hands, Ronove appeared.
+……執事ってのは便利なこった。 => ......Butlers sure are convenient.
+「お代わりですね。 => "A refill, is it?
+かしこまりました。 => Certainly.
+どの程度お注ぎしましょうか？」 => How much shall I pour you?"
+「どうせ茶菓がボリューム満点だろうからよ。 => "Well, I\'ve got more than enough to go with it.
+半分でいいぜ」 => Half will be fine."
+「それでもなみなみとお淹れするのが英国式でございますよ」 => "Filling it to the brim regardless is the English custom."
+喉を湿らす程度で良かったのに、たっぷりと紅茶を注がれてしまう。 => Even though just enough to wet my throat would have been fine, he filled it to the top with tea.
+俺はベアトに背を向け、それを啜りながら沈黙した…。 => I turned my back to Beato, sipping it in silence...
+「ちょっと…、目を覚ましてよ…！！ => "Wait... Open your eyes...!!
+ベアトリーチェ…！！」 => {f:5:Beatrice}...!!"
+楼座が妾、 => Rosa shook me,
+…………いや、かつて妾だったものの骸を揺さぶっている。 => ............no, shook the corpse that had once been me.
+それを、私は少し離れて見守っていた。 => I watched over her from a short distance away.
+あぁ、…私はあそこから転落して死んだんだな………。 => Ah, ...so I fell from there and died.........
+私はしばらくの間、そうだと信じた。 => I believed that was true for a while.
+…そして楼座が長い時間を骸の傍らで過ごし、駆け出していくのを見届けてから。 => ...After that, I saw Rosa spend a long time beside my corpse, then watched her as she ran away.
+……ようやく自分は、そこの骸とは別の存在の人格であることを理解する…。 => ......Eventually, I realized that I was a different individual from that corpse...
+「…………………そうか。 => ".....................That\'s right.
+妾は、……妾か。 => I am......me.
+…ようやく、金蔵の戒めから逃れられたのか…」 => ...So, I have finally been able to escape from Kinzo\'s restrictions..."
+ようやく記憶が戻ってくるのを感じる…。 => Eventually, I felt the memory returning...
+{n}自分が千年を経た無限の魔女であること。 => {n}The fact that I was an Endless Witch who had lived for one thousand years.
+そして金蔵によって呼び出され、長い時間、囚われの身であったことを思い出す…。 => And then I remembered that I had been summoned by Kinzo, and for a long time, had been imprisoned by him...
+肉の檻に囚われている間、妾の魔女としての記憶は完全に失われていた。 => While I had been imprisoned in a cage of flesh, I had completely lost my memory as a witch.
+しかし、楼座のお陰で、とでも言うべきか。 => However, thanks to Rosa, if you could say that...
+事故で死ねたお陰で、妾は今、ようやく自らを取り戻したのだ……。 => Thanks to my accidental but fortunate death, I had now finally brought myself together......
+「……楼座。 => "......Rosa.
+そなたは妾を死なせてしまったと後悔しているだろうが。 => You are probably regretting that you brought about my death.
+妾にとっては感謝したいくらいよ。 => But as for me, I could even thank you.
+くっくっくっく…！」 => *cackle*cackle*...!"
+楼座の姿はもう見えない。 => Rosa was already nowhere to be seen.
+医者を呼びに行ったのか、恐ろしくなってこの場を逃げたくなったのか。 => Had she gone to call a doctor, or had she escaped from a scene which had become frightening?
+…今更どうでもいいことだ。 => ...That no longer matters.
+{n}魂の抜け殻に、今更何の価値もないのだ。 => {n}That soulless shell is no longer worth anything.
+しかしそれにしても、……今の自分の何と脆弱なことか。 => All that aside, ......how frail I am now.
+{n}このうららかな昼間の太陽ですら、今の自分には苦痛だ。 => {n}Even this glorious midday sun is agony to me now.
+私は人の姿を崩す。 => I destroyed my human form.
+{n}そして数匹の黄金の蝶に姿を変えた。 => {n}Then I changed it to several gold butterflies.
+……うむ、今の私の弱々しい魔力では、この程度の姿の方が楽でいい。 => ......Yes, with my magic power as frail as it is now, this form is easier.
+そして日の光を少しでも逃れるため、私は風に乗ってふわりと岩壁を越える。 => And to escape even a little from the light of the sun, I rode the wind and lightly passed over the cliff.
+森の中なら多少は涼しいだろう。 => It will probably be somewhat cooler in the forest.
+とにかく、ゆっくり時間を掛けて養生し、元の力を取り戻そう。 => Anyway, I\'ll take some time to recuperate, and regain my original power.
+……これまでの借りを、金蔵にどう返してやるかを思案しながら。 => ......As I think of how I will pay Kinzo back for all he has done.
+ひらりと宙を舞いながら、もう一度だけ海岸を見下ろす。 => Dancing alone through the air, I looked down at the shore one more time.
+岩浜に、かつての妾が、……そして、やがて妾が取り戻そうとしている姿が、横たわっている。 => On the rocky shore lay the figure I had once possessed, ......and that I would eventually regain.
+肉体を捨てた妾が、あの姿を取り戻すには、 => To regain the form of that physical body I have thrown away,
+…多分、百日、二百日では及ぶまい。 => ...it will probably take more than one hundred, two hundred days.
+…それこそ千日、あるいはさらにを必要とするだろう。 => ...It might require one thousand days, or maybe even more.
+だが、妾は無限の魔女。 => However, I am the Endless Witch.
+{n}千年を経し黄金の魔女。 => {n}The Golden Witch who has lived for one thousand years.
+{n}数えることのできる月日を待つなど、造作もないこと。 => {n}Waiting any countable number of days is no problem at all.
+くっくっく、金蔵よ。 => *cackle*cackle*. Oh, Kinzo.
+{n}今この場にいないことを悔やむがいい。 => {n}You may regret that you are not here now.
+{n}もう妾を捕らえることはできぬぞ。 => {n}No longer will you be able to capture me.
+{n}…くっくっくっく！ => {n}...*cackle*cackle*!
+「………それで、お前は黄金の蝶に姿を変え、森の中に潜んで魔力が回復するのを待った、ってのか？」 => ".........And then, you changed into gold butterflies, hid in the forest, and waited for your magic power to be restored? Is that what you\'re saying?"
+「そういうことだ。 => "That is correct.
+そなたを嘲笑するためにこの姿を取るが、本来は蝶たちの姿でいた方が魔力的には楽なのだ」 => I take this form to sneer at you, but normally, it is easier magically for me to keep my form as gold butterflies."
+「無理しねぇで楽な格好でいやがれよ。 => "Don\'t stress yourself and stay in an easy form.
+ムカつく笑い声を聞かずに済むぜ」 => I wouldn\'t mind not hearing your irritating laugh."
+「くっくっくっく。 => "*cackle*cackle*.
+蝶に姿を変え、森に紛れた妾を探し出すことなど、もはや金蔵には不可能なこと。 => When I turned into butterflies and slipped into the forest, it was already no longer possible for Kinzo to find me.
+……だが、金蔵も指をくわえているわけではなかった。 => ......However, Kinzo was not about to stand there doing nothing.
+しかし、妾を捕らえる方法はすぐに用意は出来ぬ」 => Still, he would be unable to immediately prepare a way to catch me."
+「その為、まずは妾をこの島から逃がさぬ方法、 => "Therefore, he first moved immediately to prevent me from leaving this island,
+そして、妾が力を取り戻すことがないよう、即座に手を打ったのだ」 => and to keep me from regaining my power."
+「………やれやれ、とにかく金蔵の執念深いことと言ったら、想像を絶する。 => ".........My, my. All I can say is that Kinzo\'s tenacity does defy the imagination.
+…あれに惚れられるのも、なかなかに辛いものだぞ。 => ...It is pretty tough to be loved by someone like that.
+くっくっく！」 => *cackle*cackle*!"
+「蝶になったお前を逃がさない方法？ => "A way to keep you from leaving after you became butterflies?
+何だよ、森全体に蚊帳でも張ったってのか？」 => What, did he put a bug net around the entire forest?"
+「うむ。 => "Indeed.
+それを魔法的に行なったのだ。 => He did the magical equivalent.
+………そなたは知っておるか？ => .........Did you know?
+船着場の先の洋上に岩礁が浮かび、そこに小さな東洋魔術の祠があることを」 => On the sea in front of the harbor floats a reef, on which sits a small shrine of Eastern magic."
+「……あぁ、あれか。 => "......Ah, that.
+今年はなくなってたけどな。 => It was gone this year, though.
+昔、修験者が作ってったとかいう祠なんだろ？」 => It was a small shrine built long ago by a mountaineering ascetic, right?"
+「六軒島は元来、歪みのある島でございます。 => "This island was originally an island of distortions.
+魔力的な存在や、それに類した存在を引きつけます。 => Magical beings and other beings of similar ilk were attracted to it.
+……お嬢様も、そんな内のおひとりでございましょうね。 => ......Milady herself is one of them, I imagine.
+紅茶のお代わりはいかがですか？」 => How about some more tea?"
+「くっくっく、いただこうぞ。 => "*cackle*cackle*, please.
+……それらは人間たちに害をなし、恐らく数々の不気味なる伝承を残してきたであろう」 => ......They did harm to humans, and probably left several eerie legends behind them."
+「それを聞きつけた東洋魔術師が、古代に設けたのがあの祠なのだ。 => "That small shrine was built in ancient times by an Eastern mage who heard of them.
+長い時間を経て、その力は失われておった。 => A long time passed, and that power was lost.
+金蔵はそれを修復することで、島の結界を蘇らせ、妾を再び島に縛り付けたのだ」 => By repairing it, Kinzo restored this island\'s barrier, and once again tied me to this island."
+「……西洋魔女のお前に、東洋の魔法なんて通じるのかよ」 => "......Can Eastern magic work on a Western witch like you?"
+「本来は相性が悪い。 => "Normally the affinity is poor.
+しかし、妾を封じたいという目的においては、ある意味、都合が良かっただろうな」 => However, for the purpose of sealing me there, in a way, it might have been suitable."
+「妾も、西洋魔術であれば心得がある。 => "If it was Western magic, I would have some knowledge.
+どのような結界であっても、何かの手が打てたであろう。 => For any barrier, there would have been some measures I could have taken.
+しかし東洋魔術は専門外よ。 => But Eastern magic is outside my area of expertise.
+妾が飲まんとするスープに対し、スプーンではなく箸を与えられたようなものだ」 => It was as if I had been given chopsticks instead of a spoon for some soup I was trying to eat."
+「東洋魔術が強く支配する空間では、西洋魔術はひどく力を失います。 => "In a space strongly controlled by Eastern magic, Western magic loses much of its power.
+ただでさえ千日は掛けたであろう力を取り戻す時間を、 => It would likely have taken her a thousand days to regain her power even under normal circumstances,
+さらにさらに長く掛けねばならなかったのです」 => and now it would take her much, much longer."
+「……それで、約２０年掛けて魔力を取り戻し、今こうして蘇ったって言いたいのか」 => "......So you\'re trying to say that it took you twenty years to regain your power, and now you are revived, like this?"
+「辛く長い年月であった…。 => "Those were horribly long years...
+妾は黄金の蝶の姿のまま長く日々を送り、金蔵の屋敷を見つけ、やつの日常を見守った。 => I spent many days in the form of gold butterflies, found Kinzo\'s mansion, and watched over him every day.
+どのように仕返しをしてやろうか、それを思案することだけを日々の楽しみに生きてきた」 => I lived through those days with no means to enjoy myself except to ponder how I would get back at him."
+「……妾にとって幸運だったのは、その間の２０年間。 => "......What was fortunate for me was that during those twenty years,
+金蔵は妾を探し出し捕らえるあらゆる秘術にことごとく失敗した点だったか」 => Kinzo tried to use every magic to find and capture me, and failed in them all."
+「人間に起こせる奇跡の数などたかが知れている。 => "A human cannot bring about miracles very many times.
+妾をあれだけ長く捕らえていただけでも、充分に身に過ぎた奇跡だ。 => Even simply holding me captive for that long had been a miracle far above his place.
+そう何度も捕らえられては堪らぬわ」 => It would be unthinkable for me to be captured like that multiple times."
+「………祖父さまが、前のゲームだかで言ってたな。 => ".........Grandfather said something in the previous game.
+魔法は確率的奇跡に宿る、みたいなことをよ」 => It was something like, magic dwells in probabilistic miracles."
+「うむ。 => "Mmhm.
+金蔵は妾を再び捕らえる秘術を探る内に、そこに行き着いたのだ。 => While Kinzo searched for a hidden art to capture me again, he ended up at that.
+……………そして、１３人の生贄を捧げることで妾を再び蘇らせる儀式を、ついに編み出したのだ」 => ...............Then, he finally worked out the ritual involving the offering of thirteeen sacrifices to revive me again."
+「１３人の、……生贄…」 => "Thirteen......sacrifices..."
+「それが、魔女の碑文。 => "That is the witch\'s epitaph.
+生贄の唄でございます。 => It is a poem of sacrifices.
+……第一の晩に６人。 => ......Six people on the first twilight.
+第二の晩に２人。 => Two people on the second twilight.
+そして第四の晩から第八の晩にかけて５人。 => And then five more people on the fourth through eighth twilights.
+合計１３人の生贄を捧げる、禁じられた儀式…。 => A forbidden ritual, involving the offering of a total of thirteen people as sacrifices...
+その生贄はランダムに決められ、儀式を執り行う金蔵自身も例外にはなりません」 => Those sacrifices are chosen randomly, and the one holding the ritual, Kinzo himself, is not an exception."
+「馬鹿野郎ぉ…。 => "You\'re out of your mind...
+この島で起こったあの凄惨な殺人が、全部、おかしな儀式だって言うのかよ！！」 => Are you saying that all of the gruesome murders that occurred on this island were all part of a weird ritual?!!"
+薄々はその可能性もあるかもしれないとは思っていた…。 => I was vaguely thinking that this might be a possibility...
+でも、魔女と悪魔にそれが真相だなんて言われて、はいそうですかで鵜呑みになんかできるものか！ => But I can\'t just hear that this is the truth from a witch and a demon and say "Oh, really?" and accept it!
+「六軒島には１８人いる。 => "There are eighteen people on Rokkenjima.
+１３人が生贄に捧げられ、５人だけが生き残る。 => Thirteen are sacrificed; only five are left alive.
+そして妾は蘇る」 => Then I revive."
+「……つまり、金蔵が妾に再び会える確率は大体、三分の一と言ったところか。 => "......In other words, the odds that Kinzo will be able to meet me again are probably around one third.
+その確率に自らの命を賭し、 => He bet his own life on those odds,
+残りわずかな寿命の最後の一瞬に、妾との再会を望んだのだ」 => wishing for a reunion with me for the last bit of his remaining life."
+「………そのふざけた儀式のために、俺たち親族が集められたってのかよ？！ => ".........You\'re saying he gathered our family for the sake of that fucked‐up ritual?!
+ふざけやがってッ！！ => Oh, yeah, real fucking funny!!
+いい加減なことを抜かすんじゃねぇッ！！」 => Don\'t say stuff like that, damn it!!"
+「元より契約の通りだ。 => "It was according to the contract from the beginning.
+金蔵の生を終える時、 => When Kinzo\'s life ended,
+貸し与えた黄金と、そして金蔵が生み出した財産の全てを妾が貰い受けることになっておる」 => all of the gold I had lent him, and all of the assets that Kinzo had created, were to be received by me."
+「……金蔵にはさんざん煮え湯を飲まされたが、 => "......Kinzo put me through a nightmareish ordeal,
+今となってはこの千年でも稀な時間だった。 => but thinking back on it now, it was an extraordinary period, even amid the past thousand years.
+何しろ、魔女の天敵は退屈よ。 => After all, the natural enemy of a witch is boredom.
+それから逃れることのできる数十年間を提供した金蔵には、 => To Kinzo, who offered me a chance to run away from that for several decades,
+なるほど、それも含めて借りがあるやも知れぬ」 => yes, considering that among other things, I might have a slight debt to him."
+「妾は金蔵のゲームに乗ることにした。 => "I decided to go along with Kinzo\'s game.
+そしてまず、金蔵は右代宮家当主の指輪を妾に返却する。 => And so, first off, Kinzo returns to me the Ushiromiya family Head\'s Ring.
+妾の黄金で復興させた家だからな」 => It is the house revived by my gold, you see."
+「………そして１３人の生贄を気まぐれに決めるのだ。 => ".........Then I choose thirteen people arbitrarily as sacrifices.
+そしてその過程で、お前たちが右往左往し、 => And as that unfolds, you people are thrown into total confusion,
+妾に立ち向かおうと様々な人間模様を見せてくれることは、妾にとって非常に愉快なことだ。 => and show me various aspects of the fabric of human relationships as you stand against me, which gives me great pleasure.
+妾はこの金蔵のゲームを、実に気に入っている！ => I really do like this game of Kinzo\'s!
+くっくっくっく」 => *cackle*cackle*."
+「ああああぁあ！！ => "Aaaaaaaaaahh!!
+そんな魔法話は絶対ぇ信じねぇぞ！ => I definitely won\'t believe in that kind of magic story!
+……じゃあお前は誰なんだ！ => ......Then who are you?!
+お前は崖から転落して死んだんだろうが！ => You fell off a cliff and died, dammit!
+魂が抜け出して蝶になって森へ？ => Your soul slipped out, became butterflies, and went to the forest?
+そんなのあるわけねぇだろうが！！」 => That\'s all a load of bullshit!!"
+「だがお前はここにいる！ => "But you are here!
+誰だってんだ！！ => Who are you?!!
+お前こそが１９人目じゃねぇのかよッ？！」 => Aren\'t you the 19th person?!"
+「そうであるな、妾こそが１９人目であろうな。 => "That is true, I most surely am the 19th person.
+くっくっくっく！ => *cackle*cackle*cackle*!
+だが駄目だぜ？ => But it\'s no good, I\'m afraid...?
+全然駄目だぁ！！」 => It\'s no goddamn good at all!!"
+「 => "
+{p:1:この六軒島に１９人以上の人間は存在しない}！」 => {p:1:There are no more than 18 humans on this Rokkenjima}!"
+「んなッ、……………何だとぉおおぉ……。 => "Wha, ...............what did you saaaaaaay......
+ってことは１８人＋Ｘの、……Ｘは存在しないってのかよ？！ => So you\'re saying......the X of the 18+X doesn\'t exist?!
+俺が取った駒、Ｘは、…存在しないってのかよぉおおおぉ？！」 => Are you saying the piece that I took...{0}{nobreak:the X}...{0}doesn\'t exist?!"
+「ぷっくっくっく…。 => "Pu ku ku ku...
+そういうことになります。 => That is what it means.
+実にご愁傷様ですよ。 => You have my condolences.
+…しかしお嬢様も手がお早いですな。 => ...However, Milady, you truly are a fast worker.
+もう少し泳がせて、最後に引っ繰り返すものとばかり思っておりました。 => I thought you would let him flounder around a little more before turning everything over at the end.
+さて戦人さま、紅茶のお代わりはもう結構ですか？」 => Well then, Battler‐sama, would some more tea be agreeable to you?"
+「いッ、いらねぇよ畜生！！ => "I, I don\'t want any, damn it!!
+俺は信じないぞ！ => I don\'t believe!
+１８人の中に犯人がいるわけねぇ！」 => The culprit can\'t be one of the 18!"
+「じゃあお前は何なんだよ、どうしてここにいるんだよ！！ => "Then, what the hell are you, why are you here?!!
+１９人目が存在しないってんなら、お前は１８人の誰かの変装だって言うのかよ？！」 => If the 19th person doesn\'t exist, then are you saying you\'re one of the 18 in disguise?!"
+「くっくっく！ => "*cackle*cackle*!
+そなたにとって、渋々とではあっても、 => For you, although you are reluctant to use it,
+１８人の誰かを疑うことが最後の逃げ道、キャスリングとなるであろうな」 => doubting one of the 18 will serve as a final escape route, much like castling."
+「………しかし、妾はここからが難しいのだ。 => ".........However, for me, the hard part is just beginning.
+そなたは形振りさえ捨てれば、 => You need only throw away appearances,
+１８人もの人間を自在に犯人に仕立てあげられる！ => and you can prepare a culprit freely amid the 18 people!
+その１８人の駒を潜り抜け、 => Finding a route through those 18 pieces,
+妾を認めさせチェックメイトに至るのは、 => in order to checkmate you and force you to accept me,
+………実に難しいことよ」 => .........will be truly difficult."
+「そんなことするもんか！！ => "Like hell I\'d do that!!
+１８人の誰も疑わない！ => I won\'t doubt any of the 18!
+疑いたくない！！ => I don\'t want to doubt!!
+またここに追い込まれちまったのか…？！ => Have I really been cornered here again...?!
+畜生ぉ、畜生畜生ぉ！！」 => Damn it, damn it damn it!!"
+「三度に及んだそなたとのゲームも、いよいよ終盤戦のようではないか。 => "It looks like my game with you, which has lasted three rounds, is finally entering the endgame, doesn\'t it?
+もう逃げ場はないぞ？ => There\'s nowhere to run anymore, you know?
+くっくっく！ => *cackle*cackle*!
+お前の大好きな１８人を疑いたくないだろぉ？　妾がそれを被ってやるぞ？ => You don\'t want to doubt any of those beloved people in the 18, riiight? I can take that burden from you if you want?
+なのになぜ妾を拒むのか？」 => And yet, why do you refuse me?"
+「序盤は本のように、中盤は魔術師のように。 => "They say you should play the opening like a book, the middle game like a magician,
+そして終盤は機械の様に指せとな。 => and the endgame like a machine.
+これより詰めるぞ。 => I\'ll corner you from here on.
+ゆっくりじっくり、…確実にな。 => Slowly, carefully, ...surely.
+いいやそれとも、そなたに相応しく一気に畳み掛けるのが良いのか？」 => Or, on the other hand, would it be better if I pressed you all at once, as would be fitting for you?"
+「そなたにはそれが似合うだろう、そうしよう。 => "That should suit you, let\'s do that.
+すでにそなたの苦手とする攻め方も知り抜いておるわ！ => I already have a thorough knowledge of which methods of attack you cannot handle!
+くっくくくくくっひひひひひひひひひひ！！」 => *cackle*cackle*cackle* hihihi{0}hi{0}hi{0}hi{0}hi{0}hihihi!!"

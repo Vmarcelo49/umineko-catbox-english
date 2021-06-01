@@ -1,467 +1,467 @@
-"So, did you figure out...
-...who killed Beatrice?"
-"Yeah.
- More or less."
-"I hope you\'re not going to suggest...
-...that the head killed her..."
-"{f:5:Bernkastel} isn\'t asking about the two Beatrices involved with Kinzo.
- She\'s talking about who killed the 1986 {f:5:Beatrice}."
-"......I\'m not really sure what you mean by "this year\'s {f:5:Beatrice}".
- What\'s all this about a witch called {f:5:Beatrice}?
- You\'ve mentioned a ghost story, you\'ve mentioned an epitaph...
- Isn\'t it about time you explained all this to me?"
-"Alright.
- No point stringing you along."
-"Let\'s start from the beginning.
- ......Who is this witch {f:5:Beatrice}?"
-"Strictly speaking, it isn\'t a person.
- "{f:5:Beatrice}, the Golden Witch" is the name of a concept."
-"You mean the ghost stories themselves?"
-"To be more specific, even the ghost stories are only one of the elements that create the concept."
-"You\'ve lost me."
-"Ghost stories are normally told in the third person or second person.
- However, someone started telling those in the first person."
-"You mean someone started saying that they were {f:5:Beatrice} themselves...?"
-"The legend of Rokkenjima\'s evil spirits, and the made‐up story for keeping kids out of the forest...
- These were combined with Kinzo\'s constant cries of "Beatrice, Beatrice" and gradually became the legend of the witch.
- Ushiromiya Maria became entranced by that fictional witch and begged for a chance to meet her.
- And then, someone...
-{i:granted her wish}."
-".........I\'m still not following, but I\'ll just nod and tell you to keep going.
- ......What do you mean by "granted her wish"?"
-"Because of the unfortunate way in which Ushiromiya Maria was brought up, she became obsessed with the occult.
- ......Someone felt sympathy for her, acted the part of {f:5:Beatrice}, and played with her."
-Maria tends to recognize people by their behavior instead of their physical appearance.
-When Rosa becomes violent, Maria calls her "the black witch", and at these times, Maria views her as a different person, not her mother.
-So,
- this means that she tends to think of the same person as different people depending on their behavior.
-We can use this to see the scene where Maria first met {f:5:Beatrice} in a new light.
-After being chased out of the mansion by the adults, Maria decided to drink some tea in the rose garden.
-At that time, someone probably started talking to Maria.
-Then, ......when they heard this occult‐loving girl talking happily about how she wanted to meet the witch {f:5:Beatrice},
- .........this person acted as though {f:5:Beatrice} was possessing them.
-On the outside, they didn\'t look like {f:5:Beatrice}.
-However, when their manner of speech and behavior changed abruptly, Maria would recognize them as a different person.
-That\'s why "her" appearance was so sudden.
-"We can probably view Maria\'s love of witches and the occult as a form of escapism.
- ......She believed the power of witches could change her unfulfilling and incomplete life.
- So, she {i:wanted} to believe in them.
- Because if she believed in witches, she could also believe in her own happiness."
-"......It\'s true that Aunt Rosa is bringing up Maria by herself, and that she\'s always busy with work.
- I do feel sorry for Maria, but still..."
-"Don\'t ignore the heart.
- ......So, Maria believed {i:for the sake of believing}.
- She believed in {f:5:Beatrice}\'s simple conjuring trick from the bottom of her heart.
- That probably comforted her a lot.
- ......And at that moment, the witch {f:5:Beatrice} was born."
-"Someone saw that Maria‐chan wanted to meet a witch, so they decided to play witches with her...?"
-"That\'s right."
-This marks the birth of Beato the Elder.
-All of that about living a thousand years and being bound to Rokkenjima.
-That was all the result of mixing the legend of Rokkenjima\'s evil spirits with the story of a ghost wandering the mansion at night.
-As Furudo Erika guessed, the two ghost stories fused.
-Someone fused the two stories together and acted the part.
-So, {f:5:Beatrice} held traits from both ghost stories: she was the master of the mansion\'s night, while also fearing spiderwebs.
-"So, when {f:5:Bernkastel} asks us who killed {f:5:Beatrice},
- she means who killed the kind person who pretended to be {f:5:Beatrice}?"
-"That\'s close, but not quite.
- It\'s not the one who pretended.
- We\'re talking about two different people.
- ......In Maria\'s eyes, just like how her mother and the black witch are different people,
- {f:5:Beatrice} and the person who played that part are also different people."
-It\'s just like Mariage Sorcière.
-That was where one person would be the creator, and the other person would acknowledge those creations, thereby nurturing the illusion.
-The Golden Witch {f:5:Beatrice} was also created by one person, and then nurtured when Maria acknowledged her.
-"You mean, even if you kill the acted character, that doesn\'t mean you\'ve killed the kind person who was playing the part?"
-"Even if {f:5:Beatrice}\'s vessel is lost, that isn\'t the same as {f:5:Beatrice} being killed."
-"......It\'s easier to understand if we use a telephone as an example.
- Let\'s say I call you on the phone.
- From my perspective during the call, the phone is you, in the sense that it is what I talk to."
-"But what if I destroy the phone?"
-"......I see.
- If you kill the phone, you won\'t be able to talk to me, but that doesn\'t mean you\'ve killed me."
-"We know Maria once offered to let {f:5:Beatrice} possess her, early on in their relationship.
- That clearly shows that {f:5:Beatrice} did not look like the portrait at that time."
-"So, if the person acting the part and the witch character they play are different people, ......we\'re talking about killing just the witch character itself.
- ......Is that even possible?"
-"Only the actor can kill the character.
- In other words, the person who killed {f:5:Beatrice} is the person who played the part of {f:5:Beatrice}."
-"You mean that the person who played witches with Maria‐chan is the culprit {f:5:Bernkastel}\'s talking about?"
-"That\'s it.
- .........But, as if this wasn\'t confusing enough, this chapel is now a world inside a cat box.
- The culprit is the cat, and there are now two cats existing at the same time—one alive, and one dead."
-"......Confusing is right.
- I\'m still lost, but keep going.
- You\'re saying that there are two culprits?"
-"Right.
- ......The person who can create and kill {f:5:Beatrice}...
-...and the person who never gave birth to {f:5:Beatrice} in the first place, who can kill the entire concept of {f:5:Beatrice}.
- Both of those people are here."
-"Then let me ask.
- In this {f:5:Beatrice} murder case,
- who are the two culprits?"
-"Let\'s start with...
-...the dead cat."
-"Who is it?"
-"You."
-"Wha
-......
-......?"
-"The logic is extremely simple.
- Your world is the only one where the witch {f:5:Beatrice} doesn\'t exist."
-"I don\'t understand."
-"Both Maria and Jessica told me stories about the witch {f:5:Beatrice}.
- However, when they talked about the ranking system at the dining table, you weren\'t there."
-"I...wasn\'t there...?"
-"Maria came to visit Rokkenjima with Rosa.
- And Rosa was sitting next to her.
- That\'s impossible.
- .........If you exist, then after Rosa comes you, then Jessica, then Maria."
-There should be two people between Rosa and Maria in rank.
-In that case, they should be across the table from each other and separated by one seat.
-......In other words, in the world where Lion exists, it\'s impossible for Maria to be sitting next to Rosa.
-"It was the same in Jessica\'s story.
- If you\'re included in the ranking, then when looking down the table towards Kinzo\'s seat, you should be on the left side and Jessica should be on the right.
- After that comes George on the left side and Ange on the right.
- ......Jessica and Ange will be sitting next to each other whether you\'re there or not.
- However, which side of the table they\'re sitting on changes."
-In the world where Lion exists, Ange\'s seat is on Jessica\'s left.
-{n}However, if Lion doesn\'t exist, then Ange\'s seat is on Jessica\'s right.
-"Every time someone talked about the witch {f:5:Beatrice} of 1986, they were all talking about a world where you don\'t exist.
- And, in your world, there are no ghost stories about a witch.
- To you, "Beatrice" is either Kinzo\'s mistress or his benefactor, not a wandering ghost."
-"The head loved Beatrice deeply, did he not?
- I can\'t imagine why she would be made into a ghost story."
-"Exactly.
- If you exist, the witch {f:5:Beatrice} doesn\'t.
- Your existence...
-...{i:kills {f:7:Beatrice}}."
-"Are you saying I\'m the culprit who killed {f:5:Beatrice}......?
- That\'s......just crazy.
- How can I be the culprit if I don\'t even understand her and have never met her?"
-"Flip it around.
- ......If you don\'t exist, {f:5:Beatrice} will be born."
-"Flip it?
- Are you trying to say {f:5:Beatrice} and I are two sides of a coin?"
-"That\'s a good way to put it.
- That\'s it exactly.
- You\'re a coin, and {f:5:Beatrice} is on the other side."
-"I don\'t get it at all."
-"At first, I didn\'t get your existence either.
- ......But, I have formed a theory about you, after hearing all this.
- The important fact is that you\'re 19 years old."
-"......I don\'t remember telling you my age, but you got it right.
- ......How?"
-"Jessica said you were already the student council vice‐president when she started, and that you became the president the next year.
- That means you\'re one year older than Jessica."
-Jessica is 18 years old, .........so Lion must be 19.
-"I see...
- And what sort of theory can you make, now that you know I\'m 19?"
-"You aren\'t Ushiromiya Natsuhi\'s child, that\'s the theory."
-"...........................
- ......How rude.
- I don\'t know what game you\'re playing, but I demand that you take back that slanderous insult to both me and my mother."
-"Why are you the successor to the headship, instead of Krauss?"
-"I will succeed the headship when I come of age.
- When I have a kid, I\'ll probably pass the title down to them when they come of age."
-"Then why didn\'t Kinzo give the headship to Krauss when he came of age?"
-".........You heard what our head said.
- He was used by the cunning elders of the Ushiromiya family and suffered much.
- That\'s why he decided that only young people should inherit the headship from now—"
-"In the world without you in it, the silver ring for the successor to the headship doesn\'t even exist.
- ......That silver ring on your finger proves that Kinzo has a strong desire to see that you become the next head,
- a desire which does not manifest in any other world."
-"......I can\'t deny that you may have a point there.
- The head always seemed to adore me particularly.
- I was told from a young age that I would succeed the headship at once when I became an adult, and that it was very important for me to keep up with my studies in preparation for that day."
-"......But I don\'t think my father was any less talented.
- Why did Grandfather skip over him and make me the successor?
- .........I\'ve thought it strange from time to time, but since it\'s always been that way, I never said so aloud."
-"Do you know why Kinzo wanted you and not Krauss to become the next head?"
-"How could I know?
- .........Are you trying to tell me to stop ignoring the heart again?
- Tell me, what deduction can you make about how the head\'s heart works?"
-"It\'s because you\'re the child of Kinzo and Beatrice."
-"......Well done.
- ...*giggle*giggle*giggle*giggle*."
-There was a crisp applause and a mocking laugh.
-"{f:5:Bernkastel}."
-"......That was faster than I expected.
- I thought you\'d let me play a bit longer."
-{f:5:Bernkastel} appeared sitting on the altar,
- ......almost as though it had become her own personal chair.
-"When did you realize that Lion shared Beatrice\'s blood?"
-"As soon as I realized that Lion was 19.
- ......It was the same number as "the baby from 19 years ago", that hint which appeared in the fifth game."
-"......Didn\'t that baby fall off a cliff?"
-"Lion is the baby who was accepted by Natsuhi and didn\'t fall off the cliff.
- In other words, if Natsuhi rejects the baby, Lion doesn\'t exist."
-"You\'re saying......I\'m not Mom\'s child...?!
- That\'s insane......
- ....................."
-"You say that, but you don\'t look too sure.
- ......*giggle*.
- That\'s right.
- Ushiromiya Lion is not Natsuhi\'s child.
- This is the grown‐up version of the baby Kinzo got from somewhere 19 years ago."
-"Not "somewhere".
- ......Lion clearly shares Beatrice\'s blood.
- The proof is the silver ring, which is only ever given to Lion across all of the many worlds."
-"Why does the ring prove that I share Beatrice\'s blood?"
-"In all of the many worlds, you are the only one who is given it.
- That means that, in all worlds, you are the most important person to Kinzo, second only to Beatrice.
- And his love for you is far greater than it is for his son, Krauss, or his granddaughter, Jessica.
- And you are 19 years old.
- ......In other words, if we look back to see what happened 19 years ago, we are led to one theory."
-"19 years ago?
- What\'s supposed to have happened at the time I was born?"
-".........You heard it too, didn\'t you?
- Today, even.
- Will was with you."
-"........................
- ......You don\'t mean...Aunt Rosa\'s story?!"
-"That\'s right.
- Rosa\'s story came out in the third game, and when the age of the baby in the fifth game matched that date, a certain theory became possible.
- The fact that Kinzo brought a baby from somewhere and tried to add it to his family...
-proves that the baby was somehow important to him."
-"I\'m...
-...the Kuwadorian Beatrice\'s...
-...child......"
-"The Kuwadorian Beatrice was the daughter of the Beatrice who came in the submarine.
- ......But Kinzo didn\'t think of her as a daughter.
- He believed she was the same person, Beatrice reborn.
- ......When that "reincarnation" reached the same age as the first Beatrice, and truly looked like Beatrice\'s double,
- ......Kinzo made a terrible mistake."
-".........I...I don\'t want to hear it!"
-"That\'s how it is.
- Kinzo got Beatrice pregnant with Beatrice,
- and then he got that Beatrice pregnant with you.
- ......So, you\'re both Kinzo\'s child and Beatrice\'s grandchild."
-"...........................!"
-"If we consider Kinzo\'s heart, this is the inevitable theory we reach for explaining why he treated you so specially.
- He regretted his mistake so badly that he attempted to have you formally accepted into the Ushiromiya family as a descendant."
-"......In almost all cases, Natsuhi\'s pride is brutally hurt, and she refuses to raise you.
- Because of that, you almost always fall from the cliff and disappear."
-".........I, I was told that after their marriage,
- ......I was born after much hardship,
- ......and Jessica was born the next year..."
-"If you really never suspected that Natsuhi wasn\'t your mother,
- ......then you should thank her in this world.
- The reason you never realized the truth is because she\'s shown as much affection for you as she did for Jessica."
-".........There\'s no need to thank her.
- ......After all, it took a staggering amount of effort just to find a fragment with you in it."
-"Mathematically speaking,
- there\'s actually a {nobr:2,578,916/2,578,917} chance of her refusing to raise you.
- You should probably be thanking me for creating this miracle, not Natsuhi.
- ......*giggle*giggle*."
-"Enough with your stupid probability games."
-"Oh, I\'m sorry."
-"...................................."
-"No matter whose blood you bear, that doesn\'t change the debt you owe to the family that raised you."
-"I realize that.
- ......Still, I would like some time to calm down and think things through.
- ...That is, if you\'ll do me the kindness of not ignoring my heart."
-".........Sure."
-Lion took a deep breath and looked upwards.
-......Anyone would be shocked...
-to find that their parents weren\'t who they believed them to be.
-But all the same, Lion, ...you\'re allowed to feel grateful.
- Grateful to the family who raised you and met your every need...
-"It is pretty interesting.
- ......Hard to believe that the Golden Witch {f:5:Beatrice} might\'ve lived such an ordinary life,
- even at absurdly low probabilities."
-"Isn\'t it?
- I think moments like this are hilarious......"
-Will had said it plainly.
-Ushiromiya Lion......is how the Golden Witch {f:5:Beatrice} appears in a different world.
-The baby Natsuhi rejected 19 years previous.
-If she accepts that child, this is the future that results...
-However, if she does not accept it, ......a witch is born.
-The baby whose birth was not celebrated becomes a witch...
-"Lion is the dead cat.
- ......However, Lion\'s existence has nothing to do with what you\'re interested in, the Rokkenjima Serial Murders.
- ......In other words, Lion is the cat that disappears when you open the cat box."
-".........*giggle*, exactly.
- Lion is just a disappearing cat.
- But this was a pretty entertaining diversion, don\'t you think?"
-"You\'re the only one who finds it entertaining.
- ......If I wasn\'t trapped in here, I wouldn\'t have bothered to reason this out."
-".....................
- ......I think I know why I was chosen to be your partner in this strange detective game.
- ......It seems this {f:5:Bernkastel} witch...
-enjoys toying with people\'s fates and making a mockery of them."
-"Wow, incredible.
- ......It\'s rare for someone to understand me the same day they meet me.
- ......*giggle*."
-"Apparently, ......I become something that\'s called a witch in another world.
- And, apparently, I\'m the cause of some sort of crime.
- Is that my sin to bear?"
-"Of course it isn\'t.
- You are you.
- How things would be if the coin were flipped the other way shouldn\'t matter a bit."
-"Thank you.
- Even so, to be told that I caused some sort of trouble in a world of a different fate...
- I don\'t think anyone would be pleased to hear that.
- ......Please, tell me.
- What do I do in that other world?"
-"............{f:5:Bernkastel}?"
-"You have the fragments... Why not show them?"
-"..............."
-Will opened his hand...
-and something that looked like a pale‐blue, glowing shard of crystal appeared there.
-It contained the memories—no, the records—of all the games so far.
-"......Touch this.
- You\'ll be able to see your fate in other worlds."
-"...............I\'ll be happier not touching it,
- ...is what your face is telling me."
-"Of course.
- ......I\'m sure you guessed this, ...but it isn\'t pretty."
-"Even so......
- ......Even if it is another world, ......it\'s still about me."
-"......You have both the right to know and the right not to know.
- If you can convince yourself that what you\'re seeing is a person similar to yet different from you—that it is not you but someone else—then go ahead and touch it."
-"You want to know, don\'t you...?
- About the path that fate could have chosen for you..."
-"............I ask this as your partner.
- Would you show that to me?"
-"As your partner, I\'d say "look".
- ......But as a friend, I\'d say "don\'t"."
-"Unfortunately,
- I\'m not your friend."
-"Then, as a partner, I have one last question."
-"What?"
-"Are you............
-.........a man or a woman?"
-"..................Well, that came out of nowhere."
-"I could see you as a fairly slender boy.
- But then again, I could also see you as a no‐nonsense sort of girl.
- ......Even {f:5:Bernkastel} has been intentionally keeping it a secret.
- She made Jessica call you "the future heir" all the time, instead of "big brother" or "big sister"."
-"......*giggle*.
- You are quick."
-"People often ask me about my gender.
- It\'s become quite frustrating, so I always give the same response.
- ......‘Which do you think I look like?’"
-".........In the fifth game, you\'re treated as a man.
- But in countless other games, you\'re thought of as a woman."
-"......In the sixth game, when Ushiromiya Battler was the Master, two demons of different sexes appeared, but we didn\'t know which was which, referencing this again.
- ......In fact, strictly speaking, it started all the way back in the very first game.
- .........Your gender is one of the hidden mysteries that exists outside the games themselves."
-"Having to say it straight out frustrates me, so I won\'t give you an answer.
- We\'re partners, right?
- Does it really matter if I\'m not the gender you\'d prefer?"
-"........................
- ......You\'re right.
- If we\'re working together on this, I don\'t care what your gender is."
-"Thank you.
- ......I\'ve formed a bit of a complex about it, so your words are very gratifying."
-"I\'m all for gender equality.
- .........If someone\'s a waste of space, I\'ll smack \'em no matter who they are."
-"And of course, I\'ll pinch rude people no matter which gender they are."
-Slowly, ......Lion reached out and touched the fragment.
-A moment later, Lion seemed to undergo a violent bout of dizziness...and silently slumped over like a puppet with its strings cut.
-It was no surprise.
- When people who don\'t understand parallel universes have many different fates jammed into their heads,
- they tend to feel like their heads are swelling and their sense of self is melting away.
-......Lion seemed to have lost consciousness.
-"So, ......Lion had what it took to learn everything."
-"A perfect piece to be your partner, wouldn\'t you say?"
-"I\'ll continue my reasoning.
- ......I\'ve talked about the dead cat."
-"Very true.
- Next up is the living cat."
-"The only one who can kill the {f:5:Beatrice} of 1986 is the one who created her."
-"There were tons of hints.
- If you think about it, they\'ve been coming since back when {f:5:Beatrice} was running the games."
-"That\'s true.
- ......In the fourth game between {f:5:Beatrice} and Battler, {f:5:Beatrice}\'s origin became clear.
- And, at that point, I learned who {f:5:Beatrice} was, and I understood that person\'s heart."
-"What do you mean by heart?"
-"......The reason for committing the crime.
- ......The reason that {f:5:Beatrice} had to gamble her own fate in the commission of a game‐like crime on October 5th, 1986—
-the motive."
-"Impressive.
- So, you\'d figured out the whodunit and the whydunit by the end of the fourth game.
- ......Then what about the howdunit?"
-"Once you know who the culprit is, theorizing about the howdunit isn\'t impossible.
- ......Those linked locked rooms in the third game were so skillfully done, I felt like clapping."
-"And what about the riddle at the end of the fourth game,
- "who am I"......?"
-"The "culprit" who can kill you for certain at the stroke of midnight on October 5th no matter where you are.
- It was possible to form a certain kind of hypothesis at the moment the question was asked.
- ......You might call that the other treasure of the Golden Land."
-"......Oh?
- So, you say that by the fourth game,
- ......in other words, with just {f:5:Beatrice}\'s games, you managed to reach all of the answers?"
-"It\'s possible.
- ......{f:5:Lambdadelta}\'s and Battler\'s games after that were just an extra helping of hints.
- ......As is this game of yours."
-"*giggle*giggle*......
- ......In that case, why don\'t you stop beating around the bush, and just tell me?
- .........Who is...
-the culprit......?"
-At that moment, .........though there hadn\'t been anyone but them in the chapel, quiet footsteps rang out.
-That silhouetted figure slowly walked up to Will and {f:5:Bernkastel}...and gave a small bow.
-".........So, you\'ve come."
-"Did you call this person here?"
-"Yeah.
- ......Whodunit.
- Howdunit.
- And...whydunit.
- ......I understand this person\'s motive."
-"......And {i:you}, are you going to give up just because he\'s found out your motive...?
- There\'s no concrete evidence, right?
- You could make a flashy fight of it, with red and blue."
-"That\'s not what they want anymore."
-The person nodded slightly.
-Their wish......was for someone to realize.
-Now that this had happened, they had no intention of engaging in trivial excuses or pointless word games...
-"I believe that I understand your motive,
- ......your heart.
- ......I am going to talk about it now.
- I called you here...
-to listen...
-...and correct me if I\'ve gotten anything wrong."
-"...................................."
-The two of them nodded to each other once more.
-"I found the message you put into your four games.
- ......And through three games with different Masters, I pictured the strange sort of fate that must have toyed with your life.
- ......I was left speechless.
- ......In every game, you die without revealing that truth to anyone."
-Having you confess in this empty chapel might be pointless.
-However, even so, .........I believe it will bring you some measure of salvation.
-People are only saved when someone understands them.
-It\'s time someone forgave this pitiable witch, who went years after her death without being understood,
- ............and whose life ended before the one man she wanted to understand her could do so.
-At the end of the fifth game, Battler finally understood.
-......However,
- .........it took him so long...
-...that he didn\'t make it in time.
-So, even though she is alive here and now, Battler cannot save her.
-That\'s why he\'s absent from {f:5:Beatrice}\'s funeral. He won\'t come.
- ......He won\'t make it in time.
-"......This is {f:5:Beatrice}\'s funeral.
- You will confess,
- ......the divine Master will hear,
- .........and I will forgive you.
- .........That\'s supposed to be Battler\'s job, but he didn\'t make it in time.
- So, you\'ll have to settle for me."
-"......Beato gave out so many hints, too.
- Lambda also gave that bonehead Battler a ton of hints.
- ......And his response, that game of repentance, that was hilarious as well.
- ......But I won\'t be making anyone laugh.
- I\'ll just indifferently carry out your funeral."
-"No more talking from you.
- That\'s my job."
-"............*giggle*."
-"If you\'re ready, let\'s begin.
- ......No one will rush you.
- .........{f:5:Bernkastel} has closed off time for eternity until your funeral ends.
- You have endless time to prepare yourself emotionally..."
-The shadowy figure slowly shook its head.
-It had come here because it was already ready.
-Will nodded to show he understood.
-......Then, the two of them looked into {f:5:Bernkastel}\'s eyes,
- ......and Will spoke out clearly.
-{a:c:
-"Here\'s the culprit."}
+「わかったんですか。 => "So, did you figure out...
+ベアトリーチェを、誰が殺したのか」 => ...who killed Beatrice?"
+「あぁ。 => "Yeah.
+大体な」 => More or less."
+「まさか、当主様が殺した、 => "I hope you\'re not going to suggest...
+……などと仰るつもりはないでしょうね？」 => ...that the head killed her..."
+「ベルンカステルが求めてるのは、金蔵と係わった二人のベアトリーチェじゃない。 => "{f:5:Bernkastel} isn\'t asking about the two Beatrices involved with Kinzo.
+１９８６年のベアトリーチェを誰が殺したかだ」 => She\'s talking about who killed the 1986 {f:5:Beatrice}."
+「……その、今年のベアトリーチェという意味がわかりません。 => "......I\'m not really sure what you mean by "this year\'s {f:5:Beatrice}".
+魔女のベアトリーチェとは何の話なんです？ => What\'s all this about a witch called {f:5:Beatrice}?
+さっきの話といい、碑文とやらの話といい。 => You\'ve mentioned a ghost story, you\'ve mentioned an epitaph...
+そろそろ教えてくれませんか」 => Isn\'t it about time you explained all this to me?"
+「いいだろう。 => "Alright.
+もったいぶる気もねェ」 => No point stringing you along."
+「まず始めに。 => "Let\'s start from the beginning.
+……魔女のベアトリーチェとは何のことです？」 => ......Who is this witch {f:5:Beatrice}?"
+「厳密には人ではない。 => "Strictly speaking, it isn\'t a person.
+黄金の魔女ベアトリーチェという名の、概念だ」 => "{f:5:Beatrice}, the Golden Witch" is the name of a concept."
+「怪談そのものだと？」 => "You mean the ghost stories themselves?"
+「さらに厳密には、怪談さえも概念を生み出す一要素に過ぎない」 => "To be more specific, even the ghost stories are only one of the elements that create the concept."
+「話がさっぱりです」 => "You\'ve lost me."
+「怪談は本来、三人称や二人称で語るべきものだ。 => "Ghost stories are normally told in the third person or second person.
+それを、一人称で語り出したヤツがいる」 => However, someone started telling those in the first person."
+「自分がベアトリーチェだと、誰かが自称し始めた…？」 => "You mean someone started saying that they were {f:5:Beatrice} themselves...?"
+「六軒島の悪霊伝説や、子供を森に近付けないための作り話が、 => "The legend of Rokkenjima\'s evil spirits, and the made‐up story for keeping kids out of the forest...
+金蔵が繰り返す、ベアトリーチェベアトリーチェの嘆きで修飾されて、魔女伝説を醸成していった。 => These were combined with Kinzo\'s constant cries of "Beatrice, Beatrice" and gradually became the legend of the witch.
+その架空の魔女に憧れて、会いたいと懇願したのが右代宮真里亞だ。 => Ushiromiya Maria became entranced by that fictional witch and begged for a chance to meet her.
+……それに、 => And then, someone...
+{i:応えた}ヤツがいる」 => {i:granted her wish}."
+「………さっぱりな話ですが、腰を折らずに相槌を打ちましょう。 => ".........I\'m still not following, but I\'ll just nod and tell you to keep going.
+……応えたとは、どういう意味です？」 => ......What do you mean by "granted her wish"?"
+「右代宮真里亞は気の毒な生い立ちにより、オカルトに執着するようになった。 => "Because of the unfortunate way in which Ushiromiya Maria was brought up, she became obsessed with the occult.
+……その彼女に同情したヤツが、ベアトリーチェに扮して、真里亞と遊んでやったということだ」 => ......Someone felt sympathy for her, acted the part of {f:5:Beatrice}, and played with her."
+真里亞は、人を視覚より、内面で判断する傾向が強い。 => Maria tends to recognize people by their behavior instead of their physical appearance.
+同じ母親であっても、暴力的な時は黒い魔女と呼び、決して母親と同一視しなかった。 => When Rosa becomes violent, Maria calls her "the black witch", and at these times, Maria views her as a different person, not her mother.
+即ち。 => So,
+視覚的には同一人物であっても、内面が異なれば、別の人間だと認識する傾向があるということだ。 => this means that she tends to think of the same person as different people depending on their behavior.
+真里亞が初めてベアトリーチェに出会った時のエピソードは、以上から簡単に読み解ける。 => We can use this to see the scene where Maria first met {f:5:Beatrice} in a new light.
+大人の話があるからと屋敷を追い出された真里亞は、薔薇庭園でお茶を飲むことにした。 => After being chased out of the mansion by the adults, Maria decided to drink some tea in the rose garden.
+恐らくその時、誰かが真里亞の話し相手になってくれた。 => At that time, someone probably started talking to Maria.
+そして、……魔女ベアトリーチェに会いたいと嬉しそうに話すオカルト少女に、 => Then, ......when they heard this occult‐loving girl talking happily about how she wanted to meet the witch {f:5:Beatrice},
+………あたかも自分がベアトリーチェに憑依されたかのように振舞ったのだ。 => .........this person acted as though {f:5:Beatrice} was possessing them.
+外見的には、それはベアトリーチェではない。 => On the outside, they didn\'t look like {f:5:Beatrice}.
+しかし真里亞は、喋り方や振る舞いが急に変わった時点で、その人物を別の人間だと認識する。 => However, when their manner of speech and behavior changed abruptly, Maria would recognize them as a different person.
+だからそれは、唐突に現れたのだ。 => That\'s why "her" appearance was so sudden.
+「真里亞にとっての魔女やオカルトは、ある種の現実逃避と見ていい。 => "We can probably view Maria\'s love of witches and the occult as a form of escapism.
+……彼女は、満たされない現状が、魔女の力で打ち破られると信じていたんだ。 => ......She believed the power of witches could change her unfulfilling and incomplete life.
+だから、魔女の存在を信じたかった。 => So, she {i:wanted} to believe in them.
+それを信じれば、自分が幸せになれると信じられるから」 => Because if she believed in witches, she could also believe in her own happiness."
+「……確かに真里亞ちゃんは、楼座叔母さんひとりが育ててますし、楼座叔母さんも仕事で多忙。 => "......It\'s true that Aunt Rosa is bringing up Maria by herself, and that she\'s always busy with work.
+確かに少し気の毒な子とは思いますが…」 => I do feel sorry for Maria, but still..."
+「心を、蔑ろにするんじゃねェ。 => "Don\'t ignore the heart.
+……だから真里亞は“信じる”ために、信じた。 => ......So, Maria believed {i:for the sake of believing}.
+ベアトリーチェが見せた手品紛いも、心の底から信じたんだ。 => She believed in {f:5:Beatrice}\'s simple conjuring trick from the bottom of her heart.
+それは彼女の心を、大いに慰めただろう。 => That probably comforted her a lot.
+……そしてここに、魔女ベアトリーチェが誕生したんだ」 => ......And at that moment, the witch {f:5:Beatrice} was born."
+「魔女に会いたいと願う真里亞ちゃんのために、誰かが魔女ごっこに付き合ったと…？」 => "Someone saw that Maria‐chan wanted to meet a witch, so they decided to play witches with her...?"
+「そうだ」 => "That\'s right."
+これが、姉ベアトの誕生だ。 => This marks the birth of Beato the Elder.
+千年を生き、六軒島に封じ込められて云々。 => All of that about living a thousand years and being bound to Rokkenjima.
+それらは六軒島の悪霊伝説に、屋敷を深夜に徘徊する亡霊の話がミックスされてる。 => That was all the result of mixing the legend of Rokkenjima\'s evil spirits with the story of a ghost wandering the mansion at night.
+古戸ヱリカの推理通り、２つの怪談が融合したものだ。 => As Furudo Erika guessed, the two ghost stories fused.
+誰かが、２つを融合し、それを演じた。 => Someone fused the two stories together and acted the part.
+だからベアトリーチェは、屋敷の夜の主であると同時に、蜘蛛の糸を恐れるという、２つの怪談の特徴を兼ね備える。 => So, {f:5:Beatrice} held traits from both ghost stories: she was the master of the mansion\'s night, while also fearing spiderwebs.
+「ではつまり、ベルンカステルの問う、ベアトリーチェを殺したのは誰か、というのは、 => "So, when {f:5:Bernkastel} asks us who killed {f:5:Beatrice},
+そのベアトリーチェを演じた心優しい誰かを殺したのは誰か？、という話なのですか」 => she means who killed the kind person who pretended to be {f:5:Beatrice}?"
+「似てて少し異なる。 => "That\'s close, but not quite.
+演じたんじゃない。 => It\'s not the one who pretended.
+異なる２人なんだ。 => We\'re talking about two different people.
+……真里亞にとって、黒い魔女と母は別人物であるように。 => ......In Maria\'s eyes, just like how her mother and the black witch are different people,
+真里亞にとって、ベアトリーチェとそれを演じた人間も、別人物になるんだ」 => {f:5:Beatrice} and the person who played that part are also different people."
+マリアージュ・ソルシエールのように。 => It\'s just like Mariage Sorcière.
+１人が生み出し、もう１人に認められることで、幻想を育む関係だったように。 => That was where one person would be the creator, and the other person would acknowledge those creations, thereby nurturing the illusion.
+黄金の魔女ベアトリーチェも、１人に生み出され、真里亞に認められることで育まれた。 => The Golden Witch {f:5:Beatrice} was also created by one person, and then nurtured when Maria acknowledged her.
+「つまり、演じた役を殺しても、それは演じた心優しい誰かを殺したことにはならないと？」 => "You mean, even if you kill the acted character, that doesn\'t mean you\'ve killed the kind person who was playing the part?"
+「依り代が失われただけでは、ベアトリーチェが殺されたことにはならないってことだ」 => "Even if {f:5:Beatrice}\'s vessel is lost, that isn\'t the same as {f:5:Beatrice} being killed."
+「……電話で例えるとわかりやすい。 => "......It\'s easier to understand if we use a telephone as an example.
+俺とお前が電話で話しているとする。 => Let\'s say I call you on the phone.
+その時、俺にとって電話は、話し掛ける対象でありお前そのものだ」 => From my perspective during the call, the phone is you, in the sense that it is what I talk to."
+「しかしもし、電話を壊したなら？」 => "But what if I destroy the phone?"
+「……なるほど。 => "......I see.
+電話を殺せば、私と話すことは出来なくなりますが、しかしそれは、私を殺したことにはならない」 => If you kill the phone, you won\'t be able to talk to me, but that doesn\'t mean you\'ve killed me."
+「真里亞は初期のベアトリーチェに、自分に憑依してもいいと言った。 => "We know Maria once offered to let {f:5:Beatrice} possess her, early on in their relationship.
+それは明白に、初期のベアトリーチェが、肖像画の姿を模していなかったことを示す」 => That clearly shows that {f:5:Beatrice} did not look like the portrait at that time."
+「演じた魔女役と、演じた人物は別人という考え方で、……演じた魔女役のみを殺す。 => "So, if the person acting the part and the witch character they play are different people, ......we\'re talking about killing just the witch character itself.
+……そんなことが出来るんですか？」 => ......Is that even possible?"
+「演じた本人にしか、殺せない。 => "Only the actor can kill the character.
+即ち、ベアトリーチェを殺したヤツとは、ベアトリーチェを演じたヤツと同義だ」 => In other words, the person who killed {f:5:Beatrice} is the person who played the part of {f:5:Beatrice}."
+「真里亞ちゃんと魔女ごっこをした相手が、ベルンカステルの求める犯人だということなんですか？」 => "You mean that the person who played witches with Maria‐chan is the culprit {f:5:Bernkastel}\'s talking about?"
+「そうなる。 => "That\'s it.
+………しかし、ややこしいことに、この礼拝堂は今、猫箱の内側の世界だ。 => .........But, as if this wasn\'t confusing enough, this chapel is now a world inside a cat box.
+その犯人という名の猫は、生きた猫と死んだ猫の２匹がここに、同時に存在している」 => The culprit is the cat, and there are now two cats existing at the same time—one alive, and one dead."
+「……本当にややこしい。 => "......Confusing is right.
+さっぱりですが、先を促しましょう。 => I\'m still lost, but keep going.
+つまり、犯人が２人いると仰りたいので？」 => You\'re saying that there are two culprits?"
+「そうだ。 => "Right.
+……ベアトリーチェを生み、殺すことが出来る人間と、 => ......The person who can create and kill {f:5:Beatrice}...
+……そもそもベアトリーチェなど生ませもしない、概念ごと殺すことが出来る人間。 => ...and the person who never gave birth to {f:5:Beatrice} in the first place, who can kill the entire concept of {f:5:Beatrice}.
+その２人が、ここにいるってことだ」 => Both of those people are here."
+「では、お尋ねしましょう。 => "Then let me ask.
+ベアトリーチェ殺人事件。 => In this {f:5:Beatrice} murder case,
+その２人の犯人は誰です？」 => who are the two culprits?"
+「まず最初の１人。 => "Let\'s start with...
+死んだ猫」 => ...the dead cat."
+「誰です？」 => "Who is it?"
+「お前だ」 => "You."
+「は、 => "Wha
+……ぁ => ......
+……？」 => ......?"
+「非常に単純な推理だ。 => "The logic is extremely simple.
+お前の存在する世界にだけ、魔女ベアトリーチェが存在しない」 => Your world is the only one where the witch {f:5:Beatrice} doesn\'t exist."
+「意味がわかりません」 => "I don\'t understand."
+「真里亞も朱志香も、魔女ベアトリーチェとの話を聞かせてくれた。 => "Both Maria and Jessica told me stories about the witch {f:5:Beatrice}.
+しかし、彼女らの親族会議における食堂の席順には、お前が含まれていない」 => However, when they talked about the ranking system at the dining table, you weren\'t there."
+「私が含まれて、いない…？」 => "I...wasn\'t there...?"
+「真里亞は、楼座と共に六軒島を訪れた。 => "Maria came to visit Rokkenjima with Rosa.
+そして、隣の席には楼座がいた。 => And Rosa was sitting next to her.
+ありえない。 => That\'s impossible.
+………お前がいるならば、楼座の次の序列は、理御になり、そして朱志香になり、次が真里亞になるはず」 => .........If you exist, then after Rosa comes you, then Jessica, then Maria."
+楼座と真里亞の序列の間には、理御と朱志香が二人入るはず。 => There should be two people between Rosa and Maria in rank.
+二人入ったら、席は右斜め前になる。 => In that case, they should be across the table from each other and separated by one seat.
+……つまり、真里亞の隣に楼座が座ることは、理御の存在する世界では、ありえない。 => ......In other words, in the world where Lion exists, it\'s impossible for Maria to be sitting next to Rosa.
+「朱志香の話も同じだ。 => "It was the same in Jessica\'s story.
+お前が序列に加わっているなら、金蔵の席を正面に、左列に理御、右列に朱志香。 => If you\'re included in the ranking, then when looking down the table towards Kinzo\'s seat, you should be on the left side and Jessica should be on the right.
+そして左列に譲治、右列に縁寿となる。 => After that comes George on the left side and Ange on the right.
+……朱志香と縁寿は、理御がいてもいなくても隣り合う。 => ......Jessica and Ange will be sitting next to each other whether you\'re there or not.
+しかし、理御がいるかいないかで、その席が、右になるか左になるかが異なる」 => However, which side of the table they\'re sitting on changes."
+理御がいる世界ならば、朱志香の左が、縁寿の席となる。 => In the world where Lion exists, Ange\'s seat is on Jessica\'s left.
+{n}しかし、理御がいない序列だと、縁寿の席は、朱志香の右になる。 => {n}However, if Lion doesn\'t exist, then Ange\'s seat is on Jessica\'s right.
+「１９８６年の魔女ベアトリーチェを語る人間は、皆、お前のいない世界を語っている。 => "Every time someone talked about the witch {f:5:Beatrice} of 1986, they were all talking about a world where you don\'t exist.
+そして、お前の世界では、魔女の怪談が存在しない。 => And, in your world, there are no ghost stories about a witch.
+お前にとってベアトリーチェは、金蔵の愛人、もしくは恩人であって、化けて出る亡霊ではない」 => To you, "Beatrice" is either Kinzo\'s mistress or his benefactor, not a wandering ghost."
+「当主様は、ベアトリーチェと深い愛情を育まれたのでしょう？ => "The head loved Beatrice deeply, did he not?
+どうして化けて出て怪談になるのかさっぱりわかりません」 => I can\'t imagine why she would be made into a ghost story."
+「そういうことだ。 => "Exactly.
+お前が存在すると、魔女ベアトリーチェが存在しない。 => If you exist, the witch {f:5:Beatrice} doesn\'t.
+お前の存在は、 => Your existence...
+{i:ベアトリーチェを殺してる}」 => ...{i:kills {f:7:Beatrice}}."
+「私が、ベアトリーチェ殺しの犯人だと……？ => "Are you saying I\'m the culprit who killed {f:5:Beatrice}......?
+これは、……おかしな話になったものです。 => That\'s......just crazy.
+会ったことはおろか、話もよくわからないのに、犯人だなんて」 => How can I be the culprit if I don\'t even understand her and have never met her?"
+「裏を返せば。 => "Flip it around.
+……お前が存在しなければ、ベアトリーチェが生まれるということだ」 => ......If you don\'t exist, {f:5:Beatrice} will be born."
+「裏を返せば？ => "Flip it?
+私とベアトリーチェが、コインの裏表とでも仰るので？」 => Are you trying to say {f:5:Beatrice} and I are two sides of a coin?"
+「いい例えだ。 => "That\'s a good way to put it.
+その通り。 => That\'s it exactly.
+お前というコインの裏側が、ベアトリーチェなんだ」 => You\'re a coin, and {f:5:Beatrice} is on the other side."
+「何のことやら、さっぱりです」 => "I don\'t get it at all."
+「俺も、お前の存在がさっぱりだった。 => "At first, I didn\'t get your existence either.
+……だが、色々と話を聞いていく内に、お前の存在について、一つの仮説が立った。 => ......But, I have formed a theory about you, after hearing all this.
+それはお前が、１９歳だという点だ」 => The important fact is that you\'re 19 years old."
+「……あなたに年齢を明かした覚えはなかったのですが、ご名答です。 => "......I don\'t remember telling you my age, but you got it right.
+……どうして？」 => ......How?"
+「朱志香はお前のことを、入学した時にはもう副会長で、その翌年には生徒会長になったと言った。 => "Jessica said you were already the student council vice‐president when she started, and that you became the president the next year.
+これは、お前の年齢が朱志香より１つ上であることを示す」 => That means you\'re one year older than Jessica."
+１８歳の朱志香の１つ上ならば、………理御は１９歳ということになる。 => Jessica is 18 years old, .........so Lion must be 19.
+「なるほど…。 => "I see...
+それで、私が１９歳だと、何の仮説が立つというんです？」 => And what sort of theory can you make, now that you know I\'m 19?"
+「お前が右代宮夏妃の子ではない、という仮説だ」 => "You aren\'t Ushiromiya Natsuhi\'s child, that\'s the theory."
+「………………………。 => "...........................
+……失敬な。 => ......How rude.
+何の気紛れかは存じませんが、私だけでなく、母も侮辱する発言には撤回を求めねばなりません」 => I don\'t know what game you\'re playing, but I demand that you take back that slanderous insult to both me and my mother."
+「なぜ、次期当主は蔵臼ではなく、お前なのか」 => "Why are you the successor to the headship, instead of Krauss?"
+「私が成人するから受け継がれるのです。 => "I will succeed the headship when I come of age.
+私にも子が生まれたら、成人した時にそれを譲るべきでしょう」 => When I have a kid, I\'ll probably pass the title down to them when they come of age."
+「なら、なぜ金蔵は蔵臼が成人した際に当主を譲らなかった？」 => "Then why didn\'t Kinzo give the headship to Krauss when he came of age?"
+「………当主様の話を聞かれたでしょう。 => ".........You heard what our head said.
+当主様は右代宮家の老獪な親族たちに振り回され、辛い思いをされました。 => He was used by the cunning elders of the Ushiromiya family and suffered much.
+だから、これからの当主は若者が受け継ぐべきだと思い、」 => That\'s why he decided that only young people should inherit the headship from now—"
+「お前のいない世界では、次期当主を証明する銀の指輪さえ存在しない。 => "In the world without you in it, the silver ring for the successor to the headship doesn\'t even exist.
+……お前が指にしているその銀の指輪は、金蔵がお前に当主を継承したいという、 => ......That silver ring on your finger proves that Kinzo has a strong desire to see that you become the next head,
+他の世界にはない強い意思の証明だ」 => a desire which does not manifest in any other world."
+「……確かに、その点は否定できません。 => "......I can\'t deny that you may have a point there.
+当主様は、私を特に可愛がられておいでで、 => The head always seemed to adore me particularly.
+私が幼い頃から、成人したらすぐに当主を継承させる。その日に備え学業を怠るなと厳しく言われてきました」 => I was told from a young age that I would succeed the headship at once when I became an adult, and that it was very important for me to keep up with my studies in preparation for that day."
+「……しかし、お父様にその資質がないとは思いません。 => "......But I don\'t think my father was any less talented.
+なぜ、お父様を早々に飛び越して私が次期当主なのか。 => Why did Grandfather skip over him and make me the successor?
+………不思議に思ったことはありますが、ずっとそうだったので、その疑問を口に出したことはありませんでした」 => .........I\'ve thought it strange from time to time, but since it\'s always been that way, I never said so aloud."
+「なぜ金蔵は、蔵臼よりお前に、強く当主を引き継がせたかったか、わかるか」 => "Do you know why Kinzo wanted you and not Krauss to become the next head?"
+「わかるわけもありません。 => "How could I know?
+………また、心を蔑ろにするんじゃないと仰るので？ => .........Are you trying to tell me to stop ignoring the heart again?
+当主様のお心から、何が推理できると仰るんですか？」 => Tell me, what deduction can you make about how the head\'s heart works?"
+「お前が、ベアトリーチェと金蔵の、子供だからだ」 => "It\'s because you\'re the child of Kinzo and Beatrice."
+「……お見事。 => "......Well done.
+……くすくすくすくすくすくすくす」 => ...*giggle*giggle*giggle*giggle*."
+乾いた拍手と、小馬鹿にした笑い声。 => There was a crisp applause and a mocking laugh.
+「ベルンカステルか」 => "{f:5:Bernkastel}."
+「……案外、早かったわ。 => "......That was faster than I expected.
+もう少し、思考を遊ばせてくれると思ったら」 => I thought you\'d let me play a bit longer."
+もはやそこが、彼女の座るべきところとでも言うように、 => {f:5:Bernkastel} appeared sitting on the altar,
+……ベルンカステルは祭壇に腰掛けた姿で現れる。 => ......almost as though it had become her own personal chair.
+「いつ、理御がベアトリーチェの血を引くと？」 => "When did you realize that Lion shared Beatrice\'s blood?"
+「１９歳という年齢に気付いた時だ。 => "As soon as I realized that Lion was 19.
+……第５のゲームの時に登場したヒント、１９年前の赤ん坊と数字が合致する」 => ......It was the same number as "the baby from 19 years ago", that hint which appeared in the fifth game."
+「……その赤ん坊は、崖から落ちたのでは？」 => "......Didn\'t that baby fall off a cliff?"
+「夏妃に受け入れられ、崖から落ちなかった１９年前の赤ん坊が、理御だ。 => "Lion is the baby who was accepted by Natsuhi and didn\'t fall off the cliff.
+裏を返せば、夏妃に拒絶されれば、理御は存在しない」 => In other words, if Natsuhi rejects the baby, Lion doesn\'t exist."
+「私が、……母さんの子じゃない…？！ => "You\'re saying......I\'m not Mom\'s child...?!
+馬鹿な……。 => That\'s insane......
+…………………」 => ....................."
+「そう言いつつも、心当たりはあるみたいね。 => "You say that, but you don\'t look too sure.
+……くすくす。 => ......*giggle*.
+そうよ。 => That\'s right.
+右代宮理御は、夏妃の子じゃないわ。 => Ushiromiya Lion is not Natsuhi\'s child.
+１９年前に金蔵が何処かより連れてきた赤ん坊の成長した姿よ」 => This is the grown‐up version of the baby Kinzo got from somewhere 19 years ago."
+「何処か、じゃねェ。 => "Not "somewhere".
+……明白に、ベアトリーチェの血を引いている。 => ......Lion clearly shares Beatrice\'s blood.
+その証拠が、数多の世界で理御にしか与えられない、銀の指輪だ」 => The proof is the silver ring, which is only ever given to Lion across all of the many worlds."
+「この指輪があると、どうして私がベアトリーチェの血を引くと？」 => "Why does the ring prove that I share Beatrice\'s blood?"
+「数多の世界で、お前にしか与えられない。 => "In all of the many worlds, you are the only one who is given it.
+それは、全ての世界の中で、金蔵にとってお前は、ベアトリーチェの次に最も重要な人間であることを示している。 => That means that, in all worlds, you are the most important person to Kinzo, second only to Beatrice.
+そしてそれは、実の息子の蔵臼や、孫の朱志香を遥かに超えている。 => And his love for you is far greater than it is for his son, Krauss, or his granddaughter, Jessica.
+そしてさらに、お前の年齢である１９。 => And you are 19 years old.
+……即ち、１９年前に何があったかを遡れば、導き出される一つの推理がある」 => ......In other words, if we look back to see what happened 19 years ago, we are led to one theory."
+「１９年前？ => "19 years ago?
+私が生まれた時に、何があったというんですか」 => What\'s supposed to have happened at the time I was born?"
+「………あなたも聞いたはずよ？ => ".........You heard it too, didn\'t you?
+それも今日。 => Today, even.
+ウィルと一緒にね？」 => Will was with you."
+「……………………。 => "........................
+……まさか、楼座叔母さんの話だというのですか？！」 => ......You don\'t mean...Aunt Rosa\'s story?!"
+「そうだ。 => "That\'s right.
+第３のゲームで楼座の話が出て、第５のゲームでの赤ん坊の年齢が時間軸で一致した時、一つの推理が生まれた。 => Rosa\'s story came out in the third game, and when the age of the baby in the fifth game matched that date, a certain theory became possible.
+あの金蔵が、どこからともなく赤ん坊を連れてきて、自分の血族に加えろというのは、 => The fact that Kinzo brought a baby from somewhere and tried to add it to his family...
+その赤ん坊が特別な存在であることの証拠だ」 => proves that the baby was somehow important to him."
+「私が、 => "I\'m...
+……九羽鳥庵のベアトリーチェの、 => ...the Kuwadorian Beatrice\'s...
+……子供……」 => ...child......"
+「九羽鳥庵のベアトリーチェは、潜水艦で来たベアトリーチェの娘だ。 => "The Kuwadorian Beatrice was the daughter of the Beatrice who came in the submarine.
+……しかし金蔵は娘と思わなかった。 => ......But Kinzo didn\'t think of her as a daughter.
+生き写しの、生まれ変わりと信じた。 => He believed she was the same person, Beatrice reborn.
+……その生まれ変わりが、かつての年齢にまで成長し、まさに生き写しとなった時。 => ......When that "reincarnation" reached the same age as the first Beatrice, and truly looked like Beatrice\'s double,
+金蔵は過ちを犯したんだ」 => ......Kinzo made a terrible mistake."
+「………き、聞きたくありませんっ」 => ".........I...I don\'t want to hear it!"
+「そういうこと。 => "That\'s how it is.
+金蔵はベアトリーチェにベアトリーチェを生ませ、 => Kinzo got Beatrice pregnant with Beatrice,
+さらにそのベアトリーチェにあんたを生ませたの。 => and then he got that Beatrice pregnant with you.
+……あんたは金蔵の子であると同時に、ベアトリーチェの孫、ということね」 => ......So, you\'re both Kinzo\'s child and Beatrice\'s grandchild."
+「………………………ッ…」 => "...........................!"
+「これが、金蔵の心から考える、金蔵がお前を誰よりも特別に扱う理由の、必然の推理だ。 => "If we consider Kinzo\'s heart, this is the inevitable theory we reach for explaining why he treated you so specially.
+金蔵は過ちを悔い、お前を今度こそ子孫として、右代宮家に正しい形で迎え入れようとしたんだ」 => He regretted his mistake so badly that he attempted to have you formally accepted into the Ushiromiya family as a descendant."
+「……夏妃はほとんどの場合、プライドを酷く傷つけられ、理御の育児を拒否するわ。 => "......In almost all cases, Natsuhi\'s pride is brutally hurt, and she refuses to raise you.
+その結果、あんたは必然として崖から落ちて消える」 => Because of that, you almost always fall from the cliff and disappear."
+「………け、結婚後、 => ".........I, I was told that after their marriage,
+……ようやく授かった子供が私で、 => ......I was born after much hardship,
+……年子で生まれたのが朱志香だと……、聞かされてきました…」 => ......and Jessica was born the next year..."
+「もしお前が今日まで、自分が夏妃の子であることに疑問を感じたことがないのなら。 => "If you really never suspected that Natsuhi wasn\'t your mother,
+……お前はこの世界の母に感謝すべきだ。 => ......then you should thank her in this world.
+お前にそれを悟らせずに今日まで、朱志香と平等に愛情を注いだ」 => The reason you never realized the truth is because she\'s shown as much affection for you as she did for Jessica."
+「………感謝の必要はないわ。 => ".........There\'s no need to thank her.
+……だって、あんたというカケラを見つけるのに、気が遠くなるほどの苦労をしたもの」 => ......After all, it took a staggering amount of effort just to find a fragment with you in it."
+「夏妃は数学的確率で見て、 => "Mathematically speaking,
+２５７万８９１７分の２５７万８９１６の確率で、あんたの育児を拒否するわ。 => there\'s actually a {nobr:2,578,916/2,578,917} chance of her refusing to raise you.
+あんたが感謝すべきは、奇跡を紡いだ私であって、夏妃ではないわね、多分。 => You should probably be thanking me for creating this miracle, not Natsuhi.
+……くすくすくすくす」 => ......*giggle*giggle*."
+「下らねェ確率遊びはやめろ」 => "Enough with your stupid probability games."
+「あら、ごめんなさい」 => "Oh, I\'m sorry."
+「………………………………」 => "...................................."
+「お前が誰の血を引こうと、育ててくれた家族への恩が変わるわけじゃない」 => "No matter whose blood you bear, that doesn\'t change the debt you owe to the family that raised you."
+「それはわかってます。 => "I realize that.
+……ですが、少し心を落ち着ける時間が欲しいです。 => ......Still, I would like some time to calm down and think things through.
+…私の心を、蔑ろにしないでくれるなら」 => ...That is, if you\'ll do me the kindness of not ignoring my heart."
+「………そうだな」 => ".........Sure."
+理御は大きく溜息を漏らしながら、何かを見上げる仕草をする。 => Lion took a deep breath and looked upwards.
+……蔵臼たちを実の両親だと信じていたのに、それが違ったのだから、 => ......Anyone would be shocked...
+少なからぬショックもあるだろう。 => to find that their parents weren\'t who they believed them to be.
+しかし、理御は感謝していい。 => But all the same, Lion, ...you\'re allowed to feel grateful.
+今日まで何不自由なく育ててくれた家族に感謝していい…。 => Grateful to the family who raised you and met your every need...
+「面白ぇもんだ。 => "It is pretty interesting.
+……黄金の魔女ベアトリーチェに、何百万分の一かの確率で、 => ......Hard to believe that the Golden Witch {f:5:Beatrice} might\'ve lived such an ordinary life,
+こんな平凡な人生を送れる可能性があったなんてな」 => even at absurdly low probabilities."
+「でしょう？ => "Isn\'t it?
+こういう時、私はとても笑えると思うのよ……」 => I think moments like this are hilarious......"
+ウィルは、はっきりと断言する。 => Will had said it plainly.
+右代宮理御は、……異なる世界での、黄金の魔女ベアトリーチェの姿なのだ。 => Ushiromiya Lion......is how the Golden Witch {f:5:Beatrice} appears in a different world.
+夏妃が育児を拒否する１９年前の赤ん坊。 => The baby Natsuhi rejected 19 years previous.
+それが、夏妃に受け入れられれば、このような未来があったのだ…。 => If she accepts that child, this is the future that results...
+しかし、受け入れられなければ、……魔女が、生まれる。 => However, if she does not accept it, ......a witch is born.
+その生まれを祝福されなかった赤ん坊は、魔女となるのだ…。 => The baby whose birth was not celebrated becomes a witch...
+「死んだ猫は、理御だ。 => "Lion is the dead cat.
+……だが、理御の存在自体は、お前が関心を持っている、六軒島連続殺人事件とは何の関係もない。 => ......However, Lion\'s existence has nothing to do with what you\'re interested in, the Rokkenjima Serial Murders.
+……つまり、猫箱を開ければ消える猫が、理御だ」 => ......In other words, Lion is the cat that disappears when you open the cat box."
+「………くすくす、そういうことよ。 => ".........*giggle*, exactly.
+理御など、所詮は消える猫。 => Lion is just a disappearing cat.
+でも、余興にしては面白かったでしょう？」 => But this was a pretty entertaining diversion, don\'t you think?"
+「面白ぇのはお前だけだ。 => "You\'re the only one who finds it entertaining.
+……ここに閉じ込められてなけりゃ、俺もこんな推理はわざわざしない」 => ......If I wasn\'t trapped in here, I wouldn\'t have bothered to reason this out."
+「…………………。 => ".....................
+……どうして私が、おかしな探偵ごっこの相棒に選ばれたのか、わかりました。 => ......I think I know why I was chosen to be your partner in this strange detective game.
+……どうやら、ベルンカステルという魔女は、 => ......It seems this {f:5:Bernkastel} witch...
+人の運命を弄んだり、あるいは嘲笑ったりするのがお好きな方らしい」 => enjoys toying with people\'s fates and making a mockery of them."
+「あら、すごい。 => "Wow, incredible.
+……会ってその日に私を理解する人なんて、珍しいわ。 => ......It\'s rare for someone to understand me the same day they meet me.
+……くすくす」 => ......*giggle*."
+「私は、……どうやら異なる世界では、魔女と呼ばれる存在になるらしい。 => "Apparently, ......I become something that\'s called a witch in another world.
+そしてどうやら、何かの事件を引き起こすらしい。 => And, apparently, I\'m the cause of some sort of crime.
+それは、私の罪なのですか？」 => Is that my sin to bear?"
+「罪のわけねェ。 => "Of course it isn\'t.
+お前はお前だ。 => You are you.
+コインが裏を向いていた時のことなんて、知ったことじゃねェ」 => How things would be if the coin were flipped the other way shouldn\'t matter a bit."
+「ありがとう。 => "Thank you.
+しかし、異なる運命の世界では、お前は何らかの迷惑を掛けていたと言われて、 => Even so, to be told that I caused some sort of trouble in a world of a different fate...
+心穏やかになる人間はいないと思います。 => I don\'t think anyone would be pleased to hear that.
+……教えて下さい。 => ......Please, tell me.
+私は、異なる世界で何を？」 => What do I do in that other world?"
+「…………ベルンカステル」 => "............{f:5:Bernkastel}?"
+「カケラを、その子に見せたら？」 => "You have the fragments... Why not show them?"
+「……………」 => "..............."
+ウィルが手の平を開くと、 => Will opened his hand...
+……そこに青白く光る、水晶片のようなものが現れる。 => and something that looked like a pale‐blue, glowing shard of crystal appeared there.
+これまでのゲームの、全ての記憶、……いや、棋譜だ。 => It contained the memories—no, the records—of all the games so far.
+「……こいつに触れろ。 => "......Touch this.
+異なる世界での、お前の運命が見える」 => You\'ll be able to see your fate in other worlds."
+「……………触れない方が幸せだ、 => "...............I\'ll be happier not touching it,
+…とでも言いたそうな顔ですね？」 => ...is what your face is telling me."
+「当然だ。 => "Of course.
+……予感しているだろうが、ロクな話じゃない」 => ......I\'m sure you guessed this, ...but it isn\'t pretty."
+「それでも、それは……。 => "Even so......
+……異なる世界とはいえ、……私のことなのですね」 => ......Even if it is another world, ......it\'s still about me."
+「……お前には知る権利も、知らぬ権利もどちらもある。 => "......You have both the right to know and the right not to know.
+お前があくまで、自分と連なりつつも異なる誰か、他人のことと割り切れるなら、……触れてみるといい」 => If you can convince yourself that what you\'re seeing is a person similar to yet different from you—that it is not you but someone else—then go ahead and touch it."
+「知りたいわよねぇ…？ => "You want to know, don\'t you...?
+自分が、あるいはひょっとしたら、辿ったかもしれない運命なんて」 => About the path that fate could have chosen for you..."
+「…………相棒として聞きます。 => "............I ask this as your partner.
+あなたはそれを私に、見せたいですか？」 => Would you show that to me?"
+「相棒としてなら、見ろという。 => "As your partner, I\'d say "look".
+……しかし友人としてなら、見るなという」 => ......But as a friend, I\'d say "don\'t"."
+「残念。 => "Unfortunately,
+私は友人ではありませんので」 => I\'m not your friend."
+「俺も、相棒として一つ聞きたい」 => "Then, as a partner, I have one last question."
+「何です？」 => "What?"
+「お前、…………。 => "Are you............
+………男か。女か」 => .........a man or a woman?"
+「………………唐突なことを聞きますね」 => "..................Well, that came out of nowhere."
+「男と思えば、線の細い男にも見える。 => "I could see you as a fairly slender boy.
+しかし、女と思えば、気丈に振舞う女にも見える。 => But then again, I could also see you as a no‐nonsense sort of girl.
+……ベルンカステルも、わかってて誤魔化してる。 => ......Even {f:5:Bernkastel} has been intentionally keeping it a secret.
+朱志香にはお前を、兄とも姉とも呼ばせず、次期当主サマと抽象的な呼び方をさせ続けていた」 => She made Jessica call you "the future heir" all the time, instead of "big brother" or "big sister"."
+「……くすくす。 => "......*giggle*.
+本当に勘のいい男」 => You are quick."
+「よく性別を聞かれます。 => "People often ask me about my gender.
+だから悔しくて、こう言い返してます。 => It\'s become quite frustrating, so I always give the same response.
+……どっちに見えますか？って」 => ......‘Which do you think I look like?’"
+「………第５のゲームでは、お前は男ということになっている。 => ".........In the fifth game, you\'re treated as a man.
+しかし数多のゲームでは、女だと考えられてる」 => But in countless other games, you\'re thought of as a woman."
+「……右代宮戦人がマスターを務めた第６のゲームでは、性別を違えつつも確定しない二人組の悪魔が登場し、それを暗示した。 => "......In the sixth game, when Ushiromiya Battler was the Master, two demons of different sexes appeared, but we didn\'t know which was which, referencing this again.
+……いや、厳密には、一番最初のゲームからだな。 => ......In fact, strictly speaking, it started all the way back in the very first game.
+………お前の性別は、ゲームの外側の、隠れた謎の一つだ」 => .........Your gender is one of the hidden mysteries that exists outside the games themselves."
+「素直に答えるのも悔しいので、お答えはしないことにします。 => "Having to say it straight out frustrates me, so I won\'t give you an answer.
+私はあなたの相棒でしょう？ => We\'re partners, right?
+気に入らない性別だったら、何か不都合なことでもあるのですか？」 => Does it really matter if I\'m not the gender you\'d prefer?"
+「……………………。 => "........................
+……その通りだ。 => ......You\'re right.
+俺には、相棒の性別などどうでもいい」 => If we\'re working together on this, I don\'t care what your gender is."
+「ありがとう。 => "Thank you.
+……容姿にコンプレックスがあったので、あなたの言葉が嬉しいです」 => ......I\'ve formed a bit of a complex about it, so your words are very gratifying."
+「俺は男女平等主義だ。 => "I\'m all for gender equality.
+………使えねぇヤツは、平等に殴る」 => .........If someone\'s a waste of space, I\'ll smack \'em no matter who they are."
+「私も、マナーのない方は男女平等に抓りますので」 => "And of course, I\'ll pinch rude people no matter which gender they are."
+理御はゆっくりと……、カケラに触れる。 => Slowly, ......Lion reached out and touched the fragment.
+すると猛烈な眩暈を起こし、操り人形の糸が切れたかのように、その場に無言でしゃがみ込む。 => A moment later, Lion seemed to undergo a violent bout of dizziness...and silently slumped over like a puppet with its strings cut.
+無理もない。 => It was no surprise.
+平行世界について理解のない人間が、異なる運命を無理やり理解させられたら、 => When people who don\'t understand parallel universes have many different fates jammed into their heads,
+脳が膨張して自我を失うような錯覚を味わうだろう。 => they tend to feel like their heads are swelling and their sense of self is melting away.
+……理御はしゃがみ込んだまま、意識を失っているようだった。 => ......Lion seemed to have lost consciousness.
+「こいつには、……全てを知る資格があったというわけだ」 => "So, ......Lion had what it took to learn everything."
+「あなたの相棒に、ぴったりの駒だったでしょう？」 => "A perfect piece to be your partner, wouldn\'t you say?"
+「推理を続ける。 => "I\'ll continue my reasoning.
+……死んだ猫の話はした」 => ......I\'ve talked about the dead cat."
+「そうね。 => "Very true.
+次は、生きた猫の話だわ」 => Next up is the living cat."
+「１９８６年のベアトリーチェを殺せるのは、それを生み出したヤツだけだ」 => "The only one who can kill the {f:5:Beatrice} of 1986 is the one who created her."
+「ヒントは山ほどあったわ。 => "There were tons of hints.
+思えば、ベアトリーチェのゲームだった頃からね」 => If you think about it, they\'ve been coming since back when {f:5:Beatrice} was running the games."
+「そうだな。 => "That\'s true.
+……ベアトリーチェと戦人の第４のゲームで、その因縁ははっきりとした。 => ......In the fourth game between {f:5:Beatrice} and Battler, {f:5:Beatrice}\'s origin became clear.
+そしてその時点で、ベアトリーチェが誰であるか、そしてその心が、わかった」 => And, at that point, I learned who {f:5:Beatrice} was, and I understood that person\'s heart."
+「心とは？」 => "What do you mean by heart?"
+「……動機だ。 => "......The reason for committing the crime.
+……ベアトリーチェが、１９８６年１０月５日に、自らの運命さえ賭す、ゲームのような事件を起こさねばならなかった、 => ......The reason that {f:5:Beatrice} had to gamble her own fate in the commission of a game‐like crime on October 5th, 1986—
+動機だ」 => the motive."
+「さすがだわ。 => "Impressive.
+第４のゲームの時点で、フーダニットとホワイダニットが推理できてたなんて。 => So, you\'d figured out the whodunit and the whydunit by the end of the fourth game.
+……じゃあハウダニットは？」 => ......Then what about the howdunit?"
+「犯人が誰であるかわかれば、それを推理することは不可能じゃない。 => "Once you know who the culprit is, theorizing about the howdunit isn\'t impossible.
+……第３のゲームの連鎖密室は、なかなか器用にやったもんだと拍手さえしたくならァ」 => ......Those linked locked rooms in the third game were so skillfully done, I felt like clapping."
+「第４のゲームラストの、 => "And what about the riddle at the end of the fourth game,
+私はだぁれ？、はわかった……？」 => "who am I"......?"
+「１０月５日２４時に必ず、場所を問わずに、殺せる“犯人”。 => "The "culprit" who can kill you for certain at the stroke of midnight on October 5th no matter where you are.
+その時点である種の仮定は可能だ。 => It was possible to form a certain kind of hypothesis at the moment the question was asked.
+……それこそ、黄金郷のもう一つのお宝、ってわけだ」 => ......You might call that the other treasure of the Golden Land."
+「……へぇ。 => "......Oh?
+第４のゲームまでに、 => So, you say that by the fourth game,
+……即ちあなたは、ベアトのゲームだけで、全ての答えに至れたと？」 => ......in other words, with just {f:5:Beatrice}\'s games, you managed to reach all of the answers?"
+「可能だ。 => "It\'s possible.
+……その後の、ラムダデルタのゲームと戦人のゲームは、それをさらに補足するヒントの塊だ。 => ......{f:5:Lambdadelta}\'s and Battler\'s games after that were just an extra helping of hints.
+……この、お前のゲームさえもな」 => ......As is this game of yours."
+「くすくすくす……。 => "*giggle*giggle*......
+……それでは、そろそろ、はぐらかすのは終わりにして、教えてちょうだい？ => ......In that case, why don\'t you stop beating around the bush, and just tell me?
+………犯人は、 => .........Who is...
+だぁれ……？」 => the culprit......?"
+その時、………彼ら以外、誰もいないはずの礼拝堂に、小さな足音が響く。 => At that moment, .........though there hadn\'t been anyone but them in the chapel, quiet footsteps rang out.
+その人影は、ゆっくりとウィルたちの前に来て、小さく会釈をした。 => That silhouetted figure slowly walked up to Will and {f:5:Bernkastel}...and gave a small bow.
+「………来たか」 => ".........So, you\'ve come."
+「呼んだの？」 => "Did you call this person here?"
+「あぁ。 => "Yeah.
+……フーダニット。 => ......Whodunit.
+ハウダニット。 => Howdunit.
+そして、ホワイダニット。 => And...whydunit.
+……こいつの動機を、理解した」 => ......I understand this person\'s motive."
+「……“あんた”、動機がわかられただけで、もう降参しちゃうの…？ => "......And {i:you}, are you going to give up just because he\'s found out your motive...?
+具体的な証拠はないんでしょ？ => There\'s no concrete evidence, right?
+赤とか青とかで、ガンガンと派手に応酬すればいいのに」 => You could make a flashy fight of it, with red and blue."
+「こいつは、もうそんなことは望んでない」 => "That\'s not what they want anymore."
+その人物は、小さく頷く。 => The person nodded slightly.
+望みは、……気付いてもらうこと。 => Their wish......was for someone to realize.
+それが達せられた時点で、もう、下らぬ言葉遊びで、言い逃れを図るつもりはない…。 => Now that this had happened, they had no intention of engaging in trivial excuses or pointless word games...
+「俺はお前の動機を、 => "I believe that I understand your motive,
+……心を理解したつもりでいる。 => ......your heart.
+……それをこれから、話す。 => ......I am going to talk about it now.
+お前を呼んだのは、 => I called you here...
+それを聞き、 => to listen...
+……間違いがあったら、お前の言葉で正して欲しいからだ」 => ...and correct me if I\'ve gotten anything wrong."
+「………………………………」 => "...................................."
+ウィルたちは、……互いにもう一度、小さく頷き合う。 => The two of them nodded to each other once more.
+「お前の４つのゲームで、お前のメッセージを受け取り。 => "I found the message you put into your four games.
+……そして、マスターの違う３つのゲームで、俺はお前をどんな不思議な運命が弄んだか想像し。 => ......And through three games with different Masters, I pictured the strange sort of fate that must have toyed with your life.
+……言葉を失った。 => ......I was left speechless.
+……お前はそれを、誰にも明かさずに、全てのゲームで死ぬ」 => ......In every game, you die without revealing that truth to anyone."
+それを、この誰もいない礼拝堂で告解させても、何の意味もないかもしれない。 => Having you confess in this empty chapel might be pointless.
+しかし、それでもそれが、………何かの救いになると、俺は信じる。 => However, even so, .........I believe it will bring you some measure of salvation.
+人は、誰かに理解されて初めて、救われる。 => People are only saved when someone understands them.
+死後も、何年経っても、……そして、一番わかって欲しかった男に、理解されることなく生を終えた哀れな魔女を、 => It\'s time someone forgave this pitiable witch, who went years after her death without being understood,
+…………もう誰かが赦してもいい。 => ............and whose life ended before the one man she wanted to understand her could do so.
+戦人は第５のゲームの最後で、ようやくそれを理解する。 => At the end of the fifth game, Battler finally understood.
+……しかしそれは、 => ......However,
+………遅く、 => .........it took him so long...
+間に合わなかった。 => ...that he didn\'t make it in time.
+だから、今ここで生きている彼女を、戦人は救えないのだ。 => So, even though she is alive here and now, Battler cannot save her.
+だから、戦人は、ベアトリーチェの葬儀に、いない。来ない。 => That\'s why he\'s absent from {f:5:Beatrice}\'s funeral. He won\'t come.
+……間に合わない。 => ......He won\'t make it in time.
+「……これは、ベアトリーチェの葬儀だ。 => "......This is {f:5:Beatrice}\'s funeral.
+お前が告解し、 => You will confess,
+……神なるマスターが聞き、 => ......the divine Master will hear,
+………俺が赦す。 => .........and I will forgive you.
+………その役目は戦人が相応しいが、ヤツは間に合わなかった。 => .........That\'s supposed to be Battler\'s job, but he didn\'t make it in time.
+だから、俺で諦めろ」 => So, you\'ll have to settle for me."
+「……あれだけベアトはヒントを出したのにね。 => "......Beato gave out so many hints, too.
+ラムダも馬鹿戦人のために、あれだけのヒントを与えたわ。 => Lambda also gave that bonehead Battler a ton of hints.
+……それに対する、戦人自身の懺悔のようなゲームも笑えた。 => ......And his response, that game of repentance, that was hilarious as well.
+……でも、私は何も笑わせないわ。 => ......But I won\'t be making anyone laugh.
+ただ淡々と、……あんたの葬儀を執り行うだけよ」 => I\'ll just indifferently carry out your funeral."
+「お前は喋るな。 => "No more talking from you.
+話しているのは俺だ」 => That\'s my job."
+「…………くすくす」 => "............*giggle*."
+「いいなら、始めよう。 => "If you\'re ready, let\'s begin.
+……誰も急かさない。 => ......No one will rush you.
+………お前の葬儀が終わるまで、ベルンカステルは永遠に時間を閉ざしてる。 => .........{f:5:Bernkastel} has closed off time for eternity until your funeral ends.
+心の整理に必要な時間は、無限にある…」 => You have endless time to prepare yourself emotionally..."
+人影はゆっくりと首を横に振る。 => The shadowy figure slowly shook its head.
+その覚悟がもうあるからこそ、ここにやって来たのだ。 => It had come here because it was already ready.
+わかったと、ウィルも頷いて答える。 => Will nodded to show he understood.
+……そして、二人でベルンカステルの目を見ながら。 => ......Then, the two of them looked into {f:5:Bernkastel}\'s eyes,
+……ウィルは、きっぱりと告げる。 => ......and Will spoke out clearly.
+{a:c: => {a:c:
+「こいつが、犯人だ」} => "Here\'s the culprit."}

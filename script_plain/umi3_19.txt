@@ -1,235 +1,235 @@
-"Hahahaha, wahahahaha!
- I never thought that Lady {f:5:Bernkastel}\'s piece would barge in at the very end...!"
-"......I searched all over the place for a piece fitting for a game with you.
- ......I\'m sure that you\'ll grow to enjoy her."
-"What\'s with that piece?!
- Who was that person, who was it?!
- She didn\'t say her name! That\'s not fair!!
- Hey, don\'t you think so too?!"
-"...I have a general idea.
- ......Come on, normally, anyone would know."
-"Normally?!
- No we wouldn\'t, it was that character\'s first appearance, wasn\'t it?!
- If she doesn\'t say her name, I won\'t—the players won\'t—everyone won\'t know, right?!"
-"............Beato, it\'s alright if you don\'t tell her.
- See?
- Isn\'t she a funny kid?"
-"M‐...mm.
- ......Lady {f:5:Lambdadelta}\'s simple‐minded naiveté truly is precious and funny.
- ......*cackle*cackle*!"
-"Why, why, why I am the only one you won\'t tell, you meanie!!
- Okay, in exchange, I\'ll teach you a special secret that only I know!
- So tell me!"
-"......Hoh.
- A special secret, you say!
- Now that, I do want to hear...!"
-"Blehhh!
- If you want me to tell you, first tell me who that woman really was!
- The secret I know sure is awesome!
- I mean, it\'s gonna blow you away like finding out that Santa‐san is actually Daddy!"
-"Huh?
- *giggle*!
- Oopsie{p:0:☆} Sorry, I\'ll bet you\'re so shocked that your world turned upside‐down, right?!
- Oh‐hoh‐hoh‐hoh‐ho!"
-".........Your father was the one who came to your place, Lambda?"
-"To my place... Wait, what\'s that supposed to mean?"
-"...Lord {f:5:Santa Claus} only visits the homes of children with clean hearts.
- He didn\'t come to your place, then?"
-"Well, Lord {f:5:Santa Claus} is gracious.
- Unless you are a reeeally bad scoundrel, he will give you a present.
- After all, he even gave them to me!"
-".........As you grow and your heart becomes hardened, he stops coming, doesn\'t he?
- How old were you, Beato, when he stopped coming?"
-"Mm.
- He stopped coming when I was about twelve.
- My maiden\'s heart awoke, and I quickly got somewhat embarrassed about Lord {f:5:Santa} coming."
-"After I wrote "Thanks for everything, that\'s enough.
- So make sure you splurge on the last presents", he stopped coming.
- Oooh, and I was looking forward to it too!
- How old were you when he stopped coming, Lady {f:5:Bernkastel}?"
-".........I was pretty wild.
- ...It happened fairly early.
- I think when I was about nine.
- ...Something about that beard really irritated me, so I waited in my futon with some sewing scissors ready, thinking I\'d cut it off.
- ............What a cringeworthy age."
-"So, ......Lady {f:5:Lambdadelta}, as long as you can remember, Lord {f:5:Santa Claus} has never come to see you, you say.
- ............He usually comes until the last year of elementary school or during middle school."
-"...Maybe we should have a doctor look at her.
- I hear that maturing too fast can have an adverse effect on the growth of mind and body.
- ...Yeah, there\'s definitely some of those.
- ...Adverse effects."
-"Hey, wh‐what are you guys talking about!!
- Gaaaaah!!"
-"*cackle*cackle*cackle*cackle*cackle*!
- Wahahahaha, it truly is boisterous when three witches gather!"
-"......If you\'re talking about that level of secret, I doubt it\'s worth listening to.
- Can I go now?
- I have to prepare for the next game."
-"Wha—hey, wait a sec!
- Tell me who that woman really was!!"
-"......Well then, tell me this special secret of yours first.
- If it\'s good enough, then I\'ll tell you."
-"Hoh‐hoh‐hoh‐ho!!
- Alright, I\'ll tell you, and it really is a special secret, okay?!
- ......Remember, in this game, there was a girl who found the gold and became the new witch, right?"
-"Mm.
- Just what kind of secret could that person have?"
-"Ehheheheheh!
- I realized who that girl actually is.
- Does anyone know?
- *giggle*giggle*!
- There was a hint in the way she talked."
-"Remember, that girl said it a lot, right?
- "Why don\'t you something foreverrrr?",
- right?!
- Yes, that phrase was the main point!
- Foreverrrr?
- For Evaaaa?
- Yes!"
-"She was actually...Ushiromiya Eva!!
- What do you think?!
- Are you shocked?!
- Oh‐hoh‐hoh‐hoh‐ho!!"
-"Hoh...!
- I did not notice that!
- ...Mngh, to think that there would be a hint in a place like that."
-"......You\'re good at playing along with her, Beato.
- This kid can get a little full of herself, so don\'t take it too far.
- See you, I\'m leaving."
-"Wait, wait!
- It\'s not fair if you just listen to my secret and don\'t tell me yours!!
- Tell me who she really was!!"
-"......Your secret was so incredible that mine just wouldn\'t match up.
- ...So in exchange, I\'ll tell you my own special secret.
- I\'ll tell you the name of the culprit in this game called {i:Higurashi no Naku Koro ni}."
-"Gyaaaaaaaaaaaaaaa, don\'t tell meee!!
- I\'m playing it right nowwww!!"
-"......Ahhahahahahhahhahhahhah...
- See you, Beato.
- The black tea was delicious.
- Oh, about the crackers, though, the repertoire of jam was lacking.
- Get some gochujang chili paste every once in a while.
- It goes great with Russian tea.
- Later."
-"I see. Alright.
- I shall try it.
- I shall call for you when the preparations are finished for the next game.
- Until then, feel free to draw up a strategy at your leisure."
-"Yes, I will.
- This last game was pretty interesting.
- Later."
-"Heyyy, wait a sec, tell meee!!!"
-"*cackle*cackle*.
- My, my, you two really are close."
-"..............................
- ......Yes, that\'s right.
- ...Oh, how I love you, {f:5:Bernkastel}.
- You could even say I\'m in love with you."
-"......I want to gouge out her eyes so she can see no one other than me.
- ......Oh, wouldn\'t that just be to die for?
- It\'d be wonderful to dunk them in black tea.
- Ahah!"
-"Who knew she had entranced Lady {f:5:Lambdadelta} to this extent.
- ......It seems I carry a heavy responsibility.
- Still, this last game truly was close!
- I was a breath away from defeating Battler."
-"..................Beato.
- Can I ask you something?"
-"What is it?
- I won\'t tell you that girl\'s name.
- *cackle*cackle*!"
-"...Just when are you going to stop screwing around?
- ...Do you even have the {i:slightest} intention of winning?"
-{f:5:Lambdadelta} threatened her with a low voice that she had never used in front of {f:5:Bernkastel}.
-...It completely blew away the calm atmosphere which had been there until a moment ago.
-".........You know,
- I\'m supporting you \'cause you\'re meant to be a witch who can win against {f:5:Bernkastel}.
- If you don\'t have the power to win against her,
- then I\'m ready to abandon you at any time, got it......?"
-"...............How scathing.
- What about me dissatisfies you?
- ...As you know, my game board is perfect.
- Lady {f:5:Bernkastel} will never be able to win..."
-"Yeah, that\'s right.
- Your board truly is impressive.
- {f:5:Bernkastel} could spend a hundred years,
- or even a thousand years here, and she would still be unable to win against this game board, it truly is that impressive and perfect."
-"......That\'s why, in exchange for letting me borrow that, I made you a witch.
- .........If I stop being your guardian, you\'ll immediately go back to being a {y:0:Human}{n:0:human}.
- ...Make sure you don\'t forget that, no matter how much incredible magical power you hold, ......you are nothing more than a temporary witch."
-"I, ......I know that.
- ...I am grateful to you..."
-"Don\'t speak so casually.
- I\'ll forgive that when {f:5:Bernkastel}\'s around, but I won\'t when she isn\'t.
- Recently, maybe you\'ve forgotten your debt to me."
-"Th‐that is, .........n‐...not, ......not so, my Lady......"
-"...Aah, changed my mind, that creeps me out.
- You can talk the same way as usual.
- But be mindful of what you say.
- ......I have a surprisingly short temper, you see?"
-"M‐......mm......"
-"Back to the point.
- ...Your game board truly is perfect.
- ......You should be able to defeat {f:5:Bernkastel} without any trouble.
- ...But that kid won\'t give in easily.
- She\'ll challenge you over and over."
-"That is no problem.
- ...It has been certified by you, Lady {f:5:Lambdadelta}.
- ......My game board is perfect."
-"Yeah, that\'s right, it\'s perfect.
- ............So long as you, the player, are perfect as well, that is?"
-".........I don\'t understand what you mean by this..."
-"What {i:I} mean by this...?
- That\'s what {i:I} want to ask {i:you}.
- .........You play around a lot in your games.
- ...At first, I thought it was part of your tactics, because it would completely baffle {f:5:Bernkastel} from time to time."
-"............But I get the feeling that\'s not quite true.
- You\'re not playing around in a match you know you can win,
- ......the truth is, you don\'t care whether you win or lose, do you?"
-"R‐......ridiculous...
- How could that be..."
-"Listen close, okay?
- Your role is to break {f:5:Bernkastel}, force her to yield.
- In other words, that means being the victor in this game for all eternity.
- ......As long as you keep trying to become the {i:certain} victor, then I will give you my power as the Witch of Certainty.
- ............However."
-"If you fight in a way that doesn\'t deny any possibility of your loss,
- ...that\'s a different story."
-"This is a game, of course...
- In the same way that Lady {f:5:Bernkastel} will lose if I win,
- ...there will be some days on which I will lose and she will win.
- The possibility of loss always exists.
- That is why I—"
-"...............This is why you\'re useless.
- There\'s no need for this to be a game board for you.
- It simply needs to be a bird cage to lock {f:5:Bernkastel} up here for all eternity."
-"...What\'s the role of a bird cage?
- Making certain that the little bird inside never escapes.
- ......What\'s a bird cage worth if it has gaps that sometimes let the bird out?"
-".........O‐of course, games exist to be won.
- So it is impossible for me to lose.
- ...Therefore, I will continue to win......
- ...As you wish, for all eternity..."
-"Good answer—that\'s all I want.
- ......I\'ll allow you to play around and use fakes as part of your tactics.
- ...It was sometimes effective in this last game."
-"............But hear this.
- If you make a move hoping for anything else other than victory,
- ............make sure you\'re wonderfully prepared, okay?"
-"I, I will not do such a thing...
- I swear it...!"
-"............Originally, you weren\'t even a witch,
- and I can remind you what a truly shabby creature you were at any time.
- ............If you betray my expectations...
- At that time, I will have a delightful delightful penalty waiting for you."
-"...Of the billions of fragment worlds out there, ......I\'ll send you into the most miserable fragment and seal you there.
- .........You were miserable in the first place, so it\'ll be worth choosing a really miserable fragment.
- ...*giggle*giggle*giggle*giggle*giggle*."
-"................................."
-"Oh, how I love you, {f:5:Bernkastel}.
- ...Scrabble your feet in {f:5:Beatrice}\'s bird cage as much as you like,
- and spend a thousand years learning that you can no longer escape."
-"......And when you give in,
- ...I\'ll train you so that you can\'t tweet in anyone\'s palm but mine."
-"............*giggle*giggle*giggle*giggle*,
- ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!"
+「はっはっはっは、わっはっはっはっは！ => "Hahahaha, wahahahaha!
+まさか、最後の最後でベルンカステル卿の駒が乱入してくるとは…！」 => I never thought that Lady {f:5:Bernkastel}\'s piece would barge in at the very end...!"
+「……あんたとのゲームに相応しい駒を、ずいぶんあちこち探し回ったの。 => "......I searched all over the place for a piece fitting for a game with you.
+……きっと気に入ってもらえると思うわ」 => ......I\'m sure that you\'ll grow to enjoy her."
+「何よあの駒！ => "What\'s with that piece?!
+誰よあいつ、何者よ！ => Who was that person, who was it?!
+名乗らないなんてズルイわよ！！ => She didn\'t say her name! That\'s not fair!!
+ねぇ、あんたもそう思うでしょ？！」 => Hey, don\'t you think so too?!"
+「…妾は大体察しはついておるが。 => "...I have a general idea.
+……というか、普通、わかるであろう」 => ......Come on, normally, anyone would know."
+「普通？！ => "Normally?!
+わかんないわよぅ、初登場のキャラでしょ？！ => No we wouldn\'t, it was that character\'s first appearance, wasn\'t it?!
+名乗らなかったら私もプレイヤーもみんなわかんないわよ、ねぇ？！」 => If she doesn\'t say her name, I won\'t—the players won\'t—everyone won\'t know, right?!"
+「…………ベアト、教えてあげなくていいわよ。 => "............Beato, it\'s alright if you don\'t tell her.
+ね？ => See?
+面白い子でしょ？」 => Isn\'t she a funny kid?"
+「う、…うむ。 => "M‐...mm.
+……ラムダデルタ卿の天真爛漫にして天然なところは、実に貴重で面白いものである。 => ......Lady {f:5:Lambdadelta}\'s simple‐minded naiveté truly is precious and funny.
+……くっくっくっく！」 => ......*cackle*cackle*!"
+「何よ何よ、何で私にだけ教えてくれないのよ、意地悪ぅー！！ => "Why, why, why I am the only one you won\'t tell, you meanie!!
+じゃあ、私だけが気付いた、取って置きの秘密を特別に教えてあげるわ！ => Okay, in exchange, I\'ll teach you a special secret that only I know!
+だから教えなさいよ！」 => So tell me!"
+「……ほぅ。 => "......Hoh.
+取って置きの秘密とな！ => A special secret, you say!
+聞きたいぞ聞きたいぞ…！」 => Now that, I do want to hear...!"
+「べーだ！ => "Blehhh!
+教えて欲しかったら、先にあの女の正体を教えるのよ！ => If you want me to tell you, first tell me who that woman really was!
+私の知った秘密はスゴイわよぅ？！ => The secret I know sure is awesome!
+何しろ、サンタさんの正体が実はお父さんだったってくらいスゴイんだからぁ！」 => I mean, it\'s gonna blow you away like finding out that Santa‐san is actually Daddy!"
+「あら？ => "Huh?
+くす！ => *giggle*!
+言っちゃったぁ☆　ごめんなさいねぇ、天地が引っ繰り返るくらいびっくりしちゃったでしょう？！ => Oopsie{p:0:☆} Sorry, I\'ll bet you\'re so shocked that your world turned upside‐down, right?!
+をーっほっほっほっほ！」 => Oh‐hoh‐hoh‐hoh‐ho!"
+「………ラムダのとこには、お父さんが来てたの？」 => ".........Your father was the one who came to your place, Lambda?"
+「来てたの、ってどーゆう意味よぅ」 => "To my place... Wait, what\'s that supposed to mean?"
+「…サンタクロース卿は、心の綺麗な子どものところへしか訪れないのよ。 => "...Lord {f:5:Santa Claus} only visits the homes of children with clean hearts.
+あんたのとこには来なかったのね？」 => He didn\'t come to your place, then?"
+「まぁ、サンタクロース卿は寛大であるからな。 => "Well, Lord {f:5:Santa Claus} is gracious.
+よーっぽどの大悪党でもない限り、プレゼントを恵んでくださるぞ。 => Unless you are a reeeally bad scoundrel, he will give you a present.
+何しろ、妾にもくれたくらいだからな！」 => After all, he even gave them to me!"
+「………成長して心が荒んでくると来なくなるのよね。 => ".........As you grow and your heart becomes hardened, he stops coming, doesn\'t he?
+ベアトのとこにはいくつくらいまで来てたの？」 => How old were you, Beato, when he stopped coming?"
+「うむ。 => "Mm.
+１２歳くらいまでは来ておったぞ。 => He stopped coming when I was about twelve.
+乙女心に目覚めると、急にサンタ卿が来るのが、何だか恥ずかしくなってな」 => My maiden\'s heart awoke, and I quickly got somewhat embarrassed about Lord {f:5:Santa} coming."
+「“これまでありがとうございました、もう結構です。 => "After I wrote "Thanks for everything, that\'s enough.
+だから最後のプレゼントは奮発してください”と手紙を置いたら、来なくなった。 => So make sure you splurge on the last presents", he stopped coming.
+うーむ、ちょっぴり期待したのだがな！ => Oooh, and I was looking forward to it too!
+ベルンカステル卿はいつくらいまで来ていたのか」 => How old were you when he stopped coming, Lady {f:5:Bernkastel}?"
+「………私、荒んでたし。 => ".........I was pretty wild.
+…結構早かったっけ。 => ...It happened fairly early.
+確か９歳頃ね。 => I think when I was about nine.
+…何か、あのヒゲが無性にムカついて、ちょん切ってやろうと、布団の中で裁縫バサミ構えて待ってたの。 => ...Something about that beard really irritated me, so I waited in my futon with some sewing scissors ready, thinking I\'d cut it off.
+…………痛いお年頃よね」 => ............What a cringeworthy age."
+「で、……ラムダデルタ卿には、物心ついてからサンタクロース卿がおいでになったことがない、と。 => "So, ......Lady {f:5:Lambdadelta}, as long as you can remember, Lord {f:5:Santa Claus} has never come to see you, you say.
+…………普通は小学校高学年から中学校くらいの間までは来るものであるぞ」 => ............He usually comes until the last year of elementary school or during middle school."
+「…ある意味、お医者で見てもらった方がいいわよ。 => "...Maybe we should have a doctor look at her.
+早熟すぎると心身の成長に悪影響があるらしいから。 => I hear that maturing too fast can have an adverse effect on the growth of mind and body.
+…あぁ、確かに出てるわね。 => ...Yeah, there\'s definitely some of those.
+悪影響」 => ...Adverse effects."
+「んなッ、な、何の話をしてるのよアンタたちはー！！ => "Hey, wh‐what are you guys talking about!!
+むがーー！！」 => Gaaaaah!!"
+「くっくくっくくくくくくく！ => "*cackle*cackle*cackle*cackle*cackle*!
+わっはっはっは、魔女も３人集まれば実に姦しい！」 => Wahahahaha, it truly is boisterous when three witches gather!"
+「……この程度のレベルの秘密じゃ、聞く価値もなさそうね。 => "......If you\'re talking about that level of secret, I doubt it\'s worth listening to.
+私、もう行ってもいい？ => Can I go now?
+次のゲームの準備をしなくちゃならないから」 => I have to prepare for the next game."
+「ちょッ、ちょっと待ちなさいよぅ！ => "Wha—hey, wait a sec!
+あの女の正体を教えなさいよー！！」 => Tell me who that woman really was!!"
+「……じゃあ、あなたの取って置きの秘密を先に教えなさいよ。 => "......Well then, tell me this special secret of yours first.
+見合うものだったら教えてあげるわ」 => If it\'s good enough, then I\'ll tell you."
+「ほっほっほっほ！！ => "Hoh‐hoh‐hoh‐ho!!
+いいわよ、教えてあげるわ、取って置きの秘密なんだからぁ！ => Alright, I\'ll tell you, and it really is a special secret, okay?!
+……ほら、今回のゲームで、黄金を見つけて新しい魔女になった子がいたでしょ？」 => ......Remember, in this game, there was a girl who found the gold and became the new witch, right?"
+「うむ。 => "Mm.
+あやつに、一体どんな秘密があるというのか？」 => Just what kind of secret could that person have?"
+「うっふふふふふ！ => "Ehheheheheh!
+あの子の正体にね、私、気付いちゃったの。 => I realized who that girl actually is.
+みんなにはわかるかしらぁ？ => Does anyone know?
+くすくす！ => *giggle*giggle*!
+ヒントはね、喋り方にあったのよぅ」 => There was a hint in the way she talked."
+「ほら、あの子、よく口にしてたでしょ？ => "Remember, that girl said it a lot, right?
+ナントカしちゃえばぁ〜？ => "Why don\'t you something foreverrrr?",
+って！ => right?!
+そう、この語尾がポイントだったのよ！ => Yes, that phrase was the main point!
+えばぁ〜？ => Foreverrrr?
+えばぁ〜？ => For Evaaaa?
+そう！」 => Yes!"
+「あいつの正体は、右代宮絵羽だったのよ！！ => "She was actually...Ushiromiya Eva!!
+どう？！ => What do you think?!
+驚いちゃったかしらぁ？！ => Are you shocked?!
+をーっほっほっほっほ！！」 => Oh‐hoh‐hoh‐hoh‐ho!!"
+「ほぅ…！ => "Hoh...!
+それは気付かなかった！ => I did not notice that!
+…むぅ、そのようなところにヒントがあったとはな」 => ...Mngh, to think that there would be a hint in a place like that."
+「……ベアトって付き合いがいいのね。 => "......You\'re good at playing along with her, Beato.
+その子、増長するから程々になさいよ。 => This kid can get a little full of herself, so don\'t take it too far.
+じゃあね、私は席を外すわ」 => See you, I\'m leaving."
+「ちょっとちょっと！ => "Wait, wait!
+私の秘密だけ聞いて、あんたは喋んないなんてズルイわよ！！ => It\'s not fair if you just listen to my secret and don\'t tell me yours!!
+あんたもあの女の正体を話しなさいよー！！」 => Tell me who she really was!!"
+「……あんたの秘密が凄すぎてつり合わないわ。 => "......Your secret was so incredible that mine just wouldn\'t match up.
+…じゃあ代わりに、私も取って置きの秘密を教えてあげるわ。 => ...So in exchange, I\'ll tell you my own special secret.
+『ひぐらしのなく頃に』ってゲームの、犯人の名前を教えてあげる」 => I\'ll tell you the name of the culprit in this game called {i:Higurashi no Naku Koro ni}."
+「ぎゃーーーーーッ、言わないでぇ！！ => "Gyaaaaaaaaaaaaaaa, don\'t tell meee!!
+私、今プレイしてるとこなのーッ！！」 => I\'m playing it right nowwww!!"
+「……あっははははっはっはっは…。 => "......Ahhahahahahhahhahhahhah...
+じゃあね、ベアト。 => See you, Beato.
+紅茶美味しかったわ。 => The black tea was delicious.
+あと、お茶菓子のクラッカーだけど、ジャムのレパートリーが足りないわ。 => Oh, about the crackers, though, the repertoire of jam was lacking.
+たまにはコチジャンでも用意しなさい。 => Get some gochujang chili paste every once in a while.
+ロシアンティにもぴったりだし。 => It goes great with Russian tea.
+じゃあね」 => Later."
+「そうか、わかったぞ。 => "I see. Alright.
+試してみよう。 => I shall try it.
+次のゲームの準備が整ったら呼ぼうぞ。 => I shall call for you when the preparations are finished for the next game.
+それまでゆっくり戦略でも練るが良い」 => Until then, feel free to draw up a strategy at your leisure."
+「えぇ、そうするわ。 => "Yes, I will.
+今回のゲームはなかなか面白かったわよ。 => This last game was pretty interesting.
+じゃあね」 => Later."
+「ちょっとー、待ちなさいよ、教えなさいよー！！！」 => "Heyyy, wait a sec, tell meee!!!"
+「くっくっくっく。 => "*cackle*cackle*.
+いやいや、本当にお二人は仲が良い」 => My, my, you two really are close."
+「…………………………。 => "..............................
+……えぇ、そうよ。 => ......Yes, that\'s right.
+…あぁ、大好きよベルンカステル。 => ...Oh, how I love you, {f:5:Bernkastel}.
+愛してるとさえ言ってもいいわ」 => You could even say I\'m in love with you."
+「……あの瞳を抉り出して、私以外を映さないようにしてやりたい。 => "......I want to gouge out her eyes so she can see no one other than me.
+……あぁ、それは本当に素敵よね。 => ......Oh, wouldn\'t that just be to die for?
+紅茶に沈めても素敵かもしれない。 => It\'d be wonderful to dunk them in black tea.
+アハ！」 => Ahah!"
+「ラムダデルタ卿をここまで夢中にさせるとは。 => "Who knew she had entranced Lady {f:5:Lambdadelta} to this extent.
+……妾も責任重大であるな。 => ......It seems I carry a heavy responsibility.
+しかし今回は実に惜しかった！ => Still, this last game truly was close!
+あと一息で戦人をコロリと行けたものを」 => I was a breath away from defeating Battler."
+「………………ベアト。 => "..................Beato.
+一個聞いていい？」 => Can I ask you something?"
+「何であるか？ => "What is it?
+あの女の名前は教えぬぞ。 => I won\'t tell you that girl\'s name.
+くっくっくっく！」 => *cackle*cackle*!"
+「…いつまでチャラけてんのよ。 => "...Just when are you going to stop screwing around?
+…あんた、勝つ気あんの？」 => ...Do you even have the {i:slightest} intention of winning?"
+ラムダデルタが、決してベルンカステルの前では口にしたことのない、低い声で凄む。 => {f:5:Lambdadelta} threatened her with a low voice that she had never used in front of {f:5:Bernkastel}.
+…それは直前までの、穏やかな空気を全て吹き飛ばした。 => ...It completely blew away the calm atmosphere which had been there until a moment ago.
+「………私はね。 => ".........You know,
+ベルンカステルに勝てる魔女ってことで、あんたに肩入れしてんのよ。 => I\'m supporting you \'cause you\'re meant to be a witch who can win against {f:5:Bernkastel}.
+…あんたに、ベルンカステルに勝てる力がないってんなら、 => If you don\'t have the power to win against her,
+いつだって私はあんたなんか見捨てるんだからね……？」 => then I\'m ready to abandon you at any time, got it......?"
+「……………これは手厳しい。 => "...............How scathing.
+妾の何がご不満なのか。 => What about me dissatisfies you?
+…卿もご存知の通り、妾のゲーム盤は完璧だ。 => ...As you know, my game board is perfect.
+ベルンカステル卿には決して勝てはせぬ…」 => Lady {f:5:Bernkastel} will never be able to win..."
+「えぇ、そうよ。 => "Yeah, that\'s right.
+あんたのゲーム盤は実に見事よ。 => Your board truly is impressive.
+ベルンカステルが、百年はおろか、 => {f:5:Bernkastel} could spend a hundred years,
+千年を費やそうとも絶対に勝つことのできない、実に見事な完璧なゲーム盤よ」 => or even a thousand years here, and she would still be unable to win against this game board, it truly is that impressive and perfect."
+「……だから私はそれを借りることの引き換えに、あんたを魔女にしてやったのよ。 => "......That\'s why, in exchange for letting me borrow that, I made you a witch.
+………私があんたの後見人を辞めれば、あんたはすぐにニンゲンに逆戻り。 => .........If I stop being your guardian, you\'ll immediately go back to being a {y:0:Human}{n:0:human}.
+…どんなにすごい魔力を持っていても、…あんたは仮初の魔女でしかないことを、……決して忘れないことよ」 => ...Make sure you don\'t forget that, no matter how much incredible magical power you hold, ......you are nothing more than a temporary witch."
+「わ、……わかっておるわ。 => "I, ......I know that.
+…そなたには感謝しておる…」 => ...I am grateful to you..."
+「タメ口聞かないでよ。 => "Don\'t speak so casually.
+ベルンカステルがいる時は許すけど、いない時は許さないわ。 => I\'ll forgive that when {f:5:Bernkastel}\'s around, but I won\'t when she isn\'t.
+あんた、最近、私の恩を忘れてるでしょ」 => Recently, maybe you\'ve forgotten your debt to me."
+「そ、そんなことは、………あ、…あり、……ありません……」 => "Th‐that is, .........n‐...not, ......not so, my Lady......"
+「…あー、やっぱ気持ち悪いわ。 => "...Aah, changed my mind, that creeps me out.
+いつもの喋り方でいい。 => You can talk the same way as usual.
+でも、口の利き方には注意してよ。 => But be mindful of what you say.
+……私、案外短気よ？」 => ......I have a surprisingly short temper, you see?"
+「う、……うむ……」 => "M‐......mm......"
+「話を戻すわ。 => "Back to the point.
+…あんたのゲーム盤は実に完璧。 => ...Your game board truly is perfect.
+……ベルンカステルを容易に負かすことができるでしょうよ。 => ......You should be able to defeat {f:5:Bernkastel} without any trouble.
+…しかしあの子は簡単に屈服しない。 => ...But that kid won\'t give in easily.
+何度でも挑んでくるわ」 => She\'ll challenge you over and over."
+「問題はない。 => "That is no problem.
+…ラムダデルタ卿のお墨付きではないか。 => ...It has been certified by you, Lady {f:5:Lambdadelta}.
+……妾のゲーム盤は完璧だ」 => ......My game board is perfect."
+「えぇ、そうよ、完璧よ。 => "Yeah, that\'s right, it\'s perfect.
+…………プレイヤーである、あんたも完璧ならね？」 => ............So long as you, the player, are perfect as well, that is?"
+「………それは、どういう意味か…」 => ".........I don\'t understand what you mean by this..."
+「どういう意味？ => "What {i:I} mean by this...?
+私が聞きたいくらいよ。 => That\'s what {i:I} want to ask {i:you}.
+………あんたのゲームには、遊びが多い。 => .........You play around a lot in your games.
+…それは時にベルンカステルを煙に巻くから、あんたなりの策略なんだと、私も最初は思ってた」 => ...At first, I thought it was part of your tactics, because it would completely baffle {f:5:Bernkastel} from time to time."
+「…………でも、何だか違う気がするの。 => "............But I get the feeling that\'s not quite true.
+あんた、勝てる試合を弄んでるんじゃなくて、 => You\'re not playing around in a match you know you can win,
+……勝っても負けても、どうでもいいって思ってるんじゃないの？」 => ......the truth is, you don\'t care whether you win or lose, do you?"
+「ば、……馬鹿馬鹿しい…。 => "R‐......ridiculous...
+そんなこと、あるわけもなかろうが…」 => How could that be..."
+「いいこと？ => "Listen close, okay?
+あんたの役目は、ベルンカステルを屈服させることよ。 => Your role is to break {f:5:Bernkastel}, force her to yield.
+つまりゲームに、永遠に勝者でいること。 => In other words, that means being the victor in this game for all eternity.
+……あなたが“絶対”の勝者であり続けようとする限り、私は絶対の魔女として、あなたに力を与えるわ。 => ......As long as you keep trying to become the {i:certain} victor, then I will give you my power as the Witch of Certainty.
+…………でも」 => ............However."
+「もしもあなたが、自らの敗北の可能性を否定しないような戦い方をしているなら、 => "If you fight in a way that doesn\'t deny any possibility of your loss,
+…話は変わるわよ」 => ...that\'s a different story."
+「もちろん、これはゲームである…。 => "This is a game, of course...
+妾が勝てばベルンカステル卿が負けるように。 => In the same way that Lady {f:5:Bernkastel} will lose if I win,
+…向こうが勝てば妾が負ける日もあるだろう。 => ...there will be some days on which I will lose and she will win.
+常に敗北の可能性はありうる。 => The possibility of loss always exists.
+だからこそ妾は、」 => That is why I—"
+「……………だからアンタは使えないのよ。 => "...............This is why you\'re useless.
+あんたはゲーム盤である必要なんかない。 => There\'s no need for this to be a game board for you.
+ベルンカステルを、永遠にここに閉じ込める鳥篭でさえあればいいの」 => It simply needs to be a bird cage to lock {f:5:Bernkastel} up here for all eternity."
+「…鳥篭の役目は？ => "...What\'s the role of a bird cage?
+中の小鳥を絶対に逃がさないことよ。 => Making certain that the little bird inside never escapes.
+……たまに抜け出せてしまうような、隙間のある鳥篭に何の価値が？」 => ......What\'s a bird cage worth if it has gaps that sometimes let the bird out?"
+「………む、無論、ゲームは勝つ為のもの。 => ".........O‐of course, games exist to be won.
+そして妾が負けることはありえぬ。 => So it is impossible for me to lose.
+…ゆえに妾は勝ち続けようぞ……。 => ...Therefore, I will continue to win......
+…お望み通り、永遠に…」 => ...As you wish, for all eternity..."
+「良い返事よ、それでいいわ。 => "Good answer—that\'s all I want.
+……策略としての遊びやフェイクは許す。 => ......I\'ll allow you to play around and use fakes as part of your tactics.
+…今回、有効だったところもあるしね」 => ...It was sometimes effective in this last game."
+「…………でもね。 => "............But hear this.
+もしあなたが、勝ち以外を望むような指し手をしたら、 => If you make a move hoping for anything else other than victory,
+…………その時は、素敵な覚悟をなさいよね？」 => ............make sure you\'re wonderfully prepared, okay?"
+「そ、そのようなことはせぬ…。 => "I, I will not do such a thing...
+誓うとも…！」 => I swear it...!"
+「…………元々、魔女ですらないあんたが、本当はどんなにみすぼらしい存在だったか、 => "............Originally, you weren\'t even a witch,
+いつだって思い出させてあげるんだから。 => and I can remind you what a truly shabby creature you were at any time.
+…………私の期待を裏切ったら。 => ............If you betray my expectations...
+その時は楽しい楽しい罰ゲームが待ってるわよぅ」 => At that time, I will have a delightful delightful penalty waiting for you."
+「…百億のカケラ世界の中から、……もっとも惨めなカケラにあんたを送り込んで封印してあげる。 => "...Of the billions of fragment worlds out there, ......I\'ll send you into the most miserable fragment and seal you there.
+………あんたは、元々が惨めだから、惨めなカケラも実に選び甲斐があるわ。 => .........You were miserable in the first place, so it\'ll be worth choosing a really miserable fragment.
+…くすくすくすくすくすくす」 => ...*giggle*giggle*giggle*giggle*giggle*."
+「………………………………」 => "................................."
+「あぁ、愛してるわベルンカステル。 => "Oh, how I love you, {f:5:Bernkastel}.
+…ベアトリーチェの鳥篭で、好きなだけ足掻いて、 => ...Scrabble your feet in {f:5:Beatrice}\'s bird cage as much as you like,
+もはや逃れられないことを千年かけて知りなさい」 => and spend a thousand years learning that you can no longer escape."
+「……そしてあなたが屈服したら、 => "......And when you give in,
+…私の手の平でしか鳴けないように、たっぷりと仕込んであげるんだから」 => ...I\'ll train you so that you can\'t tweet in anyone\'s palm but mine."
+「…………くすくすくすくすくす、 => "............*giggle*giggle*giggle*giggle*,
+あっははははははははははははははははは…！！」 => ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!"

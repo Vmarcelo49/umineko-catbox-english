@@ -1,284 +1,284 @@
-{e:070:After being forced into an unwanted marriage,
- Natsuhi developed a grudge against the Ushiromiya family and was filled with a desire for revenge.
-{n}(*Trial Summary, p.3)}
-{e:070:As revenge for financially ruining her birth family,
- Natsuhi also plotted to take over the Ushiromiya family\'s fortune.
-{n}(*Trial Summary, p.4)}
-{e:070:When Natsuhi learned that the wealth of the Ushiromiya family was for all intents and purposes controlled by Kinzo himself,
- she initiated sexual relations to curry favor with him and managed to ensnare him.
-{n}(*Trial Summary, p.7)
-{n}(*{f:5:Bernkastel} Documents, p.682)}
-{e:070:To curry favor with Kinzo,
- Natsuhi repeatedly disguised herself as {f:5:Beatrice}, a witch and figment of Kinzo\'s imagination, and engaged in sexual acts.
-{n}Kinzo saw Natsuhi dressed as the mistress from his past and was easily ensnared.
-{n}Additionally, a servant happened to witness her in this outfit, forming part of the basis for the legend of the witch.
-{n}(*Trial Summary, p.8)
-{n}(*Submitted Evidence #17)
-{n}(*{f:5:Bernkastel} Documents, p.802)}
-{e:070:However, late at night on 1986‐10‐04, Ushiromiya Battler discovered the hidden gold.
-{n}Natsuhi planned the crimes after the relatives raised a fuss and insisted that Battler should succeed the headship.
-{n}She murdered the children in the "cousins\' room" and tried to frame Battler for the crime.}
-{e:070:Furthermore, Genji was murdered because he was opposed to this scheme.
-{n}Later on, Hideyoshi was also murdered.
-{n}After this point, Natsuhi displayed a strong intent to murder all those involved without discrimination.
-{n}(*Trial Summary, p.27)
-{n}(*Supplemental Materials B, p.61)
-{n}(*{f:5:Bernkastel} Documents, p.1103)}
-{e:070:The concrete details of the crimes are as follows:}
-{e:070:1986‐10‐04 24:00.
-{n}Natsuhi decided to commit the crimes.}
-{e:070:Because Genji refused to assist her when asked, she murdered him.}
-{e:070:She then murdered her husband Krauss in his own room.
-{n}(*Trial Summary, p.40)
-{n}(*Supplemental Materials S, p.8)
-{n}(*{f:5:Bernkastel} Documents, p.1105)
-{n}(*Great Court Internal Documents: Library of Law A09 #9974)}
-{e:070:Afterwards, she went to the "cousins\' room" on the upper floor of the guesthouse,
- waited for Rosa to join the rest, and killed George, Jessica, Maria, and Rosa.}
-{e:070:She mutilated the necks of the bodies.}
-{e:070:Afterwards, because there were people in the downstairs lounge, she waited in an empty room upstairs.}
-{e:070:She hid in this empty room until the people in the lounge dispersed and went to bed.
-{n}(*Trial Summary, p.41)
-{n}(*Supplemental Materials S, p.10)
-{n}(*{f:5:Bernkastel} Documents, p.1131)
-{n}(*Great Court Internal Documents: Library of Law A09 #9974)}
-{e:070:The people in the lounge dispersed just after {nobr:3 a.m.}}
-{e:070:Natsuhi left the empty room and escaped from the guesthouse.}
-{e:070:She returned to her room, where she met up with Kinzo, who had been hiding there.
-{n}They spent the rest of the night there together.}
-{e:070:Kinzo left the room early next morning and concealed himself somewhere near the guesthouse.
-{n}(*Trial Summary, p.41)
-{n}(*Supplemental Materials S, p.29)
-{n}(*{f:5:Bernkastel} Documents, p.1200)
-{n}(*Great Court Internal Documents: Library of Law A09 #9974)}
-{e:070:Afterwards, Kinzo saw his chance and carried off the bodies of the six victims one by one, hiding them.
- Unfortunately, these hidden bodies have not been found.
-{n}(*Trial Summary, p.42)
-{n}(*Supplemental Materials S, p.37)
-{n}(*Great Court Internal Documents: Library of Law A09 #9974)}
-{e:070:Natsuhi, who had failed in her scheme to cast suspicion on Battler, changed her plan to include the murder of all present.
-{n}(*Trial Summary, p.58)
-{n}(*Supplemental Materials T, p.19)
-{n}(*{f:5:Bernkastel} Documents, p.1348)
-{n}(*Great Court Internal Documents: Library of Law A09 #9974)}
-{e:070:Predicting that one of those present would eventually want to take a rest in a private room,
- Natsuhi concealed herself inside a closet in one of the guest rooms.}
-{e:070:When Hideyoshi visited that room at approximately 13:00, she murdered him.
-{n}(*Trial Summary, p.61)
-{n}(*Supplemental Materials T, p.26)
-{n}(*Great Court Internal Documents: Library of Law A09 #9974)}
-{e:070:Natsuhi once again concealed herself in the closet from the time the others became aware of the incident to the time that they carried out Hideyoshi\'s body.
-{n}Furthermore, as proof of this, a button from Natsuhi\'s clothes was found in the closet.}
-{e:070:Afterwards, she exited the closet and tried to return to her own room.}
-{e:070:However, Furudo Erika discovered her on the way, and Natsuhi confessed to her crimes after questioning.
-{n}(*Trial Summary, p.63)
-{n}(*Supplemental Materials T, p.32)
-{n}(*Submitted Evidence #26)
-{n}(*{f:5:Bernkastel} Documents, p.1348)
-{n}(*{f:5:Lambdadelta} Documents, line 7)
-{n}(*Great Court Internal Documents: Library of Law A09 #9974)
-{n}(*Great Court Internal Documents: Legal Mgmt. U99 #0107)
-{n}(*Great Court Official Notice #01724434)}
-{e:070:Great Court Official Notice #01724434
-{n}Trial of Illusions #0147‐007982 (1986‐10‐05 24:00) decides as follows:
-{n}{n}Ushiromiya Natsuhi confessed to the crimes.
-{n}{n}For a period of 13 months following this announcement, related documents may be perused at the Great Court Legal Offices Document Management Center, First Subsection.
-{n}{n}Great Court Deputy Attorney General
-{n}Chief Inquisitor
-{n}Dlanor A. Knox}
-"Then just say that I did it, okay?!
- That\'s what you want me to say, right?!
- Waa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhhhh...!!!"
-As though she had given up and decided that it would be useless to try and talk her way out of this any longer,
- Aunt Natsuhi said that and screamed.
-......It was a sad incident.
-I wanted to believe that, despite the pitiable circumstances which led to her marriage into the Ushiromiya family,
- ......Aunt Natsuhi had been able to find some small measure of happiness with Uncle Krauss and Jessica.
-......But instead, by Aunt Natsuhi\'s own hand, Uncle Krauss,
- ......and even her beloved daughter Jessica,
- ......had been heartlessly killed...
-It was even harder to believe that Grandfather had been an accomplice and hid the bodies...
-However, several people had given clear testimony that Grandfather\'s mental state for these last few years...
-had been far from what anyone would consider normal.
-Perhaps, possessed by a mad devotion to the mistress he had lost long ago,
- ......Grandfather might truly have believed that Aunt Natsuhi was a reincarnation of {f:5:Beatrice}.
-Where is Grandfather now?
-Like Erika theorized,
- did he really believe that he could revive {f:5:Beatrice} by carrying out murders following the epitaph,
- and succumb to Natsuhi\'s cajolery?
-......Right now, is he holding some kind of disturbing ritual with the bodies he carried away......?
-"Are you............
-......satisfied now.........?
- ......This...
-...is what you wanted to make me say, right......?"
-Aunt Natsuhi sobbed as she spoke.
-"......This is...
-......your revenge, isn\'t it......?
- You, the man from 19 years ago...!!"
-This "man from 19 years ago" that Aunt Natsuhi kept mentioning was the man who had supposedly framed her.
-However, referring to "a man from 19 years ago" was as far as she would go,
- and she made no attempt at all to explain what had actually happened back then...
-"I\'m certain......that a pawn of that man is among us now.
- ......I\'m sure that right now, that man is ridiculing me through one of you..."
-".........So tell me...!
- Are you happy now?
- Has a little of that pain and suffering you\'ve endured for 19 years gone away...?!
- .........I finally understand.
- ...The reason you brought me down to this point......is because......you wanted to make me admit it, isn\'t it......?"
-"......Natsuhi‐san.
- Other than us, there\'s absolutely no one here.
- Please stop this insanely desperate charade and quit pretending that someone who doesn\'t exist actually does."
-Erika laughed mockingly, but, as Aunt Natsuhi looked at us...
-......no, as she looked at some being behind us, ......she hung her head and shook.
-Then, .........she confessed to her sin.
-"I.........committed murder......"
-"So you finally admit your crime directly."
-"No,
- this is not about what has happened today and yesterday.
- .........I confess to a murder that occurred 19 years ago."
-The adults all whispered together, wondering what this was about.
-{n}......Because they had never heard about a murder case 19 years ago.
-"......19 years ago,
- ......I.........committed a sin.
- .........I couldn\'t tolerate it.
- ......That.........baby...!!"
-"Baby?
- Now what are you talking about?"
-"......On that day 19 years ago,
- ...Father entrusted me with a baby.
- .........Since I was having so much trouble conceiving a successor, Father told me to adopt a child,
- ......and he brought me a baby which he said was from a welfare institute......and he put it in my arms..."
-"Do you have any idea......how humiliating that was to me as a woman...?!"
-With a mix of conflicting emotions, of anger, sadness, regret and possibly defiance,
- Aunt Natsuhi confessed.
-The humiliation as a woman that others had given up hope on her ever bearing a child.
-{n}And also, the indescribably unpleasant feeling of being made to nurse a strange baby.
-It caused her great sadness and rage,
- and before very many nights passed, it ate a hole into her heart......
-And then, ......I sold my soul.........to demons...
-.........It happened when I went on a walk through the rose garden to the harbor, along with a servant holding the baby...
-......I wanted to be alone,
- ......but that servant woman holding the baby faithfully followed me everywhere.
-I was unable even to tell her to stop following me, ......and therefore unable to escape from the child\'s crying......
-.........That day...
-marked the beginning of 19 long, headache‐filled years......
-.........Then, we were by the fence overlooking the cliff.
-If by taking that baby...
-...and throwing it down onto the rocky beach far below me,
- ......I could make all this go away...
-......I really did hear that demonic temptation in my ear.
-And.........for the smallest of moments, I thought of how wonderful it would be if I really could do that,
- ......and lent an ear to that temptation.
- ......And that was when—
-The servant holding the baby stepped on a large rock, twisted her ankle, and staggered......
-She leaned against the rough fence, ......and at that moment, I thought I heard the fence creak loudly.
-I told her to look out and went to grab her shoulder.
-......No,
- ......I shouldn\'t be so vague...
- I\'ll repent.
- I\'ll confess.
- .........At that moment, I\'m sure that......as I told her to look out,
- ............with both hands,
- I reached for that servant\'s shoulders,
- and with a thud,
- ......I pushed her away hard......
-The rough fence snapped from the base,
- .........and the servant,
- ......along with the baby held in her arms,
- .........fell down towards the rocky beach below......
-Even though...
-...I remember that moment vividly,
- ...for some reason I recall a vague...
-...and very strange feeling.
-It almost felt as though instead of falling,
- ......the two of them were silently swallowed up into empty space.
-So I never even heard the sound of them crashing to the rocky beach.
-No, I must have heard it.
-But because I wanted to think that they\'d simply disappeared,
- ......I must have erased that sound from my memory...
-".........A‐.........and then.........?"
-"For an instant, ...I thought it was a dream.
- ......It was high enough that I couldn\'t see the two of them below me just by leaning over.
- So I couldn\'t tell whether their fall, ......the events of just a few seconds earlier, had actually happened or not..."
-I must have been wishing so strongly that the child would fall from there...
-that I hallucinated the whole thing...
-Trying to make myself believe this, I hurried back to the rose garden.
- ......I decided to say that I\'d left the baby with the servant and had been taking a rest alone in the garden...
-......Then,
- .........Father asked what had happened to the baby,
- ............
-.........which caused a stir over the disappearance of the servant...
-......who I\'d left the baby with.........
-Eventually, the broken fence was discovered,
- .........and the two corpses were found at the bottom of the cliff...
-......The baby\'s origins apparently couldn\'t be made known, so its existence was hushed up,
- ......and the official story was that the servant simply died in an accident alone.
-That\'s right.
-I......stole away two innocent lives in one go.........
-As for the poor servant......her family was generously compensated.
-This was enough to satisfy her aged husband, who grieved over the unfortunate accident—he never knew the truth.
-Then, just a few years ago, he died of old age, .........and I confessed the truth over his grave, apologizing.
-".........But to this day...
-......I have never apologized to that baby.
- ......Yes,
- .........that\'s what you\'re after, isn\'t it......?"
-"So right here, right now, I\'ll confess to my crime!
- ......I, Ushiromiya Natsuhi,
- .........did 19 years ago...
-......push you off a cliff...
-...and try to kill you......"
-......But...
-......you didn\'t die after all......
-.........You\'re still alive,
- ......and you still call me "Mother"...
-.........You came to this island,
- .........and took your revenge on me, didn\'t you......?
-When you learned...
-......that you were pushed off a cliff by the woman you should have been calling a mother for the past 19 years,
- ......you must have lived a life so full of hatred...
-"......And now, ......you\'ve taken everything I\'ve gained since pushing you off that cliff,
- 18 years of my life, ......and smashed it all to pieces...
- ......I no longer have my beloved husband or daughter.
- ......And I\'ve lost even my honor,
- ......and am being called a murderer...
- .........No, ......I really am a murderer, aren\'t I......"
-"Yes, that\'s right.
- ......It all went according to your plans.
- ......I\'m now regarded as a killer..."
-"...............How is this for you...?
- Is this enough...
-...for your revenge......?"
-"My husband and daughter have been killed!!
- ......I\'ve been made to look like a murderer......like an adulteress even......
- After seeing me put through such terrible humiliation,
- ............are you satisfied......?!"
-"Yes, I\'ll bet you\'re quite satisfied...
- ......Because my family...
-...my honor...
-......everything.........has been taken from me......
- ......Uuughuu...
-...*hic*......
-uuu{0}u{0}ughh{0}u{0}u{0}h{0}h{0}uuu!!"
-".........After all this, you still claim that you were framed?
- Seriously, you just don\'t know when to give up."
-"Can you hear me?! You, the cursed baby from 19 years ago...!!
- Are you satisfied now?!
- You\'ve taken everything from me!!
- What more do you want?!
- ......Please,
- ......just...
-......forgive me............"
-{a:c:
-"......No good."}
-"Huh.........?"
-".........Battler‐san,
- did you say something?"
-{a:c:
-"No good at all."}
-".........B‐
-.........Battler......ku......n......?"
-".........Yeah.
- ...It\'s no good...
- It\'s no goddamn good at all......"
-"Ah......
-.........aaahhhh...............!!"
+{e:070:望まぬ結婚を強いられた夏妃は、 => {e:070:After being forced into an unwanted marriage,
+右代宮家に対し恨みを抱き、復讐心を膨らませていきました。 => Natsuhi developed a grudge against the Ushiromiya family and was filled with a desire for revenge.
+{n}（※裁判概要書：３ページより）} => {n}(*Trial Summary, p.3)}
+{e:070:夏妃は、右代宮家がかつて、実家を経済的に屈服させたことへも復讐するため、 => {e:070:As revenge for financially ruining her birth family,
+右代宮家の財産の乗っ取りを画策しました。 => Natsuhi also plotted to take over the Ushiromiya family\'s fortune.
+{n}（※裁判概要書：４ページより）} => {n}(*Trial Summary, p.4)}
+{e:070:右代宮家の財産が、金蔵個人によって事実上、掌握されていることを知った夏妃は、 => {e:070:When Natsuhi learned that the wealth of the Ushiromiya family was for all intents and purposes controlled by Kinzo himself,
+金蔵に取り入るため、情交によってこれを篭絡しました。 => she initiated sexual relations to curry favor with him and managed to ensnare him.
+{n}（※裁判概要書：７ページより） => {n}(*Trial Summary, p.7)
+{n}（※ベルンカステル文書：６８２ページより）} => {n}(*{f:5:Bernkastel} Documents, p.682)}
+{e:070:夏妃は金蔵に取り入るために、 => {e:070:To curry favor with Kinzo,
+金蔵の妄想の魔女である、ベアトリーチェの姿に扮して情交を重ねていました。 => Natsuhi repeatedly disguised herself as {f:5:Beatrice}, a witch and figment of Kinzo\'s imagination, and engaged in sexual acts.
+{n}金蔵は、その夏妃に、在りし日の愛人の姿を見て、容易に篭絡されたのでした。 => {n}Kinzo saw Natsuhi dressed as the mistress from his past and was easily ensnared.
+{n}また、この姿が偶然、使用人に目撃され、一部の魔女伝説の根拠となりました。 => {n}Additionally, a servant happened to witness her in this outfit, forming part of the basis for the legend of the witch.
+{n}（※裁判概要書：８ページより） => {n}(*Trial Summary, p.8)
+{n}（※提出証拠品：第１７号より） => {n}(*Submitted Evidence #17)
+{n}（※ベルンカステル文書：８０２ページより）} => {n}(*{f:5:Bernkastel} Documents, p.802)}
+{e:070:しかし、１９８６年１０月４日深夜に、右代宮戦人が隠し黄金を発見。 => {e:070:However, late at night on 1986‐10‐04, Ushiromiya Battler discovered the hidden gold.
+{n}親族たちが、彼が当主を継承するべきだと騒ぎ出したため、事件を画策。 => {n}Natsuhi planned the crimes after the relatives raised a fuss and insisted that Battler should succeed the headship.
+{n}通称、いとこ部屋の子どもたちを殺害し、戦人に罪を被せようとしました。} => {n}She murdered the children in the "cousins\' room" and tried to frame Battler for the crime.}
+{e:070:なお、源次は、この計画に反対したため、殺害されました。 => {e:070:Furthermore, Genji was murdered because he was opposed to this scheme.
+{n}その後、秀吉も殺害されました。 => {n}Later on, Hideyoshi was also murdered.
+{n}以後は無差別で、関係者全員を殺害する強い意志を示すものでした。 => {n}After this point, Natsuhi displayed a strong intent to murder all those involved without discrimination.
+{n}（※裁判概要書：２７ページより） => {n}(*Trial Summary, p.27)
+{n}（※補足資料Ｂ：６１ページより） => {n}(*Supplemental Materials B, p.61)
+{n}（※ベルンカステル文書：１１０３ページより）} => {n}(*{f:5:Bernkastel} Documents, p.1103)}
+{e:070:なお、具体的な犯行は以下の通りです。} => {e:070:The concrete details of the crimes are as follows:}
+{e:070:１９８６年１０月４日２４時。 => {e:070:1986‐10‐04 24:00.
+{n}夏妃は犯行を決意。} => {n}Natsuhi decided to commit the crimes.}
+{e:070:源次に協力を求めるも拒否されたため、これを殺害。} => {e:070:Because Genji refused to assist her when asked, she murdered him.}
+{e:070:続いて、夫の蔵臼を彼の自室で殺害しました。 => {e:070:She then murdered her husband Krauss in his own room.
+{n}（※裁判概要書：４０ページより） => {n}(*Trial Summary, p.40)
+{n}（※補足資料Ｓ：８ページより） => {n}(*Supplemental Materials S, p.8)
+{n}（※ベルンカステル文書：１１０５ページより） => {n}(*{f:5:Bernkastel} Documents, p.1105)
+{n}（※大法院内務文書：法総書Ａ０９第９９７４号より）} => {n}(*Great Court Internal Documents: Library of Law A09 #9974)}
+{e:070:その後、ゲストハウス２階、通称いとこ部屋へ向かい、 => {e:070:Afterwards, she went to the "cousins\' room" on the upper floor of the guesthouse,
+楼座の合流を待ち、譲治、朱志香、真里亞、楼座の４名を殺害。} => waited for Rosa to join the rest, and killed George, Jessica, Maria, and Rosa.}
+{e:070:その遺体の首を損壊しました。} => {e:070:She mutilated the necks of the bodies.}
+{e:070:その後、夏妃は１階ラウンジに人がいた為、２階空室に待機。} => {e:070:Afterwards, because there were people in the downstairs lounge, she waited in an empty room upstairs.}
+{e:070:ラウンジの人間たちが解散し、就寝するまで空室に隠れていました。 => {e:070:She hid in this empty room until the people in the lounge dispersed and went to bed.
+{n}（※裁判概要書：４１ページより） => {n}(*Trial Summary, p.41)
+{n}（※補足資料Ｓ：１０ページより） => {n}(*Supplemental Materials S, p.10)
+{n}（※ベルンカステル文書：１１３１ページより） => {n}(*{f:5:Bernkastel} Documents, p.1131)
+{n}（※大法院内務文書：法総書Ａ０９第９９７４号より）} => {n}(*Great Court Internal Documents: Library of Law A09 #9974)}
+{e:070:ラウンジの人間が解散した午前３時過ぎ。} => {e:070:The people in the lounge dispersed just after {nobr:3 a.m.}}
+{e:070:夏妃は空室を出て、ゲストハウスを脱出。} => {e:070:Natsuhi left the empty room and escaped from the guesthouse.}
+{e:070:自室に戻り、そこに隠れていた金蔵と合流。 => {e:070:She returned to her room, where she met up with Kinzo, who had been hiding there.
+{n}朝までを過ごしました。} => {n}They spent the rest of the night there together.}
+{e:070:金蔵は早朝に部屋を出て、ゲストハウス周辺に潜伏しました。 => {e:070:Kinzo left the room early next morning and concealed himself somewhere near the guesthouse.
+{n}（※裁判概要書：４１ページより） => {n}(*Trial Summary, p.41)
+{n}（※補足資料Ｓ：２９ページより） => {n}(*Supplemental Materials S, p.29)
+{n}（※ベルンカステル文書：１２００ページより） => {n}(*{f:5:Bernkastel} Documents, p.1200)
+{n}（※大法院内務文書：法総書Ａ０９第９９７４号より）} => {n}(*Great Court Internal Documents: Library of Law A09 #9974)}
+{e:070:その後、金蔵は隙を見て順次、６名の犠牲者の遺体を運び去り、これを隠蔽しました。 => {e:070:Afterwards, Kinzo saw his chance and carried off the bodies of the six victims one by one, hiding them.
+残念ながら、隠蔽した遺体は発見されていません。 => Unfortunately, these hidden bodies have not been found.
+{n}（※裁判概要書：４２ページより） => {n}(*Trial Summary, p.42)
+{n}（※補足資料Ｓ：３７ページより） => {n}(*Supplemental Materials S, p.37)
+{n}（※大法院内務文書：法総書Ａ０９第９９７４号より）} => {n}(*Great Court Internal Documents: Library of Law A09 #9974)}
+{e:070:戦人を犯人と疑わせる目論見が失敗した夏妃は、計画を、全員殺害に変更しました。 => {e:070:Natsuhi, who had failed in her scheme to cast suspicion on Battler, changed her plan to include the murder of all present.
+{n}（※裁判概要書：５８ページより） => {n}(*Trial Summary, p.58)
+{n}（※補足資料Ｔ：１９ページより） => {n}(*Supplemental Materials T, p.19)
+{n}（※ベルンカステル文書：１３４８ページより） => {n}(*{f:5:Bernkastel} Documents, p.1348)
+{n}（※大法院内務文書：法総書Ａ０９第９９７４号より）} => {n}(*Great Court Internal Documents: Library of Law A09 #9974)}
+{e:070:いずれ関係者が、休憩のために個室を欲しがることを予測した夏妃は、 => {e:070:Predicting that one of those present would eventually want to take a rest in a private room,
+客室の一室のクローゼット内に潜伏。} => Natsuhi concealed herself inside a closet in one of the guest rooms.}
+{e:070:午後１時頃、この部屋に訪れた秀吉を殺害しました。 => {e:070:When Hideyoshi visited that room at approximately 13:00, she murdered him.
+{n}（※裁判概要書：６１ページより） => {n}(*Trial Summary, p.61)
+{n}（※補足資料Ｔ：２６ページより） => {n}(*Supplemental Materials T, p.26)
+{n}（※大法院内務文書：法総書Ａ０９第９９７４号より）} => {n}(*Great Court Internal Documents: Library of Law A09 #9974)}
+{e:070:事件に気付いた関係者が、秀吉の遺体を運び出すまでの間、再び夏妃はクローゼット内に潜伏。 => {e:070:Natsuhi once again concealed herself in the closet from the time the others became aware of the incident to the time that they carried out Hideyoshi\'s body.
+{n}なお、その証拠として、クローゼット内に、夏妃の着衣のボタンを発見しました。} => {n}Furthermore, as proof of this, a button from Natsuhi\'s clothes was found in the closet.}
+{e:070:その後、クローゼットを脱出して自室に戻ろうとしました。} => {e:070:Afterwards, she exited the closet and tried to return to her own room.}
+{e:070:しかしその途上で、古戸ヱリカに発見されて追及を受け、事件を自白しました。 => {e:070:However, Furudo Erika discovered her on the way, and Natsuhi confessed to her crimes after questioning.
+{n}（※裁判概要書：６３ページより） => {n}(*Trial Summary, p.63)
+{n}（※補足資料Ｔ：３２ページより） => {n}(*Supplemental Materials T, p.32)
+{n}（※証拠品提出：第２６号より） => {n}(*Submitted Evidence #26)
+{n}（※ベルンカステル文書：１３４８ページより） => {n}(*{f:5:Bernkastel} Documents, p.1348)
+{n}（※ラムダデルタ文書：７行目より） => {n}(*{f:5:Lambdadelta} Documents, line 7)
+{n}（※大法院内務文書：法総書Ａ０９第９９７４号より） => {n}(*Great Court Internal Documents: Library of Law A09 #9974)
+{n}（※大法院内務文書：法管一Ｕ９９第０１０７号より） => {n}(*Great Court Internal Documents: Legal Mgmt. U99 #0107)
+{n}（※大法院公示文書：第０１７２４４３４号より）} => {n}(*Great Court Official Notice #01724434)}
+{e:070:大法院公示第０１７２４４３４号 => {e:070:Great Court Official Notice #01724434
+{n}幻想裁判第０１４７－００７９８２号（１９８６年１０月５日２４時）により、以下が確定したことを公示する。 => {n}Trial of Illusions #0147‐007982 (1986‐10‐05 24:00) decides as follows:
+{n}右代宮夏妃が、犯行を認めたこと。 => {n}{n}Ushiromiya Natsuhi confessed to the crimes.
+{n}関係書類は本公示行為から１３ヶ月間、大法院法務部文書管理課第一係にて、縦覧に供する。 => {n}{n}For a period of 13 months following this announcement, related documents may be perused at the Great Court Legal Offices Document Management Center, First Subsection.
+{n}　　　　　　　　　　　　　　　　　　　　　大法院長官職務代理者 => {n}{n}Great Court Deputy Attorney General
+{n}　　　　　　　　　　　　　　　　　　　　　主席異端審問官 => {n}Chief Inquisitor
+{n}　　　　　　　　　　　　　　　　　　　　　　　　ドラノール・Ａ・ノックス} => {n}Dlanor A. Knox}
+「私がやったことにすればいいんでしょう？！ => "Then just say that I did it, okay?!
+そう言わせたいんでしょう？！ => That\'s what you want me to say, right?!
+わぁああああああああああああぁあああぁあぁぁぁ…！！！」 => Waa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhhhh...!!!"
+もうこれ以上、何を言い逃れをしても無駄と諦めたのか、 => As though she had given up and decided that it would be useless to try and talk her way out of this any longer,
+夏妃伯母さんは、とうとう泣き叫びながらそう言った。 => Aunt Natsuhi said that and screamed.
+……悲しい事件だった。 => ......It was a sad incident.
+俺は夏妃伯母さんは、気の毒な理由から右代宮家に嫁いできたにせよ、 => I wanted to believe that, despite the pitiable circumstances which led to her marriage into the Ushiromiya family,
+……蔵臼伯父さんや朱志香と、……小さな幸せを手に入れることが出来たのではないかと信じたかった。 => ......Aunt Natsuhi had been able to find some small measure of happiness with Uncle Krauss and Jessica.
+……しかし夏妃伯母さんは、蔵臼伯父さんも、 => ......But instead, by Aunt Natsuhi\'s own hand, Uncle Krauss,
+……そして、愛娘の朱志香さえも、 => ......and even her beloved daughter Jessica,
+……無情に殺してみせた…。 => ......had been heartlessly killed...
+祖父さままでが、遺体を隠すという片棒を担いだのは、なおも信じ難い…。 => It was even harder to believe that Grandfather had been an accomplice and hid the bodies...
+しかし、関係者の証言から、ここ数年の祖父さまの精神状態は、 => However, several people had given clear testimony that Grandfather\'s mental state for these last few years...
+とてもまともとは言えなかったことが、次々と明らかにされた。 => had been far from what anyone would consider normal.
+過去に亡くした、ベアトリーチェという名の愛人への妄執に取り憑かれ、 => Perhaps, possessed by a mad devotion to the mistress he had lost long ago,
+……祖父さまは本気で、夏妃伯母さんをベアトリーチェの生まれ変わりと信じたのかもしれない。 => ......Grandfather might truly have believed that Aunt Natsuhi was a reincarnation of {f:5:Beatrice}.
+祖父さまは今頃、どこにいるんだろう。 => Where is Grandfather now?
+ヱリカが推理するように、 => Like Erika theorized,
+この碑文の見立て殺人で、本当にベアトリーチェが蘇ると信じて、 => did he really believe that he could revive {f:5:Beatrice} by carrying out murders following the epitaph,
+夏妃伯母さんの口車に乗り。 => and succumb to Natsuhi\'s cajolery?
+……今頃どこかで、運び去った遺体で、不気味な儀式でもしているというのだろうか……？ => ......Right now, is he holding some kind of disturbing ritual with the bodies he carried away......?
+「これで…………、 => "Are you............
+……満足ですか………？ => ......satisfied now.........?
+……私に、 => ......This...
+……こう言わせたかったんでしょう……？」 => ...is what you wanted to make me say, right......?"
+夏妃伯母さんが嗚咽交じりに、そう口にする。 => Aunt Natsuhi sobbed as she spoke.
+「……これが、 => "......This is...
+………あなたの復讐なんでしょう……？ => ......your revenge, isn\'t it......?
+１９年前の男…ッ！！」 => You, the man from 19 years ago...!!"
+１９年前の男とは、夏妃伯母さんが何度も繰り返す、自分を罠にはめた男、とやらだ。 => This "man from 19 years ago" that Aunt Natsuhi kept mentioning was the man who had supposedly framed her.
+しかし、１９年前の男と一方的に言うだけで、 => However, referring to "a man from 19 years ago" was as far as she would go,
+１９年前に何があったのか、それを決して語ろうとはしなかった…。 => and she made no attempt at all to explain what had actually happened back then...
+「きっと、……この中に、あの男の手先が混じっているはずです。 => "I\'m certain......that a pawn of that man is among us now.
+……あの男は、あなたたちの誰かを通じて、今のこの私を嘲笑っているでしょう…」 => ......I\'m sure that right now, that man is ridiculing me through one of you..."
+「………なら伝えなさい…！ => ".........So tell me...!
+これで気は晴れましたか？ => Are you happy now?
+１９年間、あなたを苛んだ痛みと苦しみは、少しは癒えましたか…？！ => Has a little of that pain and suffering you\'ve endured for 19 years gone away...?!
+………ようやく私はわかりました。 => .........I finally understand.
+…私をここまで追い詰めたのは、……それを、……認めさせたかったからですね……？」 => ...The reason you brought me down to this point......is because......you wanted to make me admit it, isn\'t it......?"
+「……夏妃さん。 => "......Natsuhi‐san.
+私たち以外に、部外者は一切存在しません。 => Other than us, there\'s absolutely no one here.
+居もしない人物が、さも存在するように振舞うなんて、往生際の悪い芝居は止めて下さい」 => Please stop this insanely desperate charade and quit pretending that someone who doesn\'t exist actually does."
+ヱリカは馬鹿にするように笑うが、夏妃伯母さんは、俺たちを見ながら。 => Erika laughed mockingly, but, as Aunt Natsuhi looked at us...
+……いや、俺たちの向こうに、何者かの存在を見ながら、……俯き、震える。 => ......no, as she looked at some being behind us, ......she hung her head and shook.
+そして、………自らの罪を、告白した。 => Then, .........she confessed to her sin.
+「私は、………殺人を犯しました……」 => "I.........committed murder......"
+「やっと、直接的な言葉で罪を認めましたね」 => "So you finally admit your crime directly."
+「いいえ。 => "No,
+昨日今日の事件のことではありません。 => this is not about what has happened today and yesterday.
+………１９年前の殺人について、告白します」 => .........I confess to a murder that occurred 19 years ago."
+何の話だと、大人たちが囁き合う。 => The adults all whispered together, wondering what this was about.
+{n}……１９年前の殺人事件など、初耳だからだ。 => {n}......Because they had never heard about a murder case 19 years ago.
+「い、……今から１９年前。 => "......19 years ago,
+……私は、………罪を犯しました。 => ......I.........committed a sin.
+………許せなかったのです。 => .........I couldn\'t tolerate it.
+……その、………赤ん坊が…！！」 => ......That.........baby...!!"
+「赤ん坊？ => "Baby?
+今さら何の話ですか」 => Now what are you talking about?"
+「……１９年前のあの日。 => "......On that day 19 years ago,
+…私は、お父様より、ひとりの赤ん坊を託されました。 => ...Father entrusted me with a baby.
+………いつまでも跡継ぎを身篭ることの出来ない私に、ならば養子を迎えよとお父様が仰り、 => .........Since I was having so much trouble conceiving a successor, Father told me to adopt a child,
+………施設から連れてきたという、ひとりの赤ん坊を……、私に抱かせたのです…」 => ......and he brought me a baby which he said was from a welfare institute......and he put it in my arms..."
+「それが私に、……どれほど、女としての屈辱を与えたか、想像がつきますか…？！」 => "Do you have any idea......how humiliating that was to me as a woman...?!"
+夏妃伯母さんは、怒りと悲しみ、後悔と、あるいは開き直りの、 => With a mix of conflicting emotions, of anger, sadness, regret and possibly defiance,
+相反する感情を入り混じらせながら、それを告白した。 => Aunt Natsuhi confessed.
+女として、子を宿すことをもはや期待されない屈辱。 => The humiliation as a woman that others had given up hope on her ever bearing a child.
+{n}そして、見知らぬ赤ん坊を抱かせられた、例えようもない嫌悪感。 => {n}And also, the indescribably unpleasant feeling of being made to nurse a strange baby.
+それが深い悲しみと怒りを与え、 => It caused her great sadness and rage,
+彼女の心を蝕むのに、いくつも夜を必要としなかったことを……。 => and before very many nights passed, it ate a hole into her heart......
+そして私は、……心を、………悪魔に売り渡したのです…。 => And then, ......I sold my soul.........to demons...
+………あれは、赤ん坊を抱かせた使用人と共に、薔薇庭園から船着場の方へ散歩に行った時でした…。 => .........It happened when I went on a walk through the rose garden to the harbor, along with a servant holding the baby...
+……私はひとりになりたかったのですが、 => ......I wanted to be alone,
+……赤ん坊を連れたその使用人の女は、律儀に私の後について回りました。 => ......but that servant woman holding the baby faithfully followed me everywhere.
+ひとりにしてくれとさえ言い出せず、……だから赤ん坊の泣き声から逃れられず……。 => I was unable even to tell her to stop following me, ......and therefore unable to escape from the child\'s crying......
+………その日より１９年間、 => .........That day...
+私を苛む、長き頭痛の日々の始まりに呻いていました……。 => marked the beginning of 19 long, headache‐filled years......
+………そして、柵より、崖を臨む。 => .........Then, we were by the fence overlooking the cliff.
+はるか眼下の岩浜に、 => If by taking that baby...
+……この赤ん坊を放り捨てることで、 => ...and throwing it down onto the rocky beach far below me,
+……全てなかったことに出来れば。 => ......I could make all this go away...
+……そんな悪魔の誘惑を、私は確かに聞きました。 => ......I really did hear that demonic temptation in my ear.
+「そして、………それが本当に出来たら、どれほど素晴らしいかと、 => And.........for the smallest of moments, I thought of how wonderful it would be if I really could do that,
+……その誘惑に、ほんの一瞬、耳を傾けてしまったのです。 => ......and lent an ear to that temptation.
+……その時、」 => ......And that was when—
+赤ん坊を抱いた使用人が、大きな石を踏んで、足を挫き、よろめいた……。 => The servant holding the baby stepped on a large rock, twisted her ankle, and staggered......
+そして粗末な柵に寄りかかり、……その時、柵が大きく軋んだ気がした。 => She leaned against the rough fence, ......and at that moment, I thought I heard the fence creak loudly.
+私は、危ないと言いながら肩を掴もうとしました。 => I told her to look out and went to grab her shoulder.
+「……いえ、 => ......No,
+……そんな曖昧な言い方はしません…。 => ......I shouldn\'t be so vague...
+懺悔します。 => I\'ll repent.
+告白します。 => I\'ll confess.
+………私はあの時、確かに、……危ないと言いながら、 => .........At that moment, I\'m sure that......as I told her to look out,
+…………その使用人の肩を、 => ............with both hands,
+両手で、 => I reached for that servant\'s shoulders,
+……どんと、 => and with a thud,
+……強く押し飛ばしたのです……」 => ......I pushed her away hard......
+粗末な柵は根元から折れ、 => The rough fence snapped from the base,
+………使用人と、 => .........and the servant,
+……その手に抱かれた赤ん坊と一緒に、 => ......along with the baby held in her arms,
+………眼下の岩浜へ転落していきました……。 => .........fell down towards the rocky beach below......
+その瞬間のことは、 => Even though...
+……鮮明に覚えているのに、 => ...I remember that moment vividly,
+…なのになぜか曖昧で、 => ...for some reason I recall a vague...
+……とても不思議な気持ちだったのを覚えています。 => ...and very strange feeling.
+転落したというより、 => It almost felt as though instead of falling,
+……まるで、何もない宙に、二人が音も無く飲み込まれて消えたようにさえ感じたのです。 => ......the two of them were silently swallowed up into empty space.
+だから私は、二人が岩浜に落下した音さえ聞いていません。 => So I never even heard the sound of them crashing to the rocky beach.
+いえ、きっと聞いているのです。 => No, I must have heard it.
+でも、消えたと思い込みたかったから、 => But because I wanted to think that they\'d simply disappeared,
+………その聞いた音を、きっと記憶から消し去ってしまったのです…。 => ......I must have erased that sound from my memory...
+「………そ、………それから………？」 => ".........A‐.........and then.........?"
+「私は一瞬、…これが夢だと信じました。 => "For an instant, ...I thought it was a dream.
+……あの高さですから、ちょっと身を乗り出したくらいでは、眼下の二人は見えません。 => ......It was high enough that I couldn\'t see the two of them below me just by leaning over.
+だから、二人が落ちたことさえ、……ほんの数秒前のことさえ、現実のことなのかわからなくて…」 => So I couldn\'t tell whether their fall, ......the events of just a few seconds earlier, had actually happened or not..."
+きっと私は、ここから赤ん坊が落ちればいいのにと願いすぎて、 => I must have been wishing so strongly that the child would fall from there...
+白昼夢を見てしまったに違いない…。 => that I hallucinated the whole thing...
+そう自らに思い込ませ、足早に薔薇庭園に戻り、 => Trying to make myself believe this, I hurried back to the rose garden.
+……赤ん坊は使用人に任せ、私はひとり、ここで休んでいたことにしました…。 => ......I decided to say that I\'d left the baby with the servant and had been taking a rest alone in the garden...
+……そして、 => ......Then,
+………お父様に、赤ん坊はどうしたのかと問われ、 => .........Father asked what had happened to the baby,
+…………。 => ............
+………任せた使用人の姿が見えないと、 => .........which caused a stir over the disappearance of the servant...
+………騒ぎになって……………。 => ......who I\'d left the baby with.........
+やがて、壊れている柵が見つかって、 => Eventually, the broken fence was discovered,
+………その崖下に、二人の死体が発見された…。 => .........and the two corpses were found at the bottom of the cliff...
+……明かせぬ筋からの赤ん坊だったらしく、その存在は伏せられ、 => ......The baby\'s origins apparently couldn\'t be made known, so its existence was hushed up,
+……使用人が単独で事故を起こして死んだこととなった。 => ......and the official story was that the servant simply died in an accident alone.
+そう。 => That\'s right.
+私は、……一度に二人もの、罪なき命を奪ったのです………。 => I......stole away two innocent lives in one go.........
+気の毒な使用人については、……遺族に充分なねぎらいをしました。 => As for the poor servant......her family was generously compensated.
+真相を知らない老いた夫は、不幸な事故を嘆きつつも、それに納得してくれました。 => This was enough to satisfy her aged husband, who grieved over the unfortunate accident—he never knew the truth.
+そして、ほんの数年前、老衰で亡くなり、………私は墓前で真相を告白し、謝罪しました。 => Then, just a few years ago, he died of old age, .........and I confessed the truth over his grave, apologizing.
+「………しかし私は今日まで…。 => ".........But to this day...
+……あの赤ん坊に謝罪したことはありません。 => ......I have never apologized to that baby.
+……そう、 => ......Yes,
+………それがあなたの目的でしょう……？」 => .........that\'s what you\'re after, isn\'t it......?"
+「だから、私は今、ここで罪を告白します！ => "So right here, right now, I\'ll confess to my crime!
+……右代宮夏妃は、 => ......I, Ushiromiya Natsuhi,
+………１９年前にあなたを、 => .........did 19 years ago...
+………崖から突き落として、 => ......push you off a cliff...
+…殺そうとしました……」 => ...and try to kill you......"
+……でも、 => ......But...
+……あなたは死んでいなかったのですね……。 => ......you didn\'t die after all......
+………こうして生きていて、 => .........You\'re still alive,
+……それでも私をカアサンと呼び…。 => ......and you still call me "Mother"...
+………この島へ帰って来て、 => .........You came to this island,
+………こうして復讐をされたのですね……。 => .........and took your revenge on me, didn\'t you......?
+あなたはこの１９年間。 => When you learned...
+……母と呼ぶはずだった私に突き落とされたことを知って、 => ......that you were pushed off a cliff by the woman you should have been calling a mother for the past 19 years,
+……どれほどの憎悪の人生を送ったのでしょうね…。 => ......you must have lived a life so full of hatred...
+「……そしてあなたは、……私があなたを突き落としてから得た、 => "......And now, ......you\'ve taken everything I\'ve gained since pushing you off that cliff,
+１８年間の人生を、……こうして全て、打ち壊しました…。 => 18 years of my life, ......and smashed it all to pieces...
+……もう私には、愛した夫も娘もいません。 => ......I no longer have my beloved husband or daughter.
+……そして私には名誉もなく、 => ......And I\'ve lost even my honor,
+……こうして人殺し呼ばわりされて、 => ......and am being called a murderer...
+………いえ、……本当に人殺しですものね……」 => .........No, ......I really am a murderer, aren\'t I......"
+「えぇ、そうです。 => "Yes, that\'s right.
+……あなたの目論見どおり。 => ......It all went according to your plans.
+……私は今や、人殺しと見なされています…」 => ......I\'m now regarded as a killer..."
+「……………どうですか…？ => "...............How is this for you...?
+復讐には、 => Is this enough...
+……これで充分ですか……？」 => ...for your revenge......?"
+「夫と娘を殺され、 => "My husband and daughter have been killed!!
+……人殺しの汚名を着せられ、……不貞の汚名まで……。 => ......I\'ve been made to look like a murderer......like an adulteress even......
+こうして生き恥をかかされる私を見て、 => After seeing me put through such terrible humiliation,
+…………あなたは満足ですか……？！」 => ............are you satisfied......?!"
+「えぇ、さぞや満足でしょうね…。 => "Yes, I\'ll bet you\'re quite satisfied...
+……私の……家族も、 => ......Because my family...
+……名誉も、 => ...my honor...
+……全て………奪い去ったのですから……。 => ......everything.........has been taken from me......
+……ううぅ、 => ......Uuughuu...
+……ひっく……、 => ...*hic*......
+ううううぅうううぅうッ！！」 => uuu{0}u{0}ughh{0}u{0}u{0}h{0}h{0}uuu!!"
+「………この期に及んで、まだ濡れ衣だと言い張るんですか？ => ".........After all this, you still claim that you were framed?
+まったく、あなたは本当に往生際の悪い」 => Seriously, you just don\'t know when to give up."
+「聞こえていますか？！　１９年前の呪われた赤ん坊…！！ => "Can you hear me?! You, the cursed baby from 19 years ago...!!
+これで満足ですかッ？！ => Are you satisfied now?!
+あなたは私から全てを奪いましたッ！！ => You\'ve taken everything from me!!
+まだ何か足りないというのですか？！ => What more do you want?!
+……もう、 => ......Please,
+……私を、 => ......just...
+………許して…………」 => ......forgive me............"
+{a:c: => {a:c:
+「……駄目だな」} => "......No good."}
+「ぇ………」 => "Huh.........?"
+「………戦人さん。 => ".........Battler‐san,
+何か言いました？」 => did you say something?"
+{a:c: => {a:c:
+「全然駄目だぜ」} => "No good at all."}
+「…………ば、 => ".........B‐
+………戦人……く……ん……？」 => .........Battler......ku......n......?"
+「………あぁ。 => ".........Yeah.
+……駄目だな。 => ...It\'s no good...
+全然駄目だぜ……」 => It\'s no goddamn good at all......"
+「ぁ……、 => "Ah......
+………ぁぁぁ………………ッッ！！」 => .........aaahhhh...............!!"

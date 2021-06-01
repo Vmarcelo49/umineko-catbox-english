@@ -1,1608 +1,1608 @@
-The marriage ceremony ended without any problems, and the reception was held inside the cathedral...
-As the goat demons partied raucously,
- Dlanor could be seen leaning against a pillar, trying to escape from the noise.
-Then, Gertrude appeared and whispered some kind of report to her.
-".........Is that {f:5:true}?"
-"For your attention:
- Assistant Inquisitor Cornelia is currently heading towards the scene.
- ......I suggest that Lady {f:5:Erika} be contacted as well."
-"{f:5:Understood}.
- I will tell {f:5:her}.
- ......Gertrude, contact the head of ceremony {f:5:security}.
- ......Prepare for {f:5:battle}."
-"As you wish."
-"I apologize for interrupting your chat.
- I am in charge of security for this ceremony."
-"Huh? For me?!
- Oh, what\'s going on?"
-"......I told you that you were going too far.
- Champagne Tower Bowling was always a bad idea.
- Time for a scolding.
- *giggle*giggle*......"
-"Hey, Beeeeeeern!!
- Fine, what is it, did I do something wrong?!"
-"The reception desk has received an envelope from an unknown sender addressed to "Lady {f:5:Lambdadelta}"."
-"I always ignore anonymous calls and letters.
- Just throw it away."
-"Well, you see, ......this one is a little different..."
-"...............What the...
- ......Have you told anyone you received this...?"
-"No, only the two Sisters at the reception desk and I know.
- I have already issued a gag order."
-The instant she saw the envelope,
- {f:5:Lambdadelta} snatched it away and lowered her voice.
-......{f:5:Bernkastel} had walked away and was apparently making fun of Erika.
-Erika was drunk, of course, and Bern was getting that way too.
-{n}If they were left alone, they\'d probably forget about this.
-It was true that the envelope had no sender written on it.
-......However, the seal done on it in gold leaf...
-fulfilled the same purpose.
-......That seal was......
-{f:5:Lambdadelta} hid behind a pillar, ripped the envelope open,
- took out the letter inside, and read.
-Her eyes instantly started to glint,
- .........and she grinned like a kid who\'d just gotten a naughty idea...
-"......What is to be done?
- The sniper team is carrying red warheads.
- If you give your permission, I will give the order to load them."
-"...........................
- ......What are you talking about?
- Do you realize how important these guests are?
- If a stray bullet hits one of these attendees,
- all the new Chiester Sisters will be sent straight from the factory to the guillotine for the next ten years."
-"Understood, ma\'am. We will intercept with regular warheads.
- Shall we post lookouts around the Seven Sisters of Purgatory?"
-"Why would we need those?
- After all, the Seven Stakes are Battler\'s...and now Erika\'s furniture.
- Why would we post lookouts around our allies?
- Just make sure security is nice and tight."
-"Just now, we received a recommendation from Senior Assistant Inquisitor Gertrude suggesting that we make preparations for battle.
- Her reasons are unknown."
-"From Gertrude?
- .........Heheh.
- Then follow that recommendation.
- A party\'s more fun once you liven things up...!"
-"Understood, ma\'am.
- .........00 calling Chiester17, Chiester38, Chiester45: Issuing Code R alert.
- Standby level 2."
-"17, copy."
-"38, copy."
-"45, understood...!"
-"Would\'ve been cooler if you\'d just said "copy" nyeh."
-"I, I panicked...!"
-"Ah, right, 45.
- Come over here a second."
-"Wh‐...what is it?
- H‐hey, we\'re on duty...!
- Stop, don\'t play with my ears...!"
-"Your ears.
- Better fold them down nyeh."
-".........What did you say...?!
- You\'re kidding, right?
- That\'s impossible...!"
-"Cornelia is heading there {f:5:now}.
- ......The odds of {f:5:Beatrice} attacking here are extremely {f:5:high}.
- I recommend suspending the reception and {f:5:evacuating}."
-"What\'s going on, Erika......?
- Something go wrong with the entertainment...?"
-"N‐no, my master...! Please continue to enjoy the reception.
- ......Hey, someone?
- Let\'s get Lady {f:5:Bernkastel} some more dried plum wine...!"
-The question had come too fast for Erika to hide her agitation.
-When {f:5:Bernkastel} saw this, ......she knew that their final, late guest would soon be arriving.
-"Luci‐nee.
- I hear there\'s been some movement in the guesthouse."
-"......The guesthouse?
- Who cares about the game board now?"
-"Well...
- ......They\'re saying that Kanon‐kun disappeared from the cousins\' room..."
-"What?!
- Are you a moron?
- The cousins\' room is a perfect locked room, with the door and all the windows perfectly sealed.
- It\'s impossible for him to escape...!"
-"No, I\'ve investigated that claim as well.
- ......There\'s no mistake.
- Kanon has disappeared from the cousins\' room."
-"......He\'s probably hiding somewhere in the cousins\' room.
- Or else, he\'s managed to trick everyone since the beginning...and was never in that room to begin with."
-"That\'s impossible.
- It\'s been guaranteed that "everyone" is in the cousins\' room except the specific names Lady {f:5:Erika} read aloud back then.
- It\'s impossible for him to trick his way out of there."
-"......How did he get past the Jungfrau seal barrier...?
- No, first off, where on earth is Kanon?
- Find him at once...!"
-At that moment, the cathedral suddenly went black.
-The surprised commotion of the guests filled the cathedral...
-".........She\'s here."
-"00 calling all Chiesters.
- Code R Alert!
- Chiester17, can you repair the electrical systems?"
-"Negative.
- Communications with the management staff have been severed."
-"All Chiesters, code red!
- Rock ’n’ roll!!"
-"Copy."
-"Copy."
-"Copy."
-"U‐understood. Ah! I mean copy!"
-The sniper teams in the chandeliers all released their safeties at once.
-{n}The entire security team down in the hall loaded their ammunition.
-"......Lady {f:5:Erika}, let us evacuate to the waiting {f:5:room}.
- It is dangerous {f:5:here}."
-"What\'s dangerous?!
- I\'m the territory lord of this world!
- Why should I have to run away in fear?!"
-"Gertrude, set up a VIP guard {f:5:barrier}.
- Call Cornelia back here at {f:5:once}."
-"For your attention: this is underway."
-"A barrier?!
- I need to be wrapped in one of your pitiful, pathetic barriers while I\'m wearing a wedding dress?!
- How insulting!!"
-This disturbance made even Battler groan, as he sat in the next seat like a doll...
-".....................uuugh.................."
-Even with his soul sealed, Battler probably realized that something strange was going on...
-"She took her time.
- Right, Lambda?"
-"Totally.
- She sure kept us waiting."
-"What was that just now?
- A love letter from someone...?"
-"A fan letter.
- From the Lambda‐chan Fan Club."
-{f:5:Lambdadelta} played dumb and munched some popcorn.
-Then, the lights finally turned on...
-It was clear that during that blackout,
- ......{f:5:Beatrice} had snuck in somewhere nearby, possibly even inside the cathedral itself.
-The whispering goat attendees all realized it as well.
-Whose scheme was this...and what were they doing?
-......Though it may have been imprudent, they were looking forward to this, and an excited chatter filled the cathedral...
-"Looks like she came."
-"G‐Gaap...!
- They let you come back too...?!"
-"Come on, putting me in a jail is meaningless."
-"True! Pu ku ku ku."
-"......But Riiche.
- .........Battler\'s locked room, the cousins\' room,
- ......and even the final possibility, the next room over, have all been sealed...
- ......How are you planning to save Battler...?!"
-"Let us suppose...
-that Milady has found some trick X.
- If so,
- she would inevitably have to march in here to thrust that in Lady {f:5:Erika}\'s face..."
-"But...against all of these Chiester troops...
- ......I can\'t believe this many of them were hiding here...!
- It\'s impossible... She\'ll be sewn to death...!"
-Rabbit ears could be seen poking out all around the hall.
-......It was incredible that such a large number of them could remain hidden and unnoticed...
-"......If she can just get close enough to challenge Erika, ......she should be able to get herself an even fight."
-"I see, that move.
- .........However, does Milady have that item with her?
- ......After all, she hated dealing with them, and disliked it every time I prepared them for her.
- .........Dear me.
- She remains a troublesome one to the end."
-Amid the crowd, Ronove took something out and showed it.
-......When {f:5:Virgilia} saw the object in his hand, she understood its meaning...
-True, with that, ......it should be possible to stop the attacks from the Chiester troops......
-"Well, if it doesn\'t work on Erika, we\'re through.
- The problem is getting her right in front of Erika, if only for a second.
- ......The Chiesters will probably prevent that with all they have.
- ......Lia,
- ......I\'ll bet you could give her the time to do that..."
-{f:5:Virgilia} gave a small nod.
-However, the problem was the two Chiester troops standing at her back.
-......Since that time she had tried to jump out in front of the procession, she had been marked constantly...
-It was possible, with {f:5:Virgilia}\'s vast magical power, to momentarily take out all of the Chiester troops in the cathedral.
-That would only gain a short bit of time, but it would be enough to confront Erika.
-......The Chiester troops knew this, so they kept a close eye on {f:5:Virgilia} with tense faces.
-At that moment,
- ......the great cathedral door was blasted to bits.
-The fragments became bright gold butterflies...
-which danced across the room in a beautiful blizzard of gold leaf......
-That golden storm...
-...slowly faded away...
-Then,
- ......at the entrance to that red‐carpeted path to the grave,
- .........stood a calm,
- majestic figure......
-"Guards, shoot to {f:5:kill}...!!"
-"Negative, conducting identity comparison."
-Dlanor ordered the guards to shoot the intruder right away, but Chiester00 didn\'t comply.
-Was it because she had been warned about shooting these guests...and was afraid of the consequences if she accidentally shot a drunk guest who had disguised themselves as {f:5:Beatrice} as some sort of prank?
-No. 00 was just coolly and calmly carrying out her duties.
-"......Oh, what a surprise... You know, I thought you weren\'t going to make it."
-"...................................."
-The pair faced each other from either end of the long red carpet.
-However, in between them...
-stood several dozen Chiester honor guards...
-"It took you quite some time to come here, most honored guest!!
- You had us all quite worried!
- But I am glad you managed to make it to the reception at least......!!"
-"............Heh,
- ......heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh..."
-Beato......laughed......
-That chuckle...
-......made Battler\'s eyes quiver slightly.
-"Y‐
-......you.................."
-"......Did I keep you waiting? Furudo Erikaaa?!
- ......I\'m here to celebraaate...!"
-She had an overpowering and evil presence about her, ......strong enough to make anyone shiver.
-Was it still necessary for her identity to be confirmed?
-{n}Who could possibly mistake this overwhelming presence?
-"B‐
-......{f:5:Beatriiiiiiii
-ce{-}e{-}e{-}e{-}e{-}e{-}e{-}eee}!!!"
-"‘See you in hell’ is a favorite parting line of mine, but—"
-"Identity confirmed.
- It is the great Lady {f:5:Beatrice}!!"
-"It seems we are here already,
- Furudo Erikaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!!"
-At that moment, the two Chiester troops standing behind {f:5:Virgilia} slumped over and fell to the floor.
-......Ronove had touched the bases of their big ears from behind.
-It was clear that he had applied some sort of magic.
-"Someone find a doctor.
- These girls seem to be ill."
-"All Chiesters, open fiiiiiiiiiiire!!"
-"Beato, now!!"
-Just an instant before the Chiester troops could fire, {f:5:Virgilia} raised her arms to the heavens.
-Her magical power, which was more than enough to remind all present what her name had been at the height of her strength,
- became a spirit wave and exploded throughout the cathedral.
-The impact made the stained glass windows shatter, and colorful glass shards poured down everywhere.
-"S‐spirit particle warfare defenses!! Hurry on recovery!!"
-However, all of the Chiester honor guards, who didn\'t have spirit particle defenses, toppled over like dolls.
-The ceiling snipers, who were defended, were able to avoid their systems going down completely, but it would take several minutes before they could recover.
-.........That span of time...
-...would be enough to reach Erika...
-However, Erika couldn\'t be defeated in just a few minutes.
-{n}There was no way they could carry Battler away in that time...!
-What should they use this precious time for?!
-Beato dashed down the red carpeted path.
-She ran down the path to the grave, which was lined by Chiester troops lying there like corpses.
-She had called this place hell.
-{n}......In that case, running from hell to the grave was actually going backwards.
-Beato\'s figure dashing through the corpse‐ridden path truly symbolized her resurrection...!
-"Milady, take this...!"
-"Got it!!"
-As she dashed, she snatched something white from Ronove\'s outstretched hand.
-There was no longer anyone blocking her path to Erika...!!
-However, that instant, a golden thread came from in front of her and rapidly sewed through the red carpet towards her like a sewing machine!
-"Hoh, we have a meddler...!!"
-"Reloading complete, requesting data nyeh!"
-"Firing radar targeted.
- Data link to 410!!"
-410 was clever.
-She had predicted that {f:5:Virgilia} would go for a spirit particle attack...and had folded over her ears and 45\'s beforehand.
-So, they were the only ones that weren\'t taken out.
-"Firing!!"
-Once again, the golden sewing thread chased after Beato, weaving like a sewing machine.
-It was as though an undulating golden snake was shooting after her.
-"Impudence...!!
- How dare you interfere at a moment so invaluable for my showdown with Erika...!"
-Beato jumped sideways away from the red carpet and ran across the top of a long table covered with beautiful food.
-The gold snake chased her, sewing through the pure white tablecloth like a sewing machine and scattering dishes left and right...!
-The goat attendees ran about wildly, trying to escape.
- The cathedral was wrapped in pandemonium.
-"......I can\'t believe some of those rabbits evaded the spirit particle attack...!"
-"This is bad.
- With them in that position, ......there\'s nothing we can do...!"
-The pair of snipers, attacking from high above on the chandelier, were much further away than Erika was—too far for Beato to reach.
-Furthermore, their position couldn\'t have been worse for Beato, with the entire cathedral inside their range of fire!
-"......Too bad nyeh, {f:5:Beatrice}‐samaaa.
- The trials of love are harsh nyeh!
- 45, new magazine!!"
-"This?"
-Gaap handed her the magazine.
-......45 always handed them over the wrong way around, so 410 was a bit confused to have one handed to her the right way up...
- ......?!?!
-"Nyeh?!
- Nyeh nyeh nyeh,
- let go nyeh, nyeh nyeh nyeh!!"
-No matter how distant a position they might take, it was no problem for the elusive Gaap.
-Gaap twisted their long ears up, then tickled them with her thumbs.
-The Chiester\'s greatest weapon was also their greatest weakness.
-The two doubled over with laughter.
-"......I\'ve handled these two,
- .....but how many seconds do we have?
- The other Chiesters will be reactivating..."
-On the other chandeliers, even more powerful Chiesters were slowly starting to move again......
-It would be impossible to buy any more time.
-"Ah, Gaap!
- Thanks, I\'m in your debt!!"
-"Don\'t forget to thank these guys too."
-"Beatoooo, good luuuuuck, hang in theeeeere!!"
-"You don\'t have much time!!"
-"Erikaaaaaaaaaaaaaaaaaaaaa!!"
-Beato cut through the crowd of scampering goats like Moses.
-Her goal was straight in front of her.
- The place where Erika and Battler were seated...!
-Just then, a red barrier was created, blocking her path.
-It was the VIP‐guarding barrier that Gertrude had set up.
-{n}She stepped forward and laid out a last line of defense to block Beato\'s way.
-"For your attention: Know that you will not be allowed any closer."
-"You think a wall like that can stop meeeeeeeeeeeeee?!!"
-"How long until the Chiesters {f:5:reactivate}?"
-"W‐within 30 seconds..."
-As the eldest of the Seven Sisters of Purgatory, Lucifer stood in waiting behind the bride and groom.
-She wanted to save Beato.
-{n}If she could just distract Gertrude for a moment, the wall would disappear...
-However, the Seven Sisters were furniture.
- They served the territory lord.
-So, they couldn\'t move to help Beato...
-Dlanor glanced over at Lucifer.
-{n}There was a coercive tint to her eyes.
-"..................You are not allowed to move except by the orders of your {f:5:master}."
-"............khh............"
-"Who\'s our master...?!"
-"It\'s Erika now, idiot...!"
-"No, our master is Battler‐sama!"
-"True. Erika only speaks on his behalf."
-"That\'s right, Onee‐sama! Whose furniture are we?!"
-"It\'s just too delicious... I\'m gonna have a nibble!!"
-The red, absolute barrier flickered for just an instant.
-Beelzebub\'s stake had pierced Gertrude\'s shoulder, and her concentration had wavered.
-......But it didn\'t break.
-Slowly and expressionlessly, Gertrude turned to look at Lucifer.
-"......By whose orders?
- Know that Lady {f:5:Erika} has made no such order."
-"We do have orders.
- ...Th‐...the orders of our master!!"
-"................................."
-"How can a master who cannot speak give orders...?"
-"E‐even without a word spoken,
- ......understanding a master\'s will is the job of furniture!!"
-"Then, ......it cannot be helped."
-The seven stakes shot at Gertrude at once.
-...Gertrude had chosen to take all of those direct attacks, refusing to abandon the barrier until the last moment.
-Though she was resilient enough to do justice to the name of {ruby:Iron Maiden:Eiserne Jungfrau} and took no damage at all,
- the attack was more than enough to make her flinch and lose control of the barrier.
-"Good work, my furniture!!!"
-Beato shot through the scattered, red fragments of the barrier,
- ......and she was finally right in front of the bride, her rival, Erika......
-However, there stood the final shield protecting Erika.
-......Death Sentence Dlanor!!
-".........You are {f:5:late}.
- ......Time is already up, Lady {f:5:Beatrice}!!"
-"Chiester17, data link to all Chiesters.
- Incoming data from Archangel Satellites. Homing format: verdict‐model conceptual guidance."
-"Chiester20, reactivation complete."
-"Chiester127, reactivation complete."
-"Nihhihihihihi... Time\'s up nyeh.
- Nihhyahahaha!!
- Stop that,
- nooo{-}o{-}o{-}o{-}o{-}o{-}o{-}oooo!!"
-".........Riiche,
- ......good luck..."
-".....................Be...
-......a...
-......to......"
-"......Keh, ......D‐Dlanor...!!"
-"Back off, Dlanor A. Knox.
- This is not your fight."
-"......I have received a red truth denying you from Lady {f:5:Bernkastel}.
- ......I am afraid that this will become your {f:5:grave}...!"
-I don\'t know what {f:5:Bernkastel} has allowed her to say.
-{n}However, I don\'t need to sit around and let that longsword tell me.
-"I\'ll play with you all you want later.
- But for now, back off!"
-There\'s no time.
- The Chiesters have already finished reactivating.
-{n}I\'m only living on a bit of borrowed time.
-"You will be the one to {f:5:retreat}...!!
- You are the pitiable actor who has chosen the wrong time to appear on {f:5:stage}!!"
-Dlanor\'s red longsword cut a large arc of absolute denial,
- ......which headed right for the crown of Beato\'s head.
-However, in that instant, there was a thunk, and the sword was knocked slightly off course.
-Beato didn\'t let this good fortune go to waste.
-She slipped past the longsword,
- ......knocked Dlanor aside,
- ......and finally stood right in front of Erika...!
-This time, not a single person stood in her way!
-"Uuu...guh...
- ......This is......
-{f:5:popcorn}???
- Wh‐where did this come {f:5:from}......?"
-"For your attention: Urgent request from the bride\'s security detail!!
- Chiester Sisters Imperial Guards, fire at the intruder immediately!!"
-The commotion...quieted......
-......However,
- ...no one...
-fired.
-......Why...?
-They could have fired if they wanted to.
-All of the Chiester troops had her fully in their sights and had removed their safeties.
-Of course, all of them had finished reactivating.
-......However,
- ......they hesitated to pull the trigger.
-"Wh‐why are you not firing?!
- Ceremony guards, immediately—"
-"......W‐......{f:5:wait}.
- ......L‐......look at {f:5:that}......"
-Dlanor\'s expression grew grim.
-......Then, she quietly...put her red longsword away...
-After all, ......Erika would have to make a decision.
-If she decided to ignore the thing in front of her, they could shoot to kill.
-However, if she picked it up, ......doing so would be unforgivable.
-So, they couldn\'t pull the trigger until Erika decided...
-"......Why won\'t anyone shoot...?"
-"Look closely.
- ......See what Beato just threw at Erika?"
-{f:5:Lambdadelta} pointed, still chomping down popcorn.
-......It was hard to see from the balcony.
-Beato had thrown something like a white handkerchief at Erika.
-It had fallen to Erika\'s feet.
-......What was that white thing...?
-"......She really knows, that girl.
- She knows what it means to be the main character."
-"How...
-.........interesting......"
-".............................."
-The thing that had hit Erika in the face and fallen to the floor,
- the item Beato had gotten from Ronove,
- ......was a white glove.
-Hitting someone with a glove like that could only mean one thing.
-That was.........
-"Ooh, Zepar! What\'s this?!
- What does it mean?!"
-"This is...
-...a request for a duel!!
- If she picks up the glove, it means she\'s accepted!"
-"But if she doesn\'t, the Chiesters will do the dirty work for her!
- Why, there\'s no need to pick it up at all!"
-"She can choose not to.
- ......However, I imagine that we and all the demons present would spread the word far and wide that she dishonorably ran away from a duel...!!"
-""She would be known for eternity as a coward who ran away from a duel of love!!!""
-{f:5:Beatrice} waited firmly and composedly.
-If Erika just kicked it away...
-......then, that very instant,
- ...the Chiesters would probably all fire at once, turning her into golden embroidery.
-So, Erika did not have to pick it up.
-However, ......she could not afford to be afraid of picking it up.
-After all, ......she was the true victor, who had defeated Battler\'s locked‐room trick and logic.
-If she was the victor, she should have nothing to fear.
-So, ......if she was afraid of doing it,
- ......it would prove that she still felt a tinge of doubt about her victory......
-"...............If I don\'t pick it up,
- I can kill you without getting these clothes dirty."
-"That would probably liven up your reception.
- ......However, you will pick it up."
-"Oh?
- .........And why is that...?"
-"......I have brought a wonderful wedding gift just perfect for you.
- ......You will want to know what that is.
- ......Therefore, you\'ll pick it up."
-"Not interested. Goodbye."
-"......You will pick it up.
- ......For the locked room I have brought you...
-.....is one to put Battler\'s guest room to shame—
-a locked room that is simple, basic,
- ......and absolutely unsolvable.
- ......And you will want to hear about it."
-"............An absolutely...
-unsolvable...
-......locked room............?"
-"......I know that you desire to accept my challenge.
- .........I know that because—"
-"................................."
-"You are—"
-{a:c:
-A detective.}
-Erika threw off her wedding dress as though it was a cape......
-Yes.
- Though she was a bride, a piece, and a witch...
-Before any of those, first and foremost—
-"I am...a detective.
- .........I acknowledge you as my opponent.
- However, ...are you qualified to participate in this game?
- You {i:have} managed to fix the logic error, I assume...?"
-"If you pick that glove up,
- I will prove that I have fixed it in my fight against you."
-"...................................."
-"..........................."
-"<Good>!!"
-Ohhhhhhhh!!
-The cathedral filled with noise.
- ......Erika...had picked up the glove.
-A duel! A duel!!
-The cathedral was wrapped in a bizarre excitement.
-At Erika\'s nod, Dlanor pushed the crowd away, leaving the pair alone.
-......People were permitted to witness this duel.
-However, no one would be allowed to hinder it in any way...!
-"....................................uuughhh......"
-"......It\'s alright, Battler‐san.
- ......I\'ve already found a way to save you."
-"H‐
-.........how...
-...did...
-....you......?"
-"I\'m going to save you now.
- Please endure just a little longer..."
-Beato\'s resolute expression returned, and she grinned boldly, looking down on Erika.
-Yes, there could be no doubt.
- ...This was the expression worn only by the Golden Witch,
- ......the majestic presence of the master of locked rooms.
-A shadow dashed through the stormy rose garden.
-{n}It was incredibly light and swift.
-The raindrops never touched him, he made no splashes in the countless puddles, his feet left no tracks in the mud.
-That rushing figure.........was Kanon...
-Then, he ran up the stairs...
-...to the entrance of the mansion.
-He did not slow down in the slightest to open the door.
-......He ran straight at it as though trying to break through......and leapt into it...!
-Though the door was shut, even that couldn\'t stop Kanon.
-He slipped through the door, fell into the entranceway, and slowly stood up.
-His body wasn\'t even wet.
-......And, ......as he recalled those nostalgic days spent serving the Ushiromiya family, which would never come again,
- ......he ran once more.
-He was heading for Battler\'s guest room.
-He ran past the servant room,
- through the entrance hall,
- and past the door to the parlor.
-Then, the doors to the kitchen and the dining hall came into sight...
-All of it brings back fond memories.
-......There was the honor and discipline of serving Kinzo directly.
-However, that man wasn\'t strict all the time.
-......When the family was out of sight and he didn\'t have to preserve that air of majesty,
- his face could turn unbelievably childish, and he would sometimes ask me to take part in strange pranks.
-.........The Master let me shoot lots of guns, didn\'t he...
-...That......was pretty fun.
-Krauss‐sama was actually surprisingly kind.
-He must have gotten the impression that the Master bullied me a lot.
-Whenever I was the only one around, he would talk to me in a very familiar way, almost as if he was a classmate of mine.
-......I sort of regret that I held back and never did anything but nod in return...
-Madam was a really strict person...
-......Ever since a rumor spread about her being strict on female servants but soft towards male servants,
- I get the feeling she viewed me as an enemy.
-However, she was also a woman to be pitied.
-......On many occasions when she was alone, I saw her shoulders sagging from her burdens.
-There were a lot of servants, weren\'t there...
-{n}......Some lasted a short while, others longer.
-Genji‐sama is the one person fit to be called my father.
-......I am both grateful and resentful towards him over many things.
-......Over time, all those feelings mixed together, cancelled out, and left me with a neutral emotion.
-In that case, Kumasawa‐san could probably be called my mother.
-......She\'s helped me out so many times.
-I always wanted to repay her someday,
- ......and now I\'ve lost that chance for all time.
-Shannon...
-......is my big sister.
-Without her, I wouldn\'t have been able to be me.
-Thanks for teaching me that the ocean is blue......
-......Gohda?
- .........I hate that guy.
-Still, when I complimented his servant stew,
- he would sometimes turn red and tell me there was enough for seconds.
- ......I didn\'t dislike that part of him.
-I wonder why such strong memories popped up in the short time it took me to ran past the dining hall...
-And then,
- ......my memories of Jessica.
-......Ooh.
- ......S‐so you\'re a boy servant...
-{n}......How......old are you...?
-I think those were the first words she spoke to me.
-......Come to think about it, she was probably interested in me ever since then.
-We really did......have enough time to build up a love that could have competed with the love between George‐sama and Shannon.
-But since I could only see the gray sea, I wasted almost all of that time.
-What does she like about me?
-{n}What do I like about her?
-I get the feeling we were never really able to clarify that for ourselves.
-......No, she told me.
-There\'s nothing wrong with spending more time together to eventually find that out.
-......The reasons for love could have come later on.
-......It took me...
-far too long...
-to realize that.
-.........Now, I think I can accept it.
-I know why Shannon won the duel.
-God must have been watching.
-You had so much more courage than I did, and God didn\'t abandon you......
-I reached the hallway with the guest rooms.
-{n}......There was someone lying on the ground.
-It was Battler.
- ......He was lying just outside the guest room, a chain tied to his neck.
-......He had probably struggled to do something with the chain lock from the outside until he lost consciousness...
-His fingernails on both hands had been torn off, and they were stained with blood.
-......I could tell at a glance just how hard he had tried until the final moment when his heart had died.
-The collar binding him wouldn\'t disappear unless the chain lock was set.
-"......Battler‐sama...
- .........It\'s alright.
- ...I\'m going to save you now......"
-".................................ah..."
-Battler responded faintly.
-He\'d probably never imagined that help would come to this eternal locked room.
-......He was so scared that this might be an auditory hallucination brought about by his fleeting delusions...
-...that he couldn\'t be easily roused...
-Kanon grabbed Battler from behind and dragged him into the room...
-The inside of the room......was terrible.
-The windows had been brutally shattered, and the wind and rain had made its way into the room.
-All kinds of tools and furniture lay broken there.
-However, Battler hadn\'t smashed them out of rage.
-The curtain had been removed and torn to shreds which had been twisted together.
-......He had turned it into a rope,
- probably while experimenting to see if he could use it for some trick.
-He had tried using everything in the room, exploring all possible options of escape.
-The traces could be seen throughout the room, and even in the bathroom.
-......The empty bathtub was stained with just a bit of blood,
- ......and the nippers lay there on the bottom.
-To protect this tale,
- ......he had nearly been prepared...
-......to accept {f:5:Bernkastel}\'s brutal method of escape...
-and cut himself into pieces...
-...while washing himself down the drain.
-He was even willing to tear apart his own body.
-.........To protect the game Beato had entrusted him with,
- ......he had probably questioned himself over and over in this bathtub, wondering if there was any other way out.
-......By the clock of the game world, not even a single day had passed.
-......However, just how many years had that lasted in the locked room of the logic error?
-When faced with an endless span of time, any way of ending it, no matter how cruel, is tempting.
-.........However, he had rejected that until the very end.
-And...
-...even in the last moment when his heart had died,
- ......he had wanted so much to show his iron will to escape from this locked room...
-.........that he had chosen to fall here in the corridor,
- ......with the chain still around his neck...
-".........Battler‐sama.
- ......It\'s Kanon.
- ......Please, come to your senses..."
-He wiped Battler\'s face with a towel wetted in the sink.
-In response to that cold sensation, Battler\'s heart slowly started beating again...
-"............Ah...
- .........
- .........K‐
-............Kanon‐kun,
- ......is that you...?"
-"Yes, it\'s me, Kanon.
- ......You did well...
-......to endure until today."
-"Heh...heheh......
- ......Looks like...
- I slept in...
-...just a little too...
-...much......"
-Battler realized that the feel of the towel on his neck meant that the cursed collar and chain were gone.
-"There\'s no longer anything binding you here.
- ......Come on.
- Please, head back quickly."
-".........B‐
-......but...
-...if I unset that chain lock,
- ......that chain will come back..."
-"Don\'t worry.
- No longer does any chain exist to bind you, Battler‐sama.
- ......I will remain here."
-"What......did you say......?"
-By now, Battler knew the terror of this eternal locked room better than anyone else.
-So, his happiness at being able to leave was overwhelmed by his shock at the determination of this room\'s new prisoner...
-"I will be fine.
- There is no need to worry."
-"......B‐
-......but......"
-"Battler‐sama, isn\'t there still something you have to do...?"
-".........I...
-...I......"
-"Go back, quickly.
- ......There is someone fighting in your place.
- And there is someone awaiting your return.
- .........Will you do it again?
- ......Not come back?"
-His stern words and gaze......shot straight through Battler.
-"......Are......you sure?"
-"Yes.
- ......That will be fine.
- This way, I can repay my debt from back then."
-"......Debt?
- Do you owe me something?"
-"It isn\'t a debt I have with you, Battler‐sama.
- ......It\'s okay, so go.
- I don\'t like keeping debts.
- .........Go, quickly.
- ...You must not keep her waiting this time.
- ......So, quickly."
-Battler couldn\'t argue back anymore.
-He silently bowed his head, ......unset the chain, and opened the door.
-Kanon had remained in the room, so no chain appeared about Battler\'s neck.
-......He could leave this locked room just by running out...
-The happy‐sounding voices that he had heard at the far end of the corridor...
-...had been replaced with an excited chatter.
-There must have been some sort of strange disturbance going on.
-As Kanon went out into the corridor to see me off,
- ......the merciless collar and chain had already captured their new prisoner.
-He would remain inside this eternal locked room......in Battler\'s place......
-".........Kanon‐kun.
- I feel the same."
-"About what?"
-"I......don\'t like keeping debts.
- ......I\'ll definitely repay you.
- And I\'ll do it soon."
-"......I hope I can count on that...
- Go on. Run.
- ......Run to the one you love.
- And please, never get lost again...!!"
-Battler would not turn around any longer.
- He ran with everything he had.
-He ran out into the corridor, whose warmth he had cursed so many times.
-{n}That cursed chain no longer bound him.
-He ran to the end of the corridor and beyond,
- ......beyond the light......
-Kanon, still connected to the chain,
- .........watched him go, then quietly returned to the guest room.
-Now, he only had to worry about his own job.
-Stay in this room...
-...and fix the error in logic.
-".........Now,
- ......I set the chain lock..."
-As soon as he set it, the chain disappeared from his neck.
-......Now, if he hid in the closet, the one place Erika hadn\'t checked...
-.........the broken logic would be fixed...
-The closet door opened slowly.
-It was well‐oiled, and opened without a sound.
-......It was cramped inside, and dark.
-This tiny space......is the final place for me.
-{n}As long as I remain hidden in here, the logic will be preserved.
-".........That\'s an easy job.
- ......Easier than caring for the roses."
-Kanon entered the closet......and closed the double doors from the inside.
-......As soon as he did,
- ......a small gold butterfly appeared,
- ......melted into the darkness of the closet, and vanished.
-It must have been a sign that the logic had been fixed.
-The witch\'s game had already stopped, and the clock of the world of the pieces would never tick again.
-So, for all eternity,
- ......no one...
-would come to save him from this place.
-"That\'s okay.
- .........This way, ......I\'ve paid back my debt.
- {f:5:Beatrice}."
-The power of the gold butterfly brooch taught me about love.
-{n}In the third game, it gave me some quiet time alone with Jessica.
-......I get the feeling it did many other small things for me.
-{n}At any rate, ......now I\'ve paid back all of my debts.
-{n}I owe nothing to anyone, and no one owes anything to me.
-.........That music tape Jessica lent me.
- ......I never gave that back, did I...
-That\'s okay, isn\'t it, Jessica......?
-I liked that one.
-Can I keep it as a present...?
-......No, but you\'ll make a copy for me...?
-Ha......hahahahahaha......
- .....................
- .........
-Slowly,
- ......Kanon\'s body began to melt...
-...into a cloud of gold butterflies......
-And, ......after the inside of the cramped, dark closet glittered like a golden planetarium,
- ......it faded away like the light of fireflies,
- ......and was painted over with a pitch blackness.
-...............For all eternity.........
-In the cathedral, the goat attendees.........were all jostling around either side of the red carpet.
-On the red carpet,
- .........standing across from each other,
- ......were Beato and Erika.
-In their hands......were the dueling pistols given to them by Zepar and Furfur.
-"Flintlocks, are they?
- How old‐fashioned."
-"Pay it no mind.
- Demons are very particular about style."
-Its form was similar to an actual old‐fashioned gun, but this was, of course, a demon\'s gun.
-This wasn\'t a gun that would propel a lead bullet with an explosion caused by gunpowder.
-......Like the pistols used in the duel between Shannon and Kanon, whose bullets had contained a magic that would always kill,
- these pistols also had bullets that were not made of lead...
-"......Beato......"
-"There\'s no need to worry.
- She\'ll win easily, and you\'ll have to deal with her insults again, Lia."
-"When this match is over, we should ask to be paid every now and then.
- ......When the fight is finished with, I would like to take a trip down to the Caribbean sometime."
-"Enough talk about "when the fight is over"...
- That\'s an ill omen before a duel."
-"Beato! Take this seriously!!
- This is no time to be standing around laughing!"
-"Why is Riiche relaxed and Lia tense? You two..."
-"All together...!"
-"""{f:5:Beatrice}‐sama, you can do it!!"""
-"......{f:5:Beatrice}‐sama is at a disadvantage in this duel."
-"Why...?!"
-"......Normally, a witch can put up a fight by piling mystery upon mystery.
- However, since the game has been suspended, she has nothing on her side except the mystery of Battler‐sama\'s guest room."
-"If Erika can just strike a blue wedge through that one mystery, it\'ll mean that she\'s solved everything!!"
-"We can win.
- ......I believe in {f:5:Beatrice}‐sama...
-...and Battler‐sama,
- ......our two masters...!"
-"......Did you call {f:5:me}?"
-"Thanks."
-"......?"
-"For once,
- ......it feels as though our chances for winning are fifty‐fifty.
- So I\'d like to thank you beforehand."
-"It is simply my {f:5:job}.
- There is no need to thank {f:5:me}."
-"...........................
- ......In the last game,
- ......when you protected me after my pathetic defeat,
- ......I was touched."
-"That was the first time in my life that anyone had ever protected me.
- ......Even my master has never done so.
- All she gave me was a way to negate the pain of naked truth by laying bare the truths of others...
-and causing them just as much pain."
-".....................
- ......Please, forgive my {f:5:arrogance}.
- ......I felt that I needed to protect {f:5:you}.
- ......As soon as I realized what fragile truth you live by,
- and how much it has been violently abused by fiction that sounds more plausible,
- ......I wanted to protect {f:5:you}."
-"Thank you.
- .........Our time together was short, but you were a wonderful partner."
-"And I will remain {f:5:so}."
-"......You\'re right.
- Once we\'ve defeated her, let\'s make tons of mysteries on this island together.
- I\'ll have you solve them, and tease you as we play.
- ......How does that sound?"
-"......It sounds {f:5:interesting}.
- I am looking forward to your {f:5:challenge}."
-"Ah, no, sorry.
- I take that back.
- ......That\'d be one of those loser flags, wouldn\'t it?"
-"Pft—"
-""*giggle*giggle*giggle*, ahahahahaha.""
-""Now, are you ready, duelists?!!""
-When the two demons clapped their hands, the duelists instantly returned to their bold, tense smiles.
-"The bullets to be loaded into those magic guns are not lead!"
-"A shootout between mystery and fantasy should be fought with bullets of red and blue truth!!"
-"As long as you possess truth, your bullets are endless!"
-"However, being hit by a single one means instant death!"
-""Are you both prepared?!""
-"Naturally."
-"Of course."
-""Lady {f:5:Lambdadelta}, the great and powerful Witch of Certainty and member of the glorious Senate!!
- Please come forward!!
- Will you swear to oversee this duel?!!""
-"Of course.
- I swear it."
-The crowd split, and {f:5:Lambdadelta} walked forward with {f:5:Bernkastel} by her side.
-She looked between the faces of the two duelists.
-Then, ......she took out an envelope with the seal of the One‐winged Eagle...and lifted it high.
-"{f:5:Beatrice} has sent me her revisions to the tale inside a sealed envelope.
- I have inspected it and find its contents to be valid.
- I declare the logic error averted!!
- The chain lock is still set!
- And without any contradictions with any red truth made up to this point!"
-*chatter*chatter*chatter*...!!
-......The many goat attendees knew the details of Battler\'s locked room.
-They realized how difficult it was.
-And, though fiery debates had swept across the crowd during the reception,
- no one had been able to find an answer.
-And now......it was clear that {f:5:Beatrice} had already reached one.
-"Therefore, this duel is legitimate.
- It will center around one, single point.
- The locked room of Battler\'s guest room!
- Ushiromiya Battler disappeared from within a locked room sealed by a chain lock!"
-"Erika will load her weapon with blue truth regarding this matter.
- {f:5:Beatrice} will load hers with red truth to counter back.
- ......The duel will continue until one side is victorious!!"
-"Splendid."
-"Perfect."
-"OK.
- Well then, Beato.
- Present your new, revised tale and riddle to Erika."
-"The cousins\' room was also a locked room.
- Kanon used magic to escape from there without breaking the seals.
- He then arrived at Battler\'s locked room and used magic to allow Battler to escape."
-".........Hmph,
- what a foolish tale."
-"Good.
- Erika, is there anything you wish to confirm?"
-"Repetition requested.
- "The one who rescued Battler was, without a doubt, Kanon.""
-"Very well.
- {p:1:The one who rescued Battler was, without a doubt, Kanon}."
-"Repetition requested.
- "Battler and Kanon are different people.""
-"Very well.
- {p:1:Battler and Kanon are different people}."
-"......Hmph.
- That\'s enough."
-"Erika, are you done confirming things?"
-"That was all I needed.
- I\'ve already decided how to fight."
-"OK!
- Let both sides load their bullets...!!"
-Erika turned around, pressed her finger against the barrel of the pistol,
- ......made her blue truth into a bullet, and pushed it in.
-There was no rule saying that she had to turn away, but she didn\'t want her expression to be read.
-......Or, it might have been because she couldn\'t stand the tension of looking at Beato\'s bold smile.
-Beato had already finished loading her red truth.
-She waited for Erika to finish while calmly puffing on her pipe.
-Then, ......she looked at Battler, who sat on the throne of the territory lord, right next to the two witches who sat as witnesses to this duel.
-.........Battler\'s consciousness was still hazy.
-However, he apparently understood that Beato had come to duel for his sake, so that he could be saved.
-It was all he could do to just look at Beato with those sluggish eyes,
- ......but a flood of emotions passed between them.
-......There was no need for words.
-{n}A look was enough for them now.
-Erika closed her eyes tightly, .........her finger still up against the barrel.
-At that moment, her stunning powers of concentration made all the distractions of the outside world disappear.
-......<Good>.
-My concentration is as sharp as ever.
-Are you ready, me? Furudo...Erika.
-First, let\'s lay out the situation.
-Battler disappeared from that locked room.
-{n}The chain lock is set.
-Did he disappear by magic?
- Of course not!
- There has to be a trick!
-Kanon didn\'t save him with magic.
-He just came, took Battler\'s place, and set the chain.
-......Everyone knows that much!
-The problem is what comes next.
- No, it\'s actually what comes before.
-Kanon was in the cousins\' room in the guesthouse.
-That room was completely sealed with duct tape, and it has been proven that the seal was in effect until the time of the logic error.
-In other words, Kanon escaped from a locked room that was absolute, with no excuses or twisted logic possible.
-<Good>!
- This is why she called it a simple yet ultimate locked room.
-.........How did he escape from the perfect locked room known as the cousins\' room?
-Heheh.
- If I fixated on that question, I\'d be no better than your average kid detective.
-......That room is a perfect locked room, so {i:there is no way to escape}.
-In other words, trying to think of ways that Kanon could have escaped from the cousins\' room is simply a waste of time!
-The real question......is how Kanon...
-could have been somewhere other than the cousins\' room at the time it was sealed.
-The cousins\' room is a completely sealed can.
-{n}If he was in there when it was sealed, then it\'s already game over.
-That means, ......he was already outside it at the time it was sealed!
-I checked everyone\'s location at the time of sealing the rooms.
-{n}That check I performed must be suspect.
-At that time, I had just been inside the next room over...
-and confirmed the presence of five people there with my own eyes.
-Hideyoshi,
- George,
- Kumasawa,
- Shannon,
- Nanjo.
-......I specifically listed the names of those five people when performing the location check for that room and received confirmation that they were in there.
-Then, I checked to see whether "everyone else" was in the cousins\' room...and had that confirmed for me as well.
-I said "everyone", so whether he was Kanon or Yoshiya or even Purupurupiko‐Man,
- they all should have been sealed in the cousins\' room.
-It seems perfect.
-However, though that word "everyone" seems perfect,
- ......something\'s fishy!
-The exact definition of that phrase "everyone else"...
-is "all people whose names I did not mention directly".
-In other words, there are exceptions!
-For example,
- ......it\'s been confirmed that Hideyoshi and George were in the next room over.
-So, humans with the name Hideyoshi or George...
-{i:don\'t need to be inside the cousins\' room}!
-It seems that Kanon told Jessica that his real name was Yoshiya,
- ......but that was no red truth.
-In other words, .........what if Kanon\'s real name is the same as one of those in the next room over?!
-They seem to be about the same age, so let\'s use George.
-So, what if there were two Georges in that room?!
-That doesn\'t violate the red truth saying that...
-Hideyoshi, George, Kumasawa, Shannon, and Nanjo are in the next room over.
-Let\'s say that Kanon\'s real name was Tanaka George.
-Both Ushiromiya George and Tanaka George could exist in that room at the same time!
-In other words, ......there were six humans with five names!
-It looked to my eyes as though there were only five people in the next room over, but a sixth person, Kanon, was hiding somewhere.
-I don\'t have the detective\'s authority, so it wouldn\'t be that difficult for him to fool my eyes and hide.
-I see, the double name trick......
-{n}Stupid, so stupid...!!
-Alright, I\'ve made my logic!!
-Kanon, who was hiding in the next room over, not the cousins\' room, left by the window after the seals were placed—
-Bang!!
-"Ah, ......owww......"
-There was an explosion at the barrel of her gun, staining the tip of her finger red with blood.
-{n}The blue truth gunpowder had exploded.
-......Ah,
- ......dammit......
-......I...
-...had Dlanor seal that one...
-...a short while ago......
-I told her to "ban any blue truth arguing about the windows of the next room over",
- so I can\'t use it......!!!
-"......Oh, an accidental discharge?
- Careful now, guns can be dangerous.
- *cackle*cackle*cackle*."
-"Sh‐shut up!!
- It\'s just a little mistake...!!"
-"............The windows of the next room over.
- You blocked them off with some inane trick, I hear. Gaap told me."
-"D‐......did she, now?
- And so what if I did?!"
-"Dlanor. Remove that foolish seal.
- *cackle*cackle*, that seal is now your shackle."
-Beato has figured out everything I\'ve been thinking.
-And she\'s acting so confident, telling me to go ahead and use that argument...!
-"......Lady {f:5:Erika}."
-"P‐......please remove it.
- ......That fool,
- ...I\'ll make her regret this...!!"
-""It seems you are ready, duelists!!
- Please face each other with your pistols.""
-""Then fire with the sparks of truth!!""
-After facing away and readying herself one last time, Erika spun around.
-Beato had been facing her since the beginning.
- She had a confident, challenging smile, as if she\'d been kept waiting.
-Then, without any signal, the two slowly raised their guns...
-...pointing the red and blue glints that hid within their barrels at each other.
-"Come. I could do with a little fun."
-"......Begin!!!"
-"First is how Kanon escaped from the cousins\' room.
- ......I\'ll use that as my bullet!"
-"Hoh, so you\'ll start from there.
- ......Let\'s have it.
- Hold nothing back!"
-"Here I go!!"
-After holding the gun high and pointing it at Beato once more,
- Erika pulled the trigger with statements of red and blue truth.
-"{p:1:The cousins\' room is guaranteed to be a perfect locked room until the end}.
- {p:2:So, if Kanon really had been in that room, it would have been impossible for him to escape!
- In other words, Kanon was not in the cousins\' room at the time it was sealed!!
- Kanon\'s name is an alias.
- His real name is still unknown!
- If his name happened to be the same as anyone in the next room over, that wouldn\'t contradict the check on who was in that room.
- In other words, it\'s possible for him to be in the next room over, not the cousins\' room}!!"
-The goat attendees chattered and clapped their hands in realization.
-{n}......As if to say, "Of course! I didn\'t think of that!"
-Ah, I love watching this.
-{n}I love being surrounded by this chatter.
-{n}......After all, ......I am a detective!!
-"{p:1:It is true that the next room over was sealed,
- but at the time of the logic error, only the doors were checked to see whether the seals were preserved}.
- {p:2:Therefore, there is a chance that the window seals were broken.
- Kanon was in the next room over, and he escaped through that window}...!!
- That is all!!!"
-Any other theory would be impossible!!
-If this doesn\'t work,
- ......then there\'s no truth left!!
-As soon as she said "that is all", both of them fired at the same time.
-......After the blast rang out,
- ......it was Erika\'s gun that fell to the floor...
-Beato\'s red bullet had knocked Erika\'s gun from her hands.
-Was it......arrogance, or confidence?
-If she had just aimed that bullet at Erika\'s heart, the whole thing would have been over...
-Beato had missed on purpose.
-There was a confident smile on her face.
-{n}It was as though she was offering to play with Erika a little longer.
-......In fact, that was Beato through and through.
-{f:5:Beatrice}, the witch who mocks others with unsolvable locked room tricks...!
-"{p:1:At the time the next room over was sealed,
- Hideyoshi, George, Kumasawa, Shannon, and Nanjo were in it.
- And the number of people in the next room over was five.
- No one existed there except for those to whom those five names refer!
- Every name has just one person that it belongs to, and no one can go by a name that is not theirs}!!"
-"............uu...
-...gkk...
-...
-............!!"
-It was a thoroughly merciless red truth...
- It really was...severe......
-Now that it had been limited to five people, any leeway for Kanon hiding there had been completely denied.
-Since only those to whom those five names referred existed within the room,
- Erika couldn\'t even make a new theory by suggesting that one person held two names, so that the five names referred to only four people,
- and allowing for Kanon to sneak in even though his name wasn\'t on the list.
-Furthermore, the part about how "every name has just one person that it belongs to, and no one can go by a name that is not theirs" was a fatal blow that cut down countless theories...!
-"......Come to think of it, you only know the half‐sleeping me from the last game, don\'t you...?
- What do you think, Erikaaa?
- ......How do you like the game of the Golden Wiiiiiiiiiitch...???"
-"That\'s insane...
- ......A‐......are you saying...
-......that Kanon slipped out of the room by magic......?!
- Ghh, ......gkk......
- ......M‐more importantly,
- why did you only knock my gun away...?!!"
-"The human side must crush all of the witch\'s riddles, whereas the witch side need only crush the human\'s theories once.
- ......Don\'t you find that unfair?
- So, I decided to have it be even."
-"......E‐......eveeeeeeeen......?"
-"I\'ve decided that I\'ll make my victory condition be the destruction of all of your theories.
- ......I\'ve won the riddle of Kanon\'s escape, but there\'s one more!
- Let\'s return to the first battleground, where you gave Battler so much trouble!!"
-When Beato snapped her fingers, that guest room of Battler\'s was reconstructed.
-She meant to fight once more in the room that had threatened Battler with a logic error, determined to settle things once and for all.
-"Erika, pick up your gun.
- ......We\'ll have this room be your coffin!"
-".........I say the same to you!!
- I\'ll make you regret...
-...ever giving me this chance!!"
-"Witness.
- I permit Erika to use X."
-"......X?
- A basis which doesn\'t need to be explained?
- So, what are you going to let her do?"
-"I relieve Erika of her obligation to explain how Kanon escaped from his locked room...
-and permit her to involve him in blue truths concerning this "guest room trick" without explanation."
-If a theory for explaining how Kanon saved Battler...
-did not also explain how Kanon escaped from his own locked room, it would have no basis.
-Erika had already lost that basis.
-......Beato was giving her a handicap by saying that she didn\'t need to explain that part.
-"N‐......naturally!!
- You\'ve already used the red truth to guarantee that Kanon saved Battler!
- It\'s only natural that I be given this privilege...!"
-Erika faced away again and concentrated even harder...!
-As though twisting the knob on a radio, she turned all noise and idle thoughts down to zero.
-Let\'s go, Furudo Erika.
-Detective, Furudo Erika!
-As long as Kanon reaches this place, rescuing Battler isn\'t hard.
-The trick is as follows.
-Kanon used some kind of escape trick X to reach the front of the guest room.
-While I was busy in the bathroom, ......Battler left the closet.
-Battler undid the chain lock.
-Battler went outside.
-Kanon entered in his place.
-Kanon set the chain lock.
-Kanon went into the closet. The end!
-......This satisfies the two red truths about the chain lock being set and Battler\'s absence.
-And, in exchange for this escape trick, Kanon remains inside the guest room.
-......There\'s no room for argument on how tightly this room can act as a locked room.
-That chain is cursed.
-In this demonic locked room, one person must remain as a sacrifice for it to be acceptable.
-......However, is such a simple theory really enough......?
-The rescuer switched places with him.
-And the rescuer is hiding in the closet.
-No other sort of theory is possible.
-{n}And yet, Beato thinks she can win.
-{n}In that case, ......does some other trick exist...?
-It\'s impossible!
-I swear on the history of the mystery genre that there\'s absolutely, definitely,
- categorically no other way!!
-But I\'d never be able to call myself a detective if I gave in here!!
-Consider, imagine, don\'t stop thinking...
- That\'s how you drive blue wedges into witches!!
-......One thing I can think of......yes.
-A wordplay trick!
-It can only be some kind of "wordplay"...
-...that just barely slips through the net of words spoken in red...!
-In that case, I\'ll crush all possibilities!
-{n}I\'ll crush them all with repetition requests!!
-This final duel......has already begun, even though we haven\'t pulled our triggers yet...!!
-"Repetition requested.
- "At the time Battler was rescued, only Kanon entered the guest room.""
-"I acknowledge it.
- {p:1:At the time Battler was rescued, only Kanon entered the guest room}.
- I believe that was the whole point..."
-"Repetition requested.
- "From the time I entered the room to the time of the logic error, Battler, Kanon, and I were the only ones who entered or exited the room.""
-"{p:1:I acknowledge it.
- From the time you entered the room to the time of the logic error, you, Battler, and Kanon were the only ones who went in or out of the guest room}."
-"Repetition requested.
- "This refers to three people.""
-"{p:1:I acknowledge it.
- It refers to three people: you, Battler, and Kanon}."
-"Confirming definition.
- Can I accept "three people" to mean the number of bodies?
- You\'re saying that three bodies went in or out of the room, right?"
-I\'ve had enough of things being mixed about with names and numbers of people.
-{n}I want this point to be clear...!
-"{p:1:Of course.
- Three people—in other words, three bodies—went in or out.
- Only you and Kanon entered, and only Battler left.
- It has already been said in red that every name has just one person that it belongs to, and no one can go by a name that is not theirs.
- Therefore, for each of the names "Erika", "Battler", and "Kanon", only that single person can go by that name}."
-"Repetition requested.
- "I am not the rescuer.""
-"{p:1:Of course}!
- You are the detective, are you not?
- Worry not, I will respect that!"
-"Confirming definition.
- How do you define "rescuer"?"
-This is also important.
-{n}I want to immediately remove the possibility that I rescued him accidentally.
-"{p:1:A "rescuer" means someone who reset the chain lock after Battler undid it.
- It does not matter whether they intended to save Battler or not}."
-Since she said "after Battler undid the chain lock", it\'s impossible for this to have occurred before I set foot in the room.
-After that point in time, I would not undo the chain "for all eternity".
-After all, the game was suspended at that point.
-Therefore, it\'s impossible for me to have been the rescuer accidentally.
-More, I can boil it down even more......
-The chain can only be set from the inside.
-{n}It\'s impossible for a person to escape on their own.
-Therefore, we know that Battler didn\'t escape by himself.
-And I\'m not the rescuer.
-{n}Only Kanon can be the rescuer.
-Plus, Beato has already said that Kanon is the rescuer in the red truth.
-......There\'s nothing to doubt.
-There\'s no room for anyone but Kanon to be involved.
-......At least, so far!
-"Repetition requested.
- "The definition of "going in or out" is "crossing the boundary between the guest room and the area outside it.""
-"{p:1:I acknowledge it}."
-"Repetition requested.
- "The phrase "guest room" includes all of:
- the bedroom,
- the bathroom,
- and the closet.""
-"{p:1:I acknowledge it}.
- I\'ve no intention of wriggling out of this by saying the closet isn\'t part of the guest room."
-"Confirming definition.
- The inside of the guest room is divided into three sections: the bedroom, the bathroom, and the closet."
-"{p:1:I also recognize it as such.
- Furthermore, you have already confirmed with the red truth that two of those sections, the bedroom and the bathroom,
- had no one hiding in them}."
-"Repetition requested.
- "There is someone in the closet.""
-"I decline."
-"Why\'s that?!
- Because Kanon is hiding there?!"
-"Kanon can use magic.
- It\'s true that he hid himself in the closet for a time, but he then immediately vanished with his magic...!
- So, there is no one in the closet!
- I cannot respond!"
-"I request for that to be repeated instead!!"
-"Fool, the witch side has no obligation to explain how they did things with magic!"
-......No, it\'s completely obvious.
-{n}There\'s no way she can say that Kanon disappeared with magic using the red truth!
-After all, magic doesn\'t exist!!
-But......is this......enough?!
-......I\'ve gone through every last minor detail.
-{n}And yet, there\'s an uncanny lack of dubious points.
-I can\'t imagine that there\'s any room for anything to go any differently from the theory I\'ve had since the beginning.
-Kanon must be in the closet.
-He has to be.
- There\'s no way he isn\'t!
-I\'ll say it again!
-This locked room can only be escaped from by switching places with a rescuer.
-If Kanon tried to escape as well, another rescuer would be needed.
-However, no rescuer exists for Kanon!
-Battler "escaped", so it\'s impossible for it to be him.
-{n}And I won\'t undo the chain "for all eternity"!
-The people who have gone in and out of the room have been confirmed both by name and number of people!
-......Which means...
-...my theory...
-...is set in stone.
-First, here are the details of the situation that are certain!
-{p:1:The game ended while I was inside the guest room,
- so I did not undo the chain lock that I had previously set.}
-{p:1:So, it can\'t be that he escaped behind my back after I left the room.}
-{p:1:Furthermore, the chain lock was set at the same time I entered the room.
-{n}No one could have left the room during the few seconds between the time I entered and the time I set the chain lock.}
-{p:1:I sealed the guest room at the time I examined Battler\'s "corpse",
- so until I came again and broke the seals, it was absolutely impossible for anyone to go in or out.}
-{p:1:Therefore, it\'s certain that Battler was hiding somewhere inside the guest room at the time that I entered it.}
-{p:1:The only chance Battler had to escape was after I broke the seals.}
-{p:1:To be even more specific, he had no chance to escape except for the time I was in the bathroom}.
-By the above premises, Battler\'s trick to escape with the chain still set is as follows!
-{p:2:For the aforementioned reasons, the only one who could have set the chain lock, which can only be set from the inside, and allowed Battler\'s escape...
-is Kanon, the only person to enter the room except for me and Battler!}
-{p:2:After Kanon entered the room, he set the chain,
- hid in the one place that he could hide inside the guest room, the closet—}
-.........Ah?!
-Whoa, that was close!!
-They almost got me... They almost tricked me!!
-I thought that I had cornered him in the closet.
-It\'s the opposite!!
-{i:They\'re} trying to make {i:me} think he\'s in the closet!
-What was the order in which I searched the guest room?!
-First, the bedroom.
-{n}We confirmed with the red that there was nothing there.
-Then, the bathroom.
-{n}We confirmed with the red that there was nothing there.
-That\'s it right there!!
-{i:When we examined the bedroom}, there was nothing there.
-However, while I was investigating the bathroom,
- ......Kanon slipped out of the closet,
- and {i:hid again} somewhere in the bedroom!
-In other words, the guarantee that no one was in the bedroom...was torn apart after just one minute...!
-I\'ve spotted it!!
-{n}This is the witch\'s trap, an attempt to lure me into thinking that Kanon\'s in the closet...!
-The place he\'s really hiding......is the bedroom...!!
-"Heh,
- .........*giggle*...
-...*giggle*giggle*giggle*giggle*!!
- ......I\'ve found it...
- ......I\'ve finally found it...
- ......Your...
-trick...!!"
-"...................................."
-That was a close one.
-If I\'d gone and said there was nowhere to hide except inside the closet,
- she\'d have said, "too bad, the closet is empty!"
-Huh? ......N‐no, wait...
-It works the same way in reverse......
-I see, now I get it...
-{n}It\'s an interchangeable logic trick...!
-Damn that Beato... So, in resolving the logic error, she\'s discovered this strange trick!!
-If I only notice the closet, she\'ll have Kanon hide under the bed.
-And if I only notice the bed, she\'ll have Kanon hide in the closet.
-Both are correct, and yet choosing either one means losing.
-{n}I have to expose both at the same time, or it isn\'t checkmate...!
-Incredible......
-{n}I\'ve never heard of such an unfair trick......
-If this was a magician\'s stage trick, it\'d just be a cheap one.
-If it was a mystery, ...it\'d just be cheating......
-However, in this witch\'s game, it\'s a legitimate...
-...“logic trick”...
-In chess, it\'d be called a double check.
-No, a discovered attack.
- ......No no, a discovered double checkmate......?
-Even though this sort of logic would be a foul trick in the mystery genre,
- ......in this world where witches wage war with mystery,
- ............what a...regal position it is......
-The beautiful placement of the black pieces cornering my white king...
-...feels almost like art,
- ......a work of such beauty that if I were a god in the age of myth,
- I might wish to display it in the sky as a constellation......
-That beauty...
-......even brought tears...
-to my eyes......
-......For the first time,
- ......I feel honored...
-...to have been allowed to participate as a human in a game of truth against a witch.
-And, ironically,
- ............it taught me, a person who has always believed that there is only one truth, that truth isn\'t necessarily always singular.
-If I just broaden my perspective, I can see a completely different truth.
-......And though each of those truths are "true", ......both are incorrect if they are all you can see......
-............In my life until now, just how many truths have I turned my eyes away from...
-......because I was blinded by some trivial truth......?
-...............This is...
-......the truth...
-of the world......
-"......Because of our arrogance in thinking that only one truth exists,
- ......whenever we find one truth, we are blinded to all others.
- ............Thank you, {f:5:Beatrice}‐san.
- .........I never thought...
-...that a witch...
-...would be the one to teach me the true nature of this world."
-".............................."
-Slowly,
- ......with a soft and gentle motion,
- like a flower opening...
-...with the morning dew dripping down its side,
- .........Erika raised her gun...
-"I am the victor.
- I\'ve seen through your double check."
-"............Then come."
-"......
-{p:2:‘Battler\'s guest room disappearance trick’ is as follows.
- ......While I searched the room, Battler was hiding in the closet.
- Then, during the disturbance in the bathroom, he unset the chain and escaped from the room.
- At that time, Kanon was waiting for him in the hallway.
- Kanon entered the guest room in his place and set the chain.
- This is the trick to Battler\'s disappearance}."
-"{p:2:......And, afterwards,
- .........he hid in the bedroom.
- This happened after I checked to see that there was no one unexpected in the bedroom, so it is valid.
- In this way, Kanon the rescuer concealed himself in the bedroom}."
-Erika\'s blue bullet flew in a strange arc,
- became a wedge of the blue truth, and pierced straight down through the bed and the floor beneath.
-Beato didn\'t pull her trigger.
-......However, she did quietly argue back with the red truth.
-"{p:1:Kanon does not exist in the bedroom}."
-The goat attendees gasped.
-It had appeared as though Erika had been defeated, denied by the red truth.
-......To goats who can\'t see more than a single truth, it probably looks as though I\'ve lost...
-"Pft, ......*cackle*cackle*cackle*cackle*...
- Next is the real one.
- ......This is the answer from a {y:0:Human}{n:0:human} capable of understanding multiple truths.
- ............It looks like the tale of fantasy will end with the second twilight.
- ......So, why don\'t I carry out the remaining twilights...
-...and open the door to the Golden Land.
- .........If you are to disappear,
- then it should be surrounded by your golden roses...!"
-The fires of blue truth flashed at Erika\'s feet...
-...and she loaded a blue truth bullet once more.
-That overflowing blue power was now making her entire gun burn with a blue flame......
-She wasn\'t aiming for Beato.
- She was aiming behind Beato.
-.........At the closet...!!
-"Now that the bedroom has been denied, you\'ve nowhere left to run!!
- Diii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iiiee, Kanooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oonnn!!"
-The five wedges of blue truth she released grazed Beato\'s cheeks, hair, and shoulders,
- ......then pin‐cushioned the door to the closet,
- to gouge whatever human was inside to death......!
-The five wedges slammed into the door in a vertical line.
- In other words...
-On the fourth twilight, gouge the head and kill.
-{n}On the fifth twilight, gouge the chest and kill.
-{n}On the sixth twilight,
- on the seventh twilight,
- on the eighth twilight...
-{n}Gouge and kill and kill and kill...!!
-......After being gouged by so many thick and sharp wedges,
- ......the human inside wouldn\'t stand a chance......
-".............................."
-"......This is the truth I\'ve exposed.
- ......That is all!"
-When she proclaimed that she had finished, the five blue wedges piercing the closet disappeared.
-However, the many large, splintered holes left behind showed that it had indeed been pierced......
-Then, ......as though this had concluded the ceremony that led to the Golden Land,
- ......the space that was the constructed guest room...became countless golden flower petals and drifted away...
-Now, the duelists and the crowd of attendees......were surrounded by the golden rose garden of the Golden Land......
-However, the closet behind Beato remained.
-......It stood there all by itself,
- like a coffin...
-......Then,
- as though teased open by a desolate wind,
- the hole‐covered closet door...
-......slowly opened......
-Inside...
-.........was a human figure......
-That figure was covered up to the head by what appeared to be a greenish‐gray robe.
-......Of course, that also had large holes showing that it had been stabbed into...
-Eventually, it became clear that this was not a robe, but a raincoat.
-......If he had rushed here from the guesthouse,
- then there would be nothing strange about him wearing this into the guest room...
-......Then,
- ......with...
-......a rustle,
- ......the raincoat...
-...lost its human shape,
- ......crumpled,
- .........became a cloud of gold butterflies,
- ...and disappeared.........
-"............N‐
-............no...
-...way.................."
-Inside the coffin of the closet,
- ......nothing remained except an empty darkness.........
-"{p:1:Kanon does not exist in the guest room.
- .........Of course, this includes all parts of the closet, the bedroom, and the bathroom}."
-"Ah..................
-........................ah..............."
-"Kanon let Battler escape and hid in the closet...
- .........And then, he used magic to disappear.
- ............This is the witch\'s truth.
- .........That is all."
-"Th‐the duel is {f:5:decided}...!! Cease—"
-""And the winner is...
-......{f:5:Beatrice}!!!""
-Oh, ......ooooooooooooooooooooohhhhhh!!
-The attendees let out a cheer.
-{n}{f:5:Virgilia}\'s group couldn\'t help but scream and shout in joy.
-{n}The Seven Sisters jumped about in celebration...!
-Then, at the same moment the two demons proclaimed {f:5:Beatrice}\'s victory,
- the head\'s ring worn by Erika, who was slowly crumpling to the ground, and the cursed ring on Battler\'s finger...both burst.
-At the same time, Battler coughed violently.
-Battler...was starting to regain consciousness...!
-"Battleeeerrrrr!!
- Battler‐saaaaaaan!!!"
-Beato latched onto the coughing Battler in joy.
-{f:5:Virgilia}, Gaap, and Ronove did the same.
-All of the Seven Sisters also crowded about him in delight.
-"......Heh,
- ......heheh,
- ......that\'s a nasty trick...
- You sure something like this counts......?
- With a trick like this one, those {y:0:Human}{n:0:human}s will start complaining again about how this isn\'t mystery......"
-"No, it\'s a splendid trick!
- That just can\'t be {y:1:‘seen’}{n:1:seen} by people without love...!
- ......Battler‐san,
- ........Battler‐san,
- ......waa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aahhh...!!!"
-"Lady {f:5:Erika}, Lady {f:5:Erika}!!
- Someone, help her, {f:5:quickly}!!"
-......The rose of blood in Erika\'s chest wouldn\'t stop opening its petals......
-"......Third degree conceptual denial syndrome.
- ......Use of continuous neutralizer impossible...neutralization only possible by an emergency approval for resurrection.
- ......The piece\'s master must provide approval for resurrection..."
-"L‐Lady {f:5:Bernkastel}, give your approval for her {f:5:resurrection}!!
- ......Lady {f:5:Bernkastel}...?! Wh‐where did she {f:5:go}...?!"
-"Search request to ceremony guards: find Lady {f:5:Bernkastel}...!!"
-"Understood, ma\'am.
- All Chiesters, data link. Search formation...!"
-"......H‐how despicable...
- To think that a master...
-...wouldn\'t watch her piece\'s duel to the end...
- ......Know that it is despicable in the extreme!!!"
-After learning that her master was already nowhere to be seen, Erika, who was being held by Dlanor,
- ......didn\'t feel lonely.
-On the contrary, ......she was relieved that she wouldn\'t need to be brutally scolded in the last moments of her life...
-""Gods and demons,
- tell of her noble passing for generations to come.""
-"......Noble...?
- ......Hah,
- .........the villain is supposed to die pathetically so the star of the show can shine...
- .........Ggh, *cackle*,
- .........ha...haha..."
-I\'m not anyone\'s piece anymore.
-{n}......I can finally...control my own role...!!
-"L‐Lady {f:5:Erika}...!!
- Y‐you mustn\'t {f:5:move}...!!"
-"......Stand back...
- ......BACK OFF!!"
-When Erika yelled with all her soul,
- ......those who surrounded her flinched back and fell on their butts...
-"I am...
-...the Witch of Truth, Furudo {f:5:Erika}......
- ......A Witch of Truth......is a witch......who can withstand the truth.
- ......Now,
- ......I can finally......accept the real truth about myself........."
-The toxin of her own concept being denied raced through her.
-......Her vision was already starting to blur.
-At the other end of her twisted range of vision...
-...were Battler and Beato, hugging each other and looking at her......
-Their expressions are firm.
-......That\'s okay.
-Pity and sympathy would only make me look more pathetic.
-{n}......That sort of expression......is a loser\'s greatest salvation...
-"Lady {f:5:Erika}...!! The duel is already {f:5:over}...!!"
-"It is not over."
-"Until death do them part."
-""We won\'t let anyone disgrace her final moments.""
-The two demons grabbed Dlanor\'s shoulders and held her back...
-Dripping blood,
- ......breathing heavily,
- ...and with an awkward gait,
- ......Erika walked towards Beato and Battler despite it all...
-As the blood dripped from her, it became golden flower petals, which drifted away.
-......So, as she walked,
- ......she looked both divine...
-...and beautiful.
-The duel wouldn\'t end until one of them died.
-So, even though the outcome was clear, ......it wasn\'t over.
-Beato and Battler told the people bunched around them to step back, ......and they both walked forward to face the noble loser...
-".....................Erika..."
-"......Congratulations on your resurrection.
- Seems you have bad luck with women.
- ......You\'ll never get a normal one to like you......"
-".........True.
- ......And I\'d never fall in love with a normal woman."
-"Beato.
- ......No, I ask this of both of you."
-"............You wish for one final clash...?"
-"...................................."
-"............Erika......"
-"......Very well.
- ......We are not so boorish as to refuse your noble request."
-"Thank you."
-As her consciousness began to waver, ......Erika raised her gun again.
- She pointed it at the two of them.
-Beato also......raised her gun to point at Erika.
-Then, Battler placed his hand on hers......
-"It\'s already resolved...
- What more could there be to argue about...?!"
-"......Erika‐sama............"
-"Why...
-...am I...
-...powerless to help you...
-...{f:5:now}......?"
-"......Watch until the end.
- That\'s your job as her friend, isn\'t it...?"
-Both sides silently loaded their bullets of truth without saying a word.
-The color packed into each barrel...was red...
-Though neither side spoke,
- ......did they both know what trump card the other would use......?
-".........With this being the end,
- ......I thought that I should...
-...properly introduce myself......"
-What\'s she saying? This late into the game......
-No one could imagine what red truth Erika had loaded...
-"............Beato.
- ......Are you sure?"
-"........................
- ......Yes.
- I don\'t mind..."
-"......I understand.
- ..........................."
-"Let\'s at least pull the final trigger together."
-"......I know......"
-Battler placed his own hand on top of the finger that Beato had around the trigger.
-"......Battler‐san. ......I\'m glad...I met you."
-"We will...
-be together...
-for all eternity."
-"Ahhah, so you have to flirt right in front of me!!
- This was starting to piss me off anyway.
- ......A teary farewell scene is definitely not for me."
-......If you ask me, a villain\'s gotta wear this face to their very last moments!!
-"......That\'s a nice look.
- ......Married life with you would probably have been fun enough to make me vomit."
-"Of course.
- I would have locked you in a world of such constant back‐arching pleasure...
-that it would have taken Beato‐san completely off your mind."
-"Haha.
- It\'s a thousand years too early for you to capture Battler\'s heart, little girl."
-"Yes, that one\'s your cutest look by far.
- ......This is really the way for both of us to finish things!!"
-".........Come."
-"This is the final parting line from the detective, Furudo Erika,
- and my self‐introduction!!"
-Erika spun around in a magnificent and graceful rondo,
- scattering blood and golden petals around her as she raised her gun.
-"{p:1:Hello and good day!
- Detective Furudo Erika at your service!!
- I may be uninvited, but I hope I\'m not unwelcome}!!"
-"{p:1:I am the visitor,
- the 18th human on Rokkenjima}!!!"
-"............Sorry, but..."
-"{p:1:Even if you join us all—}"
-""{p:1:That\'s only 17}.""
+婚儀は滞りなく終了し、大聖堂では披露宴が執り行われていた…。 => The marriage ceremony ended without any problems, and the reception was held inside the cathedral...
+山羊の悪魔たちが無礼講に騒ぐ中、その喧騒から逃げ、 => As the goat demons partied raucously,
+柱に寄りかかるドラノールの姿があった。 => Dlanor could be seen leaning against a pillar, trying to escape from the noise.
+そこへ、ガートルードが現れ、小耳に何かを注進する。 => Then, Gertrude appeared and whispered some kind of report to her.
+「………それは本当デスカ」 => ".........Is that {f:5:true}?"
+「謹啓。 => "For your attention:
+現在、コーネリア補佐官が現場保全に向かいたるものなりや。 => Assistant Inquisitor Cornelia is currently heading towards the scene.
+……ヱリカ卿にも注進すべきかと存じ上げ奉る」 => ......I suggest that Lady {f:5:Erika} be contacted as well."
+「わかりマシタ。 => "{f:5:Understood}.
+ご注進申し上げマス。 => I will tell {f:5:her}.
+……ガートルードは、式典警備長に連絡デス。 => ......Gertrude, contact the head of ceremony {f:5:security}.
+……準戦闘配備」 => ......Prepare for {f:5:battle}."
+「御意」 => "As you wish."
+「ご歓談中、失礼いたしますっ。 => "I apologize for interrupting your chat.
+本式典警備長であります」 => I am in charge of security for this ceremony."
+「え？　私？！ => "Huh? For me?!
+なぁにー、何か用？」 => Oh, what\'s going on?"
+「……だからはしゃぎ過ぎだって言ったのよ。 => "......I told you that you were going too far.
+さすがにシャンパンタワーでボーリングはやり過ぎだわ。 => Champagne Tower Bowling was always a bad idea.
+少し油を絞られてきなさい。 => Time for a scolding.
+くすくすくす……」 => *giggle*giggle*......"
+「ちょ、ベルンーこらぁあぁ！！ => "Hey, Beeeeeeern!!
+もうっ、何よ、私なんかしたッ？！」 => Fine, what is it, did I do something wrong?!"
+「受付に、差出人不明のラムダデルタ卿宛てと記された封筒が届けられました」 => "The reception desk has received an envelope from an unknown sender addressed to "Lady {f:5:Lambdadelta}"."
+「私、非通知と差出人不明は全部ポイしちゃう主義なの。 => "I always ignore anonymous calls and letters.
+そんなの捨てちゃってー」 => Just throw it away."
+「それが、……これなのですが」 => "Well, you see, ......this one is a little different..."
+「……………何それ。 => "...............What the...
+……これ、届いたことは誰かに言った…？」 => ......Have you told anyone you received this...?"
+「いえ、受付の姉妹兵２名と私のみです。 => "No, only the two Sisters at the reception desk and I know.
+すでに緘口令を与えました」 => I have already issued a gag order."
+その洋形封筒を見た途端に、 => The instant she saw the envelope,
+ラムダデルタはそれを引ったくり、声を潜める。 => {f:5:Lambdadelta} snatched it away and lowered her voice.
+……ベルンカステルは向こうに行き、ヱリカをからかっているようだ。 => ......{f:5:Bernkastel} had walked away and was apparently making fun of Erika.
+ヱリカはもちろん、ベルンも結構、酔っ払ってる。 => Erika was drunk, of course, and Bern was getting that way too.
+{n}そっとしておけば、こっちのことは忘れてるだろう。 => {n}If they were left alone, they\'d probably forget about this.
+その封筒には確かに差出人名はない。 => It was true that the envelope had no sender written on it.
+……しかし、それに匹敵する紋章が、 => ......However, the seal done on it in gold leaf...
+…箔押しされていた。 => fulfilled the same purpose.
+……その紋章は………。 => ......That seal was......
+ラムダデルタは柱の陰に行き、封筒を乱暴に破いて開き、 => {f:5:Lambdadelta} hid behind a pillar, ripped the envelope open,
+中身を取り出して、それを読む。 => took out the letter inside, and read.
+その瞳はすぐに爛々と輝き出し、 => Her eyes instantly started to glint,
+………にやぁっと、悪巧みを思いついた子供のような笑みを浮かべる…。 => .........and she grinned like a kid who\'d just gotten a naughty idea...
+「……如何しますか。 => "......What is to be done?
+狙撃班は赤色弾頭を携行しています。 => The sniper team is carrying red warheads.
+ご許可をいただければ、装填命令を出します」 => If you give your permission, I will give the order to load them."
+「………………………。 => "...........................
+……何、言ってんのよ。 => ......What are you talking about?
+今日は、どんだけ豪華な来賓が来てると思ってんの？ => Do you realize how important these guests are?
+万一、参列者に流れ弾が当たったら、 => If a stray bullet hits one of these attendees,
+シエスタ近衛隊の新しい妹たちは、向こう１０年は工場から断頭台に直行しなきゃなんないくらいの責任になるわよ」 => all the new Chiester Sisters will be sent straight from the factory to the guillotine for the next ten years."
+「了解。通常弾頭で対応するであります。 => "Understood, ma\'am. We will intercept with regular warheads.
+煉獄の七姉妹には監視をつけますか」 => Shall we post lookouts around the Seven Sisters of Purgatory?"
+「いるわけないでしょー。 => "Why would we need those?
+だって七杭は戦人の、そして今やヱリカの家具じゃない。 => After all, the Seven Stakes are Battler\'s...and now Erika\'s furniture.
+どうして味方に監視をつけちゃうのー？ => Why would we post lookouts around our allies?
+とにかく警備を、まーそこそこに、ちゃちゃっと厳重にしなさい」 => Just make sure security is nice and tight."
+「先ほど、ガートルード上席補佐官より、準戦闘配備勧告を受けました。 => "Just now, we received a recommendation from Senior Assistant Inquisitor Gertrude suggesting that we make preparations for battle.
+理由は不明であります」 => Her reasons are unknown."
+「ガートルードが？ => "From Gertrude?
+………ふふん。 => .........Heheh.
+じゃあ、勧告に従っちゃいなさい。 => Then follow that recommendation.
+パーティーは賑やかな方がいいってことでしょ…！」 => A party\'s more fun once you liven things up...!"
+「了解であります。 => "Understood, ma\'am.
+…………００より、シエスタ１７、シエスタ３８、シエスタ４５、コードＲ、警戒発令。 => .........00 calling Chiester17, Chiester38, Chiester45: Issuing Code R alert.
+レベル２で待機を伝達」 => Standby level 2."
+「１７、コピー」 => "17, copy."
+「３８、コピー」 => "38, copy."
+「４５ッ、了解…！」 => "45, understood...!"
+「そこでコピーと言えばカッコイイのににぇ」 => "Would\'ve been cooler if you\'d just said "copy" nyeh."
+「あ、焦っちゃってついっ…！」 => "I, I panicked...!"
+「そうそう４５、 => "Ah, right, 45.
+ちょっとこっち来て」 => Come over here a second."
+「な、…何です？ => "Wh‐...what is it?
+ちょ、ちょっと、任務中です…！ => H‐hey, we\'re on duty...!
+ダメッ、耳をいじんないでェ…！」 => Stop, don\'t play with my ears...!"
+「耳。 => "Your ears.
+折っとくにぇ」 => Better fold them down nyeh."
+「………何ですって…？！ => ".........What did you say...?!
+冗談でしょう？ => You\'re kidding, right?
+ありえない…！」 => That\'s impossible...!"
+「現在、コーネリアを向かわせていマス。 => "Cornelia is heading there {f:5:now}.
+……ベアトリーチェがここを襲撃する可能性が極めて大デス。 => ......The odds of {f:5:Beatrice} attacking here are extremely {f:5:high}.
+披露宴を中断されて退避されることを進言いたしマス」 => I recommend suspending the reception and {f:5:evacuating}."
+「どうしたの、ヱリカ……？ => "What\'s going on, Erika......?
+何か余興に手違いでも…？」 => Something go wrong with the entertainment...?"
+「い、いいえ、我が主…！　どうぞ引き続き披露宴をお楽しみ下さいっ。 => "N‐no, my master...! Please continue to enjoy the reception.
+……あぁ誰か？ => ......Hey, someone?
+ベルンカステル卿に、梅干ワインのおかわりを…！」 => Let\'s get Lady {f:5:Bernkastel} some more dried plum wine...!"
+ヱリカは取り乱す姿を咄嗟に隠せなかった。 => The question had come too fast for Erika to hide her agitation.
+それを見て、……ベルンカステルは、遅れている最後の来賓が、そろそろ到着することを知る。 => When {f:5:Bernkastel} saw this, ......she knew that their final, late guest would soon be arriving.
+「ルシ姉ぇ。 => "Luci‐nee.
+ゲストハウスで動きがあったそうよ」 => I hear there\'s been some movement in the guesthouse."
+「……ゲストハウス？ => "......The guesthouse?
+ゲーム盤のことなんか、今は下らない話だわ」 => Who cares about the game board now?"
+「それがぁ。 => "Well...
+……密室のいとこ部屋から嘉音くんが失踪したぁって」 => ......They\'re saying that Kanon‐kun disappeared from the cousins\' room..."
+「はぁ？！ => "What?!
+あんたわかってんの？ => Are you a moron?
+いとこ部屋は扉も窓も、完ッ璧に封印されてる完全密室じゃない。 => The cousins\' room is a perfect locked room, with the door and all the windows perfectly sealed.
+失踪なんて不可能だわ…！」 => It\'s impossible for him to escape...!"
+「いや、私も裏を取ってきた。 => "No, I\'ve investigated that claim as well.
+……間違いない。 => ......There\'s no mistake.
+嘉音はいとこ部屋より姿を消している」 => Kanon has disappeared from the cousins\' room."
+「……いとこ部屋のどこかに隠れてるとか。 => "......He\'s probably hiding somewhere in the cousins\' room.
+あるいは最初からうまく誤魔化して、元々部屋に入ってなかったとか」 => Or else, he\'s managed to trick everyone since the beginning...and was never in that room to begin with."
+「不可能だわ。 => "That\'s impossible.
+いとこ部屋には、ヱリカ卿が読み上げた特定個人数名以外の“全員”が入ってることが保証されてるのよ。 => It\'s been guaranteed that "everyone" is in the cousins\' room except the specific names Lady {f:5:Erika} read aloud back then.
+誤魔化して逃れることは不可能だわッ」 => It\'s impossible for him to trick his way out of there."
+「……どうやってユングフラウの封印結界を…。 => "......How did he get past the Jungfrau seal barrier...?
+いや、それより嘉音は一体どこへ？ => No, first off, where on earth is Kanon?
+至急探しなさい…！」 => Find him at once...!"
+その時、突然、大聖堂が真っ暗になった。 => At that moment, the cathedral suddenly went black.
+来賓たちが驚くどよめきが大聖堂を満たす…。 => The surprised commotion of the guests filled the cathedral...
+「………来たわね」 => ".........She\'s here."
+「００よりオールシエスタッ。 => "00 calling all Chiesters.
+コードＲ警戒！ => Code R Alert!
+シエスタ１７、電源系統回復は」 => Chiester17, can you repair the electrical systems?"
+「ネガティブ。 => "Negative.
+管理室スタッフとの通信が途絶中」 => Communications with the management staff have been severed."
+「オールシエスタ、コードレッド！ => "All Chiesters, code red!
+ロックンロールッ！！」 => Rock ’n’ roll!!"
+「コピー」 => "Copy."
+「コピー」 => "Copy."
+「コピー」 => "Copy."
+「りょ、了解っ。あぁ！　じゃなくてコピー！」 => "U‐understood. Ah! I mean copy!"
+シャンデリア狙撃班が、一斉に安全装置を解除する。 => The sniper teams in the chandeliers all released their safeties at once.
+{n}会場内警備班も全隊員が弾薬を装填する。 => {n}The entire security team down in the hall loaded their ammunition.
+「……ヱリカ卿、控え室へ退避ヲ。 => "......Lady {f:5:Erika}, let us evacuate to the waiting {f:5:room}.
+ここは危険デス」 => It is dangerous {f:5:here}."
+「何が危険なんです？！ => "What\'s dangerous?!
+この世界の領主は私です！ => I\'m the territory lord of this world!
+その私が、何に怯えて逃げろと言うんですッ？！」 => Why should I have to run away in fear?!"
+「ガートルード、要人警護結界準備。 => "Gertrude, set up a VIP guard {f:5:barrier}.
+コーネリアを至急呼び戻すのデス」 => Call Cornelia back here at {f:5:once}."
+「謹啓、対応中なりや」 => "For your attention: this is underway."
+「結界？！ => "A barrier?!
+あんたらの無様でみっともない結界で、婚礼衣装の私を包もうってんですか？！ => I need to be wrapped in one of your pitiful, pathetic barriers while I\'m wearing a wedding dress?!
+何たる侮辱ッ！！」 => How insulting!!"
+その騒ぎに、隣の席で人形のように座らされている戦人も呻く…。 => This disturbance made even Battler groan, as he sat in the next seat like a doll...
+「…………………ぅ………………」 => ".....................uuugh.................."
+魂さえも封じられた戦人にも、様子がおかしいことがわかるのかもしれない…。 => Even with his soul sealed, Battler probably realized that something strange was going on...
+「遅かったじゃない。 => "She took her time.
+ねぇ、ラムダ？」 => Right, Lambda?"
+「そうねー。 => "Totally.
+待ちくたびれちゃったわねぇ」 => She sure kept us waiting."
+「さっきのあれ、何？ => "What was that just now?
+誰からのラブレター…？」 => A love letter from someone...?"
+「ファンレターよぅ。 => "A fan letter.
+ラムダちゃんファンクラブの」 => From the Lambda‐chan Fan Club."
+ラムダデルタはポップコーンをぽりぽり食べながら、すっとぼける。 => {f:5:Lambdadelta} played dumb and munched some popcorn.
+その時、ようやく照明が戻る…。 => Then, the lights finally turned on...
+今の隙に、すぐ近くに、あるいはもう大聖堂内に、 => It was clear that during that blackout,
+……ベアトリーチェが侵入したのは明らかだ。 => ......{f:5:Beatrice} had snuck in somewhere nearby, possibly even inside the cathedral itself.
+ざわめく悪魔の参列者たちもみんな、気付いている。 => The whispering goat attendees all realized it as well.
+誰が、何を目論んでいるのか。 => Whose scheme was this...and what were they doing?
+……彼らは不謹慎にもそれを期待し、興奮のざわめきで大聖堂を満たす…。 => ......Though it may have been imprudent, they were looking forward to this, and an excited chatter filled the cathedral...
+「来たみたいね」 => "Looks like she came."
+「ガ、ガァプ…！ => "G‐Gaap...!
+あなたもう戻ってきていいんですか…？！」 => They let you come back too...?!"
+「私にホラ、牢屋って意味ないし」 => "Come on, putting me in a jail is meaningless."
+「確かに！　ぷっくっくっく」 => "True! Pu ku ku ku."
+「……でもリーチェ。 => "......But Riiche.
+………戦人の密室もいとこ部屋も、 => .........Battler\'s locked room, the cousins\' room,
+……そして唯一可能性のあった隣部屋も全て封じられてしまった…。 => ......and even the final possibility, the next room over, have all been sealed...
+……どうやって戦人を救い出す気なの…？！」 => ......How are you planning to save Battler...?!"
+「お嬢様が、 => "Let us suppose...
+何かのトリックＸを用意できたと仮定しましょう。 => that Milady has found some trick X.
+となれば、 => If so,
+それをヱリカ卿に突きつけるべく乗り込んでくるは必至…」 => she would inevitably have to march in here to thrust that in Lady {f:5:Erika}\'s face..."
+「しかし、この大勢のシエスタ兵たちが相手では…。 => "But...against all of these Chiester troops...
+……まさかこんなに隠れていたなんて…！ => ......I can\'t believe this many of them were hiding here...!
+無理だわ、縫い殺されてしまう…！」 => It\'s impossible... She\'ll be sewn to death...!"
+会場の其処彼処にうさぎの耳が飛び出ている。 => Rabbit ears could be seen poking out all around the hall.
+……これだけの大人数を、よくも気取らせずに潜ませていたものだ…。 => ......It was incredible that such a large number of them could remain hidden and unnoticed...
+「………ヱリカに一度だけ肉迫するチャンスがあれば、……五分の勝負までは持ち込めるわ」 => "......If she can just get close enough to challenge Erika, ......she should be able to get herself an even fight."
+「なるほど、その手ですか。 => "I see, that move.
+………しかし、そのアイテムをお嬢様がお持ちだといいのですが。 => .........However, does Milady have that item with her?
+……いつも面倒臭がって、いくらご用意しても嫌われていましたからな。 => ......After all, she hated dealing with them, and disliked it every time I prepared them for her.
+………やれやれ。 => .........Dear me.
+最後まで世話の焼けるお嬢様だ」 => She remains a troublesome one to the end."
+ロノウェが人ごみの中で何かを取り出し、それを見せる。 => Amid the crowd, Ronove took something out and showed it.
+……それを見て、ワルギリアも彼の手にする“それ”の意味を理解する…。 => ......When {f:5:Virgilia} saw the object in his hand, she understood its meaning...
+あぁ、確かに“それ”なら、……シエスタ兵たちの攻撃を、防げる可能性も……。 => True, with that, ......it should be possible to stop the attacks from the Chiester troops......
+「まぁ、ヱリカに効かなきゃそれまでだけどね。 => "Well, if it doesn\'t work on Erika, we\'re through.
+問題は、たった一度でもいいから、ヱリカの真正面まで行けるかだわ。 => The problem is getting her right in front of Erika, if only for a second.
+……シエスタたちはそれを断固阻止するはずよ。 => ......The Chiesters will probably prevent that with all they have.
+……リーアなら、 => ......Lia,
+……その時間をプレゼントできそうね…？」 => ......I\'ll bet you could give her the time to do that..."
+ワルギリアは小さく頷く。 => {f:5:Virgilia} gave a small nod.
+しかし問題は、彼女の後ろに張り付いている、２人のシエスタ兵。 => However, the problem was the two Chiester troops standing at her back.
+……さっき、行列の前へ飛び出そうとしたので、それ以降、ずっと監視が張り付いているのだ…。 => ......Since that time she had tried to jump out in front of the procession, she had been marked constantly...
+ワルギリアの絶大な魔力は、大聖堂の全てのシエスタ兵を一時的にダウンさせることが可能だ。 => It was possible, with {f:5:Virgilia}\'s vast magical power, to momentarily take out all of the Chiester troops in the cathedral.
+それで稼げる時間はほんのわずかだろうが、ヱリカに肉迫する時間を与えられる。 => That would only gain a short bit of time, but it would be enough to confront Erika.
+……シエスタ兵もそれがわかっているから、緊張の面持ちでワルギリアを監視しているのだ。 => ......The Chiester troops knew this, so they kept a close eye on {f:5:Virgilia} with tense faces.
+その時、 => At that moment,
+……大聖堂の大扉が、粉々になって吹き飛ぶ。 => ......the great cathedral door was blasted to bits.
+その破片は、眩い黄金の蝶の群となって、 => The fragments became bright gold butterflies...
+大聖堂内に乱舞し、美しい金箔の吹雪を見せた……。 => which danced across the room in a beautiful blizzard of gold leaf......
+その、黄金の爆風が、 => That golden storm...
+……ゆっくりと晴れていく…。 => ...slowly faded away...
+そして、 => Then,
+……墓場への道の赤絨毯の入口に、 => ......at the entrance to that red‐carpeted path to the grave,
+………悠然と立つ、 => .........stood a calm,
+……その貫禄ある姿は……。 => majestic figure......
+「警護隊、射殺セヨ…！！」 => "Guards, shoot to {f:5:kill}...!!"
+「ネガティブ、身元照合中」 => "Negative, conducting identity comparison."
+ドラノールが即座に警備隊に不審者の射殺を命じるが、シエスタ００は応じない。 => Dlanor ordered the guards to shoot the intruder right away, but Chiester00 didn\'t comply.
+ベアトリーチェの出現を装った、酔狂な来賓の悪戯を間違えて射殺してしまったら、責任問題になると脅されているから？ => Was it because she had been warned about shooting these guests...and was afraid of the consequences if she accidentally shot a drunk guest who had disguised themselves as {f:5:Beatrice} as some sort of prank?
+違う。００はただ冷静冷酷に職務を執行するだけだ。 => No. 00 was just coolly and calmly carrying out her duties.
+「……おや、これはこれは…、てっきりご欠席かと思っていましたよ…？」 => "......Oh, what a surprise... You know, I thought you weren\'t going to make it."
+「………………………………」 => "...................................."
+長い長い赤絨毯の、最果て同士が、対峙する。 => The pair faced each other from either end of the long red carpet.
+しかし、その間には => However, in between them...
+数十人のシエスタ儀仗兵が立ちはだかっている…。 => stood several dozen Chiester honor guards...
+「最高の来賓であるあなたがお越しにならないのでッ！！ => "It took you quite some time to come here, most honored guest!!
+ご心配申し上げておりましたとも！ => You had us all quite worried!
+でもせめて披露宴には間に合ってよかった……！！」 => But I am glad you managed to make it to the reception at least......!!"
+「…………ふっ、 => "............Heh,
+………ふっふふふふふふふふふふふ…」 => ......heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh..."
+ベアトが、……笑う……。 => Beato......laughed......
+そのくぐもった笑いに、 => That chuckle...
+………戦人の瞳がわずかに震えた。 => ......made Battler\'s eyes quiver slightly.
+「お、 => "Y‐
+……お前は………………」 => ......you.................."
+「……待たせたなァ？　古戸ヱリカァ。 => "......Did I keep you waiting? Furudo Erikaaa?!
+……祝福に来たぜェえええぇえぇ…？」 => ......I\'m here to celebraaate...!"
+ぞおッと！　全身の毛が逆立つ気さえする、その圧倒的に威圧的かつ、……邪悪な貫禄。 => She had an overpowering and evil presence about her, ......strong enough to make anyone shiver.
+もう身元の照合などが必要だろうか？ => Was it still necessary for her identity to be confirmed?
+{n}その圧倒的貫禄を、誰が見間違うと言うのか。 => {n}Who could possibly mistake this overwhelming presence?
+「ベ、 => "B‐
+……ベアトリぃいいいぃ => ......{f:5:Beatriiiiiiii
+チェぇえええええぇええええええッ！！！」 => ce{-}e{-}e{-}e{-}e{-}e{-}e{-}eee}!!!"
+「“地獄で会おうぜ”は、妾の好む別れの挨拶言葉であるが、」 => "‘See you in hell’ is a favorite parting line of mine, but—"
+「身元確認っ。 => "Identity confirmed.
+大ベアトリーチェ卿と確認ッ！！」 => It is the great Lady {f:5:Beatrice}!!"
+「まさにここがそうだぜ、 => "It seems we are here already,
+古戸ヱリカぁあぁああぁあああああああぁあぁあぁ！！！」 => Furudo Erikaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!!"
+その時、ワルギリアの背後のシエスタ兵たちが、かくりと膝を折って倒れる。 => At that moment, the two Chiester troops standing behind {f:5:Virgilia} slumped over and fell to the floor.
+……ロノウェが二人の後ろから、その大きな耳の根元に触れていた。 => ......Ronove had touched the bases of their big ears from behind.
+何かの魔法で接触したのは明らかだ。 => It was clear that he had applied some sort of magic.
+「どなたかお医者様を。 => "Someone find a doctor.
+お嬢さん方が貧血のようだ」 => These girls seem to be ill."
+「オールシエスタ、オープンファイアあああぁああッ！！！」 => "All Chiesters, open fiiiiiiiiiiire!!"
+「ベアト、今ですッ！！」 => "Beato, now!!"
+シエスタ兵の射撃より一瞬だけ早く、ワルギリアが両腕を天へ突き出す。 => Just an instant before the Chiester troops could fire, {f:5:Virgilia} raised her arms to the heavens.
+彼女が大魔女の名をほしいままにした頃の本当の名が何だったか、 => Her magical power, which was more than enough to remind all present what her name had been at the height of her strength,
+等しく全員に思い出させるに充分な魔力が霊波となって大聖堂を破裂させる。 => became a spirit wave and exploded throughout the cathedral.
+その衝撃で、大聖堂内のステンドグラスが弾け飛んで、色とりどりのガラス片が降り注いだ。 => The impact made the stained glass windows shatter, and colorful glass shards poured down everywhere.
+「れ、霊子戦防御！！　復旧急げ！！」 => "S‐spirit particle warfare defenses!! Hurry on recovery!!"
+しかし、霊子戦防備のないシエスタ儀仗兵たちは全員、人形が転ぶようにぱたぱたと床に倒れる。 => However, all of the Chiester honor guards, who didn\'t have spirit particle defenses, toppled over like dolls.
+防備のある天井狙撃班は、システムダウンこそ免れるが、システム復旧に数百秒を掛ける。 => The ceiling snipers, who were defended, were able to avoid their systems going down completely, but it would take several minutes before they could recover.
+………それだけの時間があれば、 => .........That span of time...
+……ヱリカまで至るには充分…。 => ...would be enough to reach Erika...
+しかし、数分程度であのヱリカを倒せるわけがない。 => However, Erika couldn\'t be defeated in just a few minutes.
+{n}戦人を連れ去れるわけもない…！ => {n}There was no way they could carry Battler away in that time...!
+この貴重な時間を何に活かせばいいかわからない！ => What should they use this precious time for?!
+ベアトは赤絨毯の道を駆ける。 => Beato dashed down the red carpeted path.
+シエスタ兵たちが、屍のように倒れて転がる墓場への道を駆ける。 => She ran down the path to the grave, which was lined by Chiester troops lying there like corpses.
+彼女はここを、地獄だと呼んだ。 => She had called this place hell.
+{n}……なら、地獄から墓場への道は、むしろ逆走だ。 => {n}......In that case, running from hell to the grave was actually going backwards.
+屍の道を駆け抜けるベアトの姿は、今まさに、復活のそれに相応しい…！ => Beato\'s figure dashing through the corpse‐ridden path truly symbolized her resurrection...!
+「お嬢様、これを…！」 => "Milady, take this...!"
+「もらうぞッ！！」 => "Got it!!"
+駆け抜けざまに、ロノウェが手渡した白い何かを引っ手繰る。 => As she dashed, she snatched something white from Ronove\'s outstretched hand.
+ヱリカまでもう何も、遮る者などいない…！！ => There was no longer anyone blocking her path to Erika...!!
+しかしその時、前方から黄金の縫い糸が、ミシンのような連打音を立てて赤絨毯を縫い迫る！ => However, that instant, a golden thread came from in front of her and rapidly sewed through the red carpet towards her like a sewing machine!
+「ほぅ、邪魔者がいたかッ…！！」 => "Hoh, we have a meddler...!!"
+「再装填完了ッ、データ要求にぇ！」 => "Reloading complete, requesting data nyeh!"
+「射撃用レーダー捕捉っ。 => "Firing radar targeted.
+４１０へデータリンク！！」 => Data link to 410!!"
+４１０は狡猾だった。 => 410 was clever.
+ワルギリアの霊子攻撃を予見して、ずっと４５とともに耳を折って畳んで備えていたのだ。 => She had predicted that {f:5:Virgilia} would go for a spirit particle attack...and had folded over her ears and 45\'s beforehand.
+だから彼女らだけダウンしない。 => So, they were the only ones that weren\'t taken out.
+「射撃！！」 => "Firing!!"
+再び、黄金の縫い糸がミシンのように連打で縫いベアトを追う。 => Once again, the golden sewing thread chased after Beato, weaving like a sewing machine.
+それはまるで、うねる黄金の蛇が彼女を鋭く追い立てるようだった。 => It was as though an undulating golden snake was shooting after her.
+「小癪な…ッ！！ => "Impudence...!!
+ヱリカとの一騎打ちの貴重な時間を邪魔しおって…！」 => How dare you interfere at a moment so invaluable for my showdown with Erika...!"
+ベアトは赤絨毯から横に飛び退き、美しい料理が並べられた長テーブル上を駆け抜ける。 => Beato jumped sideways away from the red carpet and ran across the top of a long table covered with beautiful food.
+それを黄金の蛇が追い、料理の皿を派手に散らしながら、純白のテーブルクロスをミシンのように縫って追う…！ => The gold snake chased her, sewing through the pure white tablecloth like a sewing machine and scattering dishes left and right...!
+逃げ惑う山羊の参列者たち。 => The goat attendees ran about wildly, trying to escape.
+聖堂は混乱を極める。 => The cathedral was wrapped in pandemonium.
+「……霊子攻撃を避けていたウサギがいたなんて…！」 => "......I can\'t believe some of those rabbits evaded the spirit particle attack...!"
+「まずい。 => "This is bad.
+あんなところに陣取られては、……どうにもなりません…！」 => With them in that position, ......there\'s nothing we can do...!"
+はるか頭上のシャンデリア上より攻撃する二人の狙撃手は、ヱリカよりもさらに遠くで、ベアトの手に負える間合いでない。 => The pair of snipers, attacking from high above on the chandelier, were much further away than Erika was—too far for Beato to reach.
+そして大聖堂の全てを射界に収める最悪のポジション！ => Furthermore, their position couldn\'t have been worse for Beato, with the entire cathedral inside their range of fire!
+「……お気の毒にぇ、ベアトリーチェさまぁ。 => "......Too bad nyeh, {f:5:Beatrice}‐samaaa.
+恋の試練は過酷にぇ！ => The trials of love are harsh nyeh!
+４５、追加弾倉！！」 => 45, new magazine!!"
+「これ？」 => "This?"
+ガァプが弾倉を手渡しする。 => Gaap handed her the magazine.
+……４５はいつも前後を逆に渡すので、それに慣れている４１０は正しく渡されるとかえって戸惑ってしまう…。 => ......45 always handed them over the wrong way around, so 410 was a bit confused to have one handed to her the right way up...
+……？！？！ => ......?!?!
+「にぇ？！ => "Nyeh?!
+にぇにぇにぇッ、 => Nyeh nyeh nyeh,
+離すにぇッ、にえにぇにえ！！」 => let go nyeh, nyeh nyeh nyeh!!"
+どんなに離れたポジションであろうと、神出鬼没のガァプには、まったく問題ないことだ。 => No matter how distant a position they might take, it was no problem for the elusive Gaap.
+ガァプは二人の長い耳を捻り上げ、親指でこちょこちょとくすぐる。 => Gaap twisted their long ears up, then tickled them with her thumbs.
+シエスタの最大の武器なのに、同時に弱点なのだ。 => The Chiester\'s greatest weapon was also their greatest weakness.
+二人は身をよじってくすぐったがっている。 => The two doubled over with laughter.
+「……この２匹は抑えたけど、 => "......I\'ve handled these two,
+……あと何秒？ => .....but how many seconds do we have?
+他のシエスタが再起動する…」 => The other Chiesters will be reactivating..."
+他のシャンデリアの上の、より強力なシエスタ兵たちが、少しずつ動きを取り戻していく……。 => On the other chandeliers, even more powerful Chiesters were slowly starting to move again......
+これ以上の時間稼ぎは、もう不可能だ。 => It would be impossible to buy any more time.
+「ガァプか！ => "Ah, Gaap!
+ありがたい、恩に着るッ！！」 => Thanks, I\'m in your debt!!"
+「リーアたちも褒めてあげて」 => "Don\'t forget to thank these guys too."
+「ベアトー、がんばりなさぁああい、しっかりぃいい！！」 => "Beatoooo, good luuuuuck, hang in theeeeere!!"
+「もう時間がありませんぞッ！！」 => "You don\'t have much time!!"
+「ヱリカぁあぁああああああぁあああああぁあ！！」 => "Erikaaaaaaaaaaaaaaaaaaaaa!!"
+逃げ惑う山羊たちの人垣をモーゼのように割って、ベアトが疾駆する。 => Beato cut through the crowd of scampering goats like Moses.
+目指すは一直線。 => Her goal was straight in front of her.
+ヱリカと戦人の二人の席…！ => The place where Erika and Battler were seated...!
+その時、それを阻むように赤い結界の壁が張られる。 => Just then, a red barrier was created, blocking her path.
+ガートルードの張った、要人警護用の阻止結界だ。 => It was the VIP‐guarding barrier that Gertrude had set up.
+{n}彼女は歩み出て、ベアトを防ぐ最後の防衛線を張り巡らす。 => {n}She stepped forward and laid out a last line of defense to block Beato\'s way.
+「謹啓、これ以上の接近を許さないものと知り給え」 => "For your attention: Know that you will not be allowed any closer."
+「そんな壁で妾を止められると思うかぁああああぁああぁ！！」 => "You think a wall like that can stop meeeeeeeeeeeeee?!!"
+「シエスタ再起動まであと何秒デス？」 => "How long until the Chiesters {f:5:reactivate}?"
+「さ、３０秒ないです…」 => "W‐within 30 seconds..."
+ルシファーは煉獄の七姉妹の長として、花嫁と花婿の後方に控えていた。 => As the eldest of the Seven Sisters of Purgatory, Lucifer stood in waiting behind the bride and groom.
+ベアトを救いたい。 => She wanted to save Beato.
+{n}ガートルードの気を一瞬だけ逸らせば壁が消えるのだ…。 => {n}If she could just distract Gertrude for a moment, the wall would disappear...
+しかし七姉妹は家具。 => However, the Seven Sisters were furniture.
+領主に仕えている。 => They served the territory lord.
+だから領主でないベアトのために動けない…。 => So, they couldn\'t move to help Beato...
+ドラノールがちらりとルシファーを見る。 => Dlanor glanced over at Lucifer.
+{n}わずかに威圧の色が浮かんでいた。 => {n}There was a coercive tint to her eyes.
+「………………あなたは、主の命令ない限り動くことは許されマセン」 => "..................You are not allowed to move except by the orders of your {f:5:master}."
+「…………く…………」 => "............khh............"
+「主って誰よ…！」 => "Who\'s our master...?!"
+「馬鹿ね、ヱリカのヤツってことになってるでしょ…！」 => "It\'s Erika now, idiot...!"
+「違うわよ、私たちの主は戦人さまだわ！」 => "No, our master is Battler‐sama!"
+「そうだ。ヱリカはその代理に過ぎない」 => "True. Erika only speaks on his behalf."
+「そうよ、お姉様ッ、私たちは誰の家具？！」 => "That\'s right, Onee‐sama! Whose furniture are we?!"
+「美味し過ぎるわ、つまみ食いしちゃおう！！」 => "It\'s just too delicious... I\'m gonna have a nibble!!"
+赤い絶対の壁が一瞬だけ明滅する。 => The red, absolute barrier flickered for just an instant.
+ベルゼブブの杭がガートルードの肩に突き刺さり、その集中を欠いたためだ。 => Beelzebub\'s stake had pierced Gertrude\'s shoulder, and her concentration had wavered.
+……しかし破れない。 => ......But it didn\'t break.
+ガートルードは無表情に、ゆっくりとルシファーを見据える。 => Slowly and expressionlessly, Gertrude turned to look at Lucifer.
+「……誰の命令なりや。 => "......By whose orders?
+ヱリカ卿にその指示は無きなりと知り給え」 => Know that Lady {f:5:Erika} has made no such order."
+「あるわ。 => "We do have orders.
+…わ、…我らが主の命令よ！！」 => ...Th‐...the orders of our master!!"
+「……………………………」 => "................................."
+「物言えぬ主に、何を命令できるというなりや…」 => "How can a master who cannot speak give orders...?"
+「物、聞かずとも…。 => "E‐even without a word spoken,
+……それを察するが家具の道と見つけたりッ！！」 => ......understanding a master\'s will is the job of furniture!!"
+「なら、……止むもなし」 => "Then, ......it cannot be helped."
+七本の杭が一斉にガートルードに突きかかる。 => The seven stakes shot at Gertrude at once.
+…ガートルードは最後まで結界を放棄せず、それの直撃を全て受けることを選んだ。 => ...Gertrude had chosen to take all of those direct attacks, refusing to abandon the barrier until the last moment.
+鋼鉄の処女の名前通りの頑丈さは、彼女に一切のダメージを許さないが、 => Though she was resilient enough to do justice to the name of {ruby:Iron Maiden:Eiserne Jungfrau} and took no damage at all,
+結界を失わせるには充分に怯ませることが出来た。 => the attack was more than enough to make her flinch and lose control of the barrier.
+「上出来だ、我が家具たちッ！！！」 => "Good work, my furniture!!!"
+ベアトは真っ赤に飛び散る結界の破片を突き抜け、 => Beato shot through the scattered, red fragments of the barrier,
+……ついに、………花嫁、そして宿敵、ヱリカの真正面へ……。 => ......and she was finally right in front of the bride, her rival, Erika......
+しかしそこには、ヱリカを守る最後の楯が。 => However, there stood the final shield protecting Erika.
+……死刑宣告のドラノール！！ => ......Death Sentence Dlanor!!
+「………遅いデス。 => ".........You are {f:5:late}.
+……もはや、時間切れデス、ベアトリーチェ卿ッ！！」 => ......Time is already up, Lady {f:5:Beatrice}!!"
+「シエスタ１７よりオールシエスタへデータリンク。 => "Chiester17, data link to all Chiesters.
+大天使衛星よりデータ入電、誘導方式、評決型概念誘導」 => Incoming data from Archangel Satellites. Homing format: verdict‐model conceptual guidance."
+「シエスタ２０、再起動完了」 => "Chiester20, reactivation complete."
+「シエスタ１２７、再起動完了」 => "Chiester127, reactivation complete."
+「にっひひひひひ…。タイムオーバーにぇ。 => "Nihhihihihihi... Time\'s up nyeh.
+にっひゃははは！！ => Nihhyahahaha!!
+そこらめッ、 => Stop that,
+らめぇぇええぇ！！」 => nooo{-}o{-}o{-}o{-}o{-}o{-}o{-}oooo!!"
+「………リーチェ……、 => ".........Riiche,
+幸運を…」 => ......good luck..."
+「…………………ベ、 => ".....................Be...
+………ア、 => ......a...
+………ト……」 => ......to......"
+「……く、……ド、ドラノール…！！」 => "......Keh, ......D‐Dlanor...!!"
+「どけ、ドラノール・Ａ・ノックス。 => "Back off, Dlanor A. Knox.
+そなたの出番はない」 => This is not your fight."
+「……あなたを否定する赤き真実を、ベルンカステル卿より賜っていマス。 => "......I have received a red truth denying you from Lady {f:5:Bernkastel}.
+……ここがあなたの墓場となり、残念デス…！」 => ......I am afraid that this will become your {f:5:grave}...!"
+ベルンカステルに何を許されたかはわからない。 => I don\'t know what {f:5:Bernkastel} has allowed her to say.
+{n}しかし、それを太刀で食らってまで確かめてやる義理はない。 => {n}However, I don\'t need to sit around and let that longsword tell me.
+「そなたとは後でたっぷりと遊んでやろうぞ。 => "I\'ll play with you all you want later.
+だが今はどけ！」 => But for now, back off!"
+時間が無い。 => There\'s no time.
+もうシエスタたちは再起動を終えている。 => The Chiesters have already finished reactivating.
+{n}わずかのロスタイムで生かされてるに過ぎない。 => {n}I\'m only living on a bit of borrowed time.
+「退くのはあなたの方デス…！！ => "You will be the one to {f:5:retreat}...!!
+出番を間違えた哀れな出演者があなたデスッ！！」 => You are the pitiable actor who has chosen the wrong time to appear on {f:5:stage}!!"
+ドラノールの赤き太刀が、絶対の否定を伴って大きな半円を描き、 => Dlanor\'s red longsword cut a large arc of absolute denial,
+……それは正確にベアトの脳天へ向けて弧を描く。 => ......which headed right for the crown of Beato\'s head.
+しかしその時、ピシリと音がして、その軌跡が、わずかに逸れる。 => However, in that instant, there was a thunk, and the sword was knocked slightly off course.
+その幸運をベアトは逃さない。 => Beato didn\'t let this good fortune go to waste.
+太刀を掻い潜り、 => She slipped past the longsword,
+……ドラノールを弾き飛ばし、とうとう、 => ......knocked Dlanor aside,
+……ヱリカの真正面へ…！ => ......and finally stood right in front of Erika...!
+もう今度こそ、阻む者など、何もいない！ => This time, not a single person stood in her way!
+「う、ぐ、 => "Uuu...guh...
+……これは……、 => ......This is......
+ポップコーン？？？ => {f:5:popcorn}???
+ど、どこカラ……」 => Wh‐where did this come {f:5:from}......?"
+「謹啓ッ、花嫁警護役より緊急要請ッ！！ => "For your attention: Urgent request from the bride\'s security detail!!
+シエスタ姉妹近衛隊は直ちに侵入者を射殺し奉れッ！！」 => Chiester Sisters Imperial Guards, fire at the intruder immediately!!"
+どよめきが、静まる……。 => The commotion...quieted......
+……しかし、 => ......However,
+…誰も、 => ...no one...
+撃たない。 => fired.
+……どうして…？ => ......Why...?
+撃つ気なら撃てる。 => They could have fired if they wanted to.
+全てのシエスタ兵は完全に照準を終えて、安全装置も外している。 => All of the Chiester troops had her fully in their sights and had removed their safeties.
+もちろん、全員が再起動を終えている。 => Of course, all of them had finished reactivating.
+……しかし、 => ......However,
+……引き金を躊躇っていた。 => ......they hesitated to pull the trigger.
+「な、なぜ射殺せぬことなりや？！ => "Wh‐why are you not firing?!
+式典警備役は直ちに…！」 => Ceremony guards, immediately—"
+「……ま、……待つのデス。 => "......W‐......{f:5:wait}.
+……あ、……あれは……、」 => ......L‐......look at {f:5:that}......"
+ドラノールの表情が険しくなる。 => Dlanor\'s expression grew grim.
+……そして彼女は静かに、…赤き太刀をしまう…。 => ......Then, she quietly...put her red longsword away...
+なぜなら、……ヱリカが決めなければならないからだ。 => After all, ......Erika would have to make a decision.
+ヱリカがそれを無視すれば、射殺できる。 => If she decided to ignore the thing in front of her, they could shoot to kill.
+しかし、もしヱリカがそれを拾えば、……射殺は許されない。 => However, if she picked it up, ......doing so would be unforgivable.
+だから、ヱリカがそれを決めるまで、引き金が引けない…。 => So, they couldn\'t pull the trigger until Erika decided...
+「……どうして誰も撃たないの…」 => "......Why won\'t anyone shoot...?"
+「よく見なさいよ、あれ。 => "Look closely.
+……ベアトがヱリカに投げつけた、あれよ」 => ......See what Beato just threw at Erika?"
+ラムダデルタは、ぽりぽりとポップコーンを食べながら指差す。 => {f:5:Lambdadelta} pointed, still chomping down popcorn.
+……バルコニーからでは、よく見えなかった。 => ......It was hard to see from the balcony.
+ベアトが、何か白いハンカチのようなものを、ヱリカに投げつけたのだ。 => Beato had thrown something like a white handkerchief at Erika.
+それが、ヱリカの足元に転がっている。 => It had fallen to Erika\'s feet.
+……あの白いのは何…？ => ......What was that white thing...?
+「………わかってるわ、あいつ。 => "......She really knows, that girl.
+主役ってもんを、本当によくわかってるわ」 => She knows what it means to be the main character."
+「面白い、 => "How...
+…………じゃないですか……」 => .........interesting......"
+「…………………………」 => ".............................."
+ヱリカの顔に叩き付けられ、床に落ちて転がるのは、 => The thing that had hit Erika in the face and fallen to the floor,
+………ロノウェより受け取った、 => the item Beato had gotten from Ronove,
+……白い手袋だった。 => ......was a white glove.
+手袋を叩き付ける行為は、たった一つのことしか意味しない。 => Hitting someone with a glove like that could only mean one thing.
+それは………、 => That was.........
+「あぁ、ゼパル！　これは何？！ => "Ooh, Zepar! What\'s this?!
+どういう意味なの？！」 => What does it mean?!"
+「これは、 => "This is...
+……決闘の申し込みさ！！ => ...a request for a duel!!
+手袋を拾えば、それを受け入れることを意味する！」 => If she picks up the glove, it means she\'s accepted!"
+「拾わなければシエスタたちが殺してくれるわ？ => "But if she doesn\'t, the Chiesters will do the dirty work for her!
+拾う必要ないじゃない！」 => Why, there\'s no need to pick it up at all!"
+「拾わなくてもいいさ。 => "She can choose not to.
+……でも、決闘を逃げた汚名を、僕らと参列の悪魔諸兄は、三界全てに知らしめるだろうね…！！」 => ......However, I imagine that we and all the demons present would spread the word far and wide that she dishonorably ran away from a duel...!!"
+「「恋の決闘を逃げた臆病者の名を、永遠にねッ！！！」」 => ""She would be known for eternity as a coward who ran away from a duel of love!!!""
+ベアトリーチェは、毅然と、悠然と待つ。 => {f:5:Beatrice} waited firmly and composedly.
+もしヱリカが、それを拾わず足蹴にでもすれば。 => If Erika just kicked it away...
+……その瞬間。 => ......then, that very instant,
+…シエスタたちは一斉に発砲し、ベアトを、彼女の影の形をした黄金の刺繍模様に変えてしまうだろう。 => ...the Chiesters would probably all fire at once, turning her into golden embroidery.
+だから、ヱリカには拾う義理はない。 => So, Erika did not have to pick it up.
+しかし、……彼女は拾うことを怯えてはならないのだ。 => However, ......she could not afford to be afraid of picking it up.
+なぜなら、……彼女は密室トリックとロジックを打ち破った、真の勝者なのだから。 => After all, ......she was the true victor, who had defeated Battler\'s locked‐room trick and logic.
+勝者ならば、何も怯える必要はない。 => If she was the victor, she should have nothing to fear.
+だからもし、……それを怯えるというならそれは、 => So, ......if she was afraid of doing it,
+……自分の勝利に未だ、一抹の不安と疑いを持っていることの、証となる……。 => ......it would prove that she still felt a tinge of doubt about her victory......
+「……………拾わなければ。 => "...............If I don\'t pick it up,
+私はこの衣装を汚すことなく、あんたを殺してしまえますね」 => I can kill you without getting these clothes dirty."
+「それも披露宴の余興には面白い。 => "That would probably liven up your reception.
+……だが、そなたは拾うさ」 => ......However, you will pick it up."
+「へぇ、 => "Oh?
+………どうしてです…？」 => .........And why is that...?"
+「……妾が、そなたにぴったりの、最高の土産を持ってきたからだ。 => "......I have brought a wonderful wedding gift just perfect for you.
+……そなたはそれが知りたい。 => ......You will want to know what that is.
+……だから、拾うさ」 => ......Therefore, you\'ll pick it up."
+「興味ないです。さようなら」 => "Not interested. Goodbye."
+「……拾うさ。 => "......You will pick it up.
+……妾が持ってきた、 => ......For the locked room I have brought you...
+………戦人の客室など下らぬ、 => .....is one to put Battler\'s guest room to shame—
+……もっと、シンプルで単純で、 => a locked room that is simple, basic,
+……絶対に解けぬ密室を、 => ......and absolutely unsolvable.
+……そなたは聞きたいはずさ」 => ......And you will want to hear about it."
+「…………絶対、 => "............An absolutely...
+解けぬ、 => unsolvable...
+………密室…ぅ………？」 => ......locked room............?"
+「……そなたは、妾の挑戦を受けたいはずさ。 => "......I know that you desire to accept my challenge.
+………なぜなら」 => .........I know that because—"
+「……………………………」 => "................................."
+「そなたは、」 => "You are—"
+{a:c: => {a:c:
+探偵だからだ。} => A detective.}
+ヱリカは花嫁衣裳を、マントのように脱ぎ捨てる……。 => Erika threw off her wedding dress as though it was a cape......
+そう。 => Yes.
+彼女は花嫁でも駒でも魔女でもある前に。 => Though she was a bride, a piece, and a witch...
+それらの何よりも一番最初に、 => Before any of those, first and foremost—
+「私は、探偵です。 => "I am...a detective.
+………あなたを、私の対戦相手に認めます。 => .........I acknowledge you as my opponent.
+ただ、…あなたはこのゲームに登場する資格を？ => However, ...are you qualified to participate in this game?
+ロジックエラーは修正できたんでしょうね…？」 => You {i:have} managed to fix the logic error, I assume...?"
+「その手袋を拾えば、 => "If you pick that glove up,
+そなたとの戦いの中で、それが修正できたことを証明しようぞ」 => I will prove that I have fixed it in my fight against you."
+「………………………………」 => "...................................."
+「………………………」 => "..........................."
+「グッド！！」 => "<Good>!!"
+おおおぉ！！ => Ohhhhhhhh!!
+大聖堂がざわめく。 => The cathedral filled with noise.
+……ヱリカが、……手袋を拾ったのだ。 => ......Erika...had picked up the glove.
+決闘だ！　決闘だ！！ => A duel! A duel!!
+大聖堂は奇妙な興奮に包まれる。 => The cathedral was wrapped in a bizarre excitement.
+ヱリカが頷くと、ドラノールはそれを察し、二人を残して、参列者たちの群を遠ざける。 => At Erika\'s nod, Dlanor pushed the crowd away, leaving the pair alone.
+……二人の決闘に立会人は許される。 => ......People were permitted to witness this duel.
+しかし、邪魔立てすることは、何人たりとも許されはしない…！ => However, no one would be allowed to hinder it in any way...!
+「………………………………ぅぅ……」 => "....................................uuughhh......"
+「……戦人さん、大丈夫です。 => "......It\'s alright, Battler‐san.
+……あなたを助ける方法は、もう見つけました」 => ......I\'ve already found a way to save you."
+「ど、 => "H‐
+………どう => .........how...
+……やっ => ...did...
+……て……」 => ....you......?"
+「今、あなたを助け出します。 => "I\'m going to save you now.
+もうしばらくだけ、辛抱して下さい…」 => Please endure just a little longer..."
+ベアトは再び毅然とした表情に戻り、不敵に笑い、ヱリカを、見下す。 => Beato\'s resolute expression returned, and she grinned boldly, looking down on Erika.
+あぁ、その表情こそ紛れもなく、 => Yes, there could be no doubt.
+……黄金の魔女だけが見せてくれた、 => ...This was the expression worn only by the Golden Witch,
+……密室の王者の貫禄なのだ。 => ......the majestic presence of the master of locked rooms.
+嵐に荒れる薔薇庭園を、人影が疾駆する。 => A shadow dashed through the stormy rose garden.
+{n}その影は、あまりに軽やかで、そして素早い。 => {n}It was incredibly light and swift.
+雨粒さえ捕らえられず、無数の水溜りは散らすことも、泥濘は轍を作ることさえ許されない。 => The raindrops never touched him, he made no splashes in the countless puddles, his feet left no tracks in the mud.
+その疾駆する影は、………嘉音だった…。 => That rushing figure.........was Kanon...
+そして階段を駆け上り、 => Then, he ran up the stairs...
+……屋敷の玄関へ。 => ...to the entrance of the mansion.
+扉を開けるために立ち止まる様子は、一切ない。 => He did not slow down in the slightest to open the door.
+……そのまま、打ち破るかのようにますますに疾走し、……飛び込む…！ => ......He ran straight at it as though trying to break through......and leapt into it...!
+閉じたままのはずの扉さえも、嘉音を退けることは出来ない。 => Though the door was shut, even that couldn\'t stop Kanon.
+彼は扉をすり抜け、玄関の内側に転げ、ゆっくりと立ち上がる。 => He slipped through the door, fell into the entranceway, and slowly stood up.
+その体は濡れてさえいなかった。 => His body wasn\'t even wet.
+………そして、……二度と訪れることのない、 => ......And, ......as he recalled those nostalgic days spent serving the Ushiromiya family, which would never come again,
+懐かしき右代宮家での日々を回想しながら、……再び走る。 => ......he ran once more.
+戦人の客室を目指して。 => He was heading for Battler\'s guest room.
+使用人室の前を抜け、 => He ran past the servant room,
+玄関ホールを抜け、 => through the entrance hall,
+客間の扉の前を駆け抜ける。 => and past the door to the parlor.
+そして見えてくる厨房への扉や食堂の扉…。 => Then, the doors to the kitchen and the dining hall came into sight...
+全てが、全てが懐かしい。 => All of it brings back fond memories.
+……金蔵に直接仕えることを許された名誉と、厳しさ。 => ......There was the honor and discipline of serving Kinzo directly.
+しかし彼は、その全ての時間が厳しかったわけではない。 => However, that man wasn\'t strict all the time.
+……その威厳を保って見せねばならない家族の姿がない時、 => ......When the family was out of sight and he didn\'t have to preserve that air of majesty,
+信じられないくらい子供っぽい顔を見せて、おかしな悪戯の片棒を頼んできたりするのだ。 => his face could turn unbelievably childish, and he would sometimes ask me to take part in strange pranks.
+………お館様に、銃を色々撃たせてもらったっけ。 => .........The Master let me shoot lots of guns, didn\'t he...
+…あれ、……結構、面白かったな。 => ...That......was pretty fun.
+旦那様は、案外やさしい人だった。 => Krauss‐sama was actually surprisingly kind.
+僕が普段、よっぽどお館様にいじめられてると思い込んでいたんだろう。 => He must have gotten the impression that the Master bullied me a lot.
+僕しか姿がない時には、まるでクラスメートに話し掛けるように、親しげに話しかけてくれたっけ。 => Whenever I was the only one around, he would talk to me in a very familiar way, almost as if he was a classmate of mine.
+……僕が遠慮して、相槌しか打たなかったことが、少しだけ心残りだ…。 => ......I sort of regret that I held back and never did anything but nod in return...
+奥様はとにかく厳しい人だったな…。 => Madam was a really strict person...
+……女の使用人には特に厳しかったけど、 => ......Ever since a rumor spread about her being strict on female servants but soft towards male servants,
+男の使用人には甘いとの陰口を聞いてしまってからは、僕を目の敵にしていた気がする。 => I get the feeling she viewed me as an enemy.
+でも、奥様も可哀想な人だった。 => However, she was also a woman to be pitied.
+……彼女がひとりの時、その肩を辛そうに下げているのを、僕は何度も見ているのだから。 => ......On many occasions when she was alone, I saw her shoulders sagging from her burdens.
+大勢の使用人がいたっけ。 => There were a lot of servants, weren\'t there...
+{n}……短い間だったり、長い間だったり。 => {n}......Some lasted a short while, others longer.
+源次さまは、僕が父と呼べる唯一の人。 => Genji‐sama is the one person fit to be called my father.
+……感謝も恨みもいっぱいある。 => ......I am both grateful and resentful towards him over many things.
+……もう全部混ぜこぜで、それらは相殺されてゼロの感情になった。 => ......Over time, all those feelings mixed together, cancelled out, and left me with a neutral emotion.
+熊沢さんは、ならば母と呼べる人だった。 => In that case, Kumasawa‐san could probably be called my mother.
+……あの人には色々なことを助けてもらった。 => ......She\'s helped me out so many times.
+いつか恩を返そうと思って、 => I always wanted to repay her someday,
+……とうとうその機会を永遠に失ってしまった。 => ......and now I\'ve lost that chance for all time.
+紗音は、 => Shannon...
+………僕の姉さん。 => ......is my big sister.
+彼女がいなかったら、僕は僕たりえなかった。 => Without her, I wouldn\'t have been able to be me.
+僕に海が青いことを教えてくれて、ありがとう……。 => Thanks for teaching me that the ocean is blue......
+……郷田？ => ......Gohda?
+………あいつは嫌いだ。 => .........I hate that guy.
+でも、まかないのシチューを褒めたら、 => Still, when I complimented his servant stew,
+顔を赤くしながらおかわりもあるなんて言い出した単純なところは、 => he would sometimes turn red and tell me there was enough for seconds.
+……嫌いじゃなかったかもしれない。 => ......I didn\'t dislike that part of him.
+食堂の前を駆け抜けるだけのわずかの時間に、どうしてこれほどに濃密な記憶が。 => I wonder why such strong memories popped up in the short time it took me to ran past the dining hall...
+そして、 => And then,
+……朱志香の記憶。 => ......my memories of Jessica.
+……へぇ。 => ......Ooh.
+……お、男の子の使用人なんだ…。 => ......S‐so you\'re a boy servant...
+{n}……君、……いくつ…？ => {n}......How......old are you...?
+それが、彼女と最初に交わした言葉だった気がする。 => I think those were the first words she spoke to me.
+……思えば、その時から彼女は僕に興味を持ってくれていたんだと思う。 => ......Come to think about it, she was probably interested in me ever since then.
+彼女とは、……譲治さまと紗音の二人に負けないくらいの愛を築く時間が、本当はあったんだ。 => We really did......have enough time to build up a love that could have competed with the love between George‐sama and Shannon.
+なのに、灰色の海しか僕が見えなかったから、その時間のほとんど全てを失った。 => But since I could only see the gray sea, I wasted almost all of that time.
+彼女は僕の何が好きなのか。 => What does she like about me?
+{n}僕は彼女の何が好きなのか。 => {n}What do I like about her?
+それさえも、はっきりさせることが出来なかった気がする。 => I get the feeling we were never really able to clarify that for ourselves.
+……いいや、彼女は言っていた。 => ......No, she told me.
+それを知るために、もっと近付きあうのもいいんじゃないかって。 => There\'s nothing wrong with spending more time together to eventually find that out.
+……恋の理由なんて、後でも良かったんだ。 => ......The reasons for love could have come later on.
+……それに気付くのが、 => ......It took me...
+僕は余りに、 => far too long...
+遅い。 => to realize that.
+………今なら、少し納得できるよ。 => .........Now, I think I can accept it.
+どうして紗音が決闘に勝ったか。 => I know why Shannon won the duel.
+神様はちゃんと見てる。 => God must have been watching.
+僕よりはるかに勇気を持っていた君を、神様はお見捨てにならなかったんだ……。 => You had so much more courage than I did, and God didn\'t abandon you......
+客室の並ぶ廊下に至る。 => I reached the hallway with the guest rooms.
+{n}……そこに人間が倒れているのが見える。 => {n}......There was someone lying on the ground.
+戦人だ。 => It was Battler.
+……首を鎖に繋がれたまま、客室を出たすぐのところで倒れている。 => ......He was lying just outside the guest room, a chain tied to his neck.
+……外からチェーンを何とかしようと、意識を失うまでもがき続けたのだろう…。 => ......He had probably struggled to do something with the chain lock from the outside until he lost consciousness...
+彼の両手の生爪が剥がれ、血塗れになっている。 => His fingernails on both hands had been torn off, and they were stained with blood.
+……彼が心を死なせる最後の瞬間まで、どれほどの努力をしたかが、一目でわかった。 => ......I could tell at a glance just how hard he had tried until the final moment when his heart had died.
+彼を縛る首輪は、チェーンロックを掛けなければ、消えない。 => The collar binding him wouldn\'t disappear unless the chain lock was set.
+「……戦人さま…。 => "......Battler‐sama...
+………大丈夫です。 => .........It\'s alright.
+…今、お助けします……」 => ...I\'m going to save you now......"
+「……………………………っ…、」 => ".................................ah..."
+戦人はわずかに応えた。 => Battler responded faintly.
+この、永遠の密室に助けが来るなんて、想像もしなかっただろう。 => He\'d probably never imagined that help would come to this eternal locked room.
+……だからそれが、自分の儚い妄想による幻聴かもしれないと、 => ......He was so scared that this might be an auditory hallucination brought about by his fleeting delusions...
+それが恐ろしくて、……なかなか目を覚ませない…。 => ...that he couldn\'t be easily roused...
+嘉音は戦人を後ろから羽交い絞めにするようにして、室内に引き摺り入れる…。 => Kanon grabbed Battler from behind and dragged him into the room...
+室内は、……ひどいものだった。 => The inside of the room......was terrible.
+窓ガラスは無残に割られ、風雨を室内に許している。 => The windows had been brutally shattered, and the wind and rain had made its way into the room.
+室内のあらゆる道具、あらゆる家具が、無残に壊されている。 => All kinds of tools and furniture lay broken there.
+しかしそれは全て、戦人が感情のままに暴れたからではない。 => However, Battler hadn\'t smashed them out of rage.
+カーテンは外されて、破られて、束ねてよじられていた。 => The curtain had been removed and torn to shreds which had been twisted together.
+……それでロープを作り、何かのトリックに使えないか、 => ......He had turned it into a rope,
+試行錯誤を繰り返したのだろう。 => probably while experimenting to see if he could use it for some trick.
+全ての脱出の可能性に賭け、室内のあらゆるものを利用しようとしたのだ。 => He had tried using everything in the room, exploring all possible options of escape.
+その痕跡は、部屋中に、そしてバスルームの中にさえ見られた。 => The traces could be seen throughout the room, and even in the bathroom.
+……水のない浴槽の中は、少しだけ血に汚れた、 => ......The empty bathtub was stained with just a bit of blood,
+……ニッパーが落ちている。 => ......and the nippers lay there on the bottom.
+彼は、 => To protect this tale,
+……この物語を守るために、 => ......he had nearly been prepared...
+………ベルンカステルが与えた、残忍な脱出方法……、 => ......to accept {f:5:Bernkastel}\'s brutal method of escape...
+自らを細切れにして、排水口より流す、 => and cut himself into pieces...
+……ということさえ、決意しかけたのだ。 => ...while washing himself down the drain.
+自分の身を、自ら細切れにしてでも。 => He was even willing to tear apart his own body.
+………ベアトに託されたゲームを、守ろうと、 => .........To protect the game Beato had entrusted him with,
+……何度もこの浴槽の中で、……他に方法はないのかと、自問自答を繰り返したのだろう。 => ......he had probably questioned himself over and over in this bathtub, wondering if there was any other way out.
+……ゲームの世界の時計の上では、それは一日にも満たない。 => ......By the clock of the game world, not even a single day had passed.
+……しかし、ロジックエラーの密室では、それは何年に及んだのか、想像もつかない。 => ......However, just how many years had that lasted in the locked room of the logic error?
+永遠の時間は、どんな残忍な方法であっても、それを終わらせてくれる方法を魅力的にする。 => When faced with an endless span of time, any way of ending it, no matter how cruel, is tempting.
+………しかし、彼はそれを最後まで拒絶した。 => .........However, he had rejected that until the very end.
+そして、 => And...
+……心が死ぬ最後の瞬間にも、 => ...even in the last moment when his heart had died,
+……自分がこの部屋から出るという鉄の意思を証明したくて、 => ......he had wanted so much to show his iron will to escape from this locked room...
+………彼は、鎖を引き摺ったまま、 => .........that he had chosen to fall here in the corridor,
+……廊下で倒れることを選んだのだ…。 => ......with the chain still around his neck...
+「………戦人さま。 => ".........Battler‐sama.
+……嘉音です。 => ......It\'s Kanon.
+……どうか、お気をしっかり…」 => ......Please, come to your senses..."
+洗面台で濡らしたタオルで戦人の顔を拭く。 => He wiped Battler\'s face with a towel wetted in the sink.
+その冷たい感触は、少しずつ戦人の鼓動を呼び戻していく…。 => In response to that cold sensation, Battler\'s heart slowly started beating again...
+「…………ぁ、 => "............Ah...
+………。 => .........
+………か、 => .........K‐
+…………嘉音くん => ............Kanon‐kun,
+………か…」 => ......is that you...?"
+「そうです。嘉音です。 => "Yes, it\'s me, Kanon.
+……よくぞ、 => ......You did well...
+………今日まで耐え忍ばれました」 => ......to endure until today."
+「へ……へへ……。 => "Heh...heheh......
+……ちょいと、 => ......Looks like...
+……寝坊が、 => I slept in...
+……過ぎたみてぇだ => ...just a little too...
+……ぜ……」 => ...much......"
+戦人は、首元を拭われる感触で、あの呪わしい鉄の首輪と鎖がないことに気付く。 => Battler realized that the feel of the towel on his neck meant that the cursed collar and chain were gone.
+「もう、戦人さまを縛るものは何もありません。 => "There\'s no longer anything binding you here.
+……さぁ。 => ......Come on.
+早くお戻り下さい」 => Please, head back quickly."
+「………で、 => ".........B‐
+……でもよ。 => ......but...
+……あのチェーンを開けると、 => ...if I unset that chain lock,
+……また鎖に繋がれちまう…」 => ......that chain will come back..."
+「大丈夫です。 => "Don\'t worry.
+もう戦人さまを縛る鎖は存在しません。 => No longer does any chain exist to bind you, Battler‐sama.
+……僕が、ここに残ります」 => ......I will remain here."
+「何、……だって……、」 => "What......did you say......?"
+戦人は、この永遠の密室の恐ろしさを、もはや誰よりも知っている。 => By now, Battler knew the terror of this eternal locked room better than anyone else.
+だから、この部屋から出られる喜びよりも、新たな囚人となる嘉音の決意に、呆然とならざるを得ない…。 => So, his happiness at being able to leave was overwhelmed by his shock at the determination of this room\'s new prisoner...
+「僕は大丈夫です。 => "I will be fine.
+何も心配することはありません」 => There is no need to worry."
+「……し、 => "......B‐
+……しかし……」 => ......but......"
+「戦人さまは、まだやらなければならないことが、おありなのではないですか…？」 => "Battler‐sama, isn\'t there still something you have to do...?"
+「………お、 => ".........I...
+……俺は…………」 => ...I......"
+「早く、お戻りを。 => "Go back, quickly.
+……あなたの代わりに、戦っている人がいる。 => ......There is someone fighting in your place.
+そして、あなたの帰りを、待っている人がいる。 => And there is someone awaiting your return.
+………あなたはまた、 => .........Will you do it again?
+……帰らないのですか」 => ......Not come back?"
+真剣な言葉と眼差しが、……戦人を射抜く。 => His stern words and gaze......shot straight through Battler.
+「……本当に、……いいのか」 => "......Are......you sure?"
+「はい。 => "Yes.
+……それでいいんです。 => ......That will be fine.
+これで、あの時の借りが返せるのですから」 => This way, I can repay my debt from back then."
+「……借り？ => "......Debt?
+俺、嘉音くんに何か、」 => Do you owe me something?"
+「戦人さまの借りではありません。 => "It isn\'t a debt I have with you, Battler‐sama.
+……いいから行って下さい。 => ......It\'s okay, so go.
+僕は、借りを作らない主義なんです。 => I don\'t like keeping debts.
+………さぁ早く。 => .........Go, quickly.
+…あなたは、今度こそ待たせてはいけないんです。 => ...You must not keep her waiting this time.
+……だから、早く」 => ......So, quickly."
+もう戦人は、何も言い返せない。 => Battler couldn\'t argue back anymore.
+そして無言で頭を下げ、……チェーンを外し、扉を開ける。 => He silently bowed his head, ......unset the chain, and opened the door.
+室内に嘉音が残っているから、戦人の首にもう、鎖は現れない。 => Kanon had remained in the room, so no chain appeared about Battler\'s neck.
+……ただ走るだけで、この密室を出られる…。 => ......He could leave this locked room just by running out...
+廊下のずっと遠くで聞こえていた賑やかな楽しそうな声は、 => The happy‐sounding voices that he had heard at the far end of the corridor...
+……今はざわめきに変わっている。 => ...had been replaced with an excited chatter.
+何かおかしな騒ぎが起こっているのに違いない。 => There must have been some sort of strange disturbance going on.
+廊下へ出る俺を見送る嘉音の首には、 => As Kanon went out into the corridor to see me off,
+……もう、新たな囚人を捕らえる、無慈悲の首輪と鎖が。 => ......the merciless collar and chain had already captured their new prisoner.
+彼は戦人に代わり、……この永遠の密室に残る……。 => He would remain inside this eternal locked room......in Battler\'s place......
+「………嘉音くん。 => ".........Kanon‐kun.
+俺もだぜ」 => I feel the same."
+「何がですか？」 => "About what?"
+「俺も、……借りを作らない男だぜ。 => "I......don\'t like keeping debts.
+……この恩は、必ず返す。 => ......I\'ll definitely repay you.
+それも、すぐにだ」 => And I\'ll do it soon."
+「……期待していいやら…。 => "......I hope I can count on that...
+さぁ。走って。 => Go on. Run.
+……あなたの愛する人のところへ。 => ......Run to the one you love.
+そしてどうか、もう二度と迷わないで…！！」 => And please, never get lost again...!!"
+戦人はもう振り返らない。 => Battler would not turn around any longer.
+全力で駆け出す。 => He ran with everything he had.
+何度もその温かさを呪った廊下に駆け出す。 => He ran out into the corridor, whose warmth he had cursed so many times.
+{n}もう、呪いの鎖は彼を縛らない。 => {n}That cursed chain no longer bound him.
+彼は廊下の先の先へ、 => He ran to the end of the corridor and beyond,
+……光の向こうへ駆け抜けていく……。 => ......beyond the light......
+鎖に繋がれた嘉音は、 => Kanon, still connected to the chain,
+………それを見送り、静かに客室へ戻る。 => .........watched him go, then quietly returned to the guest room.
+あとは、自分の仕事だけだ。 => Now, he only had to worry about his own job.
+この部屋に留まり、 => Stay in this room...
+……ロジックの、エラーを直す。 => ...and fix the error in logic.
+「………これで、 => ".........Now,
+……チェーンロックを掛けて…」 => ......I set the chain lock..."
+掛けると同時に、嘉音の首の鎖も消える。 => As soon as he set it, the chain disappeared from his neck.
+……そして、ヱリカが唯一捜索していない場所、クローゼットに隠れれば。 => ......Now, if he hid in the closet, the one place Erika hadn\'t checked...
+………これで、壊れたロジックは直る…。 => .........the broken logic would be fixed...
+クローゼットを、ゆっくりと開く。 => The closet door opened slowly.
+油の効いた扉は、何の音も立てずに静かに開いた。 => It was well‐oiled, and opened without a sound.
+……そこは狭く、薄暗い。 => ......It was cramped inside, and dark.
+このわずかのスペースが、僕の、……最後の場所だ。 => This tiny space......is the final place for me.
+{n}ここに閉じ篭り続ける限り、ロジックは維持される。 => {n}As long as I remain hidden in here, the logic will be preserved.
+「………簡単な仕事だな。 => ".........That\'s an easy job.
+……薔薇の手入れより簡単さ」 => ......Easier than caring for the roses."
+嘉音は中に入り、……内側から観音開きの扉を閉める。 => Kanon entered the closet......and closed the double doors from the inside.
+……閉まると同時に、ふわりと、 => ......As soon as he did,
+……一匹の小さな黄金蝶が現れ、 => ......a small gold butterfly appeared,
+……そしてクローゼットの闇に解けて消えた。 => ......melted into the darkness of the closet, and vanished.
+ロジックが直った合図だろう。 => It must have been a sign that the logic had been fixed.
+魔女のゲームは、もう止まり、駒の世界の時計は、永遠に進まない。 => The witch\'s game had already stopped, and the clock of the world of the pieces would never tick again.
+だから、ここに誰かが助けに来ることは、 => So, for all eternity,
+……もう、永遠に、 => ......no one...
+…ない。 => would come to save him from this place.
+「別にいいさ。 => "That\'s okay.
+………これで、……借りは返したよ。 => .........This way, ......I\'ve paid back my debt.
+ベアトリーチェ」 => {f:5:Beatrice}."
+黄金蝶のブローチの力で恋を教えてくれた。 => The power of the gold butterfly brooch taught me about love.
+{n}第３のゲームで、朱志香との静かな時間を守ってくれた。 => {n}In the third game, it gave me some quiet time alone with Jessica.
+……他にも小さいことがいくつかあった気がする。 => ......I get the feeling it did many other small things for me.
+{n}とにかくもうこれで、……全部貸し借りはなしだ。 => {n}At any rate, ......now I\'ve paid back all of my debts.
+{n}誰の貸し借りも、もう。 => {n}I owe nothing to anyone, and no one owes anything to me.
+………朱志香が貸してくれた、音楽テープ。 => .........That music tape Jessica lent me.
+……返してないや。 => ......I never gave that back, did I...
+いいよね、朱志香……。 => That\'s okay, isn\'t it, Jessica......?
+あれ、気に入ってたんだ。 => I liked that one.
+だから、プレゼントにしてもらってもいいかな…。 => Can I keep it as a present...?
+……ダビングして渡すからダメ…？ => ......No, but you\'ll make a copy for me...?
+は、……はははははは……。 => Ha......hahahahahaha......
+…………………。 => .....................
+…………。 => .........
+嘉音の体は、 => Slowly,
+……ゆっくりと黄金蝶の群に、 => ......Kanon\'s body began to melt...
+……溶けていく……。 => ...into a cloud of gold butterflies......
+そして、……狭く暗いクローゼットの内側に、黄金に輝く小さなプラネタリウムを見せた後、 => And, ......after the inside of the cramped, dark closet glittered like a golden planetarium,
+……蛍の光が消えるように、儚く消えて、 => ......it faded away like the light of fireflies,
+……漆黒の闇に塗り潰されて消えた。 => ......and was painted over with a pitch blackness.
+……………永遠に………。 => ...............For all eternity.........
+大聖堂には、山羊の参列者たちが、………赤い絨毯を挟んでひしめいていた。 => In the cathedral, the goat attendees.........were all jostling around either side of the red carpet.
+赤絨毯の上には、 => On the red carpet,
+………向こうと、こちらで、 => .........standing across from each other,
+……ベアトとヱリカが対峙している。 => ......were Beato and Erika.
+その手には、……ゼパルとフルフルより与えられた、決闘用のピストルが。 => In their hands......were the dueling pistols given to them by Zepar and Furfur.
+「フリントロック式ですか。 => "Flintlocks, are they?
+また古風な」 => How old‐fashioned."
+「気にするな。 => "Pay it no mind.
+悪魔というのは様式美に拘るものでな」 => Demons are very particular about style."
+形こそ実在の古風な銃に酷似するが、それはもちろん、悪魔の銃。 => Its form was similar to an actual old‐fashioned gun, but this was, of course, a demon\'s gun.
+火薬を詰めて火花で鉛弾を飛ばす銃ではない。 => This wasn\'t a gun that would propel a lead bullet with an explosion caused by gunpowder.
+……紗音と嘉音の決闘では、必殺の魔法が詰められたように、 => ......Like the pistols used in the duel between Shannon and Kanon, whose bullets had contained a magic that would always kill,
+彼女らの決闘でも、鉛でない弾を詰める…。 => these pistols also had bullets that were not made of lead...
+「……ベアト……」 => "......Beato......"
+「心配の必要はないわよ。 => "There\'s no need to worry.
+あっさり勝って、またリーアは悪態の日々だわ」 => She\'ll win easily, and you\'ll have to deal with her insults again, Lia."
+「この勝負が終わりましたら、たまには有給を申請してみましょう。 => "When this match is over, we should ask to be paid every now and then.
+……私、この戦いが終わったら、たまにはぶらりとカリブの方へ船旅にでも」 => ......When the fight is finished with, I would like to take a trip down to the Caribbean sometime."
+「この勝負が終わったらーは、やめとけって…。 => "Enough talk about "when the fight is over"...
+決闘前に縁起でもないわっ」 => That\'s an ill omen before a duel."
+「ベアト！　緊張感を持って！！ => "Beato! Take this seriously!!
+へらへら笑ってる場合じゃありませんッ」 => This is no time to be standing around laughing!"
+「何でリーチェがリラックスしてて、リーアが緊張してんのよ。もう」 => "Why is Riiche relaxed and Lia tense? You two..."
+「せーの！」 => "All together...!"
+「「「ベアトリーチェさまぁ、しっかりー！！」」」 => """{f:5:Beatrice}‐sama, you can do it!!"""
+「……ベアトリーチェさまに不利な一騎打ちだ」 => "......{f:5:Beatrice}‐sama is at a disadvantage in this duel."
+「どうして…！」 => "Why...?!"
+「……本来、魔女は手数で勝負できる。 => "......Normally, a witch can put up a fight by piling mystery upon mystery.
+ところが、ゲームが中断されたため、手持ちは、“戦人さまの客室の謎”くらいしかないのよ」 => However, since the game has been suspended, she has nothing on her side except the mystery of Battler‐sama\'s guest room."
+「ヱリカはその謎だけ青き楔で穿てば、全ての謎を解明したことになってしまう！！」 => "If Erika can just strike a blue wedge through that one mystery, it\'ll mean that she\'s solved everything!!"
+「勝てるわよ。 => "We can win.
+……ベアトリーチェさまと、 => ......I believe in {f:5:Beatrice}‐sama...
+……戦人さまの、 => ...and Battler‐sama,
+……我らが二人の主を、私は信じる…！」 => ......our two masters...!"
+「……お呼びデスカ」 => "......Did you call {f:5:me}?"
+「ありがと」 => "Thanks."
+「……？」 => "......?"
+「珍しく。 => "For once,
+……勝ちも負けも五分五分だと思ってます。 => ......it feels as though our chances for winning are fifty‐fifty.
+だから先にお礼を言っときます」 => So I\'d like to thank you beforehand."
+「全て職務デス。 => "It is simply my {f:5:job}.
+感謝の必要はありマセン」 => There is no need to thank {f:5:me}."
+「………………………。 => "...........................
+……あんたが前回のゲームの時。 => ......In the last game,
+……私がボロクソに負けたのに庇ってくれた時。 => ......when you protected me after my pathetic defeat,
+……嬉しかった」 => ......I was touched."
+「私、生まれてから誰かに庇われたのって、あれが初めてだった。 => "That was the first time in my life that anyone had ever protected me.
+……我が主にさえ、私は庇われたことがない。 => ......Even my master has never done so.
+私が主に与えられたのは、……暴かれた真実には、暴き返すことで自分の痛みを打ち消すという、 => All she gave me was a way to negate the pain of naked truth by laying bare the truths of others...
+傷つけ合いの仕方だけでした」 => and causing them just as much pain."
+「…………………。 => ".....................
+……傲慢を、お許し下サイ。 => ......Please, forgive my {f:5:arrogance}.
+……私は、守らねばと思いマシタ。 => ......I felt that I needed to protect {f:5:you}.
+……あなたがどんなか弱い真実で生き、 => ......As soon as I realized what fragile truth you live by,
+それをよりもっともらしい虚実の横暴で虐げられてきたか、察した時。 => and how much it has been violently abused by fiction that sounds more plausible,
+……あなたを、守りたいと思いマシタ」 => ......I wanted to protect {f:5:you}."
+「ありがとう。 => "Thank you.
+………短い間だったけど、あんたは最高のパートナーでした」 => .........Our time together was short, but you were a wonderful partner."
+「これからもデス」 => "And I will remain {f:5:so}."
+「……そうですね。 => "......You\'re right.
+あいつを倒したら、あんたと一緒に、この島でいっぱいミステリーを作りましょう。 => Once we\'ve defeated her, let\'s make tons of mysteries on this island together.
+そして、それをあんたに出題して、いじめて遊ぶ。 => I\'ll have you solve them, and tease you as we play.
+……どうです？」 => ......How does that sound?"
+「……気に入りマシタ。 => "......It sounds {f:5:interesting}.
+あなたの挑戦、楽しみにしてイマス」 => I am looking forward to your {f:5:challenge}."
+「あ、ウソごめん。 => "Ah, no, sorry.
+今の撤回です。 => I take that back.
+……こーゆうの、負けフラグって言うんでしょ？」 => ......That\'d be one of those loser flags, wouldn\'t it?"
+「ふ、」 => "Pft—"
+「「くすくすくすくす、あははははは」」 => ""*giggle*giggle*giggle*, ahahahahaha.""
+「「さぁ、いいかい、二人の決闘者たち！！」」 => ""Now, are you ready, duelists?!!""
+二人の悪魔が手を叩くと、決闘者たちは緊張感ある不敵な笑みに、瞬時に戻る。 => When the two demons clapped their hands, the duelists instantly returned to their bold, tense smiles.
+「魔法の銃に込める弾は、鉛じゃないわ！」 => "The bullets to be loaded into those magic guns are not lead!"
+「ミステリーとファンタジーの穿ち合いは、赤と青の真実を弾とするべきさ！！」 => "A shootout between mystery and fantasy should be fought with bullets of red and blue truth!!"
+「互いに真実がある限り、弾は無限！」 => "As long as you possess truth, your bullets are endless!"
+「ただし、一撃でも当たれば、即死！」 => "However, being hit by a single one means instant death!"
+「「両者、覚悟はいいね？！」」 => ""Are you both prepared?!""
+「当然」 => "Naturally."
+「無論」 => "Of course."
+「「栄光ある元老院の議員にして偉大なる絶対の魔女、大ラムダデルタ卿！！ => ""Lady {f:5:Lambdadelta}, the great and powerful Witch of Certainty and member of the glorious Senate!!
+お出でませッ！！ => Please come forward!!
+汝、この決闘の立会人となることを誓うか！！」」 => Will you swear to oversee this duel?!!""
+「もちろんよ。 => "Of course.
+誓うわ」 => I swear it."
+人垣が割けて、ベルンカステルを伴ったラムダデルタが歩み出る。 => The crowd split, and {f:5:Lambdadelta} walked forward with {f:5:Bernkastel} by her side.
+そして、左右の決闘者たちの顔を見比べる。 => She looked between the faces of the two duelists.
+そして、……あの、片翼の鷲の紋章の入った封筒を取り出し、それを高々と掲げる。 => Then, ......she took out an envelope with the seal of the One‐winged Eagle...and lifted it high.
+「ベアトリーチェより封書にて、物語の修正書を受け取ったわ。 => "{f:5:Beatrice} has sent me her revisions to the tale inside a sealed envelope.
+審査の結果、内容は有効。 => I have inspected it and find its contents to be valid.
+ロジックエラーの回避を宣言するわッ！！ => I declare the logic error averted!!
+“チェーンロックは掛かったまま！ => The chain lock is still set!
+これまでの赤き真実に一切矛盾しない！”」 => And without any contradictions with any red truth made up to this point!"
+ざわざわざわざわ…！！ => *chatter*chatter*chatter*...!!
+……大勢の山羊の参列者たちも、戦人の密室の詳細を知っている。 => ......The many goat attendees knew the details of Battler\'s locked room.
+それが如何に難解なものかを。 => They realized how difficult it was.
+そして、披露宴の間中、これだけ大勢が熱論を交わしたのに、 => And, though fiery debates had swept across the crowd during the reception,
+その謎は誰にも解けなかった。 => no one had been able to find an answer.
+それが、……ベアトリーチェによって、解答がすでに示されているというのだ。 => And now......it was clear that {f:5:Beatrice} had already reached one.
+「よって、本決闘は有効。 => "Therefore, this duel is legitimate.
+決闘はたった一点。 => It will center around one, single point.
+戦人の客室の密室を巡って行なわれるわ！ => The locked room of Battler\'s guest room!
+チェーンロックが掛かった密室から、右代宮戦人は失踪した！」 => Ushiromiya Battler disappeared from within a locked room sealed by a chain lock!"
+「これについて、ヱリカは青き真実の装填を。 => "Erika will load her weapon with blue truth regarding this matter.
+ベアトリーチェは反論の赤き真実の装填を。 => {f:5:Beatrice} will load hers with red truth to counter back.
+……決闘は決着がつくまで続けられるものとする！！」 => ......The duel will continue until one side is victorious!!"
+「上等だ」 => "Splendid."
+「上等です」 => "Perfect."
+「ＯＫ。 => "OK.
+それではベアト。 => Well then, Beato.
+あなたが修正した、新しい物語と謎を、ヱリカに提示して」 => Present your new, revised tale and riddle to Erika."
+「密室のいとこ部屋より、 => "The cousins\' room was also a locked room.
+嘉音は魔法にて封印を破らずに脱出。 => Kanon used magic to escape from there without breaking the seals.
+密室に至り、魔法にて戦人を密室の外へ脱出させた」 => He then arrived at Battler\'s locked room and used magic to allow Battler to escape."
+「………ふん、 => ".........Hmph,
+下らない物語」 => what a foolish tale."
+「結構。 => "Good.
+ヱリカ側、確認は？」 => Erika, is there anything you wish to confirm?"
+「復唱要求。 => "Repetition requested.
+“戦人を救出したのは、間違いなく嘉音本人である”」 => "The one who rescued Battler was, without a doubt, Kanon.""
+「受けようぞ。 => "Very well.
+{p:1:戦人を救出したのは、間違いなく嘉音本人である}」 => {p:1:The one who rescued Battler was, without a doubt, Kanon}."
+「復唱要求。 => "Repetition requested.
+“戦人と嘉音は別人である”」 => "Battler and Kanon are different people.""
+「受けようぞ。 => "Very well.
+{p:1:戦人と嘉音は別人である}」 => {p:1:Battler and Kanon are different people}."
+「……ふん。 => "......Hmph.
+結構です」 => That\'s enough."
+「ヱリカ、確認は以上？」 => "Erika, are you done confirming things?"
+「今ので結構です。 => "That was all I needed.
+戦い方は決まりましたので」 => I\'ve already decided how to fight."
+「ＯＫ！ => "OK!
+両者は弾丸を装填なさい…！！」 => Let both sides load their bullets...!!"
+ヱリカは背を向け、ピストルの銃口に指を当て、 => Erika turned around, pressed her finger against the barrel of the pistol,
+……自分の青き真実を弾丸にして込める。 => ......made her blue truth into a bullet, and pushed it in.
+背を向けなければならない決まりはないが、表情を読まれたくなかったのだ。 => There was no rule saying that she had to turn away, but she didn\'t want her expression to be read.
+……あるいは、ベアトの不敵な表情を見続ける緊張に、耐えられなかったのかもしれない。 => ......Or, it might have been because she couldn\'t stand the tension of looking at Beato\'s bold smile.
+ベアトはもう、赤き真実の装填を終えている。 => Beato had already finished loading her red truth.
+悠然と煙管を吹かしながら、ヱリカの準備を待ち受けている。 => She waited for Erika to finish while calmly puffing on her pipe.
+そして、……立会人の魔女たちのすぐ隣に設けられた領主の玉座に座る戦人を見る。 => Then, ......she looked at Battler, who sat on the throne of the territory lord, right next to the two witches who sat as witnesses to this duel.
+………戦人の意識は朦朧としたままだ。 => .........Battler\'s consciousness was still hazy.
+しかし、自分を救うためにベアトが決闘に臨んでいることはわかっているらしい。 => However, he apparently understood that Beato had come to duel for his sake, so that he could be saved.
+澱んだ瞳で精一杯に、……見るだけだけれど、 => It was all he could do to just look at Beato with those sluggish eyes,
+……ベアトに万感の思いを送る。 => ......but a flood of emotions passed between them.
+……言葉など必要なかった。 => ......There was no need for words.
+{n}彼らには、それで充分伝わるのだから。 => {n}A look was enough for them now.
+ヱリカは銃口に指を当てたまま、………きつく目を瞑る。 => Erika closed her eyes tightly, .........her finger still up against the barrel.
+驚異的な集中力は、その瞬間に、全世界の喧騒をゼロにする。 => At that moment, her stunning powers of concentration made all the distractions of the outside world disappear.
+……グッド。 => ......<Good>.
+いつもながら、良い集中力です。 => My concentration is as sharp as ever.
+それでは始めましょうか、私。古戸、ヱリカ。 => Are you ready, me? Furudo...Erika.
+まずは状況の整理。 => First, let\'s lay out the situation.
+あの密室から戦人が消えた。 => Battler disappeared from that locked room.
+{n}チェーンロックは掛かってる。 => {n}The chain lock is set.
+魔法で消えた？ => Did he disappear by magic?
+馬鹿馬鹿しい！ => Of course not!
+トリックが絶対にあるんです！ => There has to be a trick!
+嘉音が魔法で助けたんじゃない。 => Kanon didn\'t save him with magic.
+単純に、嘉音が来て、戦人と入れ替わってチェーンを掛けただけ。 => He just came, took Battler\'s place, and set the chain.
+……そこまでは誰だってわかる！ => ......Everyone knows that much!
+問題はその一歩先。 => The problem is what comes next.
+いや、むしろ一歩前。 => No, it\'s actually what comes before.
+嘉音は、ゲストハウスのいとこ部屋にいた。 => Kanon was in the cousins\' room in the guesthouse.
+いとこ部屋はガムテープでの完全封印が、ロジックエラー時まで有効だったことが証明されてる。 => That room was completely sealed with duct tape, and it has been proven that the seal was in effect until the time of the logic error.
+つまり、言い訳不能、屁理屈無用の、絶対密室から、嘉音は脱出しているのだ。 => In other words, Kanon escaped from a locked room that was absolute, with no excuses or twisted logic possible.
+グッド！ => <Good>!
+これがあいつの言ってた、シンプルにして最高最悪の密室ってわけですね。 => This is why she called it a simple yet ultimate locked room.
+………完全密室のいとこ部屋から、如何にして脱出するか。 => .........How did he escape from the perfect locked room known as the cousins\' room?
+ふふん。 => Heheh.
+ここに固執する程度では、少年探偵止まりですね。 => If I fixated on that question, I\'d be no better than your average kid detective.
+……いとこ部屋は完全密室なんだから、“脱出の方法はない”。 => ......That room is a perfect locked room, so {i:there is no way to escape}.
+つまり、いとこ部屋からどう脱出したかを考えるのはただの時間の無駄です！ => In other words, trying to think of ways that Kanon could have escaped from the cousins\' room is simply a waste of time!
+むしろ問題は、……如何にして嘉音は、 => The real question......is how Kanon...
+封印時にいとこ部屋以外に居たかです。 => could have been somewhere other than the cousins\' room at the time it was sealed.
+いとこ部屋は完全な缶詰。 => The cousins\' room is a completely sealed can.
+{n}封印時に中にいたら、もうゲームオーバー。 => {n}If he was in there when it was sealed, then it\'s already game over.
+つまり、……いとこ部屋封印時には、もう中にいなかったわけです！ => That means, ......he was already outside it at the time it was sealed!
+となると、私が封印時にした所在確認。 => I checked everyone\'s location at the time of sealing the rooms.
+{n}これが怪しいってことになります。 => {n}That check I performed must be suspect.
+当時、私は、自分の所在した隣部屋について、 => At that time, I had just been inside the next room over...
+実際に目視で存在を確認した５人。 => and confirmed the presence of five people there with my own eyes.
+秀吉、 => Hideyoshi,
+譲治、 => George,
+熊沢、 => Kumasawa,
+紗音、 => Shannon,
+南條。 => Nanjo.
+……この５人の名を特定して所在確認をし、隣部屋の人間を確定しました。 => ......I specifically listed the names of those five people when performing the location check for that room and received confirmation that they were in there.
+そして、それ以外の“全員”がいとこ部屋にいると所在確認し、これも確定させました。 => Then, I checked to see whether "everyone else" was in the cousins\' room...and had that confirmed for me as well.
+“全員”なんですから、嘉音だろうと嘉哉だろうと、それこそプルプルピコ丸だろうと、 => I said "everyone", so whether he was Kanon or Yoshiya or even Purupurupiko‐Man,
+何でもかんでも、いとこ部屋に封印できたことになるわけです。 => they all should have been sealed in the cousins\' room.
+一見、完璧。 => It seems perfect.
+でも、この“全員”というのが、 => However, though that word "everyone" seems perfect,
+……完璧そうに見えて、胡散臭い！ => ......something\'s fishy!
+この“全員”という言葉の正確な定義は、 => The exact definition of that phrase "everyone else"...
+“私が直接、名前を挙げなかった全ての人間という意味”。 => is "all people whose names I did not mention directly".
+つまり、例外がある！ => In other words, there are exceptions!
+例えば……、 => For example,
+……秀吉や譲治は隣部屋にいると確定している。 => ......it\'s been confirmed that Hideyoshi and George were in the next room over.
+つまり、秀吉、譲治、という名前を持つ人間は => So, humans with the name Hideyoshi or George...
+“{i:いとこ部屋に含まれなくていいことになる}”！ => {i:don\'t need to be inside the cousins\' room}!
+嘉音の本名は、朱志香に対し嘉哉と名乗ったらしいけど、 => It seems that Kanon told Jessica that his real name was Yoshiya,
+……これは赤き真実ではない。 => ......but that was no red truth.
+つまり、………嘉音の本名が、隣部屋の誰かと同名だったら？！ => In other words, .........what if Kanon\'s real name is the same as one of those in the next room over?!
+歳が近そうだから、仮に譲治としよう。 => They seem to be about the same age, so let\'s use George.
+つまり、あの部屋には２人の譲治がいたとしたら？！ => So, what if there were two Georges in that room?!
+隣部屋にいるのは、秀吉、譲治、熊沢、紗音、南條である、 => That doesn\'t violate the red truth saying that...
+という赤き真実に違反はしない。 => Hideyoshi, George, Kumasawa, Shannon, and Nanjo are in the next room over.
+嘉音の本名が、仮に、田中譲治だとしたら。 => Let\'s say that Kanon\'s real name was Tanaka George.
+あの部屋には、右代宮譲治と田中譲治が同時に存在できる！ => Both Ushiromiya George and Tanaka George could exist in that room at the same time!
+つまり、……５つの名前に、６人の人間がいたということ！ => In other words, ......there were six humans with five names!
+私の目には隣部屋に５人しかいないように見えたけど、６人目の嘉音が、こっそり隠れていたのだ。 => It looked to my eyes as though there were only five people in the next room over, but a sixth person, Kanon, was hiding somewhere.
+私に探偵権限はないから、私の目を欺いて隠れることは難しいことじゃない。 => I don\'t have the detective\'s authority, so it wouldn\'t be that difficult for him to fool my eyes and hide.
+なるほどね、同名トリックか……。 => I see, the double name trick......
+{n}下らない、下らない…！！ => {n}Stupid, so stupid...!!
+よしッ、出来た、私のロジック！！ => Alright, I\'ve made my logic!!
+いとこ部屋ではなく、隣部屋に隠れていた嘉音が、封印後に窓から外へ、 => Kanon, who was hiding in the next room over, not the cousins\' room, left by the window after the seals were placed—
+バチン！！ => Bang!!
+「痛ッ、……つつつ……」 => "Ah, ......owww......"
+銃口が爆ぜて、指の先端に血を滲ませる。 => There was an explosion at the barrel of her gun, staining the tip of her finger red with blood.
+{n}青き真実の火薬が破裂したのだ。 => {n}The blue truth gunpowder had exploded.
+……あ、 => ......Ah,
+……ちっくしょう……。 => ......dammit......
+……私、 => ......I...
+…さっきドラノールにそれ、 => ...had Dlanor seal that one...
+……封印させた……。 => ...a short while ago......
+“隣部屋の窓を論点にした青き真実を禁止”って、 => I told her to "ban any blue truth arguing about the windows of the next room over",
+封印させちまったです……ッッ！！！ => so I can\'t use it......!!!
+「……どうした、暴発か？ => "......Oh, an accidental discharge?
+弾は慎重に込めぬとな。 => Careful now, guns can be dangerous.
+くっくくくくく」 => *cackle*cackle*cackle*."
+「う、うるさいです！！ => "Sh‐shut up!!
+ちょっとしたミスです…！！」 => It\'s just a little mistake...!!"
+「…………隣部屋の窓。 => "............The windows of the next room over.
+下らん小細工で塞いだようだな？　ガァプに聞いたぞ」 => You blocked them off with some inane trick, I hear. Gaap told me."
+「そ、……そうですか。 => "D‐......did she, now?
+それが何か？！」 => And so what if I did?!"
+「ドラノール。その下らぬ封印を解け。 => "Dlanor. Remove that foolish seal.
+くっくっくっく、今や、その封印は貴様らの枷であるわ」 => *cackle*cackle*, that seal is now your shackle."
+ベアトは、こちらの思考を全て察しているのだ。 => Beato has figured out everything I\'ve been thinking.
+しかもその上、どうぞ遠慮なくそれを論点に反撃せよと、余裕ぶっている…！ => And she\'s acting so confident, telling me to go ahead and use that argument...!
+「……ヱリカ卿」 => "......Lady {f:5:Erika}."
+「と、……解いてくださいッ。 => "P‐......please remove it.
+……あんにゃろォ、 => ......That fool,
+…後悔させてやります…ッ！！」 => ...I\'ll make her regret this...!!"
+「「準備はいいようだね、決闘者たちッ！！ => ""It seems you are ready, duelists!!
+良ければ向き合って銃口を」」 => Please face each other with your pistols.""
+「「そして真実の火種で着火を！！」」 => ""Then fire with the sparks of truth!!""
+ヱリカはもう一度背を向け、精神を統一してからぎょろりと振り返る。 => After facing away and readying herself one last time, Erika spun around.
+ベアトは最初から背を向けていない。 => Beato had been facing her since the beginning.
+{n}ようやくかと、挑発する余裕の笑みだ。 => She had a confident, challenging smile, as if she\'d been kept waiting.
+そして二人は、誰の合図もなく、ゆっくりと銃を構え合い、 => Then, without any signal, the two slowly raised their guns...
+銃口の奥底の、赤と青の輝きを覗かせ合う。 => ...pointing the red and blue glints that hid within their barrels at each other.
+「来い。楽しませてもらうぞ」 => "Come. I could do with a little fun."
+「……始めなさいッ！！！」 => "......Begin!!!"
+「まず、嘉音が如何にして、いとこ部屋の密室から脱出したか。 => "First is how Kanon escaped from the cousins\' room.
+……それを弾丸とします！」 => ......I\'ll use that as my bullet!"
+「ほう、そちらから来るか。 => "Hoh, so you\'ll start from there.
+……来るがよいぞ。 => ......Let\'s have it.
+存分に！」 => Hold nothing back!"
+「参りますッ！！」 => "Here I go!!"
+ヱリカは大きく振りかぶるようにして銃を構え直すと、 => After holding the gun high and pointing it at Beato once more,
+赤と青の真実の宣言によって引き金を引く。 => Erika pulled the trigger with statements of red and blue truth.
+「{p:1:いとこ部屋は完全な密室が最後まで保証されています。 => "{p:1:The cousins\' room is guaranteed to be a perfect locked room until the end}.
+{p:2:よって、嘉音がこの部屋に本当に居たなら、脱出は不可能です！ => {p:2:So, if Kanon really had been in that room, it would have been impossible for him to escape!
+つまり嘉音は封印時にいとこ部屋にいなかったのです！！ => In other words, Kanon was not in the cousins\' room at the time it was sealed!!
+嘉音の名は仮のもの。 => Kanon\'s name is an alias.
+本名は未だ不明です！ => His real name is still unknown!
+彼の本名が仮に、隣部屋の誰かと同じだったなら、隣部屋の在室確認に矛盾しない。 => If his name happened to be the same as anyone in the next room over, that wouldn\'t contradict the check on who was in that room.
+つまり、いとこ部屋に収容されず、隣部屋に居ることが出来るということ！！}」 => In other words, it\'s possible for him to be in the next room over, not the cousins\' room}!!"
+山羊の参列者たちがざわめき、手を打つ。 => The goat attendees chattered and clapped their hands in realization.
+{n}……そうか、その手があったかと！ => {n}......As if to say, "Of course! I didn\'t think of that!"
+あぁ、これを見るのが好き。 => Ah, I love watching this.
+{n}このざわめきを浴びるのが好き。 => {n}I love being surrounded by this chatter.
+{n}……私は、……探偵だから！！ => {n}......After all, ......I am a detective!!
+「{p:1:隣部屋は確かに封印されましたが、 => "{p:1:It is true that the next room over was sealed,
+ロジックエラー時には、扉のみしかその維持が証明されませんでした。{p:2: => but at the time of the logic error, only the doors were checked to see whether the seals were preserved}.
+よって、窓の封印は破られた可能性があります。 => {p:2:Therefore, there is a chance that the window seals were broken.
+嘉音は隣部屋に存在し、その窓から脱出したのです…！！} => Kanon was in the next room over, and he escaped through that window}...!!
+以上ッ！！！」 => That is all!!!"
+これしか推理はありえない！！ => Any other theory would be impossible!!
+これが駄目だったら、 => If this doesn\'t work,
+……もう、真実なんて、ないッ！！ => ......then there\'s no truth left!!
+以上、の宣言と同時に、二人は同時に引き金を引いた。 => As soon as she said "that is all", both of them fired at the same time.
+……残響の破裂音の後、 => ......After the blast rang out,
+……床に落ちるのは、ヱリカの銃だった…。 => ......it was Erika\'s gun that fell to the floor...
+ベアトの赤き弾丸が、正確にヱリカの銃を弾き飛ばしたのだ。 => Beato\'s red bullet had knocked Erika\'s gun from her hands.
+それは、……驕りか余裕か。 => Was it......arrogance, or confidence?
+その弾丸をヱリカの心臓に撃ち込んでいれば、それで決着だったのに…。 => If she had just aimed that bullet at Erika\'s heart, the whole thing would have been over...
+ベアトはわざと外したのだ。 => Beato had missed on purpose.
+その表情は余裕の笑み。 => There was a confident smile on her face.
+{n}まだ遊んでやると言わんばかりだ。 => {n}It was as though she was offering to play with Erika a little longer.
+……いや、それでこそベアトだ。 => ......In fact, that was Beato through and through.
+難解な密室トリックで嘲笑う魔女こそが、ベアトリーチェ…！ => {f:5:Beatrice}, the witch who mocks others with unsolvable locked room tricks...!
+「{p:1:封印時の隣部屋に居たのは、 => "{p:1:At the time the next room over was sealed,
+秀吉、譲治、熊沢、紗音、南條である。 => Hideyoshi, George, Kumasawa, Shannon, and Nanjo were in it.
+そして、隣部屋の人数は５人である。 => And the number of people in the next room over was five.
+この５つの名に該当する者以外は存在しない！ => No one existed there except for those to whom those five names refer!
+全ての名は、本人以外には名乗れない！！}」 => Every name has just one person that it belongs to, and no one can go by a name that is not theirs}!!"
+「…………ぅ、 => "............uu...
+……く => ...gkk...
+…ッ => ...
+…………！！」 => ............!!"
+徹底的に容赦のない、赤き真実…。 => It was a thoroughly merciless red truth...
+率直に、手痛い……。 => It really was...severe......
+５人と断言され、嘉音を紛れ込ます余地が完全に否定された。 => Now that it had been limited to five people, any leeway for Kanon hiding there had been completely denied.
+そして、５つの名に該当しない者は存在しないと言い切られたため、 => Since only those to whom those five names referred existed within the room,
+１人の人物が２つの名前を持つことで、５つの名前を４人で満たし、 => Erika couldn\'t even make a new theory by suggesting that one person held two names, so that the five names referred to only four people,
+名前を持たぬ嘉音を１人紛れ込ますという、新しい推理までも否定されてしまった。 => and allowing for Kanon to sneak in even though his name wasn\'t on the list.
+全ての名前は本人以外は名乗れないというのも、他無数の推理を伐採する、致命傷…！ => Furthermore, the part about how "every name has just one person that it belongs to, and no one can go by a name that is not theirs" was a fatal blow that cut down countless theories...!
+「……思えばそなたは、前回の寝惚けた妾しか知らんのだったなぁ…？ => "......Come to think of it, you only know the half‐sleeping me from the last game, don\'t you...?
+どうだぁ、ヱリカぁ？ => What do you think, Erikaaa?
+……これが、黄金の魔女の、ゲームだぜェええぇええぇ…？？？」 => ......How do you like the game of the Golden Wiiiiiiiiiitch...???"
+「馬鹿な…、 => "That\'s insane...
+……ま……魔法で、 => ......A‐......are you saying...
+……嘉音が部屋を抜け出したって言うの……？！ => ......that Kanon slipped out of the room by magic......?!
+ぐ、……く……。 => Ghh, ......gkk......
+……そ、それより、 => ......M‐more importantly,
+どうして銃を弾くなんて甘い真似を…！！」 => why did you only knock my gun away...?!!"
+「人間側は魔女の謎を全て打ち砕き、魔女側は人間側の推理を１つ打ち砕けばいい。 => "The human side must crush all of the witch\'s riddles, whereas the witch side need only crush the human\'s theories once.
+……これではアンフェアだろォ？ => ......Don\'t you find that unfair?
+だから、妾も同じにすることにした」 => So, I decided to have it be even."
+「……お、……同じぃいいぃ……？」 => "......E‐......eveeeeeeeen......?"
+「妾も、そなたの推理を全て打ち砕いて勝利することにした。 => "I\'ve decided that I\'ll make my victory condition be the destruction of all of your theories.
+……嘉音脱出の謎は妾の勝ちだが、もう一つ！ => ......I\'ve won the riddle of Kanon\'s escape, but there\'s one more!
+戦人に辛酸をなめさせた最初の戦場に戻ろうぞ！！」 => Let\'s return to the first battleground, where you gave Battler so much trouble!!"
+ベアトが指を弾くと、あの戦人の客室が再構築される。 => When Beato snapped her fingers, that guest room of Battler\'s was reconstructed.
+ロジックエラーを強いたあの部屋で、再度戦い、今度こそ決着をつけようというのだ。 => She meant to fight once more in the room that had threatened Battler with a logic error, determined to settle things once and for all.
+「ヱリカ、拾え、銃を。 => "Erika, pick up your gun.
+……この部屋を、お前の棺桶にしてくれるわ！」 => ......We\'ll have this room be your coffin!"
+「………その言葉ッ、そっくりお返しします！！ => ".........I say the same to you!!
+私にチャンスを与えたことを、 => I\'ll make you regret...
+……後悔させてやりますッ！！」 => ...ever giving me this chance!!"
+「立会人よ。 => "Witness.
+ヱリカに、Ｘを許す」 => I permit Erika to use X."
+「……Ｘぅ？ => "......X?
+説明不要の根拠ね？ => A basis which doesn\'t need to be explained?
+で、何を許すの？」 => So, what are you going to let her do?"
+「ヱリカは、嘉音の密室脱出トリックの説明義務を負わずに、 => "I relieve Erika of her obligation to explain how Kanon escaped from his locked room...
+嘉音をこの“客室トリック”を巡る青き真実に組み入れることを許そうぞ」 => and permit her to involve him in blue truths concerning this "guest room trick" without explanation."
+嘉音が戦人を助けた云々という推理は、 => If a theory for explaining how Kanon saved Battler...
+ならば嘉音はどうやって密室から脱出したのかを説明しなければ、立脚しない。 => did not also explain how Kanon escaped from his own locked room, it would have no basis.
+ヱリカは、その立脚にすでに失敗している。 => Erika had already lost that basis.
+……ベアトはその部分を、証明不要で構わないと、ハンデを与えているのだ。 => ......Beato was giving her a handicap by saying that she didn\'t need to explain that part.
+「と、……当然です！！ => "N‐......naturally!!
+あんたは、嘉音が戦人を助けたことを赤き真実で保証してるんですから！ => You\'ve already used the red truth to guarantee that Kanon saved Battler!
+そんなのもらえて当然です…！」 => It\'s only natural that I be given this privilege...!"
+ヱリカは再び背を向け、集中力を高める…！ => Erika faced away again and concentrated even harder...!
+世界から雑音と雑念を、ラジオのボリュームを捻って下げるように、……ゼロにする。 => As though twisting the knob on a radio, she turned all noise and idle thoughts down to zero.
+行こ、古戸ヱリカ。 => Let\'s go, Furudo Erika.
+探偵、古戸ヱリカ！ => Detective, Furudo Erika!
+嘉音さえ到達できれば、戦人の救出は難しくない。 => As long as Kanon reaches this place, rescuing Battler isn\'t hard.
+そのトリックは以下の通り。 => The trick is as follows.
+何らかの脱出トリックＸを使い、とにかく嘉音は客室前に到着した。 => Kanon used some kind of escape trick X to reach the front of the guest room.
+私がバスルームで騒いでる間に、……戦人がクローゼットから出る。 => While I was busy in the bathroom, ......Battler left the closet.
+戦人はチェーンロックを開ける。 => Battler undid the chain lock.
+戦人は外へ出る。 => Battler went outside.
+嘉音が入れ替わりに入る。 => Kanon entered in his place.
+嘉音がチェーンロックを閉じる。 => Kanon set the chain lock.
+嘉音がクローゼットに隠れる。終わり！ => Kanon went into the closet. The end!
+……これで、２つの赤き真実、“チェーンロックの施錠”と、“戦人の不在”を満たせた。 => ......This satisfies the two red truths about the chain lock being set and Battler\'s absence.
+そして、脱出トリックの代償として客室内には嘉音が残る。 => And, in exchange for this escape trick, Kanon remains inside the guest room.
+……この部屋の密室性については、これまた議論の余地がない。 => ......There\'s no room for argument on how tightly this room can act as a locked room.
+あのチェーンは呪いのチェーン。 => That chain is cursed.
+必ず誰かがここで生贄にならなければ成立しない、魔の密室なのだ。 => In this demonic locked room, one person must remain as a sacrifice for it to be acceptable.
+……しかし、本当にそんな簡単な推理でいいのか……？ => ......However, is such a simple theory really enough......?
+救出者が入れ替わった。 => The rescuer switched places with him.
+そしてクローゼットに隠れている。 => And the rescuer is hiding in the closet.
+これ以外に推理はありえないのだ。 => No other sort of theory is possible.
+{n}にもかかわらず、ベアトは勝てるつもりでいる。 => {n}And yet, Beato thinks she can win.
+{n}なら、……これ以外にトリックが存在するというのか…？ => {n}In that case, ......does some other trick exist...?
+ありえない！ => It\'s impossible!
+それ以外の方法では、絶対、断じて、どうしようとこうしようと、 => I swear on the history of the mystery genre that there\'s absolutely, definitely,
+ミステリーの歴史に誓ってありえないッ！！ => categorically no other way!!
+でもね、それで降参するようじゃ探偵なんて名乗れないッ！！ => But I\'d never be able to call myself a detective if I gave in here!!
+考えろ、想定しろ、思考を止めるな、 => Consider, imagine, don\'t stop thinking...
+それが魔女にぶっ刺した青き楔を抉り込むッてことだッ！！ => That\'s how you drive blue wedges into witches!!
+……想定されるのは、……そう。 => ......One thing I can think of......yes.
+言葉遊びのトリック！ => A wordplay trick!
+赤き真実で語られた言葉や単語の網を、ぎりぎりすり抜けた、 => It can only be some kind of "wordplay"...
+……“言葉遊び”しか考えられない…！ => ...that just barely slips through the net of words spoken in red...!
+ならば、その可能性を徹底的に潰す！ => In that case, I\'ll crush all possibilities!
+{n}復唱要求で潰しまくる！！ => {n}I\'ll crush them all with repetition requests!!
+この最後の決闘は、……引き金を引く前の今からもう、始まっている…！！ => This final duel......has already begun, even though we haven\'t pulled our triggers yet...!!
+「復唱要求。 => "Repetition requested.
+“戦人救出時、客室に入ったのは嘉音のみである”」 => "At the time Battler was rescued, only Kanon entered the guest room.""
+「認めようぞ。 => "I acknowledge it.
+{p:1:戦人救出時、客室に入ったのは嘉音のみである。} => {p:1:At the time Battler was rescued, only Kanon entered the guest room}.
+そういう話のつもりだが…？」 => I believe that was the whole point..."
+「復唱要求。 => "Repetition requested.
+“私の入室からロジックエラー時まで、私と戦人と嘉音以外に、入退室した者は存在しない”」 => "From the time I entered the room to the time of the logic error, Battler, Kanon, and I were the only ones who entered or exited the room.""
+「{p:1:認めようぞ。 => "{p:1:I acknowledge it.
+そなたの入室からロジックエラー時まで、客室を出入りしたのは、そなたと戦人と嘉音のみだ}」 => From the time you entered the room to the time of the logic error, you, Battler, and Kanon were the only ones who went in or out of the guest room}."
+「復唱要求。 => "Repetition requested.
+“それは即ち、３人のことである”」 => "This refers to three people.""
+「{p:1:認めようぞ。 => "{p:1:I acknowledge it.
+そなたと戦人と嘉音で、３人である}」 => It refers to three people: you, Battler, and Kanon}."
+「定義確認。 => "Confirming definition.
+この３人の定義は体の数に等しいと考えていい？ => Can I accept "three people" to mean the number of bodies?
+３体が出入りをしたってことですよね？」 => You\'re saying that three bodies went in or out of the room, right?"
+もう、名前と人数のちぐはぐはごめんだ。 => I\'ve had enough of things being mixed about with names and numbers of people.
+{n}ここははっきりさせたい…！ => {n}I want this point to be clear...!
+「{p:1:無論だ。 => "{p:1:Of course.
+３人、即ち３体が出入りした。 => Three people—in other words, three bodies—went in or out.
+そなたと嘉音は入ったのみ、戦人は出たのみ。 => Only you and Kanon entered, and only Battler left.
+全ての名は本人以外に名乗れないと赤き真実ですでに語っている。 => It has already been said in red that every name has just one person that it belongs to, and no one can go by a name that is not theirs.
+よって、ヱリカ、戦人、嘉音の名はいずれも、本人にしか名乗れぬのだ}」 => Therefore, for each of the names "Erika", "Battler", and "Kanon", only that single person can go by that name}."
+「復唱要求。 => "Repetition requested.
+“私は救出者ではない”」 => "I am not the rescuer.""
+「{p:1:当然だ！} => "{p:1:Of course}!
+そなたは探偵ではないか。 => You are the detective, are you not?
+安心せよ、妾はそれを尊重する！」 => Worry not, I will respect that!"
+「定義確認。 => "Confirming definition.
+“救出者の定義とは？”」 => How do you define "rescuer"?"
+これも大事なこと。 => This is also important.
+{n}私が意図せぬ救出者である可能性は真っ先に否定したい。 => {n}I want to immediately remove the possibility that I rescued him accidentally.
+「{p:1:救出者とは、戦人の開けたチェーンロックを、再び掛け直した者、ということにする。 => "{p:1:A "rescuer" means someone who reset the chain lock after Battler undid it.
+戦人を救う意思があったかどうかは、問わないことにしておく}」 => It does not matter whether they intended to save Battler or not}."
+戦人の開けたチェーンロックとは即ち、私の入室後にしか発生しない。 => Since she said "after Battler undid the chain lock", it\'s impossible for this to have occurred before I set foot in the room.
+その後、私は“永遠に”開錠していない。 => After that point in time, I would not undo the chain "for all eternity".
+なぜなら、そこでそのままゲームは中断されてしまったからだ。 => After all, the game was suspended at that point.
+よって、私は意図せぬ救出者にはなりえない。 => Therefore, it\'s impossible for me to have been the rescuer accidentally.
+まだだ、まだ煮詰める……。 => More, I can boil it down even more......
+チェーンは内側からしか閉められない。 => The chain can only be set from the inside.
+{n}単独脱出は不可能だ。 => {n}It\'s impossible for a person to escape on their own.
+よって自動的に、戦人に単独脱出はない。 => Therefore, we know that Battler didn\'t escape by himself.
+そして私が救出者ではない。 => And I\'m not the rescuer.
+{n}嘉音しか救出者にはなれない。 => {n}Only Kanon can be the rescuer.
+しかも、嘉音が救出者であると、ベアトも赤き真実で語り済みだ。 => Plus, Beato has already said that Kanon is the rescuer in the red truth.
+……不審な点はない。 => ......There\'s nothing to doubt.
+嘉音以外の誰も、混じり込む余地がない。 => There\'s no room for anyone but Kanon to be involved.
+……今のところ！ => ......At least, so far!
+「復唱要求。 => "Repetition requested.
+“出入りの定義とは、客室と外部の境界を跨いだかどうかである”」 => "The definition of "going in or out" is "crossing the boundary between the guest room and the area outside it.""
+「{p:1:認めようぞ}」 => "{p:1:I acknowledge it}."
+「復唱要求。 => "Repetition requested.
+“客室とは、 => "The phrase "guest room" includes all of:
+ベッドルーム、 => the bedroom,
+バスルーム、 => the bathroom,
+クローゼット内の全てを含む”」 => and the closet.""
+「{p:1:認めようぞ。} => "{p:1:I acknowledge it}.
+クローゼット内を客室でないと言い逃れる気などさらさらないわ」 => I\'ve no intention of wriggling out of this by saying the closet isn\'t part of the guest room."
+「定義確認。 => "Confirming definition.
+客室内とは、ベッドルーム、バスルーム、クローゼット内の３区分である」 => The inside of the guest room is divided into three sections: the bedroom, the bathroom, and the closet."
+「{p:1:妾もその認識でいるぞ。 => "{p:1:I also recognize it as such.
+そしてすでにそなたは、ベッドルーム、バスルームの２区分で、 => Furthermore, you have already confirmed with the red truth that two of those sections, the bedroom and the bathroom,
+誰も隠れていないことを赤き真実で確認したはずだ}」 => had no one hiding in them}."
+「復唱要求。 => "Repetition requested.
+“クローゼット内には誰かがいる”」 => "There is someone in the closet.""
+「拒否する」 => "I decline."
+「どうしてッ？！ => "Why\'s that?!
+嘉音がそこに隠れているからですか？！」 => Because Kanon is hiding there?!"
+「嘉音は魔法が使えるのだぞ。 => "Kanon can use magic.
+確かにクローゼットに一時、姿を隠しはしたが、その後すぐに魔法で姿を消したのだ…！ => It\'s true that he hid himself in the closet for a time, but he then immediately vanished with his magic...!
+だからクローゼット内には不在！ => So, there is no one in the closet!
+よって復唱は出来ぬわ！」 => I cannot respond!"
+「それの復唱を再要求します！！」 => "I request for that to be repeated instead!!"
+「馬鹿め、魔女側には魔法で行なったことについて、説明する義務はないわ！」 => "Fool, the witch side has no obligation to explain how they did things with magic!"
+……いや、まったく、当然だ。 => ......No, it\'s completely obvious.
+{n}嘉音は魔法で消えたと赤き真実で言えるわけがない！ => {n}There\'s no way she can say that Kanon disappeared with magic using the red truth!
+だって魔法なんて存在しないのだから！！ => After all, magic doesn\'t exist!!
+しかし、……これで、……どう？！ => But......is this......enough?!
+……重箱の隅を徹底的に突いた。 => ......I\'ve gone through every last minor detail.
+{n}でも、薄気味悪いくらいに不審点はない。 => {n}And yet, there\'s an uncanny lack of dubious points.
+当初の推理以外に、紛れが入り込む余地は考えられない。 => I can\'t imagine that there\'s any room for anything to go any differently from the theory I\'ve had since the beginning.
+嘉音は間違いなく、クローゼットの中なのだ。 => Kanon must be in the closet.
+絶対にこの中にいる。 => He has to be.
+いないわけがない！ => There\'s no way he isn\'t!
+何度でも繰り返す！ => I\'ll say it again!
+この密室は、救出者と入れ替わることでしか脱出できない。 => This locked room can only be escaped from by switching places with a rescuer.
+嘉音も脱出しようとしたら、他の救出者を必要とするのだ。 => If Kanon tried to escape as well, another rescuer would be needed.
+しかし、嘉音の救出者は存在しない！ => However, no rescuer exists for Kanon!
+戦人は“脱出した”のだから、救出不能。 => Battler "escaped", so it\'s impossible for it to be him.
+{n}そして私は永遠に“チェーンを開けていない”！ => {n}And I won\'t undo the chain "for all eternity"!
+人数も名前も、出入りした人間は確定している！ => The people who have gone in and out of the room have been confirmed both by name and number of people!
+………これで、 => ......Which means...
+……推理は、 => ...my theory...
+……確定だ。 => ...is set in stone.
+まず、確定的状況の詳細は以下の通り！ => First, here are the details of the situation that are certain!
+{p:1:ゲームは、私が客室に入ったところで終わってしまったのだから、 => {p:1:The game ended while I was inside the guest room,
+私は、自分で閉めたチェーンロックを、開けてさえいない。 => so I did not undo the chain lock that I had previously set.}
+{p:1:だから、私が退出した後に、私に続いて脱出、というのは通用しない。 => {p:1:So, it can\'t be that he escaped behind my back after I left the room.}
+{p:1:また、チェーンロック施錠は、入室と同時に行なっている。 => {p:1:Furthermore, the chain lock was set at the same time I entered the room.
+{n}私が入室してから、チェーンロック施錠までの数秒間に、誰も退室は出来ないのだ。 => {n}No one could have left the room during the few seconds between the time I entered and the time I set the chain lock.}
+{p:1:客室は、戦人検死時に封印したため、 => {p:1:I sealed the guest room at the time I examined Battler\'s "corpse",
+私が再び訪れて封印を自ら破るまで、客室の出入りは一切不可能だ。 => so until I came again and broke the seals, it was absolutely impossible for anyone to go in or out.}
+{p:1:よって、私の入室時、戦人は客室内のどこかに隠れていたことは確定する。 => {p:1:Therefore, it\'s certain that Battler was hiding somewhere inside the guest room at the time that I entered it.}
+{p:1:戦人の脱出のチャンスは、私が封印を破った後のみ。 => {p:1:The only chance Battler had to escape was after I broke the seals.}
+{p:1:さらに限定すれば、私がバスルームにいる間しか脱出チャンスは存在しない。} => {p:1:To be even more specific, he had no chance to escape except for the time I was in the bathroom}.
+以上の前提により、チェーン施錠のまま、戦人が脱出するトリックは以下の通りとなる！ => By the above premises, Battler\'s trick to escape with the chain still set is as follows!
+{p:2:以上の理由により、この間、内側からしか施錠できないチェーンロックを施錠状態にして脱出するには、 => {p:2:For the aforementioned reasons, the only one who could have set the chain lock, which can only be set from the inside, and allowed Battler\'s escape...
+私と戦人以外で唯一の入室者である、嘉音にしか出来ない！ => is Kanon, the only person to enter the room except for me and Battler!}
+{p:2:嘉音は入室後、チェーンを閉め、 => {p:2:After Kanon entered the room, he set the chain,
+客室内で唯一、隠れられる場所、クローゼットの中に隠れたはず、} => hid in the one place that he could hide inside the guest room, the closet—}
+………あッ？！ => .........Ah?!
+ッぶない、危ないッ！！ => Whoa, that was close!!
+引っ掛かるところだった、騙されるところだったッ！！ => They almost got me... They almost tricked me!!
+私はクローゼットの中に追い詰めたつもりでいた。 => I thought that I had cornered him in the closet.
+逆だッ！！ => It\'s the opposite!!
+私がクローゼットの中にいると思い込まされているんだ！ => {i:They\'re} trying to make {i:me} think he\'s in the closet!
+私は客室内の捜索をどんな順番でした？！ => What was the order in which I searched the guest room?!
+まず、ベッドルーム。 => First, the bedroom.
+{n}何もないと赤き真実で確認。 => {n}We confirmed with the red that there was nothing there.
+続いて、バスルーム。 => Then, the bathroom.
+{n}何もないと赤き真実で確認。 => {n}We confirmed with the red that there was nothing there.
+ここだッ！！ => That\'s it right there!!
+ベッドルームを調べた時点では、何もなかった。 => {i:When we examined the bedroom}, there was nothing there.
+しかし、私がバスルームを調べている最中に、 => However, while I was investigating the bathroom,
+……嘉音はクローゼットを抜け出し、 => ......Kanon slipped out of the closet,
+ベッドルームに“隠れ直した”のだ！ => and {i:hid again} somewhere in the bedroom!
+だからつまり、ベッドルームに何もないという保証は、ものの１分で破られていたのだ…！ => In other words, the guarantee that no one was in the bedroom...was torn apart after just one minute...!
+見破ったッ！！ => I\'ve spotted it!!
+{n}クローゼットに嘉音が、とミスを誘う、魔女の罠…！ => {n}This is the witch\'s trap, an attempt to lure me into thinking that Kanon\'s in the closet...!
+嘉音の本当の隠れ場所は、……ベッドルームだ…！！ => The place he\'s really hiding......is the bedroom...!!
+「く、 => "Heh,
+………くす、 => .........*giggle*...
+……くすくすくすくすくすくすくすくす！！ => ...*giggle*giggle*giggle*giggle*!!
+……見つけた、 => ......I\'ve found it...
+……やっと見つけましたよ、 => ......I\'ve finally found it...
+……あんたの、 => ......Your...
+…トリック…！！」 => trick...!!"
+「………………………………」 => "...................................."
+危ないところだった。 => That was a close one.
+これで私が、クローゼットの中にしか隠れる場所はないッ、 => If I\'d gone and said there was nowhere to hide except inside the closet,
+とやると、中身は空っぽでしたー、となったに違いない。 => she\'d have said, "too bad, the closet is empty!"
+え？　……い、いや、違う…。 => Huh? ......N‐no, wait...
+その逆も通用する……。 => It works the same way in reverse......
+そうか、なるほど…。 => I see, now I get it...
+{n}差し替えロジックのトリックか…！ => {n}It\'s an interchangeable logic trick...!
+ベアトめ、ロジックエラーの修正を通じて、そんな妙なトリックに気付いたか！！ => Damn that Beato... So, in resolving the logic error, she\'s discovered this strange trick!!
+クローゼットにしか気付かなかったら、嘉音はベッドの下に隠れたことにする。 => If I only notice the closet, she\'ll have Kanon hide under the bed.
+逆にベッドにしか気付かなかったら、嘉音はクローゼットに隠れたことにする。 => And if I only notice the bed, she\'ll have Kanon hide in the closet.
+どちらも正解なのに、どちらを選んでも敗北する。 => Both are correct, and yet choosing either one means losing.
+{n}両方を同時に暴かないと、チェックメイトにならない…！ => {n}I have to expose both at the same time, or it isn\'t checkmate...!
+何てこと……。 => Incredible......
+{n}こんなアンフェアなトリック、聞いたことがない……。 => {n}I\'ve never heard of such an unfair trick......
+手品だったらそれは、とてもチープ。 => If this was a magician\'s stage trick, it\'d just be a cheap one.
+ミステリーだったらそれは、…ただのインチキ……。 => If it was a mystery, ...it\'d just be cheating......
+しかし、この魔女のゲームではそれは、立派な、 => However, in this witch\'s game, it\'s a legitimate...
+……“ロジックトリック”…。 => ...“logic trick”...
+チェスで言えば、ダブルチェック。 => In chess, it\'d be called a double check.
+いや、ディスカバードアタック、 => No, a discovered attack.
+……いやいや、ディスカバード・ダブルチェックメイト……？ => ......No no, a discovered double checkmate......?
+ミステリーだったら、あまりに卑劣なロジックなのに、 => Even though this sort of logic would be a foul trick in the mystery genre,
+……この、魔女とミステリーを争う世界では、 => ......in this world where witches wage war with mystery,
+…………何と、高貴な盤面なのか……。 => ............what a...regal position it is......
+私の白のキングを詰める、 => The beautiful placement of the black pieces cornering my white king...
+……美しき黒の駒たちの配置が描く図形は芸術性さえ感じさせ、 => ...feels almost like art,
+……私が神話の神ならば、そのまま空に浮かべて星座にしたいと思うほどに、 => ......a work of such beauty that if I were a god in the age of myth,
+……それは美しかった………。 => I might wish to display it in the sky as a constellation......
+私は、その美しさに、 => That beauty...
+………涙さえ、 => ......even brought tears...
+零れ落とす……。 => to my eyes......
+……私は初めて、 => ......For the first time,
+……魔女と真偽を争うゲームに、 => ......I feel honored...
+……人間として参加できたことを、光栄に思う。 => ...to have been allowed to participate as a human in a game of truth against a witch.
+そしてそれは皮肉にも、 => And, ironically,
+…………真実は一つと信じてきた私に、真実は一つとは限らないことを教える。 => ............it taught me, a person who has always believed that there is only one truth, that truth isn\'t necessarily always singular.
+少し視野を広げるだけで、まったく違う真実も見えてくるのだ。 => If I just broaden my perspective, I can see a completely different truth.
+……そしてその真実はどちらも“真実”でありながらも、……それしか見えてないなら、不正解なのだ……。 => ......And though each of those truths are "true", ......both are incorrect if they are all you can see......
+…………私は、これまでの人生の中で、瑣末な真実で失明することによって、 => ............In my life until now, just how many truths have I turned my eyes away from...
+………どれだけの真実に、自ら目を背けて来たのだろう……。 => ......because I was blinded by some trivial truth......?
+……………これが、 => ...............This is...
+………世界の、 => ......the truth...
+真理……。 => of the world......
+「………真実は一つしか存在しないという驕りが、 => "......Because of our arrogance in thinking that only one truth exists,
+……たった一つの真実を見つけただけで、それ以外の真実から、私たちを盲目にしてしまう。 => ......whenever we find one truth, we are blinded to all others.
+…………ありがとう、ベアトリーチェさん。 => ............Thank you, {f:5:Beatrice}‐san.
+………まさか、 => .........I never thought...
+……魔女に、 => ...that a witch...
+……この世界の真理を教えられるとは、思いませんでした」 => ...would be the one to teach me the true nature of this world."
+「…………………………」 => ".............................."
+ゆっくりと、 => Slowly,
+……まるで、朝露を零しながら、 => ......with a soft and gentle motion,
+蕾がゆっくりと開いていくかのように、 => like a flower opening...
+……柔らかで静かな仕草で、 => ...with the morning dew dripping down its side,
+………ヱリカは銃を構える…。 => .........Erika raised her gun...
+「私の、勝ちです。 => "I am the victor.
+あなたのダブルチェック、見切りました」 => I\'ve seen through your double check."
+「…………ならば、来るが良い」 => "............Then come."
+「…… => "......
+{p:2:“戦人の客室失踪”トリックは、以下の通りです。 => {p:2:‘Battler\'s guest room disappearance trick’ is as follows.
+……戦人は私の室内探索中、クローゼット内に隠れていました。 => ......While I searched the room, Battler was hiding in the closet.
+そしてバスルームの騒ぎの間に、チェーンを外し、室外へ脱出しました。 => Then, during the disturbance in the bathroom, he unset the chain and escaped from the room.
+この時、廊下には嘉音が待機していました。 => At that time, Kanon was waiting for him in the hallway.
+嘉音は入れ替わりで客室に入り、チェーンを施錠しました。 => Kanon entered the guest room in his place and set the chain.
+これが戦人失踪のトリックです}」 => This is the trick to Battler\'s disappearance}."
+「{p:2:……そしてその後、彼は、 => "{p:2:......And, afterwards,
+………ベッドルーム内に隠れました。 => .........he hid in the bedroom.
+私が、ベッドルームに不審者がいないことを確認した後のことですので、それは有効です。 => This happened after I checked to see that there was no one unexpected in the bedroom, so it is valid.
+よって、救出者嘉音は、ベッドルームに潜伏しています}」 => In this way, Kanon the rescuer concealed himself in the bedroom}."
+ヱリカの青き弾丸が奇妙な弧を描いて飛び、 => Erika\'s blue bullet flew in a strange arc,
+それは真実の青き楔となってベッドを真上から床まで縦に貫く。 => became a wedge of the blue truth, and pierced straight down through the bed and the floor beneath.
+ベアトは引き金を引かない。 => Beato didn\'t pull her trigger.
+……しかし、ただ静かに赤き真実で反論した。 => ......However, she did quietly argue back with the red truth.
+「{p:1:ベッドルームに嘉音は存在しない}」 => "{p:1:Kanon does not exist in the bedroom}."
+おおお…、と山羊の参列者たちはどよめく。 => The goat attendees gasped.
+赤き真実に否定されて、ヱリカが敗北したように見えるからだ。 => It had appeared as though Erika had been defeated, denied by the red truth.
+……一つの真実しか見えない山羊どもには、それで私が負けたように見えるだろう…。 => ......To goats who can\'t see more than a single truth, it probably looks as though I\'ve lost...
+「ふ、……くっくくくくくくくくく…。 => "Pft, ......*cackle*cackle*cackle*cackle*...
+次が本命です。 => Next is the real one.
+……これが、並び立つ真実を知り得た、ニンゲンの答えです。 => ......This is the answer from a {y:0:Human}{n:0:human} capable of understanding multiple truths.
+…………どうやら、幻想物語では第二の晩までが終わってるみたいですし。 => ............It looks like the tale of fantasy will end with the second twilight.
+……ならば私が残りの晩を遂行して、 => ......So, why don\'t I carry out the remaining twilights...
+……黄金郷への扉を開いてあげましょう。 => ...and open the door to the Golden Land.
+………あなたが負けて消えるならば。 => .........If you are to disappear,
+それは、黄金の薔薇に包まれてが相応しい…！」 => then it should be surrounded by your golden roses...!"
+ヱリカの足元より、青き真実の炎が噴き、 => The fires of blue truth flashed at Erika\'s feet...
+……再び青き真実の弾丸を装填する。 => ...and she loaded a blue truth bullet once more.
+溢れんばかりの青き力に、もはや銃自体が、青く燃えていた……。 => That overflowing blue power was now making her entire gun burn with a blue flame......
+狙っているのは、ベアトではない。 => She wasn\'t aiming for Beato.
+ベアトの、後ろ。 => She was aiming behind Beato.
+………クローゼット…！！ => .........At the closet...!!
+「ベッドルームを否定したならば、もう逃げ場はここしかないッ！！ => "Now that the bedroom has been denied, you\'ve nowhere left to run!!
+死ねぇえええぇ嘉音ォぉおおぉおおんんんんんんッ！！」 => Diii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iiiee, Kanooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oonnn!!"
+放たれし５本もの青き真実の楔は、ベアトの頬や髪や肩を掠め、 => The five wedges of blue truth she released grazed Beato\'s cheeks, hair, and shoulders,
+……クローゼットを扉ごと滅多刺しにし、 => ......then pin‐cushioned the door to the closet,
+中に隠れている人間を、扉ごと、抉り殺す……！ => to gouge whatever human was inside to death......!
+その５本の楔は、縦に５本が真っ直ぐ打ち込まれていた。 => The five wedges slammed into the door in a vertical line.
+それは即ち、 => In other words...
+第四の晩に、頭を抉りて殺せ。 => On the fourth twilight, gouge the head and kill.
+{n}第五の晩に、胸を抉りて殺せ。 => {n}On the fifth twilight, gouge the chest and kill.
+{n}第六の晩に、 => {n}On the sixth twilight,
+第七の晩に、 => on the seventh twilight,
+第八の晩に、 => on the eighth twilight...
+{n}抉りて殺せ殺せ殺せ…！！ => {n}Gouge and kill and kill and kill...!!
+……あんなにも太く鋭い楔が、あんなにも打ち込まれたら、 => ......After being gouged by so many thick and sharp wedges,
+……中の人間はひとたまりもない……。 => ......the human inside wouldn\'t stand a chance......
+「…………………………」 => ".............................."
+「……これが、私の暴く真実です。 => "......This is the truth I\'ve exposed.
+……以上ッ！」 => ......That is all!"
+その終了の宣言と同時に、クローゼットを貫いていた５本もの青き楔は消える。 => When she proclaimed that she had finished, the five blue wedges piercing the closet disappeared.
+しかし、滅多刺しにした、ささくれ立った大きな穴は残り、確かに穿ったことを示し続けている……。 => However, the many large, splintered holes left behind showed that it had indeed been pierced......
+すると、……それを以って、黄金郷に至る儀式を終えたと認めたのか、 => Then, ......as though this had concluded the ceremony that led to the Golden Land,
+………構築された客室の空間は、無数の黄金の花びらになって、飛び散る…。 => ......the space that was the constructed guest room...became countless golden flower petals and drifted away...
+決闘者たちと大勢の参列者たちは今や、……黄金郷の、黄金の薔薇庭園に包まれていた……。 => Now, the duelists and the crowd of attendees......were surrounded by the golden rose garden of the Golden Land......
+しかし、ベアトの後ろのクローゼットだけは残っている。 => However, the closet behind Beato remained.
+……それはまるで棺桶のように。 => ......It stood there all by itself,
+クローゼットだけが立って残っている…。 => like a coffin...
+……そして、 => ......Then,
+……荒涼とした風に促されるように、 => as though teased open by a desolate wind,
+……ゆっくりと、 => the hole‐covered closet door...
+………穴だらけのクローゼットの扉が、開いていく……。 => ......slowly opened......
+その中には、 => Inside...
+…………人影が……。 => .........was a human figure......
+その人影は、灰緑色のローブのようなものを、頭からすっぽりと被っていた。 => That figure was covered up to the head by what appeared to be a greenish‐gray robe.
+……無論、それにも穿たれたことを示す大穴が開いている…。 => ......Of course, that also had large holes showing that it had been stabbed into...
+やがて、それはローブではなく、雨ガッパだとわかる。 => Eventually, it became clear that this was not a robe, but a raincoat.
+……ゲストハウスから大急ぎで走って来たなら、 => ......If he had rushed here from the guesthouse,
+それを被ったまま客室に入ることになったとしても、不思議なことではない…。 => then there would be nothing strange about him wearing this into the guest room...
+……そして、 => ......Then,
+……ふわりと、 => ......with...
+………くしゃりと、 => ......a rustle,
+………雨ガッパが、 => ......the raincoat...
+……人の形を失って、 => ...lost its human shape,
+……崩れ、 => ......crumpled,
+………黄金蝶の群となって、 => .........became a cloud of gold butterflies,
+…消える………。 => ...and disappeared.........
+「…………そ、 => "............N‐
+…………そん => ............no...
+……な………………、」 => ...way.................."
+クローゼットの棺桶の中には、 => Inside the coffin of the closet,
+……虚空の薄暗闇が、残るだけ………。 => ......nothing remained except an empty darkness.........
+「{p:1:客室に、嘉音は存在しない。 => "{p:1:Kanon does not exist in the guest room.
+………もちろん、クローゼット、ベッドルーム、バスルーム、この全てにおいてである}」 => .........Of course, this includes all parts of the closet, the bedroom, and the bathroom}."
+「ぁ………………、 => "Ah..................
+……………………ぁ……………、」 => ........................ah..............."
+「嘉音は、戦人を逃がし、クローゼットに隠れ…。 => "Kanon let Battler escape and hid in the closet...
+………そして魔法にて消えた。 => .........And then, he used magic to disappear.
+…………それが、魔女の真実。 => ............This is the witch\'s truth.
+…………以上だ」 => .........That is all."
+「しょ、勝負ありデス…！！　それ以上はッ、」 => "Th‐the duel is {f:5:decided}...!! Cease—"
+「「勝者ッ、 => ""And the winner is...
+………ベアトリーチェ！！！」」 => ......{f:5:Beatrice}!!!""
+お、……ぅおおおおおおおおおおおぉおおおおおおおおお！！ => Oh, ......ooooooooooooooooooooohhhhhh!!
+参列者たちの歓声。 => The attendees let out a cheer.
+{n}万歳さえ隠さないワルギリアたち。 => {n}{f:5:Virgilia}\'s group couldn\'t help but scream and shout in joy.
+{n}跳び上がって喜ぶ七姉妹たち…！ => {n}The Seven Sisters jumped about in celebration...!
+そして、二人の悪魔の決着宣言と同時に、 => Then, at the same moment the two demons proclaimed {f:5:Beatrice}\'s victory,
+ゆっくりと崩れ落ちるヱリカの指の当主の指輪と、戦人の指の呪いの指輪が砕け散る。 => the head\'s ring worn by Erika, who was slowly crumpling to the ground, and the cursed ring on Battler\'s finger...both burst.
+それと同時に、戦人は激しく咽込む。 => At the same time, Battler coughed violently.
+戦人の意識が、戻ってきたのだ…！ => Battler...was starting to regain consciousness...!
+「戦人ぁあああぁあああああ！！ => "Battleeeerrrrr!!
+戦人さぁああああああん！！！」 => Battler‐saaaaaaan!!!"
+ベアトは咳き込む戦人に歓喜して飛びつく。 => Beato latched onto the coughing Battler in joy.
+さらにワルギリアやガァプやロノウェも。 => {f:5:Virgilia}, Gaap, and Ronove did the same.
+七姉妹たちもみんなみんな飛びついて歓喜する。 => All of the Seven Sisters also crowded about him in delight.
+「……へ、 => "......Heh,
+……へへっ、 => ......heheh,
+……酷ぇトリックだ…。 => ......that\'s a nasty trick...
+こんなので通ると思ってんのか……？ => You sure something like this counts......?
+こんなトリックじゃ、またニンゲンどもが、こんなのミステリーじゃねーって、騒ぎ出すぜ……」 => With a trick like this one, those {y:0:Human}{n:0:human}s will start complaining again about how this isn\'t mystery......"
+「いいえ、立派なトリックです！ => "No, it\'s a splendid trick!
+愛がない人には視えないんです…！ => That just can\'t be {y:1:‘seen’}{n:1:seen} by people without love...!
+……戦人さん…、 => ......Battler‐san,
+………戦人さん……、 => ........Battler‐san,
+わぁああああぁあぁぁぁぁぁ…ッ！！！」 => ......waa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aahhh...!!!"
+「ヱリカ卿ッ、ヱリカ卿！！ => "Lady {f:5:Erika}, Lady {f:5:Erika}!!
+誰か手当てヲッ、早くデス！！」 => Someone, help her, {f:5:quickly}!!"
+……ヱリカの胸の、血の薔薇が花を開くのを止められない……。 => ......The rose of blood in Erika\'s chest wouldn\'t stop opening its petals......
+「……第３度概念否定症、 => "......Third degree conceptual denial syndrome.
+……存続系中和剤は不可、大至急の再誕承認でのみ中和可能。 => ......Use of continuous neutralizer impossible...neutralization only possible by an emergency approval for resurrection.
+……駒の主の再誕承認が必要なりや…」 => ......The piece\'s master must provide approval for resurrection..."
+「ベ、ベルンカステル卿、再誕のご許可ヲ！！ => "L‐Lady {f:5:Bernkastel}, give your approval for her {f:5:resurrection}!!
+……ベルンカステル卿…？！　ど、どちらニ…？！」 => ......Lady {f:5:Bernkastel}...?! Wh‐where did she {f:5:go}...?!"
+「式典警備隊に捜索要請ッ、ベルンカステル卿を探し給え…！！」 => "Search request to ceremony guards: find Lady {f:5:Bernkastel}...!!"
+「了解でありますッ。 => "Understood, ma\'am.
+オールシエスタ、データリンク、捜索態勢…！」 => All Chiesters, data link. Search formation...!"
+「……ひ、卑劣ッ、 => "......H‐how despicable...
+……主が、 => To think that a master...
+……駒の決闘を見届けないなんて、 => ...wouldn\'t watch her piece\'s duel to the end...
+………卑劣が過ぎると知れッ！！！」 => ......Know that it is despicable in the extreme!!!"
+ドラノールに抱きかかえられているヱリカは、すでに主の姿がないことを知り、 => After learning that her master was already nowhere to be seen, Erika, who was being held by Dlanor,
+……寂しいとは思わなかった。 => ......didn\'t feel lonely.
+むしろ、最期の最後まで、……ひどい言葉で詰られずに済むことに安堵する…。 => On the contrary, ......she was relieved that she wouldn\'t need to be brutally scolded in the last moments of her life...
+「「神と悪魔たちよ。 => ""Gods and demons,
+彼女の高潔なる散り際を、どうか語り継ぎたまえ」」 => tell of her noble passing for generations to come.""
+「……高潔…？ => "......Noble...?
+……はッ、 => ......Hah,
+………悪役ってのは、きっちり無様に散って、主賓を盛り上げなきゃです…。 => .........the villain is supposed to die pathetically so the star of the show can shine...
+………ぐ、くくッ、 => .........Ggh, *cackle*,
+………は、はは…、」 => .........ha...haha..."
+もう私は誰かの駒じゃない。 => I\'m not anyone\'s piece anymore.
+{n}……私はやっと、私の役を全うできる…！！ => {n}......I can finally...control my own role...!!
+「ヱ、ヱリカ卿…！！ => "L‐Lady {f:5:Erika}...!!
+うッ、動いてはいけマセン…！！」 => Y‐you mustn\'t {f:5:move}...!!"
+「……下がりなさい…。 => "......Stand back...
+……下がれぇええええぇえええ！！」 => ......BACK OFF!!"
+ヱリカが、生命の限りを尽くした叫びをあげると、 => When Erika yelled with all her soul,
+……ヱリカを取り囲む人々は気圧されて尻餅をつく…。 => ......those who surrounded her flinched back and fell on their butts...
+「私は、 => "I am...
+……真実の魔女、古戸ヱリカ……。 => ...the Witch of Truth, Furudo {f:5:Erika}......
+……真実の魔女とは、……真実に堪える魔女、………です。 => ......A Witch of Truth......is a witch......who can withstand the truth.
+……私はようやく、 => ......Now,
+……自分の本当の真実を、……受け入れられそうなんです………」 => ......I can finally......accept the real truth about myself........."
+概念否定の毒が全身を駆け巡る。 => The toxin of her own concept being denied raced through her.
+……視界がもうぼやけ始めてる。 => ......Her vision was already starting to blur.
+その歪んだ視界の向こうには、 => At the other end of her twisted range of vision...
+……肩を抱き合い、こちらを見る、ベアトと戦人の姿が……。 => ...were Battler and Beato, hugging each other and looking at her......
+その表情は、毅然としたものだった。 => Their expressions are firm.
+……それでいい。 => ......That\'s okay.
+情けも哀れみも、私をよりみすぼらしくするだけだ。 => Pity and sympathy would only make me look more pathetic.
+{n}……敗者にとって、その表情が一番、……救われるのだ…。 => {n}......That sort of expression......is a loser\'s greatest salvation...
+「ヱリカ卿…！！　もう決闘は終わっていマス…！！」 => "Lady {f:5:Erika}...!! The duel is already {f:5:over}...!!"
+「終わってないんだ」 => "It is not over."
+「死が二人を別つまで」 => "Until death do them part."
+「「誰にも、彼女の散り際を、穢せない」」 => ""We won\'t let anyone disgrace her final moments.""
+ドラノールは、両肩を二人の悪魔に掴まれ、引き止められる…。 => The two demons grabbed Dlanor\'s shoulders and held her back...
+ヱリカは、血を滴らせながら、 => Dripping blood,
+……肩で息をしながら、 => ......breathing heavily,
+…歪な足取りで、 => ...and with an awkward gait,
+……それでもなお、ベアトと戦人のところを目指した…。 => ......Erika walked towards Beato and Battler despite it all...
+彼女の滴らす血は、落ちると、黄金の花びらに変わり、舞い散る。 => As the blood dripped from her, it became golden flower petals, which drifted away.
+……だから彼女の歩く姿は、 => ......So, as she walked,
+……あまりに神々しくて、 => ......she looked both divine...
+……美しかった。 => ...and beautiful.
+決闘は、どちらかが死ぬまで終わらない。 => The duel wouldn\'t end until one of them died.
+だからもう決したにもかかわらず、……終わっていない。 => So, even though the outcome was clear, ......it wasn\'t over.
+ベアトたちは、取り巻く人々を下がらせ、……二人で前へ歩み出て、…高潔なる敗者と対峙する…。 => Beato and Battler told the people bunched around them to step back, ......and they both walked forward to face the noble loser...
+「…………………ヱリカ…」 => ".....................Erika..."
+「……復活おめでとうございます。 => "......Congratulations on your resurrection.
+あんた、女難の相を持ってますよ。 => Seems you have bad luck with women.
+……ロクな女に、好かれやしない……」 => ......You\'ll never get a normal one to like you......"
+「………そうだな。 => ".........True.
+……俺もロクな女に惚れねぇな」 => ......And I\'d never fall in love with a normal woman."
+「ベアト。 => "Beato.
+……いいえ、あんたたちに頼みが」 => ......No, I ask this of both of you."
+「…………もう一太刀を、望むのですか…」 => "............You wish for one final clash...?"
+「………………………………」 => "...................................."
+「…………ヱリカ……」 => "............Erika......"
+「……受けようぞ。 => "......Very well.
+……そなたの高潔なる申し出を、断る無粋を妾たちは持たぬ」 => ......We are not so boorish as to refuse your noble request."
+「ありがとう」 => "Thank you."
+ヱリカは朦朧とする意識の中で、もう一度、……銃を向ける。 => As her consciousness began to waver, ......Erika raised her gun again.
+二人に。 => She pointed it at the two of them.
+ベアトも、……ヱリカに銃を向ける。 => Beato also......raised her gun to point at Erika.
+そして戦人は、その手に自分の手を重ねる……。 => Then, Battler placed his hand on hers......
+「もう決着してるのに…。 => "It\'s already resolved...
+これ以上、何の論点があるというのです…？！」 => What more could there be to argue about...?!"
+「……ヱリカさま…………」 => "......Erika‐sama............"
+「私は、 => "Why...
+……なぜ、 => ...am I...
+……何の力にもなれず、 => ...powerless to help you...
+……ココニ……」 => ...{f:5:now}......?"
+「……見届けなさい。 => "......Watch until the end.
+それが、親友の仕事でしょ…」 => That\'s your job as her friend, isn\'t it...?"
+ヱリカとベアトたち双方は、何も宣言し合わず、静かに真実の弾丸を装填する。 => Both sides silently loaded their bullets of truth without saying a word.
+……銃口に詰める真実の色は、双方、赤…。 => The color packed into each barrel...was red...
+双方は何も言葉を交わさずとも、……互いが何を切り札にするか、 => Though neither side spoke,
+理解しているというのか……。 => ......did they both know what trump card the other would use......?
+「………最後に、 => ".........With this being the end,
+……自己紹介しとこうと…、 => ......I thought that I should...
+……思いまして……」 => ...properly introduce myself......"
+この期に及んで、何を……？ => What\'s she saying? This late into the game......
+誰にもヱリカの込めた赤い真実の想像がつかない…。 => No one could imagine what red truth Erika had loaded...
+「…………ベアト。 => "............Beato.
+……いいのか」 => ......Are you sure?"
+「……………………。 => "........................
+……はい。 => ......Yes.
+構いません…」 => I don\'t mind..."
+「……わかった。 => "......I understand.
+………………………」 => ..........................."
+「せめて、最後の引き金は一緒に」 => "Let\'s at least pull the final trigger together."
+「……わかってるぜ……」 => "......I know......"
+戦人は、ベアトの引き金に掛ける指の上に、自らの手を重ねる…。 => Battler placed his own hand on top of the finger that Beato had around the trigger.
+「……戦人さん。……会えて、よかった」 => "......Battler‐san. ......I\'m glad...I met you."
+「俺たちは、 => "We will...
+……永遠に、 => be together...
+ずっと一緒だ」 => for all eternity."
+「あっはッ、イチャイチャと見せ付けてくれます！！ => "Ahhah, so you have to flirt right in front of me!!
+イラついて来てたんです。 => This was starting to piss me off anyway.
+……やっぱお涙で退場は私の好みじゃないです」 => ......A teary farewell scene is definitely not for me."
+……やっぱッ、悪役は最期の最後までこういうツラでなきゃア！！ => ......If you ask me, a villain\'s gotta wear this face to their very last moments!!
+「……いい面構えだぜ。 => "......That\'s a nice look.
+……お前との結婚生活も、反吐が出るくらい楽しかったかもな」 => ......Married life with you would probably have been fun enough to make me vomit."
+「当然です。 => "Of course.
+毎日仰け反らせまくって、ベアトさんなんか忘れさせてあげるくらいの、 => I would have locked you in a world of such constant back‐arching pleasure...
+快楽の世界に閉じ込めてあげたのにィいぃ」 => that it would have taken Beato‐san completely off your mind."
+「ははん。 => "Haha.
+お前如き小娘、戦人を虜にするにはまだ千年早いわ」 => It\'s a thousand years too early for you to capture Battler\'s heart, little girl."
+「あぁ、あんたの顔も、それが一番キュートです。 => "Yes, that one\'s your cutest look by far.
+……お互い、最期はこういう顔がいいですよね！！」 => ......This is really the way for both of us to finish things!!"
+「………来い」 => ".........Come."
+「これがッ、探偵、古戸ヱリカの最後の捨て台詞ッ、 => "This is the final parting line from the detective, Furudo Erika,
+そして自己紹介です！！」 => and my self‐introduction!!"
+ヱリカはくるりとロンドを踊りながら、華麗に優美に、 => Erika spun around in a magnificent and graceful rondo,
+……血と黄金の花びらを散らしながら舞って、銃を構える。 => scattering blood and golden petals around her as she raised her gun.
+「{p:1:初めまして、こんにちは！ => "{p:1:Hello and good day!
+探偵ッ、古戸ヱリカと申します！！ => Detective Furudo Erika at your service!!
+招かれざる客人ですが、どうか歓迎を！！}」 => I may be uninvited, but I hope I\'m not unwelcome}!!"
+「{p:1:我こそは来訪者ッ、 => "{p:1:I am the visitor,
+六軒島の１８人目の人間ッ！！！}」 => the 18th human on Rokkenjima}!!!"
+「…………申し訳ないが、」 => "............Sorry, but..."
+「{p:1:そなたを迎えても、}」 => "{p:1:Even if you join us all—}"
+「「{p:1:１７人だ}」」 => ""{p:1:That\'s only 17}.""

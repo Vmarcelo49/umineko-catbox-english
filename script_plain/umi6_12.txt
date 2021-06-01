@@ -1,830 +1,830 @@
-Erika was dozing off on the bed, so when a knock sounded on the door,
- it took some time before she noticed.
-She looked at the clock and saw that not much time had passed since she had lain down.
-".........Yes, who is it?
- I hope you have a good reason for knocking on the detective\'s door at an hour like this..."
-"That\'s right.
- ......I have one thing to say before we begin this game."
-"Oh, that detective proclamation thing?
- Knock yourself out."
-"No, just the opposite.
- ......I say we raise the stakes."
-".........Raise...the stakes......?"
-"What\'s this?
- Now that sounds interesting.
- What do you mean?"
-"......It\'s simple.
- Battler got a shot off at us in the last game.
- So, if Erika does the same in this game, we\'re only even."
-"Wasn\'t the last game a tie...?"
-"We threw a game we should have won easily.
- If that isn\'t a loss, I don\'t know what is.
- Right, Erika...?"
-"Y‐yes, my master.
- We were expected to win that game if I hadn\'t failed so miserably..."
-"......Ooooh, I get it.
- So this time, you\'ll intentionally fight at a disadvantage by not making a detective proclamation...and win despite that...!
- You\'re aiming to not only wipe out your loss from the previous game, but to totally flip the score upside down, right?"
-"Y‐......you intend to challenge the game Battler‐san poured his heart and soul into with a foolish handicap like that...?
- That is not only presumptuous, it\'s quite rude...!"
-"......Sure is.
- It sounds more like an excuse just in case they lose."
-"True, you could look at it that way.
- If they win, it\'s a great victory,
- but if they lose, Erika\'s side has a nice little excuse... Isn\'t that a bit unsporting?"
-"Don\'t worry, the bet will be evenly balanced.
- ......If Erika can win this game as a {y:0:Human}{n:0:human} without the detective proclamation, it will be impossible for Battler and the others to pick up the pieces of the witch illusion."
-"......But on the other hand, should Erika lose, I\'m going to hurl that garbage detective into the depths of oblivion along with the worst possible fragment."
-".............................."
-"......See?
- Balanced, right?
- The ultimate victory of destroying the witch illusion as a mere {y:0:Human}{n:0:human}, not a superhuman "detective".
- ......In exchange for that, she wagers her own destruction."
-"I\'ve gotten tired of the never‐ending stream of bland and boring games that you and the former Beato played.
- ......So we\'re raising the stakes and settling it all at once."
-"......Well, that is true.
- ......If Battler can {i:sell} this game,
- it will mean that Battler has "won" Beato\'s game, and the game will come to an end.
- ......In a sense, this is the kind of finale you can\'t pass up, right...?"
-".....................
- ......I understand your position.
- ......Are you fine with that, Erika?"
-".........Y‐......yes, of course.
- ......In order to regain my master\'s trust in me, which I lost with my previous defeat, ...I...I will risk even my own destruction..."
-"Is that of your own will...?"
-".................."
-"........................"
-"............What\'s wrong, Erika?
- Answer him..."
-"O‐.........obviously.
- This is my own will.
- ......I will not lose...
- ......Even without the detective proclamation, ...I...I will defeat you no matter what...!!"
-"............Battler‐san........."
-"...........................
- ......Alright.
- If that\'s what you want, I\'ll accept your challenge."
-"..................
- ......Th‐thank you very much.
- I\'ll make sure you regret it."
-"Come to think about it, when Battler played for the {y:0:Human}{n:0:human} side, he never had anything as convenient as the detective\'s authority.
- He was only allowed blue truth and repetition requests."
-"Exactly.
- In a way, it was the previous game that was truly unfair.
- .........We failed to win despite that, which is why it was no different from a loss."
-"..........................."
-"Do what you want.
- If you feel like making a detective proclamation, just do it whenever you like.
- ......I\'ll consider it to be an option you\'re keeping available."
-"......Why would I ever need to do that......
-against an opponent as weak as you......"
-"........................"
-"Then get started, you two.
- I\'m already starting to get bored."
-"......Leave it to me, my master...!!
- I will destroy the witch illusion for you without fail...!"
-George and Jessica had been the ones knocking on Erika\'s door.
-They were asking whether Battler and Maria had come to this room.
- ......Of course, they hadn\'t.
-"A good while ago, they went downstairs, saying they wanted to get something to drink.
- We thought they might have come to your room..."
-"Of course they didn\'t.
- ......Are you sure they didn\'t go to the mansion?"
-"We called the servant room and dining hall of the mansion, but no one picked up..."
-"......Please stay here, you two.
- I\'m going to go check the mansion."
-"H‐hey, it\'s dangerous to go out this late."
-"How could a stranger sneak onto this sealed‐off island?
- Stay in that cousins\' room of yours.
- I\'ll contact you if anything happens.
- Also, tell the servants in the guesthouse servant room not to leave the building.
- Bye."
-"W‐wait a second, Erika‐san...?!!"
-"............She is a strange kid."
-After speaking her mind and not listening to anything else, Erika dashed down the stairs and rushed outside.
-"......The first twilight usually starts in the morning, but it looks like we\'ve got an early fight this time.
- ......No crime has occurred in the guesthouse.
- So, that means the stage of the tragedy is in the mansion..."
-Though she had an umbrella up, Erika got drenched as she sprinted.
-She brashly licked the raindrops that dripped down her face......
-......Erika was now at her most energetic...
-According to her memory of the previous game, the entrance to the mansion would be locked at the same time the family conference started.
-However, the lock was undone this time.
-......Had someone unlocked it, or had the lock not been set, or had it not been possible to set the lock?
-"Well, no point thinking about it now.
- After all, that might just be a whim of the Game Master\'s."
-As soon as she entered the entrance hall, the door to the parlor opened violently.
-{n}Out of it flew Gohda\'s large body.
-"Ah, good evening, Gohda‐san.
- Is something the matter?"
-"A‐...awawawa....awawawa!!
- P‐police...ambulance...!!
- Awawawawawa!!"
-That expression really is wonderfully pathetic.
-{n}Just fitting for the first one to discover the crime.
-"Please calm down.
- How could the police or an ambulance get to an isolated island in the middle of a typhoon?
- I\'m sure the phones are out anyway, so please calm yourself."
-Krauss and Rudolf\'s yells could be heard from the parlor.
-Their shaken appearance perfectly signified the arrival of the first twilight......
-"Well then, give me the victims, the locations, and a reconstruction of the situation."
-"......Those who left to take a break didn\'t come back, so the adults went to the parlor.
- When they did, the door was sealed from the inside, and they couldn\'t open it.
- As they would learn later, the hat stand in the parlor had been used to bar the double doors from the inside."
-"So you\'re trying to say that the door was blocked from the inside, and the windows were also locked from the inside...?"
-"That\'s it.
- ......When they went around and looked into the parlor through the window, they saw Rosa lying on the sofa in an unnatural position, with blood pouring from her forehead.
- ......They then smashed the glass, entered the parlor, and discovered that Maria was also there, lying by the wall and covered in blood."
-"......I see.
- I\'m sure there was quite an uproar.
- And the other crime scenes?"
-"The entrance wasn\'t locked when you came into the mansion...because they had gone out through it to check the parlor from the outside.
- ......Since the entrance was locked before the adults went through it, they thought that the other people who had gone missing might be somewhere within the mansion in a similar condition,
- so they\'re now searching the entire building..."
-"Are the locations of the dead the same as in that long‐winded, putrid delusion of yours that you showed earlier?"
-"......They\'re the same."
-"Rosa and Maria were in the parlor.
- As for the others, ......Natsuhi was in her own room, and Kyrie was in Krauss\'s study.
- Eva was in the rose garden......no, wait, she was moved to the VIP room, wasn\'t she?"
-"Yes.
- They discover Eva\'s body in the VIP room."
-"That makes five victims.
- Ah, that\'s one short for the first twilight.
- Who\'s the sixth, and where are they?"
-"......?!
- Krauss‐sama! The chain on this room is also set...!"
-"Cut it!!
- The culprit might be hiding in there!!"
-"Gohda, do it!"
-Rudolf and Krauss had brought rifles from Kinzo\'s prized collection.
-They yelled at Gohda, who was carrying the bolt cutter, to cut the chain.
-Victims had been found one after another at several locations inside the mansion.
-The men who had lost their wives searched through the mansion in a rage, looking for the culprit.
-This was...a guest room.
-It had previously been a room where the relatives would stay,
- but it hadn\'t been used much since the construction of the guesthouse.
-This forgotten room was locked from the inside by the chain...
-"......Nnnnn, .........hyaahh!!"
-As soon as the chain was cut, Rudolf pushed Gohda aside and flew into the room.
-"Who\'s in there?! Show yourself...!!"
-"There\'s someone on the bed...!"
-"Let\'s get some light, Aniki...!"
-Krauss pushed the switch on the wall, ......the guest room lit up,
- and the figure lying on the bed came into view...
-"B‐......Battler......!!
- D‐......dammit, ......what are you even......doing in here......?!"
-Rudolf crumpled to his knees and fell onto Battler\'s body.
-No words could console him as he cried with a mad sorrow...
-......In a single night, ...he had lost both his wife and his son.
-During this time, Krauss checked the window locks and the bathroom and searched the closet to find if anyone was hiding there, but he found no one...
-"Battleeer...! Battleeeeeeer......! Dammiiiiit......! Aa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}hhh......"
-"H‐......how sad......"
-"......It\'s hard to believe, ......but just like the others, ......this is a locked room."
-"Wh‐......what, again...?!"
-"Yes......
- My study where Kyrie‐san was, Natsuhi\'s room, the VIP room with Eva, the parlor with Rosa and her daughter...
- ...And now Battler‐kun in this guest room.
- ......They\'re all locked rooms...
- ...I don\'t......understand...
- Are we to believe this is suicide...?!"
-"Like hell it is...!!
- How could {i:this} be suicide?!
- Aaaaggggghhh......Battleeeeeeer......"
-"Oh,
- ......there\'s a surprise.
- To think that you yourself would be the sixth person."
-"It\'s more interesting to kill yourself off every now and then."
-"And all of the crime scenes are locked rooms.
- ......They\'re murders that couldn\'t have been performed without magic."
-"Hmph, isn\'t seeing through that the point of this game?
- ...By which I mean, the murders {i:must} be possible to commit without magic.
- ......After all, if they really could be done only with magic, this wouldn\'t be a game."
-"......That\'s an interesting way of thinking about it.
- ......Yeah, that is the sort of game we\'ve been playing."
-This game is fair.
-The goal is to explain, without magic, the strange crimes that the opposing side claims to have carried out using magic.
-{i:If that couldn\'t be done}, it wouldn\'t be a game.
-In other words, just as Erika said, it has to be possible to perform the murders without magic...
-......To view it from the opposite angle, the witch side has a certain responsibility.
-They have to make a crime that can be {i:reproduced with tricks and not magic}.
-As long as the {y:0:Human}{n:0:human} side can\'t figure out those tricks, the witch side can use all kinds of magic and illusions.
-......In other words, in order to carry out a locked‐room murder with magic,
- it is necessary to create a crime that is possible to carry out by {y:0:Human}{n:0:human} hands.
-".........By now, I understand.
- I see why, when I ordered the Seven Sisters to kill my classmates back at Saint Lucia,
- ......they couldn\'t do what I told them.
- ......And I understand the meaning of Mammon\'s words."
-"Do you mean that "magic is only capable of that which you can accomplish by your own hands"...?"
-At that time,
- if I had possessed the determination to kill my classmates,
- ......no, that\'s not it.
-At that time,
- if I had been capable of killing my classmates,
- capable of going through with it...
-......then the Seven Sisters of Purgatory would probably have pulled it off for me.
-They could only accomplish what I could do myself.
-......No, that\'s not it either.
-{n}They could take what {i:I} had accomplished and turn it into "magic".
-Of course, there were a great number of witnesses in that classroom, so that would probably have been impossible.
- ......Maria onee‐chan would call it "being burned by the anti‐magic toxin".
-However, ......if I had called those classmates out somewhere without witnesses, ......and carried out murder myself...
-...that would be when "the Seven Sisters of Purgatory" could "carry out a magical murder".
-"......Even with magic, witches cannot do things that they cannot accomplish by themselves.
- ......They can only use magic to "embellish" the things that are possible for them."
-"......How interesting it is.
- ......That those who accomplish something without using magic nevertheless speak of magic and call themselves witches."
-"This Erika person has understood that since the beginning.
- ......That\'s why she will never surrender to witches.
- ...She is confident that it must be explainable with tricks.
- The old Battler was toyed with so frequently because he did not possess that confidence..."
-"......Once this rule is seen through, the witch loses any chance of victory.
- ......That\'s why they have to make their opponent surrender before they see the truth of this rule.
- ......The longer the match is drawn out, ......and the more hints are given, ......the more overwhelming the witch\'s disadvantage becomes..."
-Once again, my thoughts are spinning in circles.
-......Why did Beato prolong this game until she lost?
-....................................
-Many victims had been found, and the mansion was still wrapped in chaos.
-Hideyoshi\'s group seemed to have gone to the guesthouse, worrying about the safety of the kids there.
-Krauss and Rudolf were in the hall, talking about what should be done next...
-During a short gap in this chaos,
- .........Erika dashed all about the mansion.
-She was checking the crime scenes.
-Normally, with the detective\'s authority, Erika had the right to openly investigate the crime scenes to her heart\'s content.
-However, this time, she hadn\'t yet invoked that authority.
- ......Because of that, and with her being a guest and an outsider, there was little to no chance that she would be allowed to investigate.
-So, she was forced to quickly check all of the crime scenes now,
- while she could still run about as she pleased.
-In the servant room, there had been a clear folder containing a plan of the mansion\'s interior.
-Because she had borrowed that, she knew the location of every room in the mansion...
-Erika efficiently made her way through the mansion, dashing into each crime scene in turn...
-"Lady {f:5:Erika}, ......I believe you know, but allow me to warn you just in {f:5:case}."
-"Yes? What is it?"
-"It is true that you have an incredible photographic {f:5:memory}.
- ......When you combine that with the detective\'s proclamation, it becomes impossible for you to be fooled by {f:5:anything}."
-"Oh, I know what you\'re going to say.
- ......Since I haven\'t made the detective proclamation, even my photographic memory could potentially be fooled.
- Of course, I understand that.
- ......Still, that doesn\'t mean I can afford to go without viewing the crime scenes directly."
-"......After all, in the last game, my pride in that regard led me to commit a truly agonizing blunder."
-"To take an extreme case, no matter how well you examine a person\'s corpse right now,
- the possibility will always remain that they were faking their {f:5:death}.
- It will probably be necessary to give Battler repetition requests to confirm the details of each situation {f:5:individually}."
-"And I\'ll need to use the blue truth liberally in order to draw those out of him.
- ......I know that.
- Let\'s start with the basics.
- ......The lack of the detective\'s authority is no handicap.
- It simply means that I\'m fighting under the same conditions Battler once was."
-Yes.
- This fight......is retracing the old days when Battler and Beato fought so fiercely.
-I have no conveniences such as the detective\'s authority.
-......I truly do just have to fight the same way the old Battler fought.
-Thinking of it this way,
- it may be true that I was in a very blessed, unfair position last game, just as my master said...
-It may be difficult without the detective\'s authority, which also holds my honor as a detective.
-But I won\'t let that be a handicap.
-I know what magic is, and I\'m fully aware of how to fight with the red and blue truths.
-I know the way to fight in this game many times better than the old Battler did......
-I quickly visited the VIP room, Krauss\'s study, and Natsuhi\'s room on the second floor, as well as the parlor and the guest room on the first floor,
- this time checking with my own eyes, as I had neglected to do in the last game...
-First off, all of the scenes were made to look like locked rooms.
-Probably of special note is the fact that the master keys have no relation to the tricks this time.
-The locked rooms were all constructed...
-...without relying on any elements that could be locked or unlocked from the outside by a master key or something else.
-The windows were locked from the inside, and the doors were all locked and chained.
-The master key can get around all of the locks on the doors, but the window locks and the chain locks are more trouble than they might appear.
-I haven\'t yet used a repetition request to get confirmation that it\'s impossible to manipulate them from the outside, ......but I\'m sure he\'ll be able to say it in red.
- It\'d be stupid otherwise.
-"......I understand.
- Right now, I am a mere {y:0:Human}{n:0:human}.
- ......I can\'t even properly confirm the deaths of the corpses."
-......Last time I neglected to check the bodies, ......and let a massive piece of "magic" get by me.
-I won\'t fail like that again......
-If I let that happen even once more,
- ......I won\'t be able to face the master I\'m so indebted to......
-"We have checked all of the crime scenes and finished gathering {f:5:information}.
- Here is our {f:5:report}."
-"Go ahead."
-"First, all of the rooms employ window locks and chain locks...
-to form locked rooms in a way that would be "difficult to interfere with from the {f:5:outside}".
- The only exception is the parlor, where Rosa and Maria lay {f:5:dead}."
-"For your attention: I beg to inform you of the following.
- Let it be known that the door was barred with a hat stand."
-"It is thought to be substantially the same as a chain lock, in that it can only be set from the inside."
-"It is probably his goal to construct locked rooms where explanations using master keys are made completely {f:5:ineffective}.
- The parlor has no chain lock due to its very nature, so it is natural that something else would be used in place of a {f:5:chain}."
-"......In that case, the interesting question becomes why he didn\'t choose one of the other rooms that do have a chain lock.
- There are several other guest rooms besides the one Battler lay dead in, all with a similar construction, correct?"
-"Yes, that is {f:5:correct}."
-"In that case, it would have been more aesthetically pleasing to lock them in there, so that everyone would be inside a room locked by a chain, yet he did not do that.
- ......This hat stand door bar in the parlor seems very suspicious.
- I should probably investigate it thoroughly with repetition requests.
- Also, regarding the bodies, ......in the last game, their throats were sliced wide open...
-to the point that the deaths could be confirmed with certainty even without the detective\'s authority, but was there anything like that this time around?"
-Of course, she had checked all of the corpses in all of the crime scenes this time.
-......However, without the detective\'s authority, she had no guarantee that she would be able to see through any faked deaths "with certainty"...
-The old Battler had also started fighting by doubting whether the victims were truly dead.
-It was the same for Erika......
-"For your attention: I beg to inform you of the following.
- Know that there were no corpses that could have been confirmed dead with certainty by physical means."
-"For your attention: I beg to inform you of the following.
- We cannot eliminate the possibility that any one of these corpses might be a faked death."
-"......Well, even if I make a repetition request to confirm their deaths, I doubt Battler will be so quick to answer.
- ......Sheesh......"
-"I liked Beato\'s chain of six locked rooms better.
- ......But these locked rooms are more complete, considering that master keys are of no help at all."
-"......There are two general ways of breaking locked rooms that Battler might be after.
- ......An illusion of a locked room, or an illusion of a crime.
- It\'ll be one of those."
-"I get the first one.
- That\'s when something looks like a locked room, but it actually isn\'t, right?
- What do you mean by an illusion of a crime?"
-".........An illusion that makes it seem as though a crime has occurred.
- In other words, are they really dead?"
-"Come on, are you kidding me?
- If the person inside a locked room is alive, it\'s no different than if they were just taking a pee.
- ......Still, with this locked room,
- it\'s pretty hard to think of any other answer."
-"What about the endless possibilities of manipulating the chain lock from the outside?
- We don\'t know if there are secret doors, ways to kill from a distance, chances of suicide,
- or even whether these are complete locked rooms in the first place."
-"......I have a behind‐the‐scenes view of Battler\'s game board, so I can tell you this:
- these are perfect locked rooms.
- They can only be constructed from the inside, and there\'s no way to construct, deconstruct, or interfere with them from the outside."
-"Can you say that in red?"
-"That\'d be a little too rude to Battler, so no.
- If you do love me, you must see my words as red truth, right...?"
-".........Then the locked rooms are perfect.
- In other words, this is an illusion of a crime."
-"It does seem that way.
- If so, these locked rooms are all a ruse.
- ......I guess the whole Ushiromiya family got so fed up with Erika prattling on about being a detective and not knowing when to shut up...
-...that they all joined together and set up a fake murder to make fun of her, or something?
- Wait, is that the right answer?
- I\'m, like, a {i:super} great detective{p:0:☆}"
-"Unfortunately, ......this isn\'t a ruse.
- The victims have been thoroughly killed."
-"Huh?!
- And you\'re not talking about "at midnight on the second day"?"
-"No detective proclamation has been made, but she is very accurate when examining corpses.
- I could almost even give her examinations the red truth."
-"So what does that mean?
- That they were definitely dead when Erika examined their corpses?"
-"Yes, that\'s right.
- Well and truly."
-"But you won\'t say it in red for her, riiight?
- *giggle*, and that poor Erika must want it so baaad."
-"Well, she isn\'t even a detective this time around.
- I won\'t give her any red. *giggle*giggle*."
-"But then, .......if that\'s all true, that\'s amazing!
- This time, ......Battler\'s really made a perfect locked‐room murder!"
-"......Oh, perhaps he has."
-"Will Erika be alright?
- It looks like an ordinary locked‐room murder at a glance,
- ......but this one is secretly pretty nasty.
- Won\'t this be a bit too much for Erika without her detective\'s authority...?"
-"She is a self‐proclaimed "great detective".
- I\'m sure she\'ll pull through.
- .........If Battler and Beato are defeated by a mere {y:0:Human}{n:0:human} who isn\'t even a detective, they\'ll fall apart in the most exquisite way, don\'t you think?"
-"......And even if Erika loses, we get to play by throwing her into the worst fragment and casting her into the depths of oblivion, right?"
-"Exactly.
- No matter how the chips fall, it won\'t be boring for us."
-"You really don\'t have one tear to shed or a drop of blood in your veins, do you?
- ...Still, wringing that black cat out like a towel and licking up the single drop that comes out is what brings me joy!"
-"Beato\'s game board did entertain me for quite some time,
- ......but we\'ve already wrung everything we can from it."
-"......It\'ll be over with this game.
- So if we\'re going to cap it off properly, we really must let Erika and Battler bet everything in one final face‐off."
-"......Booo.
- I wanted to play this game with you forever.
- ......What a shame."
-"Come now.
- I\'ve spent plenty of time with you already.
- ......Go find me another interesting game board.
- If you do, I\'ll play with you again..."
-"Ahhhh..................you really don\'t ever let me get bored.
- ......Be like this forever, {f:5:Bernkastel}.
- Seeing your face twist with anguish is the one forbidden honey I\'ve found for myself."
-{f:5:Lambdadelta} had guaranteed that it was a perfect locked room.
-{n}{f:5:Bernkastel} had guaranteed that it was a perfect murder.
-A perfect
- "locked‐room"
- "murder".
-The witches hated to be a killjoy, so they wouldn\'t yet say anything with the red truth.
-......Pursuing that would be the role of Battler and Erika......
-"It seems like you had a pretty mad dash around the crime scenes.
- ......Satisfied? Is your inspection complete?"
-"Yes, I\'m satisfied.
- So, about our war of red and blue, what are your thoughts?
- Shall we start right away?
- Or do it all at the end?"
-"I don\'t like putting things off.
- I think the same goes for you."
-"Then allow me to get started with the locked rooms of the first twilight.
- ......First, I\'d like to check.
- Do you intend to respond to my repetition requests?"
-"That depends on what they are.
- I have no obligation to respond to all of them, and I won\'t reveal my reasons when I refuse."
-"<Good>.
- ......Then let\'s start simple and confirm the definition of a locked room.
- Dlanor!
- Please read it aloud."
-"{f:5:Understood}.
- ......We request that the following be {f:5:repeated}."
-Dlanor unfurled the kind of scroll often depicted in Western fairy tales when an official reads a royal decree,
- and she read the contents aloud.
-"First.
- "The rooms with the six people in them are all locked {f:5:rooms}"."
-"{p:1:Acknowledged}.
- Of course, that\'s only until Gohda and the others severed the chains and destroyed the locked rooms."
-At a nod from Dlanor, Cornelia, who stood behind her, started taking notes.
-"Second.
- "The definition of locked room implies that it is impossible to construct from the {f:5:outside}"."
-"{p:1:Acknowledged}."
-"......In other words, no trickery done from the outside can construct a locked room.
- It isn\'t permitted for a chain lock to be reset from the outside by a skillfully used wire, for example."
-"I didn\'t need you to tell me that.
- Dlanor, please continue."
-"Third.
- "The definition of a locked room implies that all forms of interference between the inside and outside of the room are {f:5:prevented}"."
-"{p:1:Acknowledged}.
- However, I won\'t rule out the kinds of interference that you\'d expect from a normal room, such as knocks, voices, and the extension telephone line."
-"Fourth.
- "At the time of the breaking of the locked rooms, none existed within the rooms except the {f:5:victims} (Natsuhi, Eva, Kyrie, Rosa, Maria, Battler)"."
-"{p:1:Acknowledged}."
-This was to check that the murderer hadn\'t been hiding inside a locked room.
-Because if the discoverers departed the scene after becoming aware of the locked‐room murder,
- and then the culprit slipped out of the room after that, it would have been possible to construct an illusion of a locked room.
-Because Battler had acknowledged their statement with the red truth,
- this possibility—that the culprit and the victim had both been inside the locked room at the time of the crime, following which the culprit had hid under the bed and snuck out after the discovery of the crime—
-had now been eliminated.
-"Fifth.
- "No murder was committed after the breaking of the locked {f:5:rooms}"."
-"I decline."
-"......Why?
- Because the victims really were alive at the point when the locked rooms were destroyed?
- And the culprits were actually Krauss and the others who crowded in, who committed the murders then and there.
- In other words, because it was a murder after the locked room was destroyed. Is that the truth behind this...?!"
-"No, that\'s not it.
- The murders will continue to occur, so he can\'t declare in red that no murders will happen after this."
-"......Tch, a stupid technicality.
- You must understand what we\'re getting at.
- {p:2:Krauss\'s group cut the chains and destroyed the locked rooms, then killed the people inside}.
- I just want you to argue against this."
-"Lady {f:5:Erika}, ......the undefined plurality of "Krauss\'s group" is {f:5:insufficient}.
- You should first check to see which humans entered the rooms after the locked rooms were {f:5:broken}."
-"For your attention:
- ......excepting the victims, the only ones to enter the locked rooms were these four: Krauss, Rudolf, Hideyoshi, and Gohda."
-"For your attention:
- this is based on hearsay.
- Be advised that there is no proof that others did not enter."
-"I know that already.
- Let\'s have him repeat that.
- ......‘After the breaking of the locked rooms, the only ones to enter the rooms apart from me were these four: Krauss, Rudolf, Hideyoshi, and Gohda’."
-"Sure.
- {p:1:Acknowledged}.
- However, this only applies to the current point in time.
- It\'s possible that some later development in the game will cause more people to enter."
-"Repetition requested.
- "Krauss, Rudolf, Hideyoshi, and Gohda are not culprits"."
-"........................"
-Battler put his finger on his chin, deep in thought.
-This word "culprit" was fairly broad.
- And it might serve to greatly restrict the darkness of the witch.
-".........Why not answer?
- If we decline, they\'ll leave behind a blue truth saying that Krauss and the others were the culprits."
-"........................
- ......You\'re right.
- ......I\'ll acknowledge it, but I\'ll make the language more strict.
- {p:1:Krauss, Rudolf, Hideyoshi, and Gohda—
-these four had no involvement in murdering these six: Natsuhi, Eva, Kyrie, Rosa, Maria, and Battler}."
-"And that means it was also impossible for any of the other humans, who didn\'t even enter the locked room,
- to have been involved in those murders either, doesn\'t it?"
-"Who knows. Think about it yourself.
- If you think you can build up some blue truth for how a locked‐room murder can be committed without entering the room, then I\'ll respond with the red truth."
-"......However, I only need to destroy one of the blue truths you\'ll be presenting from here on out.
- In other words, even if you do manage to use the blue truth and explain this away with some long‐distance locked‐room murder trick X,
- I don\'t necessarily have to counter that with the red truth."
-These are the rules of the witch\'s game.
-Ange checked these details with Beato in the fourth game.
-The witch side lays out mystery after mystery and claims them all to be impossible to carry out except by magic.
-The human side must use the blue truth to argue that they are explainable with tricks.
-And if they cannot make a counterargument with the blue truth for even one of these mysteries,
- that mystery will be considered to have been "done by magic",
- and it will be impossible to deny the existence of a witch...
-In other words, the witch side only needs to protect any one of its mysteries.
-In contrast, the human side has to fully explain all mysteries with the blue truth.
-And even if the human side manages to explain all of the mysteries with the blue truth,
- if any one of those is successfully countered by the red truth, the witch will win.
-Therefore, just like the strategy that the old Beato adopted in her final game,
- it is sufficient for the witch side to put off their red text counterarguments until the very last moment,
- then make a single strike at their opponent\'s most fragile spot......
-"In any event, ......you\'ve declined to repeat that last one, right?"
-"Don\'t kid yourself.
- You\'re not entitled to have your repetition requests answered."
-".........Ggh......"
-From the perspective of the witch side, repetition requests are just a supplement to make sure that the human side hasn\'t misunderstood the question.
-Therefore, they have neither a technical nor a moral obligation to respond to requests that are extremely broad...
-"......Not bad. ......Looks like you can handle being a player on the witch side pretty well too."
-"Your experience is no match for mine."
-"Tch...! Dlanor!"
-"Let us {f:5:continue}.
- Sixth, "the victims did not die by any method other than {f:5:homicide}"."
-"{p:1:Acknowledged}."
-"Of course, there were no suicides or accidental deaths."
-"Seventh, ‘the victims—"
-"That\'s enough, Dlanor."
-"......Are you {f:5:sure}?
- There are still items..."
-"Yes, that will do fine.
- I\'ve confirmed the status of the crime scenes.
- From here on, it\'s time for me to argue back with the blue truth."
-"Fine by me.
- Let me hear your masterful theories."
-Though Battler and Erika were enemies,
- ......it looked to Beato as though they were having a little fun doing it.
-......She was probably slightly jealous of Erika.
-Beato thought back on the books she had read in {f:5:Featherine}\'s archives, in which the old her and Battler had fought.
- ......That must have been fun as well.
-During a short break in the family conference, a horrible, brutal mass murder had occurred...
-Excluding Battler, the six people killed had all been women......
-The men who had been left behind went mad with rage at the cowardice of it, broke down sobbing at the sadness of losing their wives, ......and went back and forth between the two many times......
-"Why were they all girls......?
- How cowardly can a person be...?"
-"What\'s wrong with us?!
- Here we are, under the same roof, and we\'re just smoking away, not noticing that members of our own family are being killed...dammit!!"
-"......But...who......how...?
- They were not unprotected...
- The chain was set for all of them..."
-"Who gives a damn about that?!
- I don\'t care how they killed them, I just want to know who!!"
-"Hey, Genji‐san, Gohda‐san.
- Were the doors and windows to the mansion all locked during the family conference...?"
-"Y‐yes.
- There can be no doubt...!"
-"......In accordance with Madam\'s instructions, everything is always locked at the time of the night patrol.
- Tonight was a special case, but everything was locked up shortly after seeing the children off to the guesthouse..."
-"That doesn\'t make any sense...!
- If that\'s true, how were Battler and Maria‐chan inside the mansion?!
- They shouldn\'t have been able to get in, right?!"
-"If everythin\' really was locked up properly, that couldn\'t have happened...!
- Doesn\'t the two of them bein\' inside the mansion prove that the building wasn\'t completely locked up...? Right? Right?!"
-He was arguing that Gohda\'s failure to lock up properly might have allowed a stranger to sneak in.
-At the very least, none of them had known that Battler and Maria had visited the mansion.
-If those two had come and found everything locked tight, they wouldn\'t have been able to get inside.
-If they had rung the doorbell, Gohda would probably have heard them from the servant room, but Gohda said that nothing of the sort had happened.
- How they had entered the locked mansion was a complete mystery...
-"Y‐you don\'t think......
- For example, what if Madam or someone happened to be close by the entrance...
-and noticed Battler‐sama and Maria‐sama knocking or heard the bell......?"
-"That couldn\'t have happened!
- You were in the servant room then, right, Gohda‐san?!
- There\'s a chime that goes off in the servant room when the front door opens!
- There\'s no way you\'d have missed anyone!"
-"Y‐yes, but, you see......"
-"......At that time, Gohda was serving drinks as you requested,
- so he was not in the servant room."
-"Why was there only one servant in the mansion on such an important day?!
- Why was someone as important as Genji‐san on duty in the guesthouse?!
- Does that make any sense?!
- Why was the servant room left empty...?!!"
-"......My wife was the one who put those shifts together.
- ......She probably hoped that Gohda would serve some fashionable drinks during the family conference as well, since he often thinks to do such things..."
-"But Krauss nii‐san...!
- This is the family conference, right?!
- The most important day of the year, right?!
- Why was Gohda‐san left as the only person on shift in the mansion...?!
- If there\'d been just one more person, everythin\' would be different, don\'tcha think?!
- Well? Well?!"
-With a half‐crying, half‐enraged jumbled up expression,
- Hideyoshi yelled at Gohda.
-Of course, the culprit who killed everyone was the most to blame and the most despicable.
-......However, even if he understood that,
- he needed to let off some of his emotions by hating someone he could see.
-"............I understand how distressing this must be for all of you.
- ......However, please calm down."
-"......I don\'t know whether Gohda‐san wasn\'t thorough enough when locking up,
- ......or whether someone let Battler‐san and Maria‐san in after they came back from the guesthouse, and then forgot to lock up afterwards.
- ......But whatever the case, it doesn\'t necessarily have anything to do with how the mysterious culprit snuck in."
-"......After all, the mansion is massive.
- They might have come in much earlier and hid until late at night for all we know.
- ......I can understand the desire to suspect someone, but please calm down."
-"......Our guest is right.
- ......The culprit is the one we should hate, ......not Gohda, who just happened to be on duty...
- ......At any rate, let\'s calm down.
- ......I feel as terrible as the rest of you.
- However, we must take the initiative now and regain our composure."
-"Aniki......"
-"We all feel sad and devastated.
- And none of us will ever forgive the one who did this.
- That is why we all need to regain our composure..."
-"......H‐......he\'s right.
- ......I still have George.
- Krauss nii‐san still has Jessica‐chan.
- And Rudolf‐kun, ...you still have Ange‐chan waitin\' for you to return, right?
- It\'s still......too soon...to go riskin\' everything to take down the killer......"
-"......The culprit is still on this island.
- And we can\'t be sure that this tragic crime is over.
- We need to stay calm and prevent any further tragedies."
-Erika\'s words softly consoled them...and gently admonished them.
-......If a servant had said the same thing, Rudolf would probably have jumped on him.
-However, since it had come from the lips of the guest, a neutral party, ......it seemed to reach their ears.
-"Let\'s stay cool.
- ......We have three grown men with us, and guns as well.
- Judging by the pattern of the murders, the chances that the culprit has a gun are low.
- ......In other words, as long as we keep our heads, the culprit will no longer have any way to touch us."
-"......She\'s right.
- We can\'t let that murderer have his way on our island any longer."
-"Let\'s find the killer!
- We\'re in the middle of a typhoon.
- They can\'t escape from the island, and there\'s only so many places where they can take shelter from the rain...!"
-"This island is larger than you\'d think.
- Unfortunately, it would be difficult to search the island with so few people.
- ......After all, you all look ready to shoot the culprit dead on the spot if you were to find them now.
- If the culprit has fled into that dense forest fearing for their life, you won\'t find them easily."
-"...........................
- ......Right.
- ...We should just wait patiently for the typhoon to pass,
- have the boat call the police for us, and let them thoroughly search the island...
- The police are incredible, y\'know.
- They\'ll bring hundreds of people and pick through it with a fine‐toothed comb.
- ......That forest may be deep, but they\'ll definitely smoke the killer out..."
-"The most important thing now...
-...is to make sure no more of our beloved family members are taken from us.
- .........Rudolf.
- If something happens to you, what will happen to Ange‐chan back home?"
-"......Kyrie............Battler.........
- .........Dammit, ......dammiiiiiiit......
- ......I never......had a chance.........to tell you the truth........."
-"........................
- ......Krauss‐san.
- I\'m sure that everyone in the cousins\' room is extremely agitated right now.
- ......If you show them that you\'ve regained your composure, I\'m sure that will help them relax a lot.
- ......Would you mind heading up there?"
-".........Good point.
- We have to talk with everyone about what we\'re going to do next."
-"Please go up with him, Genji‐san and Gohda‐san.
- ......I\'m sure that Shannon‐san, Kanon‐san, and Kumasawa‐san are all very agitated as well."
-"Y‐......yes...!
- Yes, I\'m sure everyone is quite agitated......!"
-".........Are you certain?
- ......Is there nothing more we can help with?"
-"That\'s the very reason I want you to go with Krauss‐san.
- I want you there to help him if something happens.
- ......I\'d like for the rest of us to check that everything\'s locked up here.
- We\'ll head up soon, so please go on ahead."
-"Understood......
- ......If you need anything, please call us."
-Genji bowed and nodded to Krauss.
-Krauss nodded to Erika, then headed upstairs with Genji and Gohda.
-.........When only men are around in a time of confusion, it is easy for a composed member of the opposite sex to control the initiative.
-Even without the detective\'s authority, she was able to control them quite naturally.
-Erika had wanted to get rid of the servants for the time being......
-"Okay.
- In that case, let\'s get to checking the locks."
-"The problem is the big window in the lounge.
- It looks like it doesn\'t even have shutters.
- If they smash this, we won\'t be able to stop them from comin\' in."
-"Don\'t worry, the sound of the glass smashing will be more than enough warning.
- We\'ll turn them to Swiss cheese!"
-"......Quiet, please.
- I didn\'t have you stay down here to check the doors and windows.
- ......Please listen calmly to what I\'m about to say."
-When Erika lowered her voice, Rudolf and Hideyoshi realized that she had something secret to talk about,
- so they brought their ears closer as soon as they regained their composure...
-"Are you ready?
- This crime happened during a short break in the family conference.
- ......In that tiny span of time, six people were killed without anyone noticing—I can\'t imagine that was the result of any haphazard crime.
- This crime was committed by someone who knew the layout of this mansion well, inside and out."
-"......W‐......well..............."
-".........S‐sure, if they didn\'t know the inside well, then......
- B‐but still......"
-A short while ago, they had lambasted Gohda, suspecting the servants of having made a blunder.
-However, they had only thought that he had forgotten to lock up, and were attacking him for letting the mysterious culprit sneak in.
- .........They hadn\'t considered that one of the servants they knew so well might have taken those lives with their own hands.
-...No, they hadn\'t wanted to think that.
-People can\'t easily suspect someone they know well...
-...of being a killer......
-"At the time of the crime,
- the mansion was locked from the inside, and only those involved with the family conference existed there."
-"So, what, you\'re saying {i:Aniki} killed Kyrie and the others?!
- Or am I supposed to suspect Hideyoshi nii‐san?!
- It\'s impossible, unthinkable!!"
-"I\'ve never even considered suspectin\' Krauss nii‐san or Rudolf‐kun...!!
- All of us siblings were happily married!
- True, the Ushiromiya family may be strict with discipline and money.
- But that doesn\'t mean we treasure our own families less than any other family would...!"
-"Yes, of course I believe that.
- I wouldn\'t dream that any of you would kill your own wives."
-Erika had already received red truth proof from Battler that they were not the murderers.
- So, there was no need to argue that point...
-Krauss, Rudolf, Hideyoshi...and Gohda.
- .........None of those four was the killer.
-.........And yet, .........Erika said this......
-"However, ......what about Gohda‐san?
- He was in the servants\' quarters the whole time during the family conference, in a position to act without anyone else\'s knowledge."
-"Hold up, let\'s not jump the gun on suspectin\' Gohda‐san!
- He came to bring us drinks in the dining hall during the break.
- ......He was with us for a good long while.
- I can\'t imagine he had the time to kill six people...!"
-"......But he might have been able to let the actual killer into the mansion."
-"Precisely.
- ......Gohda‐san probably didn\'t kill them himself.
- However, it\'s very possible that he secretly welcomed the actual murderer into the mansion."
-Rudolf and Hideyoshi, stunned, looked at each other.
-They were all family.
- Even the wife of a sibling was still family.
- ......The siblings may have harbored hatred for each other, but they could never have hated each other\'s {i:wives} enough to kill them.
-Although Eva and Rosa were part of the sibling circle of hate,
- there could be no reason for a sibling to kill any of the others who had died—Natsuhi, Kyrie, Battler, or the young Maria...
-But......to a servant like Gohda......perhaps everyone was little more than a complete stranger.........
-"I suspect the servants on two counts.
- First, the victims are familiar with them, and there were no signs of a struggle at any of the crime scenes.
- I\'m sure you\'re all well aware that none of the rooms were the least bit disturbed."
-"......I thought that too.
- ......Kyrie\'s used to fighting, like hell she\'d get killed that easily without resisting.
- That woman wouldn\'t hesitate to bite your finger off...
- It does make more sense if the culprit was someone she knew, who suddenly attacked when her guard was down..."
-"C‐come to think of it, same goes for my Eva...
- She knows a dozen kinds of martial arts.
- She spends every day practically wishin\' for some ruffian to attack her.
- She wouldn\'t have been killed off in a snap like that...!"
-".........Then what about Rosa‐san, in the parlor?
- Do you think she would allow herself to be easily killed by a stranger, without resisting, while she had her only daughter with her?
- And this tells us something else that\'s important."
-"Somethin\' important...?"
-".........There\'s more than one culprit..."
-"Y‐......you\'re right...
- Both Rosa‐san and Maria‐chan were in the parlor.
- The culprit must have killed them both at the same time, or they\'d have made a hell of a racket.
- And if they were able to do that, there can\'t have been just one of them..."
-"When it came to Maria‐chan, Rosa was like a quick‐to‐anger mother bear.
- ......She wouldn\'t cower in fear, not even if someone pointed a gun at her.
- .........I see, so it had to have been people who wouldn\'t rouse Rosa\'s suspicion until the last second..."
-"......I believe you can see already that the idea of an unknown outsider sneaking onto the island is actually the less realistic.
- Whoever they are, they\'re familiar with this island.
- And there\'s more than one of them."
-There is more than one culprit...and they know the island.
-Erika\'s reasoning......pointed clearly at the ones they should suspect and guard themselves against.
-".........So, ......you suspect the servants......"
-"Yes.
- Under the current circumstances, they are the most suspicious.
- ......The second reason I have for suspecting them is the fact that the locked rooms were formed with chain locks."
-"Why do the chain locks make them suspicious?"
-"......What if there was no chain lock on the locked rooms?"
-"That\'s not much of a locked room.
- Anyone could make a room like that with nothin\' more than a master key."
-"......Yes, ...I see...
- .........The servants had to seal them with the chains so that they wouldn\'t be suspected..."
-"Exactly.
- ......By setting the chain, they don\'t have to worry about being suspected.
- ...To turn it around, if the chains weren\'t set, they wouldn\'t be able to avoid suspicion since they hold the master keys."
-"So, ......the only ones with somethin\' to gain from settin\' the chains......are the servants......"
-"I\'m not trying to protect them or anything, ......but if so, how did they actually set the chains?!
- Is it possible to set them from the outside?!"
-"Considering how they are built, I don\'t think that would be impossible.
- ......Have you ever heard this story?
- Apparently, some mailmen who deliver to apartment mailboxes are known to carry loops of wire with them."
-"Yeah, ......I\'ve heard of that.
- Apartment mailboxes often have similar adjoinin\' boxes around them for the nearby room numbers.
- I hear that sometimes, when the mailmen aren\'t bein\' careful enough, they accidentally deliver letters to the next room over."
-"Those mailboxes are almost always locked.
- If you put the mail into the wrong one, you\'d have no way of getting it out..."
-......In that situation, they are supposed to tell the owner of that mailbox about their mistake,
- have that person unlock the mailbox for them, and retrieve the improperly delivered mail.
-However, the resident of that apartment would often be out.
- And going through that process would be a real pain.
-Because of that, some mailmen would make a little tool out of wire with a hook at the end,
- and use that to fish the mistakenly delivered postcard out through the crack of the mailbox...
-"......I\'ve heard something similar from a friend of mine at a building management company.
- ......They sometimes get drunks who lock themselves in a toilet stall and fall asleep,
- so to get them out of there, they stick a thin, metal tool through the crack in the door and undo the latch..."
-"Exactly.
- All industries have little tools that can easily open things that normally can\'t be opened.
- .........It wouldn\'t be particularly surprising if the servants of a mansion had something of the sort."
-"...........................G‐......good point..."
-"......Once you figured out the knack of it,
- you could probably {i:set} the chain from the outside by using a wire as well.
- .........Yes, ......we can\'t be sure that it\'s impossible..."
-......True, physically speaking,
- one couldn\'t say for sure that there existed absolutely no way to set and unset chain locks from the outside.
-Chain locks allow for the door to be opened a crack.
-If a person were to stick something through that crack, ......they should be able to manage it easily...
- ......It was very natural for Rudolf and Hideyoshi to think that way.
-However, Erika knew better.
-Though it might be possible in reality, ......it had already been declared with the red truth that these locked rooms could not have been constructed from the outside.
- In other words, it was impossible to manipulate the chain lock from the outside.
-And yet.
- ......Erika was guiding their thoughts to put them under the illusion that only the servants could have constructed the locked rooms...
-With an air of solemnly revealing some vital point,
- ......she steadily steered the situation in the direction she wanted.
-Everything about her serious face for the last few minutes......was an act.
- No, to put it in her words, it was a detective technique for tricking suspects......
-"I plan to tell Krauss‐san what I\'ve told you.
- ......I\'m not saying that all the servants are culprits.
- However, it is very likely that one of them is a culprit or has been assisting the culprit.
- ......We should split them apart and have people with guns keep an eye on them."
-Rudolf and Hideyoshi looked at each other again.
-......What she was saying made sense, and it sounded as though she was calmly smoking out the most suspicious people at this point in time.
-With her accomplished conversation techniques, Erika was skillfully grasping the initiative.
- ......Even without the presence of the detective\'s authority, controlling human nature like this is trivial.
- Your thoughts, ladies and gentlemen......?
+ベッドの上でまどろんでいたヱリカは、扉をノックされているのに気付くのに、 => Erika was dozing off on the bed, so when a knock sounded on the door,
+しばらくの時間を掛けねばならなかった。 => it took some time before she noticed.
+時計を見ると、横になってから大して時間は経ってなかった。 => She looked at the clock and saw that not much time had passed since she had lain down.
+「………はい、どちら様ですか。 => ".........Yes, who is it?
+こんな時間に、探偵の部屋をノックするからには、相応の理由はあるんですよね…？」 => I hope you have a good reason for knocking on the detective\'s door at an hour like this..."
+「そうだ。 => "That\'s right.
+……今回のゲームを始める前に一つ、宣言があります」 => ......I have one thing to say before we begin this game."
+「あぁ、例の探偵宣言とやらか。 => "Oh, that detective proclamation thing?
+好きにするがいいぜ」 => Knock yourself out."
+「いいえ、その逆です。 => "No, just the opposite.
+……勝負のレートを上げようということです」 => ......I say we raise the stakes."
+「………勝負のレート、…とは……？」 => ".........Raise...the stakes......?"
+「何々？ => "What\'s this?
+面白そうなことを言い出すじゃない。 => Now that sounds interesting.
+どういうことよ？」 => What do you mean?"
+「……簡単な話よ。 => "......It\'s simple.
+前回のゲームは戦人が一本取ったわ。 => Battler got a shot off at us in the last game.
+だから今回、ヱリカが一本を取ってもイーブンにしかならない」 => So, if Erika does the same in this game, we\'re only even."
+「前回のゲームは、引き分けだったのでは…」 => "Wasn\'t the last game a tie...?"
+「勝って当たり前のゲームを落としたのよ？ => "We threw a game we should have won easily.
+あんなの負けでなくて何だと言うのよ。 => If that isn\'t a loss, I don\'t know what is.
+ねぇ、ヱリカ…？」 => Right, Erika...?"
+「は、はいっ、我が主。 => "Y‐yes, my master.
+私が無様を晒さなければ、勝てて当然のゲームでした…」 => We were expected to win that game if I hadn\'t failed so miserably..."
+「……ははぁん、なぁるほどぉ？ => "......Ooooh, I get it.
+つまり今回、わざと探偵宣言を出さないことで、わざと不利に戦い、それでも勝って見せちゃって…！ => So this time, you\'ll intentionally fight at a disadvantage by not making a detective proclamation...and win despite that...!
+前回の負けを、帳消しどころか大逆転にしようって魂胆ね？」 => You\'re aiming to not only wipe out your loss from the previous game, but to totally flip the score upside down, right?"
+「ば、……戦人さんの渾身のゲームに、そんなおかしなハンデをつけて戦うなんて…。 => "Y‐......you intend to challenge the game Battler‐san poured his heart and soul into with a foolish handicap like that...?
+身の程知らず以前に、失礼ですっ…」 => That is not only presumptuous, it\'s quite rude...!"
+「……そうだな。 => "......Sure is.
+むしろ、負けた時の言い訳にするための保険にすら聞こえるぜ」 => It sounds more like an excuse just in case they lose."
+「確かに、そういう見方もあるわね。 => "True, you could look at it that way.
+勝てば大勝利。 => If they win, it\'s a great victory,
+でも負ければ言い訳可能なんて、ちょっとヱリカ側にムシのいい話だわ」 => but if they lose, Erika\'s side has a nice little excuse... Isn\'t that a bit unsporting?"
+「大丈夫よ、ちゃんと賭けるものは公平だわ。 => "Don\'t worry, the bet will be evenly balanced.
+……今回のゲームに、探偵宣言なしのニンゲンで勝てれば、戦人たちの魔女幻想は粉々の再起不能」 => ......If Erika can win this game as a {y:0:Human}{n:0:human} without the detective proclamation, it will be impossible for Battler and the others to pick up the pieces of the witch illusion."
+「……でも逆に、ヱリカが負けるようなら、このゴミクズ探偵は忘却の深遠に、最悪のカケラと一緒にブチ込んでやるの」 => "......But on the other hand, should Erika lose, I\'m going to hurl that garbage detective into the depths of oblivion along with the worst possible fragment."
+「…………………………」 => ".............................."
+「……ね？ => "......See?
+公平でしょう？ => Balanced, right?
+探偵という超人でなく、ただのニンゲンが魔女幻想を打ち破るという最高の勝利。 => The ultimate victory of destroying the witch illusion as a mere {y:0:Human}{n:0:human}, not a superhuman "detective".
+……それと引き換えに自身の破滅を賭けてるわけ」 => ......In exchange for that, she wagers her own destruction."
+「私はかつてのベアトとあんたのゲームみたいに、ダラダラとぬるいゲームを繰り返されちゃもう退屈なわけ。 => "I\'ve gotten tired of the never‐ending stream of bland and boring games that you and the former Beato played.
+……だから勝負のレートを上げて、一気に勝負をさせるわけ」 => ......So we\'re raising the stakes and settling it all at once."
+「……まぁ、確かにそうね。 => "......Well, that is true.
+……今回のゲームを、戦人が{i:通しちゃったら}、 => ......If Battler can {i:sell} this game,
+ベアトのゲームに戦人が“勝利”したことになり、ゲームは終了してしまう。 => it will mean that Battler has "won" Beato\'s game, and the game will come to an end.
+……ある意味、逃すことの出来ない決戦だものねぇ…？」 => ......In a sense, this is the kind of finale you can\'t pass up, right...?"
+「…………………。 => ".....................
+……言い分はわかった。 => ......I understand your position.
+……ヱリカはそれでいいのか」 => ......Are you fine with that, Erika?"
+「………え、……えぇ、もちろんですっ。 => ".........Y‐......yes, of course.
+……前回の敗北で失った、主よりの信頼を取り戻すために、…わ、…私は自分の破滅すらも賭けるのですっ…」 => ......In order to regain my master\'s trust in me, which I lost with my previous defeat, ...I...I will risk even my own destruction..."
+「お前の意思なのか…」 => "Is that of your own will...?"
+「………っ………」 => ".................."
+「……………………」 => "........................"
+「…………どうしたの、ヱリカ？ => "............What\'s wrong, Erika?
+答えて上げなさい…？」 => Answer him..."
+「と、………当然ですっ。 => "O‐.........obviously.
+私の意思ですっ。 => This is my own will.
+……私は、絶対に負けません…。 => ......I will not lose...
+……探偵宣言なんかなくても、……あ、…あんたを必ずっ、……打ち破って見せます…！！」 => ......Even without the detective proclamation, ...I...I will defeat you no matter what...!!"
+「…………戦人さん………」 => "............Battler‐san........."
+「………………………。 => "...........................
+……いいだろう。 => ......Alright.
+お前がそうしたいというなら、その勝負を受けてやる」 => If that\'s what you want, I\'ll accept your challenge."
+「………………ッ、 => "..................
+……あ、ありがとうございます。 => ......Th‐thank you very much.
+受けたことを、必ず後悔させてやりますから」 => I\'ll make sure you regret it."
+「まぁ、思えば戦人だってニンゲン側だった時はずっと、探偵権限なんて便利な力は一切なかった。 => "Come to think about it, when Battler played for the {y:0:Human}{n:0:human} side, he never had anything as convenient as the detective\'s authority.
+許されてたのは青き真実と復唱要求だけ」 => He was only allowed blue truth and repetition requests."
+「そういうこと。 => "Exactly.
+ある意味、前回のゲームの方がアンフェアだったわけだわ。 => In a way, it was the previous game that was truly unfair.
+………それで勝ちを落とすのだから、それは負けとまったく同じ…」 => .........We failed to win despite that, which is why it was no different from a loss."
+「………………………」 => "..........................."
+「好きにしろ。 => "Do what you want.
+お前が探偵宣言をしたくなったら、いつでもすればいい。 => If you feel like making a detective proclamation, just do it whenever you like.
+……今はそれを保留していると理解しておく」 => ......I\'ll consider it to be an option you\'re keeping available."
+「誰が、……宣言なんかするもんですか……。 => "......Why would I ever need to do that......
+あんた程度の相手に……」 => against an opponent as weak as you......"
+「……………………」 => "........................"
+「では始めなさい、二人とも。 => "Then get started, you two.
+私の退屈は、もう始まっているわ」 => I\'m already starting to get bored."
+「……お任せを、我が主…！！ => "......Leave it to me, my master...!!
+必ずや魔女幻想を打ち破ってご覧に入れます…！」 => I will destroy the witch illusion for you without fail...!"
+ヱリカの部屋をノックしたのは、譲治と朱志香だった。 => George and Jessica had been the ones knocking on Erika\'s door.
+戦人と真里亞が部屋に来ていないか、というものだった。 => They were asking whether Battler and Maria had come to this room.
+……もちろん、来ているわけもない。 => ......Of course, they hadn\'t.
+「ずいぶん前に、下に飲み物を取りに行くと言って下りたきり、戻らないんだ。 => "A good while ago, they went downstairs, saying they wanted to get something to drink.
+ひょっとして、ヱリカちゃんの部屋に来てるかなと思ってね…」 => We thought they might have come to your room..."
+「来るわけないです。 => "Of course they didn\'t.
+……屋敷にでも行ったんじゃないですか？」 => ......Are you sure they didn\'t go to the mansion?"
+「屋敷の、使用人室や食堂に電話してるんだけど、誰も出なくて…」 => "We called the servant room and dining hall of the mansion, but no one picked up..."
+「……あなたたちはここに居て下さい。 => "......Please stay here, you two.
+私はちょっと屋敷の様子を見てきます」 => I\'m going to go check the mansion."
+「あ、危ないよ、こんな時間に」 => "H‐hey, it\'s dangerous to go out this late."
+「この閉鎖された島に、不審者がいるはずもないじゃないですか。 => "How could a stranger sneak onto this sealed‐off island?
+いとこ部屋とやらに居て下さい。 => Stay in that cousins\' room of yours.
+何かあったら連絡しますから。 => I\'ll contact you if anything happens.
+ゲストハウスの使用人室の人たちにも、ゲストハウスを出ないように伝えて下さい。 => Also, tell the servants in the guesthouse servant room not to leave the building.
+ではっ」 => Bye."
+「ちょ、ちょっとヱリカさん…！！」 => "W‐wait a second, Erika‐san...?!!"
+「…………変わった子だね」 => "............She is a strange kid."
+ヱリカは一方的にそれだけを告げると、階段を駆け下り、外へ飛び出していった。 => After speaking her mind and not listening to anything else, Erika dashed down the stairs and rushed outside.
+「……第一の晩は、夜が明けてから発覚がパターンでしたが、今回は即勝負と来ましたか。 => "......The first twilight usually starts in the morning, but it looks like we\'ve got an early fight this time.
+……ゲストハウスで事件は起きていない。 => ......No crime has occurred in the guesthouse.
+となると、惨劇の舞台は屋敷ってことになりますね…」 => So, that means the stage of the tragedy is in the mansion..."
+ヱリカは傘を差しながらも、びしょ濡れになりながら疾走する。 => Though she had an umbrella up, Erika got drenched as she sprinted.
+顔を伝う雨粒をぺろりと、不敵に舐めながら……。 => She brashly licked the raindrops that dripped down her face......
+……ヱリカは今、最高に活き活きとしていた…。 => ......Erika was now at her most energetic...
+前回のゲームの記憶によるなら、屋敷の玄関は、親族会議の開始とともに施錠される。 => According to her memory of the previous game, the entrance to the mansion would be locked at the same time the family conference started.
+しかしながら、今回は施錠が開いていた。 => However, the lock was undone this time.
+……誰かが施錠を開けたのか、あるいは施錠をしなかったのか、出来なかったのか。 => ......Had someone unlocked it, or had the lock not been set, or had it not been possible to set the lock?
+「ま、考えても無駄ですね。 => "Well, no point thinking about it now.
+そんなの、ゲームマスターの気まぐれかもしれませんから」 => After all, that might just be a whim of the Game Master\'s."
+玄関に入ると同時に、客間の扉が荒々しく開いた。 => As soon as she entered the entrance hall, the door to the parlor opened violently.
+{n}そこから飛び出してきたのは、郷田の巨体だった。 => {n}Out of it flew Gohda\'s large body.
+「おや、こんばんは、郷田さん。 => "Ah, good evening, Gohda‐san.
+何かございましたか？」 => Is something the matter?"
+「あ、あわわわ、あわわわッ！！ => "A‐...awawawa....awawawa!!
+け、警察…、救急車を…！！ => P‐police...ambulance...!!
+あわわわわわ！！」 => Awawawawawa!!"
+本当にステキでマヌケな顔だわ。 => That expression really is wonderfully pathetic.
+{n}第一発見者はそうでなきゃ。 => {n}Just fitting for the first one to discover the crime.
+「どうか落ち着いて下さい。 => "Please calm down.
+台風の孤島で、どうやって警察と救急車が来てくれるって言うんです？ => How could the police or an ambulance get to an isolated island in the middle of a typhoon?
+どうせ電話は不通にされてるんですから、落ち着いて下さい」 => I\'m sure the phones are out anyway, so please calm yourself."
+客間の中からは、蔵臼や留弗夫たちが騒ぐ声が聞こえる。 => Krauss and Rudolf\'s yells could be heard from the parlor.
+彼らのその取り乱す様子は、まさに第一の晩の幕開けを告げていた……。 => Their shaken appearance perfectly signified the arrival of the first twilight......
+「それでは、死者と現場、状況の再構築をお願いします」 => "Well then, give me the victims, the locations, and a reconstruction of the situation."
+「……小休止に出た人間が戻らないので、大人たちが客間へ行ったところ、 => "......Those who left to take a break didn\'t come back, so the adults went to the parlor.
+扉が内から閉ざされて開かなかった。 => When they did, the door was sealed from the inside, and they couldn\'t open it.
+後にわかるが、客間内の帽子掛けが観音開きの扉に、内側からかんぬきにされていた」 => As they would learn later, the hat stand in the parlor had been used to bar the double doors from the inside."
+「扉は内から閉ざされ、そして窓も内側から施錠と言いたいわけですね…？」 => "So you\'re trying to say that the door was blocked from the inside, and the windows were also locked from the inside...?"
+「そういうことだ。 => "That\'s it.
+……外に回り、窓から客間内を見たところ、楼座がソファーに不自然な格好で横になり、額から血を流しているのが見えた。 => ......When they went around and looked into the parlor through the window, they saw Rosa lying on the sofa in an unnatural position, with blood pouring from her forehead.
+……そこでガラスを割って客間に入り、他に真里亞も、壁際に血まみれで倒れているのを発見した」 => ......They then smashed the glass, entered the parlor, and discovered that Maria was also there, lying by the wall and covered in blood."
+「……なるほど。 => "......I see.
+それは大騒ぎですね。 => I\'m sure there was quite an uproar.
+他の現場は？」 => And the other crime scenes?"
+「ヱリカが屋敷に入った時、玄関が施錠されていなかったのは、この客間を外から確認するために出入りがあったからだ。 => "The entrance wasn\'t locked when you came into the mansion...because they had gone out through it to check the parlor from the outside.
+……その直前までは施錠されていた為、他にも姿を消した人間たちが、屋敷内のどこかで倒れている可能性があるとして、 => ......Since the entrance was locked before the adults went through it, they thought that the other people who had gone missing might be somewhere within the mansion in a similar condition,
+大人たちは今、屋敷中を探し回っている…」 => so they\'re now searching the entire building..."
+「先ほど、長々と見せていただいたゲロカス妄想での犠牲者と死んだ場所は、実際にも同じですか？」 => "Are the locations of the dead the same as in that long‐winded, putrid delusion of yours that you showed earlier?"
+「……同じだ」 => "......They\'re the same."
+「客間には楼座と真里亞。 => "Rosa and Maria were in the parlor.
+それから、……夏妃が自室で、霧江が蔵臼の書斎。 => As for the others, ......Natsuhi was in her own room, and Kyrie was in Krauss\'s study.
+絵羽は薔薇庭園、……いえ、貴賓室に移動させたんでしたっけ？」 => Eva was in the rose garden......no, wait, she was moved to the VIP room, wasn\'t she?"
+「そうだ。 => "Yes.
+絵羽の遺体は貴賓室で見つかる」 => They discover Eva\'s body in the VIP room."
+「これで犠牲者５人ですね。 => "That makes five victims.
+おや、第一の晩には１人足りない。 => Ah, that\'s one short for the first twilight.
+６人目は誰で、どこです？」 => Who\'s the sixth, and where are they?"
+「……ッ？！ => "......?!
+旦那様！　この部屋にもチェーンが…！！」 => Krauss‐sama! The chain on this room is also set...!"
+「切断しろいッ！！ => "Cut it!!
+犯人が隠れてるかもしれねぇ！！」 => The culprit might be hiding in there!!"
+「郷田、やれ！」 => "Gohda, do it!"
+留弗夫と蔵臼は、金蔵の秘蔵コレクションの、あのライフル銃を持ってきていた。 => Rudolf and Krauss had brought rifles from Kinzo\'s prized collection.
+そして番線カッターを持つ郷田に、チェーンロックを切断しろと口々に叫ぶ。 => They yelled at Gohda, who was carrying the bolt cutter, to cut the chain.
+屋敷内の各所で、次々に犠牲者が発見されていた。 => Victims had been found one after another at several locations inside the mansion.
+妻を失った男たちは犯人の姿を求め、怒り狂いながら屋敷中を探しているのだ。 => The men who had lost their wives searched through the mansion in a rage, looking for the culprit.
+そこは、客室だった。 => This was...a guest room.
+以前は親族たちを泊める部屋となっていたが、 => It had previously been a room where the relatives would stay,
+ゲストハウスが建ってからはあまり使用されていない部屋だ。 => but it hadn\'t been used much since the construction of the guesthouse.
+そんな、忘れられた部屋が、内側からチェーンで閉ざされている…。 => This forgotten room was locked from the inside by the chain...
+「……んんん、………えいッ！！」 => "......Nnnnn, .........hyaahh!!"
+チェーンを切断すると、留弗夫が郷田を突き飛ばして、室内に飛び込む。 => As soon as the chain was cut, Rudolf pushed Gohda aside and flew into the room.
+「誰が居やがる？！　出てきやがれ…！！」 => "Who\'s in there?! Show yourself...!!"
+「ベッドに誰かいるぞ…！」 => "There\'s someone on the bed...!"
+「兄貴、明かりを…！」 => "Let\'s get some light, Aniki...!"
+蔵臼が壁のスイッチを押すと、………客室が明るくなり、 => Krauss pushed the switch on the wall, ......the guest room lit up,
+ベッドの上に横たわっている人物の姿を浮かび上がらせた…。 => and the figure lying on the bed came into view...
+「ば、……戦人……ッッ！！ => "B‐......Battler......!!
+お、……お前、……どうして……こんなところに……ッ、」 => D‐......dammit, ......what are you even......doing in here......?!"
+留弗夫が、膝から崩れ落ちるように、……戦人の遺体に覆い被さる。 => Rudolf crumpled to his knees and fell onto Battler\'s body.
+悲しく、そして狂おしく泣き叫ぶ彼に、……掛けられる言葉などない。 => No words could console him as he cried with a mad sorrow...
+……彼は一夜にして、…妻も息子も同時に、失ったのだから。 => ......In a single night, ...he had lost both his wife and his son.
+その間に蔵臼は、洗面所と窓の戸締り、クローゼットの中など、誰かが隠れていないかを探したが、誰も見つけられなかった…。 => During this time, Krauss checked the window locks and the bathroom and searched the closet to find if anyone was hiding there, but he found no one...
+「戦人ぁ…、戦人ぁああぁ……、畜生ぉおおぉ……ぅおおおぉおぉおお……」 => "Battleeer...! Battleeeeeeer......! Dammiiiiit......! Aa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}hhh......"
+「お、……お気の毒です……」 => "H‐......how sad......"
+「……信じられんことだが、……この部屋も、……密室だ」 => "......It\'s hard to believe, ......but just like the others, ......this is a locked room."
+「え、……えぇ、またですか…？！」 => "Wh‐......what, again...?!"
+「そうだ……。 => "Yes......
+霧江さんのいた私の書斎、夏妃の自室、絵羽の貴賓室、楼座親子の客間。 => My study where Kyrie‐san was, Natsuhi\'s room, the VIP room with Eva, the parlor with Rosa and her daughter...
+……そして、この戦人くんの客室。 => ...And now Battler‐kun in this guest room.
+……全てが、密室ということではないか…。 => ......They\'re all locked rooms...
+……わけが、…わからん…。 => ...I don\'t......understand...
+まさか、自殺だとでも言うのか…？！」 => Are we to believe this is suicide...?!"
+「そんなことあるもんかッ…！！ => "Like hell it is...!!
+これが、どう自殺だってんだ？！ => How could {i:this} be suicide?!
+ぅおぉおおおぉおぉおおぉ…、戦人ぁああぁあぁ……」 => Aaaaggggghhh......Battleeeeeeer......"
+「おや。 => "Oh,
+……これは意外でした。 => ......there\'s a surprise.
+まさか６人目は、あなた自身とは」 => To think that you yourself would be the sixth person."
+「たまには自分殺しも面白いもんさ」 => "It\'s more interesting to kill yourself off every now and then."
+「そして、全ての現場はいずれも密室です。 => "And all of the crime scenes are locked rooms.
+……魔法以外では成し得ない殺人です」 => ......They\'re murders that couldn\'t have been performed without magic."
+「ふん、それを暴くゲームじゃないですか。 => "Hmph, isn\'t seeing through that the point of this game?
+…即ち、魔法以外で成し得なければならない殺人というわけです。 => ...By which I mean, the murders {i:must} be possible to commit without magic.
+……だって、本当に魔法でしか出来なかったら、それってゲームが成立しませんから」 => ......After all, if they really could be done only with magic, this wouldn\'t be a game."
+「……面白い考え方だな。 => "......That\'s an interesting way of thinking about it.
+……なるほど、確かに俺たちのゲームは、そういうゲームだ」 => ......Yeah, that is the sort of game we\'ve been playing."
+このゲームはフェアだ。 => This game is fair.
+魔法で起こしたと主張する不思議な事件を、魔法以外で説明するのが目的だ。 => The goal is to explain, without magic, the strange crimes that the opposing side claims to have carried out using magic.
+{i:それが出来ないなら}、ゲームじゃない。 => {i:If that couldn\'t be done}, it wouldn\'t be a game.
+即ち、ヱリカの言う通り“魔法以外で成し得なければならない殺人”というわけだ…。 => In other words, just as Erika said, it has to be possible to perform the murders without magic...
+……裏を返すと、魔女側には義務があるわけだ。 => ......To view it from the opposite angle, the witch side has a certain responsibility.
+魔法など使わず、{i:トリックで事件が再現可能}であることが。 => They have to make a crime that can be {i:reproduced with tricks and not magic}.
+それをニンゲン側が看破できない限り、どんな魔法も幻想も、許される。 => As long as the {y:0:Human}{n:0:human} side can\'t figure out those tricks, the witch side can use all kinds of magic and illusions.
+……つまり、魔法で密室殺人を行なうには。 => ......In other words, in order to carry out a locked‐room murder with magic,
+{n}“ニンゲンの手で可能な事件を作らなければならない”、ということだ。 => it is necessary to create a crime that is possible to carry out by {y:0:Human}{n:0:human} hands.
+「………今ならわかるわ。 => ".........By now, I understand.
+聖ルチーアで、ムカつくクラスメートたちを殺せと七姉妹に命じた時、 => I see why, when I ordered the Seven Sisters to kill my classmates back at Saint Lucia,
+……どうして彼女らにそれが出来なかったか。 => ......they couldn\'t do what I told them.
+……そして、マモンが言った意味が今ならわかるわ」 => ......And I understand the meaning of Mammon\'s words."
+「“魔法は、自らの手で成し遂げられることしか、出来ない”、ということ…、か」 => "Do you mean that "magic is only capable of that which you can accomplish by your own hands"...?"
+あの時。 => At that time,
+私に、クラスメートたちを殺す決意があったなら、 => if I had possessed the determination to kill my classmates,
+……いや、違う。 => ......no, that\'s not it.
+あの時。 => At that time,
+私が、クラスメートたちを殺すことが出来たなら。 => if I had been capable of killing my classmates,
+いや、遂行できたなら。 => capable of going through with it...
+……煉獄の七姉妹たちは、殺人を遂行できただろう。 => ......then the Seven Sisters of Purgatory would probably have pulled it off for me.
+私に出来ることしか、遂行できない。 => They could only accomplish what I could do myself.
+……いや、違う。 => ......No, that\'s not it either.
+{n}私が遂行したことを、“魔法”に、変える。 => {n}They could take what {i:I} had accomplished and turn it into "magic".
+もっとも、あの教室には大勢の観測者がいたから、それは無理だったろう。 => Of course, there were a great number of witnesses in that classroom, so that would probably have been impossible.
+……真里亞お姉ちゃんたちの言うところの、反魔法の毒に焼かれる、ということだ。 => ......Maria onee‐chan would call it "being burned by the anti‐magic toxin".
+しかし、……あのクラスメートたちを、観測者のいないところに呼び出し、……私が殺人を遂行したなら。 => However, ......if I had called those classmates out somewhere without witnesses, ......and carried out murder myself...
+その時こそ、“煉獄の七姉妹は、魔法殺人を遂行できる”ということだ…。 => ...that would be when "the Seven Sisters of Purgatory" could "carry out a magical murder".
+「……魔女は魔法を以ってしても、自らに出来ないことを出来ない。 => "......Even with magic, witches cannot do things that they cannot accomplish by themselves.
+……自らに出来ることのみ、魔法で“装飾”できる」 => ......They can only use magic to "embellish" the things that are possible for them."
+「……面白きかな。 => "......How interesting it is.
+……魔法を使わずして成し遂げる者が、魔法を語り、魔女を名乗るのだから」 => ......That those who accomplish something without using magic nevertheless speak of magic and call themselves witches."
+「このヱリカとやらは、それを初めから理解している。 => "This Erika person has understood that since the beginning.
+……だから、絶対に魔女に屈しない。 => ......That\'s why she will never surrender to witches.
+…絶対にトリックで説明できるという信念を持ってる。 => ...She is confident that it must be explainable with tricks.
+かつての戦人にはそれがなかったから、これまで、ああも翻弄されてきたというわけだ…」 => The old Battler was toyed with so frequently because he did not possess that confidence..."
+「……このルールを見破られたら、魔女に勝ち目はなくなるわ。 => "......Once this rule is seen through, the witch loses any chance of victory.
+……だから、それを見破られる前に、相手を屈服させなくちゃいけない。 => ......That\'s why they have to make their opponent surrender before they see the truth of this rule.
+……長引けば長引くほど、……そしてヒントを与えれば与えるほど、……魔女は圧倒的に不利になっていく…」 => ......The longer the match is drawn out, ......and the more hints are given, ......the more overwhelming the witch\'s disadvantage becomes..."
+また堂々巡りの思考。 => Once again, my thoughts are spinning in circles.
+……どうしてベアトは、負けるまでゲームを長引かせたのか。 => ......Why did Beato prolong this game until she lost?
+………………………………。 => ....................................
+大勢の犠牲者が出て、屋敷は未だ混乱を極めていた。 => Many victims had been found, and the mansion was still wrapped in chaos.
+秀吉たちは、ゲストハウスの子供たちが心配だと、ゲストハウスへ向かったようだった。 => Hideyoshi\'s group seemed to have gone to the guesthouse, worrying about the safety of the kids there.
+蔵臼と留弗夫たちは、ホールで今後をどうするか話し合っている…。 => Krauss and Rudolf were in the hall, talking about what should be done next...
+その混乱の一瞬の空白をついて、 => During a short gap in this chaos,
+………ヱリカは屋敷中を駆け回っていた。 => .........Erika dashed all about the mansion.
+殺人現場を確認するためである。 => She was checking the crime scenes.
+本来ならば、探偵権限を持つヱリカは、堂々と心行くまで現場を検証する権利を持つ。 => Normally, with the detective\'s authority, Erika had the right to openly investigate the crime scenes to her heart\'s content.
+しかし今回は、その探偵権限をまだ行使していない。 => However, this time, she hadn\'t yet invoked that authority.
+……その為、客人という名の部外者に、殺人現場の検証が許されるわけがないのだ。 => ......Because of that, and with her being a guest and an outsider, there was little to no chance that she would be allowed to investigate.
+だから、自由に動き回れる今の内に、 => So, she was forced to quickly check all of the crime scenes now,
+大急ぎで全ての現場を確認しなければならない。 => while she could still run about as she pleased.
+使用人室に、クリアフォルダに入った屋敷内の見取り図があった。 => In the servant room, there had been a clear folder containing a plan of the mansion\'s interior.
+それを拝借した為、全ての部屋の場所はわかっている…。 => Because she had borrowed that, she knew the location of every room in the mansion...
+ヱリカは手際よく屋敷内を回り、次々に犯行現場に飛び込んでいく…。 => Erika efficiently made her way through the mansion, dashing into each crime scene in turn...
+「ヱリカ卿、……ご存知とは思いますが、念の為、ご忠告をいたしマス」 => "Lady {f:5:Erika}, ......I believe you know, but allow me to warn you just in {f:5:case}."
+「はい？　何です？」 => "Yes? What is it?"
+「ヱリカ卿は、確かに写真並みの驚くべき記憶力をお持ちデス。 => "It is true that you have an incredible photographic {f:5:memory}.
+……それは探偵権限と組み合わさることで、何物にも欺かれぬものと成り得マシタ」 => ......When you combine that with the detective\'s proclamation, it becomes impossible for you to be fooled by {f:5:anything}."
+「あぁ、わかってます。 => "Oh, I know what you\'re going to say.
+……探偵宣言をしていない私は、写真並みの記憶力を持っていても、欺かれない保証はないってわけですね。 => ......Since I haven\'t made the detective proclamation, even my photographic memory could potentially be fooled.
+もちろん、理解していますとも。 => Of course, I understand that.
+……かといって、現場を直接視認しないわけには行きませんから」 => ......Still, that doesn\'t mean I can afford to go without viewing the crime scenes directly."
+「……前回のゲームでは、そこに慢心し、悔やみ切れぬ失態を犯しましたから」 => "......After all, in the last game, my pride in that regard led me to commit a truly agonizing blunder."
+「極論、今のヱリカ卿は、どれほど検死をしようとも、 => "To take an extreme case, no matter how well you examine a person\'s corpse right now,
+死んだフリを見破れない可能性が常に残るということです。 => the possibility will always remain that they were faking their {f:5:death}.
+全ての状況を個別に確定させるためにも、戦人に復唱要求をする必要があるでしょう」 => It will probably be necessary to give Battler repetition requests to confirm the details of each situation {f:5:individually}."
+「それを引き出すために、青き真実を駆使しなくてはなりませんね。 => "And I\'ll need to use the blue truth liberally in order to draw those out of him.
+……わかってます。 => ......I know that.
+基礎を充分に、基本から攻めましょう。 => Let\'s start with the basics.
+……探偵権限などなくてもハンデにはなりません。 => ......The lack of the detective\'s authority is no handicap.
+かつての戦人と同じ条件で戦っているだけなんですからっ」 => It simply means that I\'m fighting under the same conditions Battler once was."
+そう。 => Yes.
+この戦いは、……かつて、ベアトと戦人が激しく戦った日々を、再びなぞっているのだ。 => This fight......is retracing the old days when Battler and Beato fought so fiercely.
+探偵権限などという便利なものはない。 => I have no conveniences such as the detective\'s authority.
+……本当に、かつての日々の戦人と同じ戦い方をしなければならないだけなのだ。 => ......I truly do just have to fight the same way the old Battler fought.
+その意味においては、我が主の言うように、 => Thinking of it this way,
+確かに前回の自分はかなり恵まれた、アンフェアな立場だったかもしれない…。 => it may be true that I was in a very blessed, unfair position last game, just as my master said...
+確かに、探偵としての名誉でもある、探偵権限がないのは辛い。 => It may be difficult without the detective\'s authority, which also holds my honor as a detective.
+しかしそれしき、ハンデになってたまるものか。 => But I won\'t let that be a handicap.
+私は魔法の何たるかを理解し、赤と青の真実でどう戦えばいいかを熟知している。 => I know what magic is, and I\'m fully aware of how to fight with the red and blue truths.
+かつての戦人よりも何倍も、戦い方というものを心得ているのだ……。 => I know the way to fight in this game many times better than the old Battler did......
+私は、２階の貴賓室、蔵臼の書斎、夏妃の自室、そして１階の客室、客間の全ての現場を足早に訪れ、 => I quickly visited the VIP room, Krauss\'s study, and Natsuhi\'s room on the second floor, as well as the parlor and the guest room on the first floor,
+前回、疎かにした自らの目での確認を終える…。 => this time checking with my own eyes, as I had neglected to do in the last game...
+まず、全ての現場は密室が主張されていた。 => First off, all of the scenes were made to look like locked rooms.
+特筆すべきは、マスターキーがトリックにまったく関与しない点だろう。 => Probably of special note is the fact that the master keys have no relation to the tricks this time.
+室内は全て内側から、 => The locked rooms were all constructed...
+マスターキーなどの外部から施錠開錠できる手段と無関係な方法で、密室となっていたのだ。 => ...without relying on any elements that could be locked or unlocked from the outside by a master key or something else.
+窓は内側から閉ざされ、扉はいずれも施錠とチェーンロック。 => The windows were locked from the inside, and the doors were all locked and chained.
+施錠はマスターキーでどうにでもなるが、窓の施錠とチェーンロックが地味に大きい。 => The master key can get around all of the locks on the doors, but the window locks and the chain locks are more trouble than they might appear.
+復唱要求で、それらが外部から細工できないことの確認はまだだが、……どーせ、赤で宣言できるだろう。 => I haven\'t yet used a repetition request to get confirmation that it\'s impossible to manipulate them from the outside, ......but I\'m sure he\'ll be able to say it in red.
+そうじゃなかったら、馬鹿らしい。 => It\'d be stupid otherwise.
+「……わかってます。 => "......I understand.
+今の私はただのニンゲン。 => Right now, I am a mere {y:0:Human}{n:0:human}.
+……遺体の死亡確認さえ、満足に出来やしない」 => ......I can\'t even properly confirm the deaths of the corpses."
+……前回、遺体の確認を疎かにすることで、……とんでもない“魔法”を許した。 => ......Last time I neglected to check the bodies, ......and let a massive piece of "magic" get by me.
+もうあの無様は繰り返さない……。 => I won\'t fail like that again......
+あんな無様をもう一度許したら、 => If I let that happen even once more,
+……大恩ある我が主に、……顔向け出来ない……。 => ......I won\'t be able to face the master I\'m so indebted to......
+「全ての現場を確認し、情報の整理が終わりマシタ。 => "We have checked all of the crime scenes and finished gathering {f:5:information}.
+ご報告いたしマス」 => Here is our {f:5:report}."
+「お願いします」 => "Go ahead."
+「まず、全ての部屋は、窓の施錠とチェーンロック等による、 => "First, all of the rooms employ window locks and chain locks...
+“外部よりの干渉の困難な”方法によって密室を構築されていマシタ。 => to form locked rooms in a way that would be "difficult to interfere with from the {f:5:outside}".
+唯一の例外は楼座と真里亞の死んでいた客間のみデス」 => The only exception is the parlor, where Rosa and Maria lay {f:5:dead}."
+「謹啓、謹んで申し上げる。 => "For your attention: I beg to inform you of the following.
+帽子掛けがかんぬきにされていたものなり」 => Let it be known that the door was barred with a hat stand."
+「実質的にチェーンロックと同様の、内側のみより施錠可能と思われるものなりや」 => "It is thought to be substantially the same as a chain lock, in that it can only be set from the inside."
+「マスターキーによる解釈を完全に封じた密室を構成するためでショウ。 => "It is probably his goal to construct locked rooms where explanations using master keys are made completely {f:5:ineffective}.
+客間の性格上、チェーンロックがないため、他の何かで代用することも自然デス」 => The parlor has no chain lock due to its very nature, so it is natural that something else would be used in place of a {f:5:chain}."
+「……ならどうして、チェーンロックのある他の部屋を密室に選ばなかったかが興味深いですね。 => "......In that case, the interesting question becomes why he didn\'t choose one of the other rooms that do have a chain lock.
+戦人が死んでいた客室は、他にも数室あって、同じような構造をしてたわけですよね？」 => There are several other guest rooms besides the one Battler lay dead in, all with a similar construction, correct?"
+「ハイ、そうデス」 => "Yes, that is {f:5:correct}."
+「なら、そこに閉じ込めれば、全員、チェーンロックの密室ということで、より美しかったはずなのに、それをしなかった。 => "In that case, it would have been more aesthetically pleasing to lock them in there, so that everyone would be inside a room locked by a chain, yet he did not do that.
+……どうもこの客間の、帽子掛けのかんぬきとやらが胡散臭いです。 => ......This hat stand door bar in the parlor seems very suspicious.
+復唱要求でよく追及するべきでしょうね。 => I should probably investigate it thoroughly with repetition requests.
+あと、遺体なんですが、……前回の首がバッサリ！ => Also, regarding the bodies, ......in the last game, their throats were sliced wide open...
+みたいに、探偵権限がなくとも、絶対の死亡を確認できるようなものはありましたか？」 => to the point that the deaths could be confirmed with certainty even without the detective\'s authority, but was there anything like that this time around?"
+もちろん、今回は彼女も全ての現場で全ての死体を確認している。 => Of course, she had checked all of the corpses in all of the crime scenes this time.
+……しかし探偵権限がないため、いわゆる、死んだフリを“絶対”看破できる保証がない…。 => ......However, without the detective\'s authority, she had no guarantee that she would be able to see through any faked deaths "with certainty"...
+かつての戦人も、犠牲者が確かに死んでいるのかどうかを疑うところから、戦いが始まった。 => The old Battler had also started fighting by doubting whether the victims were truly dead.
+それは、ヱリカも同じということなのだ……。 => It was the same for Erika......
+「謹啓、謹んで申し上げる。 => "For your attention: I beg to inform you of the following.
+絶対の死を物理的に確認できる遺体はないと知り給え」 => Know that there were no corpses that could have been confirmed dead with certainty by physical means."
+「謹啓、謹んで申し上げ奉る。 => "For your attention: I beg to inform you of the following.
+いずれの遺体も、装飾された偽装死の可能性を否定出来ぬもの也」 => We cannot eliminate the possibility that any one of these corpses might be a faked death."
+「……ま、死亡確定の復唱要求をしたところで、戦人が簡単に答えてくれるとも思いませんが。 => "......Well, even if I make a repetition request to confirm their deaths, I doubt Battler will be so quick to answer.
+……やれやれ……」 => ......Sheesh......"
+「私はベアトの時の、六連鎖密室の方が面白かったけど。 => "I liked Beato\'s chain of six locked rooms better.
+……でも、マスターキーが一切通用しないという意味においては、密室の完成度は今回の方が上ね」 => ......But these locked rooms are more complete, considering that master keys are of no help at all."
+「……戦人が狙ってくる密室破りは、概ね２つ。 => "......There are two general ways of breaking locked rooms that Battler might be after.
+……密室錯覚と、事件錯覚。 => ......An illusion of a locked room, or an illusion of a crime.
+このどちらかね」 => It\'ll be one of those."
+「密室錯覚はわかるわ。 => "I get the first one.
+一見、密室に見えて、実はそうじゃないってことでしょ。 => That\'s when something looks like a locked room, but it actually isn\'t, right?
+事件錯覚ってのは何？」 => What do you mean by an illusion of a crime?"
+「………事件が起こったと錯覚することよ。 => ".........An illusion that makes it seem as though a crime has occurred.
+つまり、本当に死んでいるのかどうか、ということ」 => In other words, are they really dead?"
+「何それ、馬鹿馬鹿しー。 => "Come on, are you kidding me?
+いくら密室でも、中の人が生きてたら、そんなのただの、トイレでおしっこしてるのと同じだわ。 => If the person inside a locked room is alive, it\'s no different than if they were just taking a pee.
+……でも、今回の密室殺人。 => ......Still, with this locked room,
+ぶっちゃけ、それが解答だとしか思えないのよねー」 => it\'s pretty hard to think of any other answer."
+「チェーンロックを外側から細工する無限の可能性は？ => "What about the endless possibilities of manipulating the chain lock from the outside?
+隠し扉の有無、遠隔殺人の有無、あるいは自殺の可能性だって。 => We don\'t know if there are secret doors, ways to kill from a distance, chances of suicide,
+そもそも密室が成立しているのかさえ、わからないというのに」 => or even whether these are complete locked rooms in the first place."
+「……私は戦人のゲーム盤、裏から見てるから知ってるけど。 => "......I have a behind‐the‐scenes view of Battler\'s game board, so I can tell you this:
+これは完璧な密室よ。 => these are perfect locked rooms.
+密室は内部からのみ構築され、外部からは構築も解除も干渉も一切できない」 => They can only be constructed from the inside, and there\'s no way to construct, deconstruct, or interfere with them from the outside."
+「それ、赤で言える？」 => "Can you say that in red?"
+「さすがにそれは戦人に悪いから遠慮するわー。 => "That\'d be a little too rude to Battler, so no.
+ベルンが私を愛してるんだったら、私の発言も赤き真実で見えるはずよ…？」 => If you do love me, you must see my words as red truth, right...?"
+「………なら、密室は完璧。 => ".........Then the locked rooms are perfect.
+つまりこれは、事件錯覚ってことになるわ」 => In other words, this is an illusion of a crime."
+「そうなるわね。 => "It does seem that way.
+だとしたらこれは全部、狂言密室だわ。 => If so, these locked rooms are all a ruse.
+……大方、ヱリカがあまりに空気読めずに探偵探偵と騒ぐものだから、 => ......I guess the whole Ushiromiya family got so fed up with Erika prattling on about being a detective and not knowing when to shut up...
+右代宮家みんなで結託して、狂言殺人を披露してからかってみたってことじゃない？ => ...that they all joined together and set up a fake murder to make fun of her, or something?
+あら、これ正解？ => Wait, is that the right answer?
+私ってば超ォ名探偵ぇ☆」 => I\'m, like, a {i:super} great detective{p:0:☆}"
+「それが困ったことに、……これは狂言じゃないのよ。 => "Unfortunately, ......this isn\'t a ruse.
+犠牲者はきっちり殺されてるわ」 => The victims have been thoroughly killed."
+「えー？！ => "Huh?!
+２日目の２４時の時点で、とかじゃなくて？」 => And you\'re not talking about "at midnight on the second day"?"
+「探偵宣言を出してこそいないけど、彼女の検死は極めて正確よ。 => "No detective proclamation has been made, but she is very accurate when examining corpses.
+私が赤き真実を与えられるくらいにね」 => I could almost even give her examinations the red truth."
+「それで？ => "So what does that mean?
+ヱリカの検死時に間違いなく死亡してたってことになるの？」 => That they were definitely dead when Erika examined their corpses?"
+「えぇ、そうよ。 => "Yes, that\'s right.
+それはもう、がっつりと」 => Well and truly."
+「でも、赤き真実では言ってあげないのねー。 => "But you won\'t say it in red for her, riiight?
+くすくす、ヱリカはその赤が、喉から手が出るほど欲しいだろうにー」 => *giggle*, and that poor Erika must want it so baaad."
+「だって今回のあいつ、探偵でさえないもの。 => "Well, she isn\'t even a detective this time around.
+赤き真実なんてあげないわ。くすくすくすくす」 => I won\'t give her any red. *giggle*giggle*."
+「しかし、……となるとスゴイじゃない。 => "But then, .......if that\'s all true, that\'s amazing!
+戦人の今回のこれ、……完璧な密室殺人だわ！」 => This time, ......Battler\'s really made a perfect locked‐room murder!"
+「……あら。そうなるわ？」 => "......Oh, perhaps he has."
+「ヱリカ、大丈夫ゥ？ => "Will Erika be alright?
+一見、フツーの密室殺人だけど。 => It looks like an ordinary locked‐room murder at a glance,
+……地味にかなりヤバイ密室だわ、これ。 => ......but this one is secretly pretty nasty.
+探偵権限さえないヱリカにはちょっと、荷が重いんじゃない…？」 => Won\'t this be a bit too much for Erika without her detective\'s authority...?"
+「自称名探偵だもの。 => "She is a self‐proclaimed "great detective".
+きっとヱリカはやってくれるわ。 => I\'m sure she\'ll pull through.
+………探偵ですらない、ニンゲン風情に打ち破られたら、戦人もベアトも、最っ高にザマぁないくらいに粉々でしょう？」 => .........If Battler and Beato are defeated by a mere {y:0:Human}{n:0:human} who isn\'t even a detective, they\'ll fall apart in the most exquisite way, don\'t you think?"
+「……それに、万一、ヱリカが負けても、最悪のカケラにブチ込んで忘却の深遠に叩き込んで遊ぶから、それはそれで面白そうだし？」 => "......And even if Erika loses, we get to play by throwing her into the worst fragment and casting her into the depths of oblivion, right?"
+「そういうこと。 => "Exactly.
+私たちはどっちに転んでも、退屈しないわ」 => No matter how the chips fall, it won\'t be boring for us."
+「あんたってば、……ホントーに血も涙もないわね。 => "You really don\'t have one tear to shed or a drop of blood in your veins, do you?
+…ま、そんな黒猫を雑巾のように絞って、一滴だけ滴る雫を舐める時が、私の至福なわけだけど！」 => ...Still, wringing that black cat out like a towel and licking up the single drop that comes out is what brings me joy!"
+「ベアトのゲーム盤でも、さんざん遊ばせてもらってるけど。 => "Beato\'s game board did entertain me for quite some time,
+……もう何も出て来やしないくらいに絞り尽くしたわ」 => ......but we\'ve already wrung everything we can from it."
+「……このゲームもこれでおしまいなのよ。 => "......It\'ll be over with this game.
+だから最後に相応しく、ヱリカ・戦人、互いの破滅を賭けた一騎打ち、くらいには盛り上がってくれなきゃね」 => So if we\'re going to cap it off properly, we really must let Erika and Battler bet everything in one final face‐off."
+「……ちぇー。 => "......Booo.
+このゲームで、無限にあんたと遊ぼうと思ったのに。 => I wanted to play this game with you forever.
+……残念だわ」 => ......What a shame."
+「とんでもない。 => "Come now.
+充分にあんたに付き合わされたわよ。 => I\'ve spent plenty of time with you already.
+……また面白そうなゲーム盤を見つけてらっしゃい。 => ......Go find me another interesting game board.
+そしたら、また遊んであげる…」 => If you do, I\'ll play with you again..."
+「あぁ………、……本当にあんたは私を飽きさせないわ。 => "Ahhhh..................you really don\'t ever let me get bored.
+……それでいいのよ、ベルンカステル。 => ......Be like this forever, {f:5:Bernkastel}.
+そんなあんたの表情を苦悶に歪めることだけが、私が覚えてしまった唯一の禁断の蜜なのだから」 => Seeing your face twist with anguish is the one forbidden honey I\'ve found for myself."
+ラムダデルタは、完全な密室であることを保証する。 => {f:5:Lambdadelta} had guaranteed that it was a perfect locked room.
+{n}ベルンカステルは、完全な殺人であることを保証する。 => {n}{f:5:Bernkastel} had guaranteed that it was a perfect murder.
+完全な、 => A perfect
+「密室」 => "locked‐room"
+「殺人」。 => "murder".
+魔女たちは興醒めを嫌うから、今はまだそれを赤き真実で語らない。 => The witches hated to be a killjoy, so they wouldn\'t yet say anything with the red truth.
+……それを追及し合うのは、戦人とヱリカの役目……。 => ......Pursuing that would be the role of Battler and Erika......
+「ずいぶんドタバタと現場巡りをしたようだな。 => "It seems like you had a pretty mad dash around the crime scenes.
+……充分か？　現場検証は」 => ......Satisfied? Is your inspection complete?"
+「えぇ、充分です。 => "Yes, I\'m satisfied.
+さて、私とあなたの、赤と青の論争バトルですが、如何します？ => So, about our war of red and blue, what are your thoughts?
+さっそく始めますか？ => Shall we start right away?
+それとも最後にまとめて？」 => Or do it all at the end?"
+「お預けは俺の性分じゃねぇな。 => "I don\'t like putting things off.
+それはお前もだろうぜ」 => I think the same goes for you."
+「なら、さっそくこの第一の晩の密室に切り込ませていただきます。 => "Then allow me to get started with the locked rooms of the first twilight.
+……その前に確認です。 => ......First, I\'d like to check.
+復唱要求に応じるおつもりは？」 => Do you intend to respond to my repetition requests?"
+「内容によるぜ。 => "That depends on what they are.
+全てに応じる義務はなく、応じない理由も開示しない」 => I have no obligation to respond to all of them, and I won\'t reveal my reasons when I refuse."
+「グッド。 => "<Good>.
+……ではシンプルに、密室定義の確認から参りましょう。 => ......Then let\'s start simple and confirm the definition of a locked room.
+ドラノール！ => Dlanor!
+読み上げて下さい」 => Please read it aloud."
+「了解デス。 => "{f:5:Understood}.
+……以下の復唱を要求しマス」 => ......We request that the following be {f:5:repeated}."
+ドラノールは、西洋のおとぎ話で、よく王様のお触れを読む役人が広げるような、 => Dlanor unfurled the kind of scroll often depicted in Western fairy tales when an official reads a royal decree,
+あの丸まった羊皮紙のようなものを縦に広げ、それを読み上げた。 => and she read the contents aloud.
+「一つ。 => "First.
+“６人の部屋は全て密室でアル”」 => "The rooms with the six people in them are all locked {f:5:rooms}"."
+「{p:1:認める。} => "{p:1:Acknowledged}.
+もちろん、郷田たちがチェーンを切断するなどして、密室を破るまでの話だが」 => Of course, that\'s only until Gohda and the others severed the chains and destroyed the locked rooms."
+ドラノールが頷いて合図すると、後ろのコーネリアがやり取りの記録を取る。 => At a nod from Dlanor, Cornelia, who stood behind her, started taking notes.
+「一つ。 => "Second.
+“密室の定義とは、外部より構築不可能であるコト”」 => "The definition of locked room implies that it is impossible to construct from the {f:5:outside}"."
+「{p:1:認める}」 => "{p:1:Acknowledged}."
+「……つまり、外部からはどんな細工でも、密室を構築できないということ。 => "......In other words, no trickery done from the outside can construct a locked room.
+チェーンロックを外部より、細い針金などで器用に掛け直した、などは認められないということです」 => It isn\'t permitted for a chain lock to be reset from the outside by a skillfully used wire, for example."
+「言われるまでもありません。 => "I didn\'t need you to tell me that.
+ドラノール、続けて下さい」 => Dlanor, please continue."
+「一つ。 => "Third.
+“密室の定義とは、内外を横断する一切の干渉が断絶されていることを指ス”」 => "The definition of a locked room implies that all forms of interference between the inside and outside of the room are {f:5:prevented}"."
+「{p:1:認める。} => "{p:1:Acknowledged}.
+ただし、ノックや声、内線電話など、一般的な部屋で想定できる干渉方法を否定はしない」 => However, I won\'t rule out the kinds of interference that you\'d expect from a normal room, such as knocks, voices, and the extension telephone line."
+「一つ。 => "Fourth.
+“密室破壊時、室内には犠牲者（夏妃・絵羽・霧江・楼座・真里亞・戦人）以外存在シナイ”」 => "At the time of the breaking of the locked rooms, none existed within the rooms except the {f:5:victims} (Natsuhi, Eva, Kyrie, Rosa, Maria, Battler)"."
+「{p:1:認める}」 => "{p:1:Acknowledged}."
+これは、殺人犯が密室内に隠れていなかったことの確認だ。 => This was to check that the murderer hadn\'t been hiding inside a locked room.
+密室殺人を発見者たちが認識して立ち去った後に、 => Because if the discoverers departed the scene after becoming aware of the locked‐room murder,
+こっそりと部屋を抜け出せば、密室幻想を生み出すことは可能なのだから。 => and then the culprit slipped out of the room after that, it would have been possible to construct an illusion of a locked room.
+戦人は、これを赤き真実で認めたため、 => Because Battler had acknowledged their statement with the red truth,
+犯人と犠牲者が２人で作った密室で殺人が起こり、犯人はベッドの下に隠れていて、 => this possibility—that the culprit and the victim had both been inside the locked room at the time of the crime, following which the culprit had hid under the bed and snuck out after the discovery of the crime—
+事件発覚後にこっそりそこから抜け出した…、ということが否定された。 => had now been eliminated.
+「一つ。 => "Fifth.
+“密室破壊時以降に、殺人は行なわれていナイ”」 => "No murder was committed after the breaking of the locked {f:5:rooms}"."
+「拒否する」 => "I decline."
+「……なぜです？ => "......Why?
+実は密室を破った時点では、犠牲者たちが生きてたからですか？ => Because the victims really were alive at the point when the locked rooms were destroyed?
+そして、実は押し入った蔵臼たちが犯人で、そこで殺人を行なった。 => And the culprits were actually Krauss and the others who crowded in, who committed the murders then and there.
+即ち、密室後殺人だから。これが真相だからですか…？！」 => In other words, because it was a murder after the locked room was destroyed. Is that the truth behind this...?!"
+「いいえ、違います。 => "No, that\'s not it.
+まだ殺人は続くのですから、これ以降に殺人が行なわれないと赤で宣言することは出来ません」 => The murders will continue to occur, so he can\'t declare in red that no murders will happen after this."
+「……ちっ、屁理屈を。 => "......Tch, a stupid technicality.
+私たちの趣旨はわかってるはずです。 => You must understand what we\'re getting at.
+{p:2:蔵臼たちがチェーンを切断して密室を破り、そして中にいた人間を殺した。} => {p:2:Krauss\'s group cut the chains and destroyed the locked rooms, then killed the people inside}.
+これに反論してもらいたいだけです」 => I just want you to argue against this."
+「ヱリカ卿、……“蔵臼たち”との不特定多数な言い方では不十分デス。 => "Lady {f:5:Erika}, ......the undefined plurality of "Krauss\'s group" is {f:5:insufficient}.
+まずは密室破壊後に、室内に入った人間を確定すべきデス」 => You should first check to see which humans entered the rooms after the locked rooms were {f:5:broken}."
+「謹啓。 => "For your attention:
+……密室に踏み入ったのは、犠牲者を除き、蔵臼、留弗夫、秀吉、郷田の４人なり」 => ......excepting the victims, the only ones to enter the locked rooms were these four: Krauss, Rudolf, Hideyoshi, and Gohda."
+「謹啓。 => "For your attention:
+これは聞き取りによるものなり。 => this is based on hearsay.
+他に踏み入った人物がいないという保証はなきなりと知り奉れ」 => Be advised that there is no proof that others did not enter."
+「言われるまでもない。 => "I know that already.
+今のを復唱してもらいましょう。 => Let\'s have him repeat that.
+……“密室破壊後、部屋に入ったのは、私を除き、蔵臼、留弗夫、秀吉、郷田の４人のみである”」 => ......‘After the breaking of the locked rooms, the only ones to enter the rooms apart from me were these four: Krauss, Rudolf, Hideyoshi, and Gohda’."
+「いいぜ。 => "Sure.
+{p:1:認める。} => {p:1:Acknowledged}.
+ただしこれは、現時点での話だ。 => However, this only applies to the current point in time.
+今後のゲーム展開如何では、他の人物が立ち入ることもありえる」 => It\'s possible that some later development in the game will cause more people to enter."
+「復唱要求。 => "Repetition requested.
+“蔵臼、留弗夫、秀吉、郷田は、犯人ではない”」 => "Krauss, Rudolf, Hideyoshi, and Gohda are not culprits"."
+「……………………」 => "........................"
+戦人は顎に指を当て、黙考する仕草をする。 => Battler put his finger on his chin, deep in thought.
+この犯人という言葉は、かなり広範なものを意味する。 => This word "culprit" was fairly broad.
+そして、魔女の闇を大きく制限するものになりかねない。 => And it might serve to greatly restrict the darkness of the witch.
+「………答えてもいいのではないでしょうか。 => ".........Why not answer?
+もし拒否すれば、蔵臼たちが犯人であるという青き真実が残ったままとなります」 => If we decline, they\'ll leave behind a blue truth saying that Krauss and the others were the culprits."
+「……………………。 => "........................
+……そうだな。 => ......You\'re right.
+……認めはするが、言い方をさらに厳密にしよう。 => ......I\'ll acknowledge it, but I\'ll make the language more strict.
+{p:1:蔵臼、留弗夫、秀吉、郷田たち４人は、 => {p:1:Krauss, Rudolf, Hideyoshi, and Gohda—
+夏妃、絵羽、霧江、楼座、真里亞、戦人たち６人の殺人にかかわっていない}」 => these four had no involvement in murdering these six: Natsuhi, Eva, Kyrie, Rosa, Maria, and Battler}."
+「ということは、“密室に入ってさえいない、それ以外の人間たちもまた、 => "And that means it was also impossible for any of the other humans, who didn\'t even enter the locked room,
+殺人にかかわることは不可能”ということになりますね？」 => to have been involved in those murders either, doesn\'t it?"
+「さぁな。自分で考えな。 => "Who knows. Think about it yourself.
+密室に立ち入らずに密室殺人を成立させる青き真実が提出できるってんなら、こっちも赤き真実で返答してもいいぜ」 => If you think you can build up some blue truth for how a locked‐room murder can be committed without entering the room, then I\'ll respond with the red truth."
+「……もっとも、俺はお前がこれから提出する青き真実の内、たった１つを打ち破るだけでいい。 => "......However, I only need to destroy one of the blue truths you\'ll be presenting from here on out.
+つまり、今からお前が、遠隔密室殺人のトリックＸを青き真実で説明できたとしても、 => In other words, even if you do manage to use the blue truth and explain this away with some long‐distance locked‐room murder trick X,
+必ずしもそれに赤き真実で応える必要はないわけだ」 => I don\'t necessarily have to counter that with the red truth."
+それが、魔女のゲームのルールだ。 => These are the rules of the witch\'s game.
+この辺の詳細は、第４のゲーム時に縁寿がベアトに確認した。 => Ange checked these details with Beato in the fourth game.
+魔女側は、魔法以外では実行不能と称する謎を、次々出題する。 => The witch side lays out mystery after mystery and claims them all to be impossible to carry out except by magic.
+人間側は、それをトリックで説明可能であると、青き真実で反論しなければならない。 => The human side must use the blue truth to argue that they are explainable with tricks.
+そしてもし、たった１つの謎であっても、青き真実で反論できなかったら、 => And if they cannot make a counterargument with the blue truth for even one of these mysteries,
+その謎は“魔法で行なわれた”ことになってしまい、 => that mystery will be considered to have been "done by magic",
+魔女の存在を否定できなくなってしまうわけだ…。 => and it will be impossible to deny the existence of a witch...
+つまり、魔女側は、たった１つでもいいから、謎を守りきればいい。 => In other words, the witch side only needs to protect any one of its mysteries.
+逆に人間側は、全ての謎を、青き真実で説明し切らなければならない。 => In contrast, the human side has to fully explain all mysteries with the blue truth.
+よって、人間側が全ての謎に青き真実で説明をしてきたとしても、 => And even if the human side manages to explain all of the mysteries with the blue truth,
+その内のたった１つを、赤き真実で迎撃するだけで、魔女の勝利となるわけだ。 => if any one of those is successfully countered by the red truth, the witch will win.
+だから、かつてのベアトが終盤のゲームで取った戦術のように、すぐに赤き真実で反論せず、 => Therefore, just like the strategy that the old Beato adopted in her final game,
+最後の最後まで反撃を保留し、 => it is sufficient for the witch side to put off their red text counterarguments until the very last moment,
+一番脆そうな箇所を一ヶ所、反撃するだけで、魔女側は充分、ということになるわけだ……。 => then make a single strike at their opponent\'s most fragile spot......
+「いずれにせよ、……今の復唱要求には拒否、ということですね？」 => "In any event, ......you\'ve declined to repeat that last one, right?"
+「勘違いするなよ。 => "Don\'t kid yourself.
+復唱要求は、お前へのサービスではないんだぜ」 => You\'re not entitled to have your repetition requests answered."
+「………く……」 => ".........Ggh......"
+復唱要求は、魔女側から見た場合、出題した問題を誤解させないための補足だ。 => From the perspective of the witch side, repetition requests are just a supplement to make sure that the human side hasn\'t misunderstood the question.
+よって、あまりに拡大解釈した要求には、答える義務も義理もない…。 => Therefore, they have neither a technical nor a moral obligation to respond to requests that are extremely broad...
+「……やりますね、……魔女側プレイヤーとしても、なかなか頑張るじゃないですか」 => "......Not bad. ......Looks like you can handle being a player on the witch side pretty well too."
+「お前とは場数が違うぜ」 => "Your experience is no match for mine."
+「ちっ…！　ドラノールッ！」 => "Tch...! Dlanor!"
+「続けマス。 => "Let us {f:5:continue}.
+一つ、“犠牲者たちは、他殺を除くあらゆる方法で死んではいナイ”」 => Sixth, "the victims did not die by any method other than {f:5:homicide}"."
+「{p:1:認める}」 => "{p:1:Acknowledged}."
+「もちろん、自殺や事故死ではありません」 => "Of course, there were no suicides or accidental deaths."
+「一つ、“犠牲者は、」 => "Seventh, ‘the victims—"
+「ドラノール、それで結構です」 => "That\'s enough, Dlanor."
+「……よろしいのデスカ？ => "......Are you {f:5:sure}?
+まだ項目が…」 => There are still items..."
+「えぇ、もう充分です。 => "Yes, that will do fine.
+現場の状況は確認できました。 => I\'ve confirmed the status of the crime scenes.
+ここから、青き真実での反論タイムとしましょう」 => From here on, it\'s time for me to argue back with the blue truth."
+「あぁ、いいぜ。 => "Fine by me.
+ご高説を拝聴しようじゃねぇか」 => Let me hear your masterful theories."
+戦人とヱリカのやり取りは、敵同士であるにもかかわらず、 => Though Battler and Erika were enemies,
+……どこか少しだけ楽しそうに、ベアトには見えた。 => ......it looked to Beato as though they were having a little fun doing it.
+……多分、これはヱリカへの小さな嫉妬。 => ......She was probably slightly jealous of Erika.
+ベアトは、在りし日の自分と戦人のやり取りを、フェザリーヌの書庫で読んだ本から思い返す。 => Beato thought back on the books she had read in {f:5:Featherine}\'s archives, in which the old her and Battler had fought.
+……それはきっと、楽しいことだったろうなと思った。 => ......That must have been fun as well.
+親族会議中の、わずかな小休止中に起こった、あまりに凄惨な大量殺人…。 => During a short break in the family conference, a horrible, brutal mass murder had occurred...
+殺された６人は、戦人という例外を除けば、女ばかり……。 => Excluding Battler, the six people killed had all been women......
+残された男たちは、その卑劣を怒り狂ったり、妻を失った悲しみに塞ぎ込んだり、……それらを何度も何度も繰り返していた……。 => The men who had been left behind went mad with rage at the cowardice of it, broke down sobbing at the sadness of losing their wives, ......and went back and forth between the two many times......
+「どうして女ばかり……。 => "Why were they all girls......?
+卑劣にも程があるやないかッ…」 => How cowardly can a person be...?"
+「俺たちは何だってんだッ？！ => "What\'s wrong with us?!
+同じ屋根の下にいて、自分の家族が殺されてるのに揃いも揃って気付かず、のんびりヤニを吸ってたってわけかよッ、畜生ッ！！」 => Here we are, under the same roof, and we\'re just smoking away, not noticing that members of our own family are being killed...dammit!!"
+「……しかし、誰が、……どうやって…。 => "......But...who......how...?
+妻たちは決して無防備ではなかったのだぞ…。 => They were not unprotected...
+皆、チェーンをしたままだった…」 => The chain was set for all of them..."
+「下らねぇぜ、そんなこと！ => "Who gives a damn about that?!
+どうやって殺したかが問題じゃねぇッ、誰が殺したかだけが問題だッ！！」 => I don\'t care how they killed them, I just want to know who!!"
+「なぁ、源次さん、郷田さん。 => "Hey, Genji‐san, Gohda‐san.
+親族会議中の屋敷は、窓も扉も、全て鍵が掛かってたっちゅうんやな…？」 => Were the doors and windows to the mansion all locked during the family conference...?"
+「は、はいっ。 => "Y‐yes.
+それはもう、間違いなく…！」 => There can be no doubt...!"
+「……奥様のお言い付け通り、普段は夜の見回り時に必ず、全ての施錠を致しております。 => "......In accordance with Madam\'s instructions, everything is always locked at the time of the night patrol.
+今夜は特別でございましたので、お子様方をゲストハウスへお送りしてから、すぐに施錠するように致しておりました…」 => Tonight was a special case, but everything was locked up shortly after seeing the children off to the guesthouse..."
+「そりゃあおかしいぜ…？！ => "That doesn\'t make any sense...!
+だったらどうして、屋敷に戦人や真里亞ちゃんがいるんだ？！ => If that\'s true, how were Battler and Maria‐chan inside the mansion?!
+入って来れないはずだろ？！」 => They shouldn\'t have been able to get in, right?!"
+「戸締りがホンマにしっかりしとったら、そういうことにはならんはずや…！ => "If everythin\' really was locked up properly, that couldn\'t have happened...!
+この二人が屋敷の中にいたことが、戸締りが完全じゃなかったことの証拠とちゃうんか…？　な？な？！」 => Doesn\'t the two of them bein\' inside the mansion prove that the building wasn\'t completely locked up...? Right? Right?!"
+郷田の戸締りがしっかりしていなかったから、不審者の侵入を招いたのではないか、という論法だった。 => He was arguing that Gohda\'s failure to lock up properly might have allowed a stranger to sneak in.
+少なくとも彼らは誰一人、戦人と真里亞が屋敷に訪れたことを知らなかった。 => At the very least, none of them had known that Battler and Maria had visited the mansion.
+来たところで、戸締りがしっかりされているなら、入ることは出来ない。 => If those two had come and found everything locked tight, they wouldn\'t have been able to get inside.
+呼び鈴を鳴らせば、使用人室の郷田は気付くだろうが、郷田にもその心当たりはなく、 => If they had rung the doorbell, Gohda would probably have heard them from the servant room, but Gohda said that nothing of the sort had happened.
+一体、彼らがどうやって施錠された屋敷に入ったのかは謎だった…。 => How they had entered the locked mansion was a complete mystery...
+「ひょ、ひょっとするとでございますが……。 => "Y‐you don\'t think......
+例えば、奥様方のどなたかが、たまたま玄関近くにおいでになり、 => For example, what if Madam or someone happened to be close by the entrance...
+戦人さまたちのノックか呼び鈴に気付いて、扉をお開けになったとか……」 => and noticed Battler‐sama and Maria‐sama knocking or heard the bell......?"
+「そんなわけねぇだろ！ => "That couldn\'t have happened!
+その時、郷田さんは使用人室にいたはずだろ？！ => You were in the servant room then, right, Gohda‐san?!
+玄関が開いたら、使用人室にチャイムがなる仕掛けがあったはずだぜ？ => There\'s a chime that goes off in the servant room when the front door opens!
+来客に気付かねぇわけはねぇ！」 => There\'s no way you\'d have missed anyone!"
+「そ、それがその、……、」 => "Y‐yes, but, you see......"
+「……郷田はその時ちょうど、皆様方のお言い付けで、お飲み物等の配膳におうかがいしており、 => "......At that time, Gohda was serving drinks as you requested,
+使用人室に不在でした」 => so he was not in the servant room."
+「何で、こんな大事な日に屋敷の使用人が１人なんだ？！ => "Why was there only one servant in the mansion on such an important day?!
+どうして源次さんみたいな重要な人がゲストハウスの当番なんだ？！ => Why was someone as important as Genji‐san on duty in the guesthouse?!
+おかしいじゃねぇか！ => Does that make any sense?!
+どうして使用人室を空っぽにしちまったんだ…！！」 => Why was the servant room left empty...?!!"
+「……妻がそういうシフトを組んだのだ。 => "......My wife was the one who put those shifts together.
+……よく気の利く郷田なら、親族会議中にも、洒落た飲み物を差し入れてくれると期待したのだろう…」 => ......She probably hoped that Gohda would serve some fashionable drinks during the family conference as well, since he often thinks to do such things..."
+「しかしな、蔵臼兄さん…！ => "But Krauss nii‐san...!
+親族会議やで？！ => This is the family conference, right?!
+一年で一番大切な日やで？！ => The most important day of the year, right?!
+そんな日に、何で郷田さん１人だけを屋敷の当番にしたんや…！ => Why was Gohda‐san left as the only person on shift in the mansion...?!
+せめてもう１人おったら、話は変わってたんとちゃうか？！ => If there\'d been just one more person, everythin\' would be different, don\'tcha think?!
+なぁ？　なぁ？！」 => Well? Well?!"
+泣き出しそうな、そして怒り出しそうな、 => With a half‐crying, half‐enraged jumbled up expression,
+あらゆる感情のごちゃ混ぜになった顔で、秀吉は郷田に食って掛かる。 => Hideyoshi yelled at Gohda.
+殺した犯人が一番悪くて憎いに決まってる。 => Of course, the culprit who killed everyone was the most to blame and the most despicable.
+……それはわかっていても、 => ......However, even if he understood that,
+今、目に見える誰かを恨まなければ、感情のやり場がないのだろう。 => he needed to let off some of his emotions by hating someone he could see.
+「…………皆さんの胸中、心よりお察しします。 => "............I understand how distressing this must be for all of you.
+……ですがどうか、落ち着いて下さい」 => ......However, please calm down."
+「……郷田さんの戸締りが不完全だったか。 => "......I don\'t know whether Gohda‐san wasn\'t thorough enough when locking up,
+……あるいは、ゲストハウスから戻ってきた、戦人さんと真里亞さんを誰かが迎え入れて、その後、施錠し忘れたのかはわかりません。 => ......or whether someone let Battler‐san and Maria‐san in after they came back from the guesthouse, and then forgot to lock up afterwards.
+……ただ、それが謎の犯人の侵入と関係があったとは限りません」 => ......But whatever the case, it doesn\'t necessarily have anything to do with how the mysterious culprit snuck in."
+「……何しろ、あれだけの大きなお屋敷です。 => "......After all, the mansion is massive.
+もっと早い段階から屋敷に入り、ずっと深夜までどこかの部屋で息を殺していたのかもしれません。 => They might have come in much earlier and hid until late at night for all we know.
+……誰かを疑いたい気持ちはわかりますが、どうか落ち着いて下さい」 => ......I can understand the desire to suspect someone, but please calm down."
+「……客人の言うとおりだ。 => "......Our guest is right.
+……憎むべきは犯人であって、……たまたま当番だった郷田ではない…。 => ......The culprit is the one we should hate, ......not Gohda, who just happened to be on duty...
+……とにかく、落ち着こう。 => ......At any rate, let\'s calm down.
+……私とて悔しい。 => ......I feel as terrible as the rest of you.
+だが、今は我々が率先して冷静さを取り戻さなくては、どうしようもない」 => However, we must take the initiative now and regain our composure."
+「兄貴……」 => "Aniki......"
+「皆、辛くて悔しい気持ちは同じだ。 => "We all feel sad and devastated.
+そして、犯人を絶対に許したくない。 => And none of us will ever forgive the one who did this.
+だからこそ、我々は冷静を取り戻さなければならないのだ…」 => That is why we all need to regain our composure..."
+「……そ、……そや。 => "......H‐......he\'s right.
+……わしにも譲治がおる。 => ......I still have George.
+蔵臼兄さんには朱志香ちゃんがおる。 => Krauss nii‐san still has Jessica‐chan.
+そして留弗夫くんも、帰りを待つ縁寿ちゃんがおるはずや。 => And Rudolf‐kun, ...you still have Ange‐chan waitin\' for you to return, right?
+犯人と刺し違えたるッ、思うんは、……まだ、…早いんや……」 => It\'s still......too soon...to go riskin\' everything to take down the killer......"
+「……まだ犯人はこの島にいます。 => "......The culprit is still on this island.
+そして、この無残な事件が、これで幕を下ろしたとは限らないのです。 => And we can\'t be sure that this tragic crime is over.
+私たちは冷静を取り戻し、これ以上の惨劇を食い止めねばなりません」 => We need to stay calm and prevent any further tragedies."
+ヱリカはやさしく慰めるように、そして、静かに諭すように言う。 => Erika\'s words softly consoled them...and gently admonished them.
+……同じことを使用人が言ったら、留弗夫辺りは食って掛かったかもしれない。 => ......If a servant had said the same thing, Rudolf would probably have jumped on him.
+しかし、客人という中立的な立場のヱリカがそれを口にすることで、……彼らの耳にも届くようだった。 => However, since it had come from the lips of the guest, a neutral party, ......it seemed to reach their ears.
+「落ち着きましょう。 => "Let\'s stay cool.
+……ここには成人の男性が３人もいて、そして銃を持っています。 => ......We have three grown men with us, and guns as well.
+犯行の手口を見る限り、犯人が銃を持っている可能性は低いでしょう。 => Judging by the pattern of the murders, the chances that the culprit has a gun are low.
+……つまり、私たちがしっかりしている限り、もはや犯人に手出しする余地はないということです」 => ......In other words, as long as we keep our heads, the culprit will no longer have any way to touch us."
+「……彼女の言うとおりだ。 => "......She\'s right.
+右代宮の島で、これ以上、犯人の好き勝手にさせるわけにはいかん」 => We can\'t let that murderer have his way on our island any longer."
+「探し出そう！ => "Let\'s find the killer!
+この台風だ。 => We\'re in the middle of a typhoon.
+島からは逃げられねぇし、雨宿りできる場所だって限られてるはずだ…！」 => They can\'t escape from the island, and there\'s only so many places where they can take shelter from the rain...!"
+「この島は案外、狭くありません。 => "This island is larger than you\'d think.
+残念ですが、この程度の人数で島を探すのは難しいでしょう。 => Unfortunately, it would be difficult to search the island with so few people.
+……何しろ皆さんは、見つけたら、即座に撃ち殺さんばかりの勢いです。 => ......After all, you all look ready to shoot the culprit dead on the spot if you were to find them now.
+怯えた犯人が、あの深い森の中に逃げ込んだとしたら、簡単には見つけられません」 => If the culprit has fled into that dense forest fearing for their life, you won\'t find them easily."
+「………………………。 => "...........................
+……そやな。 => ......Right.
+…大人しく、台風が過ぎるのを待って、 => ...We should just wait patiently for the typhoon to pass,
+船に警察を呼んでもらい、島中を徹底的に探し回ってもらう方がえぇやろ…。 => have the boat call the police for us, and let them thoroughly search the island...
+警察はな、すごいでぇ。 => The police are incredible, y\'know.
+何百人も来てくれて、ホンマに虱潰しで探すんや。 => They\'ll bring hundreds of people and pick through it with a fine‐toothed comb.
+……いくらあの深い森でもな、絶対に炙り出して見せるでぇ…」 => ......That forest may be deep, but they\'ll definitely smoke the killer out..."
+「今、一番大事なのは。 => "The most important thing now...
+……これ以上、愛する家族を失わないことだ。 => ...is to make sure no more of our beloved family members are taken from us.
+………留弗夫。 => .........Rudolf.
+お前に万が一があったら、帰りを待つ縁寿ちゃんはどうなる」 => If something happens to you, what will happen to Ange‐chan back home?"
+「……霧江……、……戦人………。 => "......Kyrie............Battler.........
+………畜生、……畜生ぉおおぉ……。 => .........Dammit, ......dammiiiiiiit......
+……お前たちに、……俺はまだ、………打ち明けてねぇってのに………」 => ......I never......had a chance.........to tell you the truth........."
+「……………………。 => "........................
+……蔵臼さん。 => ......Krauss‐san.
+きっと、いとこ部屋の皆さんも、激しく動揺していると思います。 => I\'m sure that everyone in the cousins\' room is extremely agitated right now.
+……蔵臼さんが落ち着きを取り戻したところを見せることによって、皆さんも少なからず、落ち着きを取り戻せると思います。 => ......If you show them that you\'ve regained your composure, I\'m sure that will help them relax a lot.
+……行ってあげてはどうでしょう」 => ......Would you mind heading up there?"
+「………そうだな。 => ".........Good point.
+みんなに、これからのことを話さなければなるまい」 => We have to talk with everyone about what we\'re going to do next."
+「源次さんと郷田さんも、一緒に上に行って下さい。 => "Please go up with him, Genji‐san and Gohda‐san.
+……紗音さんや嘉音さん、熊沢さんもきっと動揺されてると思います」 => ......I\'m sure that Shannon‐san, Kanon‐san, and Kumasawa‐san are all very agitated as well."
+「は、……はい…！ => "Y‐......yes...!
+それはもう、きっと皆さんも動揺されていることでしょう……！」 => Yes, I\'m sure everyone is quite agitated......!"
+「………よろしいのですか。 => ".........Are you certain?
+……何かお手伝いできることは他にありませんか」 => ......Is there nothing more we can help with?"
+「だからこそ、蔵臼さんと一緒にいて下さい。 => "That\'s the very reason I want you to go with Krauss‐san.
+何かの時、すぐにそれに応えられるように。 => I want you there to help him if something happens.
+……私たちは先に、ここの戸締りを確認したいと思います。 => ......I\'d like for the rest of us to check that everything\'s locked up here.
+すぐに上がりますから、先に行って下さい」 => We\'ll head up soon, so please go on ahead."
+「わかりました……。 => "Understood......
+……何かございましたら、お呼び下さい」 => ......If you need anything, please call us."
+源次は一礼し、蔵臼に頷く。 => Genji bowed and nodded to Krauss.
+蔵臼も、ヱリカに頷き、源次と郷田を伴い、２階へ上がっていった。 => Krauss nodded to Erika, then headed upstairs with Genji and Gohda.
+………男だけの、混迷した現場で、冷静さを持つ異性は、イニシアチブをコントロールしやすい。 => .........When only men are around in a time of confusion, it is easy for a composed member of the opposite sex to control the initiative.
+探偵権限がなくとも、とても自然な、見事なコントロールだった。 => Even without the detective\'s authority, she was able to control them quite naturally.
+ヱリカはとりあえず、使用人たちを上へ追い払いたかったのだ……。 => Erika had wanted to get rid of the servants for the time being......
+「よし。 => "Okay.
+そうと来たら、さっそく戸締りを確認しようぜ」 => In that case, let\'s get to checking the locks."
+「問題は、ラウンジのこの大窓やな。 => "The problem is the big window in the lounge.
+シャッターもないみたいや。 => It looks like it doesn\'t even have shutters.
+ここをぶち破られたら侵入は防げんで」 => If they smash this, we won\'t be able to stop them from comin\' in."
+「いいさ、ガラスの割れる音で充分だぜ。 => "Don\'t worry, the sound of the glass smashing will be more than enough warning.
+蜂の巣にしてやらぁ！」 => We\'ll turn them to Swiss cheese!"
+「……お静かに。 => "......Quiet, please.
+皆さんに残ってもらったのは、戸締りの確認のためではありません。 => I didn\'t have you stay down here to check the doors and windows.
+……今から言うことを、冷静に聞いて下さい」 => ......Please listen calmly to what I\'m about to say."
+ヱリカが声を潜めると、留弗夫と秀吉も、何か秘密の話があると察知し、 => When Erika lowered her voice, Rudolf and Hideyoshi realized that she had something secret to talk about,
+落ち着きを取り戻してから、耳を寄せる…。 => so they brought their ears closer as soon as they regained their composure...
+「いいですか？ => "Are you ready?
+事件は、親族会議の小休止中という、わずかの時間の間に起こりました。 => This crime happened during a short break in the family conference.
+……そのわずかの時間中に、誰にも悟られずに６人もの人間を殺すなど、到底、場当たり的な犯行とは思えません。 => ......In that tiny span of time, six people were killed without anyone noticing—I can\'t imagine that was the result of any haphazard crime.
+これは、屋敷の内外の構造を知り尽くした、関係者の犯行です」 => This crime was committed by someone who knew the layout of this mansion well, inside and out."
+「……そ、……それは……………」 => "......W‐......well..............."
+「………そ、そら内部に詳しゅうなかったら……。 => ".........S‐sure, if they didn\'t know the inside well, then......
+し、しかし……」 => B‐but still......"
+彼らはさっきまで、郷田などの使用人の過失を疑い、責めていた。 => A short while ago, they had lambasted Gohda, suspecting the servants of having made a blunder.
+しかしそれは、施錠のし忘れを疑い、それが謎の犯人の侵入を許したのではないかと責めているだけで、 => However, they had only thought that he had forgotten to lock up, and were attacking him for letting the mysterious culprit sneak in.
+………よく見知った使用人たちの誰かが、その手で命を奪ったとまでは、思い至っていない。 => .........They hadn\'t considered that one of the servants they knew so well might have taken those lives with their own hands.
+…いや、思いたくなかったのだ。 => ...No, they hadn\'t wanted to think that.
+人は軽々しく、 => People can\'t easily suspect someone they know well...
+……見知った人間を犯人とは、疑えないのだ……。 => ...of being a killer......
+「犯行当時。 => "At the time of the crime,
+屋敷は内部より施錠され、親族会議にかかわる皆さんしか存在しませんでした」 => the mansion was locked from the inside, and only those involved with the family conference existed there."
+「じゃあ兄貴が霧江たちを殺したってのか？！ => "So, what, you\'re saying {i:Aniki} killed Kyrie and the others?!
+それとも秀吉兄さんを疑えってのか？！ => Or am I supposed to suspect Hideyoshi nii‐san?!
+ありえねぇ、考えられねぇ！！」 => It\'s impossible, unthinkable!!"
+「わしはハナから蔵臼兄さんも留弗夫くんも疑っとらんで…？！ => "I\'ve never even considered suspectin\' Krauss nii‐san or Rudolf‐kun...!!
+わしら兄弟は、みんな夫婦仲は円満や！ => All of us siblings were happily married!
+右代宮家は確かに、規律やカネには厳しい一族やで。 => True, the Ushiromiya family may be strict with discipline and money.
+しかしな、家族を大事にするっちゅう気持ちは、他の家に勝るとも劣らんつもりやで…！」 => But that doesn\'t mean we treasure our own families less than any other family would...!"
+「えぇ、もちろんそれは信じてます。 => "Yes, of course I believe that.
+皆さんが奥さんを殺すなど、夢にも思っていませんから」 => I wouldn\'t dream that any of you would kill your own wives."
+ヱリカはすでに戦人より、赤き真実で、彼らが殺人者ではないことの保証を得ている。 => Erika had already received red truth proof from Battler that they were not the murderers.
+だからそこを論点にする必要はない…。 => So, there was no need to argue that point...
+蔵臼、留弗夫、秀吉、…そして、郷田。 => Krauss, Rudolf, Hideyoshi...and Gohda.
+………この４人は、殺人犯ではない。 => .........None of those four was the killer.
+………にもかからわず、………ヱリカはこう言う。 => .........And yet, .........Erika said this......
+「しかし、……郷田さんはどうでしょうか。 => "However, ......what about Gohda‐san?
+親族会議の間、ずっと控え室にいて、誰にも知られずに何らかの工作が出来る立場です」 => He was in the servants\' quarters the whole time during the family conference, in a position to act without anyone else\'s knowledge."
+「郷田さんを疑うのはちょいと早いで？！ => "Hold up, let\'s not jump the gun on suspectin\' Gohda‐san!
+郷田さんは小休止の時、食堂に飲み物の配膳に来てくれてたんや。 => He came to bring us drinks in the dining hall during the break.
+……だいぶ長いこと、一緒にいてくれた。 => ......He was with us for a good long while.
+とても６人も殺す時間的猶予があったとは思えんのや…！」 => I can\'t imagine he had the time to kill six people...!"
+「………しかし、実行犯を屋敷内に手引きすることは、出来たかもな」 => "......But he might have been able to let the actual killer into the mansion."
+「そういうことです。 => "Precisely.
+……郷田さん自身は、実行犯ではないでしょう。 => ......Gohda‐san probably didn\'t kill them himself.
+しかし、実行犯を密かに屋敷内に迎え入れることは充分に可能でした」 => However, it\'s very possible that he secretly welcomed the actual murderer into the mansion."
+留弗夫たちは絶句し、互いの顔を見合う。 => Rudolf and Hideyoshi, stunned, looked at each other.
+自分たちは家族だ。 => They were all family.
+たとえ兄弟の妻であっても家族だ。 => Even the wife of a sibling was still family.
+……兄弟同士は憎み合うことはあっても、その妻を恨んで殺すことはありえない。 => ......The siblings may have harbored hatred for each other, but they could never have hated each other\'s {i:wives} enough to kill them.
+絵羽や楼座は兄弟の当事者ではあるが、 => Although Eva and Rosa were part of the sibling circle of hate,
+夏妃や霧江、戦人や、幼い真里亞を殺す理由など、あろうはずもない…。 => there could be no reason for a sibling to kill any of the others who had died—Natsuhi, Kyrie, Battler, or the young Maria...
+しかし、……使用人の郷田にとっては、……全員、アカの他人でしかない………？ => But......to a servant like Gohda......perhaps everyone was little more than a complete stranger.........
+「私が使用人を疑う点は２点です。 => "I suspect the servants on two counts.
+まず１点目は、犠牲者たちと面識があり、かつ何れの現場にも争った跡がないこと。 => First, the victims are familiar with them, and there were no signs of a struggle at any of the crime scenes.
+全ての現場はまったく乱れていなかったのを、皆さんもよくご存知のはずです」 => I\'m sure you\'re all well aware that none of the rooms were the least bit disturbed."
+「……それは俺も思ってたぜ。 => "......I thought that too.
+……あの喧嘩慣れした霧江が、何の抵抗もなく、綺麗にぱったり殺されるかってんだ。 => ......Kyrie\'s used to fighting, like hell she\'d get killed that easily without resisting.
+相手の指くらいは食い千切る女だぜ…。 => That woman wouldn\'t hesitate to bite your finger off...
+顔見知りが犯人で、油断させたところを突然って方が、確かに説明はつく…」 => It does make more sense if the culprit was someone she knew, who suddenly attacked when her guard was down..."
+「そ、それを言ったら、うちの絵羽もや…。 => "C‐come to think of it, same goes for my Eva...
+何しろ武芸百般。 => She knows a dozen kinds of martial arts.
+暴漢が襲ってこないかと、日々わくわくしとる女やで。 => She spends every day practically wishin\' for some ruffian to attack her.
+そんなあっさりと殺されるわけがない…！」 => She wouldn\'t have been killed off in a snap like that...!"
+「………なら客間の楼座さんだってどうです？ => ".........Then what about Rosa‐san, in the parlor?
+一人娘と一緒の楼座さんが、不審者相手に抵抗もせず、みすみすと殺されると思いますか？ => Do you think she would allow herself to be easily killed by a stranger, without resisting, while she had her only daughter with her?
+そしてこのことは、もう一つ、大事なことを教えています」 => And this tells us something else that\'s important."
+「大事なこと…？」 => "Somethin\' important...?"
+「………犯人は一人じゃない、ってことか…」 => ".........There\'s more than one culprit..."
+「そ、……そや…。 => "Y‐......you\'re right...
+客間には楼座さんと真里亞ちゃんが二人おったんや。 => Both Rosa‐san and Maria‐chan were in the parlor.
+同時に殺さなかったら、大騒ぎになるところやで。 => The culprit must have killed them both at the same time, or they\'d have made a hell of a racket.
+それを殺せたっちゅうことは、犯人は単独犯じゃないってことや…」 => And if they were able to do that, there can\'t have been just one of them..."
+「楼座は、真里亞ちゃんのことが絡めば、子連れ熊みたいに怒りっぽくなるヤツだ。 => "When it came to Maria‐chan, Rosa was like a quick‐to‐anger mother bear.
+……仮に相手が銃で脅したとしても、怯むようなヤツじゃねぇ。 => ......She wouldn\'t cower in fear, not even if someone pointed a gun at her.
+………なるほど、楼座にぎりぎりまで、不信感を持たれない人物ってわけか…」 => .........I see, so it had to have been people who wouldn\'t rouse Rosa\'s suspicion until the last second..."
+「……未知の部外者が島に紛れ込んでいるという考えの方が、非現実的であることが、すでにおわかりと思います。 => "......I believe you can see already that the idea of an unknown outsider sneaking onto the island is actually the less realistic.
+犯人は、この島に精通した関係者。 => Whoever they are, they\'re familiar with this island.
+そして複数です」 => And there\'s more than one of them."
+犯人は関係者で、複数。 => There is more than one culprit...and they know the island.
+ヱリカが示した推理は、……彼らが真に疑い、警戒すべきは誰なのかを、明白に示している。 => Erika\'s reasoning......pointed clearly at the ones they should suspect and guard themselves against.
+「………ヱリカちゃんは、……使用人たちを疑ってるってのか……」 => ".........So, ......you suspect the servants......"
+「はい。 => "Yes.
+現状を推理して、もっとも疑わしいと思います。 => Under the current circumstances, they are the most suspicious.
+……彼らを疑う２点目が、チェーンロックの密室なのです」 => ......The second reason I have for suspecting them is the fact that the locked rooms were formed with chain locks."
+「どうして、チェーンロックが疑わしいんだ」 => "Why do the chain locks make them suspicious?"
+「……もし、チェーンロックのない密室だったら？」 => "......What if there was no chain lock on the locked rooms?"
+「そんなの密室やないで。 => "That\'s not much of a locked room.
+マスターキーの１本もあれば、誰だって密室に出来るわ」 => Anyone could make a room like that with nothin\' more than a master key."
+「……そういうことか…、なるほどな…。 => "......Yes, ...I see...
+………使用人たちが疑われないためには、チェーンでロックする必要があった、ってことか…」 => .........The servants had to seal them with the chains so that they wouldn\'t be suspected..."
+「その通りです。 => "Exactly.
+……チェーンを掛けることで、彼らは疑われずに済む。 => ......By setting the chain, they don\'t have to worry about being suspected.
+…逆を返せば、チェーンを掛けねば、彼らマスターキーの所持者は、疑いを免れないのです」 => ...To turn it around, if the chains weren\'t set, they wouldn\'t be able to avoid suspicion since they hold the master keys."
+「チェーンを掛けて、……得をするんは、……使用人だけ、…っちゅうわけか……」 => "So, ......the only ones with somethin\' to gain from settin\' the chains......are the servants......"
+「連中の肩を持つわけじゃねぇが、……ならどうやってチェーンを？！ => "I\'m not trying to protect them or anything, ......but if so, how did they actually set the chains?!
+外からチェーンを掛けるなんて、出来るのか？！」 => Is it possible to set them from the outside?!"
+「構造的に考えて、不可能ではないと思います。 => "Considering how they are built, I don\'t think that would be impossible.
+……こんな話、ご存知ですか？ => ......Have you ever heard this story?
+マンションの郵便ポストに配達する郵便屋さんの中には、たまに針金で作ったヘラを持ち歩いてる人もいるそうですね」 => Apparently, some mailmen who deliver to apartment mailboxes are known to carry loops of wire with them."
+「あー、……聞いたことあるで。 => "Yeah, ......I\'ve heard of that.
+マンションの郵便ポストは似たような部屋番号のポストが隣接しとる。 => Apartment mailboxes often have similar adjoinin\' boxes around them for the nearby room numbers.
+ひょいっと投函したら、ひと部屋間違ったポストだった、っちゅうことも割とある話らしいんや」 => I hear that sometimes, when the mailmen aren\'t bein\' careful enough, they accidentally deliver letters to the next room over."
+「マンションのポストは施錠されてることがほとんどです。 => "Those mailboxes are almost always locked.
+間違って投函してしまったら、もう取り出せなくなってしまう…」 => If you put the mail into the wrong one, you\'d have no way of getting it out..."
+……そういう時は、間違って投函したことを、そのポストの主に伝え、 => ......In that situation, they are supposed to tell the owner of that mailbox about their mistake,
+ポストの鍵を開けてもらい、誤配郵便を返してもらうのが正しい。 => have that person unlock the mailbox for them, and retrieve the improperly delivered mail.
+しかし、マンションの住人は大抵、不在。 => However, the resident of that apartment would often be out.
+その手間はあまりに面倒臭い。 => And going through that process would be a real pain.
+その為、郵便配達員の中には、針金でヘラ状の小道具を作り、 => Because of that, some mailmen would make a little tool out of wire with a hook at the end,
+間違って投函した葉書を、それを器用に使って、ポストの隙間から掬い出したりする者がいるという…。 => and use that to fish the mistakenly delivered postcard out through the crack of the mailbox...
+「……俺も、ビルの管理会社の兄ちゃんに聞いたことがあるな。 => "......I\'ve heard something similar from a friend of mine at a building management company.
+……たまに、トイレの個室の中で酔っ払って寝込んじまうヤツがいるらしくて、 => ......They sometimes get drunks who lock themselves in a toilet stall and fall asleep,
+そういうのを連れ出すために、扉の隙間から薄い金具を入れて、かんぬきを外したりすることもあるらしい…」 => so to get them out of there, they stick a thin, metal tool through the crack in the door and undo the latch..."
+「そういうことです。 => "Exactly.
+どこの業界でも、本来は開けられないものを、ひょいっと開けられる裏技的な小道具が存在するものです。 => All industries have little tools that can easily open things that normally can\'t be opened.
+………同じものを、屋敷の使用人たちが持っていたとしても、取り立てて驚くことではありません」 => .........It wouldn\'t be particularly surprising if the servants of a mansion had something of the sort."
+「………………………た、……確かに…」 => "...........................G‐......good point..."
+「……コツさえわかれば、 => "......Once you figured out the knack of it,
+針金で外からチェーンを掛けるのも、出来ないわけじゃなさそうだ。 => you could probably {i:set} the chain from the outside by using a wire as well.
+………確かに、……出来ないとは言い切れねぇ…」 => .........Yes, ......we can\'t be sure that it\'s impossible..."
+……確かに、現実的に考えれば、 => ......True, physically speaking,
+チェーンロックを外から開け閉め出来る手段が、絶対に存在しないなどと、言い切れるわけもない。 => one couldn\'t say for sure that there existed absolutely no way to set and unset chain locks from the outside.
+チェーンロックは、わずかの隙間を許す。 => Chain locks allow for the door to be opened a crack.
+その隙間から、何かの小道具でひょいっとやれば、……簡単に細工など出来るはず…。 => If a person were to stick something through that crack, ......they should be able to manage it easily...
+……彼らがそう思うのは、とても自然なことだ。 => ......It was very natural for Rudolf and Hideyoshi to think that way.
+しかし、ヱリカは知っている。 => However, Erika knew better.
+現実には可能でも、……今回の密室では、赤き真実によって、密室は外部から構築不能とすでに宣言されている。 => Though it might be possible in reality, ......it had already been declared with the red truth that these locked rooms could not have been constructed from the outside.
+つまり、チェーンロックを外部から細工することは、不可能なのだ。 => In other words, it was impossible to manipulate the chain lock from the outside.
+にもかかわらず。 => And yet.
+……ヱリカは、使用人にだけは密室が構築可能であるかのような幻想を抱かせ、彼らの思考を誘導する…。 => ......Erika was guiding their thoughts to put them under the illusion that only the servants could have constructed the locked rooms...
+ヱリカは、さも重要なことを真剣に打ち明ける風を装いながら、 => With an air of solemnly revealing some vital point,
+……自分が望む状況に、着実に誘導しているのだ。 => ......she steadily steered the situation in the direction she wanted.
+先ほどから浮かべている真剣そうな表情は全て、……演技。 => Everything about her serious face for the last few minutes......was an act.
+いや、彼女風に言うなら、容疑者たちを欺く探偵術……。 => No, to put it in her words, it was a detective technique for tricking suspects......
+「同じ話は、蔵臼さんにもするつもりです。 => "I plan to tell Krauss‐san what I\'ve told you.
+……使用人たちの全員が犯人だとは言いません。 => ......I\'m not saying that all the servants are culprits.
+しかし、犯人、もしくはそれに加担する人物が含まれている可能性は濃厚です。 => However, it is very likely that one of them is a culprit or has been assisting the culprit.
+……彼らを隔離し、銃を持つ人間を監視に付けるべきです」 => ......We should split them apart and have people with guns keep an eye on them."
+留弗夫と秀吉は、再び顔を見合わせる。 => Rudolf and Hideyoshi looked at each other again.
+……彼女の話は筋が通っていて、現時点でもっとも疑うべき人物たちを、極めて冷静に炙り出しているように聞こえた。 => ......What she was saying made sense, and it sounded as though she was calmly smoking out the most suspicious people at this point in time.
+ヱリカは得意とする話術で、巧みに場のイニシアチブを握っていく。 => With her accomplished conversation techniques, Erika was skillfully grasping the initiative.
+……探偵権限がなくとも、この程度の人心掌握術は可能なのだ。 => ......Even without the presence of the detective\'s authority, controlling human nature like this is trivial.
+如何です、皆様方……？ => Your thoughts, ladies and gentlemen......?

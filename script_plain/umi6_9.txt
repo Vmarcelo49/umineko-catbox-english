@@ -370,8 +370,8 @@ This had been no more than George had expected, so he had responded with an ice�
  How can you say that?!!
  Have I ever failed to think about what\'s best for you?!"
 "I haven\'t, have I?!
- How is the ‘parent’ ({p:0:親}) kanji written?!
- It\'s {nobr:‘stand’ ({p:0:立})} on top of a {nobr:‘tree’ ({p:0:木})} and {nobr:‘look’ ({p:0:見})!}"
+ How is the ‘parent’ (親) kanji written?!
+ It\'s {nobr:‘stand’ (立)} on top of a {nobr:‘tree’ (木)} and {nobr:‘look’ (見)!}"
 "That\'s what we\'ve been doing, surveying your entire future from a height far greater than you have access to!!
  And from our vantage point, we can see that you\'re letting your momentary youthful emotions lead you down the wrong path!!
  That\'s why I\'m saying what I am even though I know you\'ll hate me for it!!"

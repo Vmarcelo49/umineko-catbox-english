@@ -539,7 +539,7 @@ That\'s right, Kyrie‐san theorized this already way back then...!
 On the first twilight, kill the six characters that are the key.
 {n}.....................On the first twilight.
 "......In other words, ...by the time we reach the first twilight, some string of characters already exists?
- But {ruby:the first twilight:{p:0:第一の晩}} only has four characters.
+ But 第一の晩 only has four characters.
  Are we meant to read it differently?
  If we read it in English like Grandfather would, maybe "the first twilight"? Or...something else like...{NOTE:For non‐english translations, this line should change to "If we read it in English like Grandfather would, what would "the first twilight" become?", and the following line should be in ENGLISH, not your translation\'s language:}
 first night...?
@@ -739,17 +739,17 @@ Since I\'d just been treated to such delicious coffee, I decided to help too.
 "The tenth twilight...?
  What about it?"
 "Well,
- .........the word "Golden Land" ({ruby:ougonkyou:{p:0:黄金郷}}) appears several times, right?"
+ .........the word "Golden Land" (黄金郷) appears several times, right?"
 "Yes, it does."
-"For some reason......on the tenth twilight alone, when the journey ends, it says we reach the "Home of the Gold" ({p:0:黄金の郷}), read "ougon {i:no} kyou"—no, sorry, "ougon no sato".
- The "Home" kanji ({ruby:kyou/sato:{p:0:郷}}) is separated out.
+"For some reason......on the tenth twilight alone, when the journey ends, it says we reach the "Home of the Gold" (黄金の郷), read "ougon {i:no} kyou"—no, sorry, "ougon no sato".
+ The "Home" kanji (郷) is separated out.
  I can\'t help but wonder why this is the one place where it\'s written like that."
 "............You\'re right.
  ...No mistake.
- Everywhere else, it says "Golden Land" ({ruby:ougonkyou:{p:0:黄金郷}})..."
+ Everywhere else, it says "Golden Land" (黄金郷)..."
 Even though all the rest are written "Golden Land", the tenth twilight is the only one where it\'s different,
  and "Home of the Gold" is written instead...
-I wonder if the word "Home" ({ruby:kyou/sato:{p:0:郷}}) has some kind of special meaning.........
+I wonder if the word "Home" (郷) has some kind of special meaning.........
 ...........................
 "Still, ......you and that Erika‐chan girl are incredible.
  The way you think really is flexible.
@@ -776,8 +776,8 @@ I wonder if the word "Home" ({ruby:kyou/sato:{p:0:郷}}) has some kind of specia
  How many kilometers from the starting point...?
  Things like that...
  Don\'t tell anyone this, okay?
- I\'m not very clever, so for a long time I read the "Home" kanji ({p:0:郷}) as "kyou" when it\'s probably "sato"."
-"......And "kyou" reminds you of Kyoto ({ruby:kyouto:{p:0:京都}}), right? It\'s often shortened to "kyou" ({p:0:京}).
+ I\'m not very clever, so for a long time I read the "Home" kanji (郷) as "kyou" when it\'s probably "sato"."
+"......And "kyou" reminds you of Kyoto (京都), right? It\'s often shortened to "kyou" (京).
  So I thought the ten‐day trip might be between Father\'s home and Kyoto, and there might be something hidden one‐tenth of the way there..."
 "Are you kidding? That\'s a brilliant idea.
  .........The first twilight as the first stop on a ten‐day journey...
@@ -797,7 +797,7 @@ I wonder if the word "Home" ({ruby:kyou/sato:{p:0:郷}}) has some kind of specia
  ...And the place reached at the very first twilight......"
 "Believe it or not, I think you might solve this one easily, Battler‐kun.
  ......If you do solve it with your auntie\'s hint, share a little with me, okay? Even 5% would be great.
- Promise me{p:0:♪}"
+ Promise me♪"
 She gave me a wink and a smile which almost made my heart jump a little, even though she was my aunt.
 As I helped her wash the coffee cups,
  ......I kept pondering the epitaph\'s riddle silently.........

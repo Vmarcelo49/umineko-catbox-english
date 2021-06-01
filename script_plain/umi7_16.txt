@@ -862,34 +862,34 @@ It was opened in 1901.
 {n}Afterwards, the number of stations continued to grow, and it became a major artery into Taipei.
 This railroad was used after the war as well and is still in common use as the Taipei Metro Tamsui Line.
 Its route begins at Taipei Station and continues on until the town of Tamsui......
-{ruby:Taipei:{p:0:台北}} Station.
-{n}{ruby:Chang‐an:{p:0:長安}} Station (old name: {ruby:Taishougai:{p:0:大正街}} Station).
-{n}{ruby:Shuanglian:{p:0:双連}} Station.
+台北 Station.
+{n}長安 Station (old name: 大正街 Station).
+{n}双連 Station.
 {n}Tatung Company Station.
-{n}{ruby:Yuanshan:{p:0:円山}} Station.
-{n}{ruby:Jiantan:{p:0:剣潭}} Station (old name: {ruby:Miyanoshita:{p:0:宮ノ下}} Station).
-{n}{ruby:Shilin:{p:0:士林}} Station.
-{n}{ruby:Shipai:{p:0:石碑}} Station (old name—
+{n}円山 Station.
+{n}剣潭 Station (old name: 宮ノ下 Station).
+{n}士林 Station.
+{n}石碑 Station (old name—
 ".........What did the epitaph say you\'d see if you went down the river?"
 "A, a village."
-"There\'s only one station on the Tamsui Line with {p:0:里}, the character for village, in its name, and that\'s the old name of this {ruby:Shipai:{p:0:石碑}} Station."
+"There\'s only one station on the Tamsui Line with 里, the character for village, in its name, and that\'s the old name of this 石碑 Station."
 "H‐how do you read this......?"
 "The Japanese reading is "Kirigan".
  Its name was changed to Shipai Station after the war, but when Kinzo lived there, it was Kirigan Station."
-"As you travel down it, you will see a {ruby:village:{p:0:里}}....
+"As you travel down it, you will see a 里....
  In that village, look for the shore the two speak of......"
 "......*giggle*.
- It\'s not just {ruby:village:{p:0:里}}. You can also see a {ruby:shore:{p:0:岸}} in the name of that station......"
+ It\'s not just 里. You can also see a 岸 in the name of that station......"
 "I spent no short amount of time trying to decide whether the epitaph truly was referring to this station.
  ......It has the character for village and the character for shore.
  It felt like a kids\' puzzle, playing with letters..."
-"The first character in Kirigan has a {p:0:口}, the character for mouth.
- The other half of that first character, {p:0:其}, means "that", right...?!
+"The first character in Kirigan has a 口, the character for mouth.
+ The other half of that first character, 其, means "that", right...?!
  And the mouth could be what "the two {i:speak} of" is referring to...!
  ......Ah, ...but I don\'t get what "the two" means..."
-The three characters of Kirigan can be split into {nobr:a mouth ({p:0:口})}, {nobr:a "that" ({p:0:其})}, {nobr:a village ({p:0:里})}, and {nobr:a shore ({p:0:岸})}.
+The three characters of Kirigan can be split into {nobr:a mouth (口)}, {nobr:a "that" (其)}, {nobr:a village (里)}, and {nobr:a shore (岸)}.
 Those all feature in the epitaph.
-In {nobr:"that" ({p:0:其})} {nobr:"village" ({p:0:里})}, look for the {nobr:"shore" ({p:0:岸})} the two {nobr:"speak" ({p:0:口})} of.
+In {nobr:"that" (其)} {nobr:"village" (里)}, look for the {nobr:"shore" (岸)} the two {nobr:"speak" (口)} of.
 You can read it as a code for the name of the station.
 {n}However, I don\'t understand the part about "the two"......
 "......I was also stuck on that part.
@@ -956,18 +956,18 @@ formed some sort of theory about the first twilight."
 "Why is it written that way only on the tenth twilight?
  It took me a long time to notice the significance of this, and just as long to discover the reason."
 "Rosa\'s theory went like this.
- She read the "Home" ({p:0:郷}) kanji as "kyou" and interpreted it as {ruby:kyou:{p:0:京}}, which she took as short for "Kyoto" ({ruby:kyouto:{p:0:京都}}).
+ She read the "Home" (郷) kanji as "kyou" and interpreted it as 京, which she took as short for "Kyoto" (京都).
  Then, she reasoned that if you take a ten‐day trip from the beloved hometown to Kyoto, there might be some secret at the end of the first tenth of that journey.
  .........It was a good theory, but she just missed the mark.
- {p:0:京} has another meaning besides Kyoto."
-"......{p:0:京} can mean something other than Kyoto......?
+ 京 has another meaning besides Kyoto."
+"......京 can mean something other than Kyoto......?
  Hmmm......"
 "Don\'t think too hard on it.
  You either know it or you don\'t."
-"......There\'s another meaning of {p:0:京}.
+"......There\'s another meaning of 京.
  One where it\'s not read "kyou", but "kei".
  It\'s the name of a number.
- {nobr:10,000 is {ruby:man:{p:0:万}}}, {nobr:10,000 {ruby:man:{p:0:万}} is {ruby:oku:{p:0:億}}}, {nobr:10,000 {ruby:oku:{p:0:億}} is {ruby:chou:{p:0:兆}}}, and {nobr:10,000 {ruby:chou:{p:0:兆}} is {ruby:kei:{p:0:京}}}."
+ {nobr:10,000 is 万}, {nobr:10,000 万 is 億}, {nobr:10,000 億 is 兆}, and {nobr:10,000 兆 is 京}."
 "So it\'s a number......!"
 "......Here, I had a home‐field advantage, since I lived on Rokkenjima.
  There was a hint there that made it easier to think of the number "kei".

@@ -43,7 +43,7 @@ Rosa towelled Maria\'s head dry.
  Promise Mama."
 "Uu.
  Promise Mama.
- ......Uu{p:0:☆}"
+ ......Uu☆"
 As Rosa gently held Maria, they joined their pinkies together and promised.
 Battler and the others could tell that by this bonding between mother and child, expressed through a single little finger,
  the warmth was starting to return to Maria\'s body.
@@ -56,14 +56,14 @@ Kanon bowed with a blank expression, as though he had done nothing that required
  ......Maria, you can even have half of my dessert too for being so good."
 "Uu!
  Really, Mama?!
- Uu‐uu, get dessert, uu‐uu‐uu{p:0:♪}
+ Uu‐uu, get dessert, uu‐uu‐uu♪
  Love you Mama, love you Mama!"
 "Now now, Maria, don\'t jump around.
  Mama loves you too, Maria.
  Love you Maria, love you Maria."
 "Me too, love you Mama, love you Mama!
  Uu‐uu‐uu‐uu!"
-"Uu‐uu‐uu‐uu{p:0:♪}"
+"Uu‐uu‐uu‐uu♪"
 Rosa and Maria looked really happy together.
  Even the cousins watching started to feel a somehow familiar warmth filling up their chests.
 "......You know, that might be the age when you\'re on the best terms with your parents."
@@ -74,11 +74,11 @@ Rosa and Maria looked really happy together.
  My mother was strict with me too, but by now I realize that it was because she treasured me so."
 "Uu‐uu‐uu!
  Love you Mama, love you Mama!"
-"Love you Maria, love you Maria{p:0:♪} So, shall we get some food?
+"Love you Maria, love you Maria♪ So, shall we get some food?
  Let\'s be friends and hold hands."
 "Uu!
  Be friends and hold hands!
- Mama and Maria, friendly friendly{p:0:♪}"
+ Mama and Maria, friendly friendly♪"
 "Yes, that\'s right.
  Mama and Maria are friends.
  Forever and ever.
@@ -325,7 +325,7 @@ Sakutaro nodded deeply with his big head.
 "Uu.
  Wanted to try that once, but asked Mama if it was alright and she got mad."
 ‘Uryuu!
- Let\'s try it out in secret from Mama{p:0:♪}
+ Let\'s try it out in secret from Mama♪
  Tonight, let\'s play a lot, laugh a lot, and blow away our tears with happiness.
  Don\'t worry, with me here, it\'ll definitely be fun!
  I\'ll make you happy for sure, Maria.’
@@ -336,7 +336,7 @@ Sakutaro nodded deeply with his big head.
  Won\'t cry anymore.
  Let\'s have a super fun time together, make ourselves super happy, and say welcome home with a smile on our faces when Mama gets back."
 ‘Uryuu!
- Let\'s play and play tonight and get in a really great mood{p:0:♪}
+ Let\'s play and play tonight and get in a really great mood♪
  Let\'s play a lot in a secret party that we can only have when Mama isn\'t here.’
 ‘If we\'re lively enough, I\'m sure plenty of friends will come to play from Wonderland and Looking‐Glass Land.
  We\'ll have so many friends at that point that there simply won\'t be time left to feel bored.
@@ -375,7 +375,7 @@ Hoping that when Mama comes home late Sunday night, almost certainly tired,
  I could make her even just a little brighter by sharing this happiness......
 I softly placed that letter on Mama\'s desk.
 {e:070:To Mama.
-{n}Good job with your work again today{p:0:☆} Some of my happiness for you to share.
+{n}Good job with your work again today☆ Some of my happiness for you to share.
 {n}{m:-5:―}―From Maria}
 Then, I decided to give a present to Sakutaro for proposing this wonderful night.
 A small red scarf that I had found when searching for treasure in my closet.
@@ -403,7 +403,7 @@ Maybe I played a little too much.
 ......But I\'m tired for today, so let\'s sleep together now.
  And tomorrow, we\'ll clean up together and welcome Mama with a clean room.
  ......Okay? Sakutaro?
-Uryuu{p:0:♪}
+Uryuu♪
 "......See?
  See how happy I...no, see how happy me and Sakutaro are?"
 "..................
@@ -572,7 +572,7 @@ Rosa set it up on the table.
  It was true, we had a fun and lively time, and we {i:did} get more friends...!"
 ‘See, didn\'t I tell you?
  Look, we have more friends, look, we have more friends!
- Uryu~{p:0:♪}’
+ Uryu~♪’
 Relieved that her gift had been appreciated,
  Rosa suddenly remembered that she was filled with several days of weariness...
 "Mama, you really worked hard...!
@@ -795,8 +795,8 @@ If even a tiny bit of the toxin from a {y:0:Human}{n:0:human}\'s common sense ge
 ‘Uryuu!
  Lion cuuuub!
  Ga‐...ga‐......uryuu!’
-"Sakutaro is a lion cub, but he\'s still a kid, so he can\'t say {ruby:roar:gaooo} sometimes.
- Uryu‐uryu‐uryu{p:0:♪}"
+"Sakutaro is a lion cub, but he\'s still a kid, so he can\'t say gaooo sometimes.
+ Uryu‐uryu‐uryu♪"
 ‘Uryu‐uryu‐uryuu!’
 {f:5:Beatrice} let out a sigh of admiration as she gazed at Maria, playing around with Sakutaro at the table loaded with tea.
 ".........How incredible.

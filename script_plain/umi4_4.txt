@@ -362,7 +362,7 @@ But thanks to that damned Beato learning this strange delay tactic,
  ......I can no longer confirm or deny my reasoning.
 It\'s like I finally got myself a cane to help me search around in the pitch‐black darkness, and now I\'ve had it taken away from me.
  ......Now I\'m just...stuck, aren\'t I......?!!
-"Now, now, Battler, if you make a despairing face like that, I won\'t be able to stop drooling, you knowwww{p:0:♪}
+"Now, now, Battler, if you make a despairing face like that, I won\'t be able to stop drooling, you knowwww♪
  From the beginning, that cane was nothing more than something I gave you because you were so ineffectual."
 "This just means that you can finally challenge me without a handicap, right?
  Kuhhi{0}hi{0}hi{0}hi{0}hi{0}hihihi!"
@@ -509,10 +509,14 @@ Ushiromiya Battler‐style way of fighting...!
 "......I\'ll use it, all right.
  With this blue truth, I can break apart your witch theory, which states that only a witch culprit was possible because everyone had alibis!!"
 "This is my truth!
- {p:2:Ushiromiya Kinzo is already dead}.
- {p:2:Therefore, the true number of people on the island is 17}!
- {p:2:By adding an unknown person X to that, it becomes 18 people}.
- {p:2:By supposing that this person X exists, the crime is possible even if all 17 people have alibis}!!"
+ 
+Ushiromiya Kinzo is already dead}.
+ 
+Therefore, the true number of people on the island is 17}!
+ 
+By adding an unknown person X to that, it becomes 18 people}.
+ 
+By supposing that this person X exists, the crime is possible even if all 17 people have alibis}!!"
 "......In short, if you keep preventing us from meeting with Father, we will have to form the following theory.
  Simply: Father is already dead.
  But you are hiding that because you don\'t want the inheritance to be distributed. See?"

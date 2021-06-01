@@ -124,7 +124,7 @@ Her facial expression was radiant.
  How many years has it been?"
 "Well,
  I\'ve had the pleasure of serving this household for about ten years."
-She\'s {p:0:紗音}.
+She\'s 紗音.
  ......The kanji for her name are read as "Shannon".
 {n}This is another far‐from‐typical name for a Japanese person.
 Being a kid back in those days, I had taken in her name without paying it much attention,
@@ -185,7 +185,7 @@ According to Jessica, midwinter was especially tough, what with all the drafts.
 ...Well, it\'s not like they couldn\'t just take the {c:86ef9c:kotatsu} out.
 As we entered the entrance hall, an aged servant greeted us.
 {n}Now him I remembered.
-As the most senior member of the staff, Genji‐san ({p:0:源次}) served as the head of the servants.
+As the most senior member of the staff, Genji‐san (源次) served as the head of the servants.
 "............Battler‐sama, we have not met in a long while."
 As our eyes met, he saluted us with a composed voice.
 He didn\'t give quite as refined a bow as Gohda\'s,
@@ -371,7 +371,7 @@ Aunt Natsuhi, married to the eldest son of the family, responsible for managing 
 "Huh?
  ......Ahh, *giggle*, I\'m sorry."
 After a moment, she gave a small laugh, but it seemed she couldn\'t quite figure out what she was supposed to be laughing at.
-This woman is Aunt Natsuhi ({p:0:夏妃}).
+This woman is Aunt Natsuhi (夏妃).
 She\'s the wife of the eldest son of the family, meaning she is my dad\'s older brother\'s wife.
 Is it easier to get it if I call her Jessica\'s mother?
 ...It feels bad to say it like this, but—not that I hated her—but I didn\'t particularly like her.
@@ -397,7 +397,7 @@ After being scolded by her mother, Jessica faced the other way, sticking her ton
 ......No way around it.
 {n}Nothing to do but wait for the host to arrive.
 When I glanced at the clock, I saw that it was almost twenty minutes past twelve...
-The aged master of the Ushiromiya head house, Ushiromiya Kinzo ({p:0:金蔵}).
+The aged master of the Ushiromiya head house, Ushiromiya Kinzo (金蔵).
 {n}He was there in his study.
 The clock showed noon, but he didn\'t even attempt to get up.
 With reading glasses on his face, he stacked up old‐fashioned books with elaborately designed bindings one on top of another beside him, immersing himself in their reading.

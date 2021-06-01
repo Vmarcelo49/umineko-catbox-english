@@ -236,7 +236,7 @@ I\'d better keep it up!
 "Huh?
  You will?"
 "Sure.
- A quiz for the princess from her attendant{p:0:♪}
+ A quiz for the princess from her attendant♪
  I\'ve thought of a fun one, so please, have a go at it!"
 Auntie Eva smiled brightly.
 I want to get as many medals as possible, so of course, I want as many chances as I can get.

@@ -919,7 +919,7 @@ Shannon chuckled at this gap.
  Money isn\'t the only thing that\'s important.
  I learned that well by studying from my father.
  Making a company prosperous is like having a castle and leading your subordinates."
-"My father, true to his name of Hideyoshi, really loves reading about the great leaders of the {ruby:Warring States:Sengoku} period.
+"My father, true to his name of Hideyoshi, really loves reading about the great leaders of the Sengoku period.
  Most of his philosophical speeches on business management start with one of them.
  ...Did you know?
  Takeda Shingen, who was feared as the leader of the strongest cavalry corps in the Sengoku period, started out with his troops in complete disarray, and didn\'t have the kind of strong leadership necessary to utilize them well."
@@ -952,15 +952,15 @@ Shannon had no parents.
 Under the guidance of the honorary director, Kinzo, the Gospel House offered excellent students a chance to live a life of service.
 If they were accepted, they would be able to leave the institute and work as servants for the Ushiromiya family.
 ...This was considered to be the highest honor for a student.
-Servants from the Gospel ({ruby:Fukuin:{p:0:福音}}) House all took names with the character "{ruby:in/on/non:{p:0:音}}" in them while they served.
-So "Shannon" ({p:0:紗音}) wasn\'t her real name.
-{n}The same goes for "Kanon" ({p:0:嘉音}).
+Servants from the Gospel (福音) House all took names with the character "音" in them while they served.
+So "Shannon" (紗音) wasn\'t her real name.
+{n}The same goes for "Kanon" (嘉音).
 All of the students of the Gospel House were orphans.
 {n}Or, failing that, people who had been disowned by their parents through some special circumstances.
 ......Because of this, the students had been taught to think of each other as their only family.
 That\'s why it seemed so natural to Kanon to call Shannon his sister.
 And while only Shannon and Kanon were working today in the mansion,
- there were other servants who worked in the shift rotation, named Manon ({p:0:眞音}) and Lenon ({p:0:恋音}), who also inherited the "{p:0:音}" character in their names.
+ there were other servants who worked in the shift rotation, named Manon (眞音) and Lenon (恋音), who also inherited the "音" character in their names.
 ...However, there were not many servants who stayed with the Ushiromiya family for long.
 It was standard for them to quit after three years.
 So you could probably say that Shannon, who had been working for over ten years, was a very rare exception to the rule.
@@ -982,7 +982,7 @@ Because of that, Kinzo would sometimes allow them to wear the family crest as se
  ......I have been getting along well with Milady and the other young servants, too...
  ......I am sometimes scolded by Madam, but, ......caring for the rose garden and cleaning the mansion is fun..."
 "But that isn\'t {i:your} life,
- ......Sayo ({p:0:紗代})‐chan."
+ ......Sayo (紗代)‐chan."
 ".........Umm..."
 Shannon cast her eyes downwards when she heard her real name...
 {n}She understood what George was trying to say and closed her mouth.

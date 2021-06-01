@@ -40,7 +40,7 @@ Her stare, which was unmoving but not openly hostile, wasn\'t exactly pleasant f
 "Ushiromiya—huh?
  What?"
 "Lion.
- Written as "{p:0:理御}", but pronounced "Lee‐on".
+ Written as "理御", but pronounced "Lee‐on".
  ......Pretty strange name, don\'t you think?"
 "......No stranger than mine.
  But I\'ll have to apologize.
@@ -544,7 +544,7 @@ It was.........a map of railway lines.
 "Look!!
  If we follow the Tamsui Line down, there\'s a station that used to be known as Kirigan!
  Look at the characters it\'s written with!!
- There\'s a village ({p:0:里}), a mouth ({p:0:口}), and a shore ({p:0:岸})!!"
+ There\'s a village (里), a mouth (口), and a shore (岸)!!"
 "Sh‐she\'s right...!
  There\'s a village, mouth, and shore...!!"
 ".........As you travel down it, you will see a village.
@@ -669,7 +669,7 @@ Then, he straightened up his back and hugged Shannon without saying a word.
  Here we go!"
 "<Quadrillion>.
  ......This is the only place you\'ll find that number written on this island."
-"One tenth of a "{ruby:kei:{p:0:京}}"...
+"One tenth of a "京"...
  Who\'d have thought it?"
 "If our idea is right, then the letters of that relief should be the mechanism."
 "We just need to check.
@@ -2793,7 +2793,8 @@ It was as though cracks had opened up all over her and blood was leaking out of 
  You want me to announce it clearly with the red truth?
  Then I\'ll do that, just for you."
 {a:c:
-"‘{p:1:This is all truth}
+"‘
+This is all truth}
 }
 {a:c:
 "NOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!"
@@ -3209,7 +3210,8 @@ On either side of Clair, who lay with her insides exposed,
  By all means, try.
  *cackle*cackle*, *giggle*giggle*giggle*!!
  Ahh{0}hah{0}hah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha, hiiyaa{0}a{0}a{0}a{0}aah{0}haa{0}a{0}a{0}a{0}a{0}aahhh!!!"
-"{p:1:Rule #1. It is forbidden to have a crime without all clues presented}."
+"
+Rule #1. It is forbidden to have a crime without all clues presented}."
 ......Will\'s black sword had cut through {f:5:Bernkastel}\'s body at a diagonal angle.
 However, it had no effect, ......like cutting the reflection of the moon on the water.
 "What\'s this?

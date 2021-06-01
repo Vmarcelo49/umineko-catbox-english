@@ -33,7 +33,7 @@ One by one, our parents came out of the boat.
 "It\'s a pleasure.
  I\'m Battler."
 "Your return has been keenly anticipated, sir.
- I have been working for the Ushiromiya head house since the year before last; my name is Gohda ({p:0:郷田}), your servant."
+ I have been working for the Ushiromiya head house since the year before last; my name is Gohda (郷田), your servant."
 "It is a pleasure to make your acquaintance.
  If there is ever anything you need, please feel free to rely on me."
 "Gohda‐san, it\'s been some time."
@@ -306,7 +306,7 @@ When Gohda‐san noticed that our interest had shifted towards him, he went to t
  ...Kanon‐san, greet our guest."
 "..................I\'m pleased to meet you.
  I am the servant............
-Kanon ({p:0:嘉音})."
+Kanon (嘉音)."
 Yep, my first impression wasn\'t wrong—he gave the feeling that he was unsociable, or maybe a bit of a poor speaker.
 In contrast with Gohda‐san, who was extraordinarily polished as a servant,
  it was impossible not to feel the immaturity you\'d expect of someone his age.

@@ -179,7 +179,8 @@ It was like the smile of a kid waiting in the wings at a school play,
  I can\'t investigate the crime scene."
 "If there\'s a need for that, we\'ll do it ourselves or leave it to the police!
  Like hell you have the right to defile their bodies even further!!"
-"{p:1:Detective\'s authority.
+"
+Detective\'s authority.
  ......The detective has the right to investigate all crime scenes.
  Move out of the way, Ushiromiya Battler.
  This is my legitimate right within the game, as granted to the {y:0:Human}{n:0:human} side}."
@@ -196,7 +197,8 @@ Struck silent by Erika\'s quiet intensity and the bizarre, suffocating atmospher
  ......and particularly Battler‐san, the first to discover the bodies:
  .........I have a number of questions for you, so I hope you will oblige me."
 "A‐......are you listening?! What gives you the right...?!"
-"{p:1:Because I am the detective}."
+"
+Because I am the detective}."
 Battler couldn\'t argue against this incomprehensible nonsense.
 {n}......No, ...he wasn\'t permitted to argue.
 {n}It was a restriction...placed on pieces.
@@ -236,7 +238,7 @@ In the kitchen, Gohda was preparing a wonderful breakfast at a brisk pace.
 The main dish would be herb omelet.
 Even simple foods could become an invigorating feast under Gohda\'s skillful hands.
 He was planning to complete all the other preparations for the meal here beforehand, and then cook their individual omelets fresh before their eyes in the dining hall, serving them up one by one.
-"Hmm hmm hmm hmm{p:0:♪} Pan pan pan pa~n{p:0:♪}"
+"Hmm hmm hmm hmm♪ Pan pan pan pa~n♪"
 Gohda hummed as he continued his preparations in high spirits.
 When Shannon, who was helping out, saw Gohda like this, her mood also brightened.
 She arranged the salad in a neat little pattern and showed it to Gohda.
@@ -244,8 +246,8 @@ She arranged the salad in a neat little pattern and showed it to Gohda.
  I think the tomatoes look a bit cuter this way."
 "Hmm~~, very ni~ce!
  You\'re really getting the hang of this, Shannon‐san!
- Hmm hmm hmm hm~m{p:0:♪}"
-""Hmm hmm hmm hm~m{p:0:♪}""
+ Hmm hmm hmm hm~m♪"
+""Hmm hmm hmm hm~m♪""
 The two happy people gave each other a high five.
 Shannon didn\'t like Gohda when he was sneaky, but she had no problems at all with him when he was cooking happily.
 She sometimes even thought it would have been nice if his contract hadn\'t included any jobs besides cooking.
@@ -780,7 +782,8 @@ Natsuhi flew into the cousins\' room on the upper floor of the guesthouse,
  Sure, go ahe~ad!
  Blue truth time!"
 "Here\'s the first one I can think of.
- {p:2:The victims aren\'t actually dead.
+ 
+The victims aren\'t actually dead.
  They pretended to be dead, then secretly hid themselves somewhere.
  After all, you haven\'t declared anyone\'s death with the red truth}."
 "Ahhaha!
@@ -794,7 +797,8 @@ Natsuhi flew into the cousins\' room on the upper floor of the guesthouse,
  Anyone could have thought of that ridiculous move.
  I have more.
  Second one.
- {p:2:Krauss carried the bodies off and hid them.
+ 
+Krauss carried the bodies off and hid them.
  You\'re making it look like you\'ve kidnapped Krauss and locked him up somewhere, but he might actually be free.
  Krauss has no alibi.
  Krauss hid their corpses}."
@@ -805,7 +809,8 @@ Natsuhi flew into the cousins\' room on the upper floor of the guesthouse,
  Eheh{0}eh{0}eh{0}eh{0}eheh!!
  Any others?!"
 "Third one.
- {p:2:The corpses were different people in the first place.
+ 
+The corpses were different people in the first place.
  They were substitute corpses made to look like the victims.
  George and the others were hiding from the beginning, and later cleared away the substitute corpses.
  The corpses were dead from the very beginning, so they don\'t count towards the number of people on the island}."
@@ -814,7 +819,7 @@ Natsuhi flew into the cousins\' room on the upper floor of the guesthouse,
  So all those people gathered around and looked at their dead faces, and not a single one of them realized that they were fakes?"
 "Since you haven\'t used the red truth, there\'s a possibility that everyone misidentified all of the bodies.
  Of course, if you feel like responding to a repetition request for "no one would misidentify a person", I\'ll withdraw that claim immediately..."
-"How about no~{p:0:♪} You can\'t bait me like that!
+"How about no~♪ You can\'t bait me like that!
  The red truth is only useful if I make you wait for it, you know?"
 "I\'ll pick a single blue truth from all the ones you give me throughout this game and I\'ll smash it with the red!
  Then the rest of the blue truths will be swallowed up by darkness before you can even find out whether they were right or wrong!"

@@ -139,7 +139,7 @@ That\'s a relief.
  I was sure it was a "he"......
 "Excuse me, ...but are you...?"
 "Yes.
- ......I am Hachijo Tohya ({p:0:八城十八})."
+ ......I am Hachijo Tohya (八城十八)."
 "The magazines talked about your book signing event.
  Supposedly, a mysterious male author showed up wearing sunglasses and a mask...
  Never thought you\'d be a woman...... What\'s the deal?"
@@ -186,7 +186,7 @@ Given this person\'s radically unconventional track record,
  That\'s actually pretty impressive..."
 "Itouikukuro0576.
  It was a pretty strange username.
- However, if you match the Japanese syllables to numbers, you can read it as {nobr:{ruby:i:1}‐{ruby:tou:10}‐{ruby:i:1}‐{ruby:ku:9}‐{ruby:ku:9}‐{ruby:ro:6}‐0576}."
+ However, if you match the Japanese syllables to numbers, you can read it as {nobr:1‐10‐1‐9‐9‐6‐0576}."
 11,019,960,576.
 {n}This massive number is equal to 18⁸.
 Eighteen to the eighth power.

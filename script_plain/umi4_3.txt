@@ -29,7 +29,7 @@ At this, the old gentleman, who was looking at the world below through the windo
  Why not put this running away from home act behind you and return to the Sumadera family?"
 "I heard that Mom had a bad relationship with her family.
  I don\'t want to go to the house of people I first met at a funeral."
-The Sumadera ({p:0:須磨寺}) family is my mom\'s family.
+The Sumadera (須磨寺) family is my mom\'s family.
 It\'s a bit of an old family from Kyoto, and unbelievably strict in a way you could never have imagined from the frank way Mom acted.
 The only person in the Sumadera family I had been on good terms with was Grandpa, who was living separately under the guise of retirement.
 Mom, too, kept up contact only with Grandpa,
@@ -494,7 +494,7 @@ We sewed our way between cars one after another.
 "Hyahhahahahaha, <cool>!"
 He smacked the steering wheel, guffawing.
 Need an explanation for this flippantly spoken man?
-His name is Amakusa Juuza ({p:0:天草十三}).
+His name is Amakusa Juuza (天草十三).
 He was originally one of Aunt Eva\'s guards.
  If I remember correctly, she hated him for being too jokey and too chatty.
 He was especially young amongst the guards, but contrary to his outward flippancy, he had hopped from the 1st Airborne of the JSDF to the French Foreign Legion,
@@ -543,7 +543,7 @@ Aunt Eva had particularly disliked that, and I believe she dismissed him right b
 "You\'re right.
  Which is why this is a journey for my own self‐satisfaction.
  ......Once I\'m done, I\'ll just throw my hands up and go to the Sumadera family."
-"......Didn\'t Aunt Kasumi say something about wanting to treat me to some {ruby:powdered tea:matcha}?
+"......Didn\'t Aunt Kasumi say something about wanting to treat me to some matcha?
  Maybe I\'ll be made to kneel on some sharp wooden blocks and clutch stones or something while we drink."
 "Damn that sounds freaky, hyahhahahaha...!"
 "My apologies, we lost sight of her...
@@ -562,7 +562,7 @@ Aunt Eva had particularly disliked that, and I believe she dismissed him right b
 "..................*cackle*cackle*.
  ...Hoh‐hoh‐hoh‐hoh‐ho...!!"
 Her back to Okonogi, she laughed at first lightly, but with an increasingly shrill and hateful tone, using that as a substitute for a sharp parting remark.
-At the exact moment she stopped laughing, the look on her face changed dramatically to that of a {ruby:hannya:demon},
+At the exact moment she stopped laughing, the look on her face changed dramatically to that of a demon,
  but because her back was facing him, Okonogi never saw that expression.
 Okonogi watched her go, laughing coolly.
 {n}His secretary whispered over his shoulder.

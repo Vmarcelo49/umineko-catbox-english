@@ -77,9 +77,9 @@ Okay.
 "That\'s the right attitude.
  Let\'s give it our all together."
 "Yeah!"
-"My name is Asne ({p:0:明日音}).
+"My name is Asne (明日音).
  Pleased to meet you."
-"My name is Belne ({p:0:鐘音}).
+"My name is Belne (鐘音).
  Pleased to meet you."
 .....................
 The newly arrived servants looked......a bit frivolous.

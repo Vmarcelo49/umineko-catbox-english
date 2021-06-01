@@ -186,7 +186,7 @@ If that happened, ......then surely, I wouldn\'t have been able to find the key,
 "Sure. Today is Sunday, and the weather is wonderful.
  I\'d better do my best."
 "Go do whatever you can.
- Oh, that\'s right, Reine ({p:0:玲音})\'s been in a bad mood all morning.
+ Oh, that\'s right, Reine (玲音)\'s been in a bad mood all morning.
  I suggest you avoid eye contact with her.
  Also, your fortune for the day is "water hazard".
  Make sure you take care when standing near buckets of water.

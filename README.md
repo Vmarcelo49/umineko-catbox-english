@@ -11,7 +11,7 @@ Este projeto visa portar a tradução da Umineko Project para a versão de Ninte
 
 ### No emulador
 
-Baixe o [Ryujinx](https://ryujinx.org/)
+Baixe o [Ryujinx](https://ryujinx.org/) então
 [Baixe o patch](../../releases/latest/download/patch.zip)
 Abra o Ryujinx, Clique em File>Open Ryujinx folder então cole a pasta "mods" lá dentro.
 

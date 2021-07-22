@@ -1,4 +1,3 @@
 [submodule "repack"]
 	path = repack
 	url = https://github.com/Vmarcelo49/kaleido-com-as-coisas-que-preciso
-	branch = saku

@@ -54,7 +54,10 @@ const nametags = {
   'フェザリーヌ': 'FEATHERINE',
   'ウィラード・Ｈ・ライト': 'Will',
   '右代宮　理御': 'Lion',
-  '山羊の従者': 'Goat'
+  '山羊の従者': 'Goat',
+  'ピース': 'Piece',
+  'ウェルギリアス': 'Virgilius',
+  'エヴァ・ベアトリーチェ': 'Eva Beatrice'
 }
 /* eslint-enable quote-props */
 for (let i = 0; i < lines.length; i++) {

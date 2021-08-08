@@ -22,8 +22,8 @@
 ` Ela tá claramente acostumada.`
 ` Até hoje eu ainda me confundo com qual garfo devo usar a seguir.`
 ` Sim...seria este? Ou este aqui...?`
-` Waha{0}ha{0}ha{0}haha!"`
-`Erika degustava seu {i:hors d'oeuvre} de forma graciosa, sem demonstrar qualquer expressão de confusão diante dos utensílios dispostos à sua frente.`
+` Wahahahahaha!"`
+`Erika degustava seu hors d'oeuvre de forma graciosa, sem demonstrar qualquer expressão de confusão diante dos utensílios dispostos à sua frente.`
 `Hideyoshi começou a fazer piada, segurando um garfo em cada mão.`
 `É claro, um presidente de uma companhia que atua no ramo da indústria de serviços alimentícios, como Hideyoshi, obviamente sabia sobre as boas maneiras à mesa.`
 `Contudo, pensando que Erika poderia estar nervosa por causa do jantar, ele intencionalmente falou em tom cômico.`
@@ -36,8 +36,8 @@
 `......O sorriso demonstrado por ela agora era completamente diferente da dignidade que ela havia exibido anteriormente, assimilando‐se a algo que você esperaria vindo de alguém da idade dela.`
 `"*risos*.`
 ` Mas ao menos para o curry com arroz você usa uma colher, não usa?"`
-`"Basta servir em uma tigela ao estilo {c:86EF9C:donburi}.`
-` Existe alguém que coma {i:gyuudon} com uma colher?`
+`"Basta servir em uma tigela ao estilo donburi.`
+` Existe alguém que coma gyuudon com uma colher?`
 ` É claro que não.`
 ` Nós, japoneses devemos, de forma imbatível e com total desígnio, usar hashis!`
 ` Por isso, Gohda‐san.`
@@ -46,9 +46,9 @@
 `"......A propósito, qual será o próximo prato?"`
 `"Temo informar que será sopa."`
 `Buscando demonstrar que não se importava, Erika deu uma piscadela para todos.`
-`"""Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!"""`
+`"""Wahhahahahahahahahahahahahahahaha...!!"""`
 `É claro, ninguém estava rindo dela.`
-`Ela obviamente sabia que em uma refeição completa, logo após o {i:hors d'oeuvres}, vinha a sopa.`
+`Ela obviamente sabia que em uma refeição completa, logo após o hors d'oeuvres, vinha a sopa.`
 `Além disso, Erika havia notado que ela tinha demonstrado uma perfeição excessiva,`
 ` criando uma atmosfera de tensão que levou Hideyoshi a pensar que ela estava nervosa e,`
 ` por isso, pensou que deveria tentar quebrar o gelo.`
@@ -82,7 +82,7 @@
 `"......C‐Claro, é moleza..."`
 `Jessica endireitou sua postura de tal forma que parecia que alguém havia pressionado suas costas contra um poste.`
 `......Ela tem boa postura, mas lhe falta elegância.`
-`{n}Ela parecia...bem...algum tipo de esquadro.`
+`Ela parecia...bem...algum tipo de esquadro.`
 `Ela sentou‐se com seu olhar atendo fixado à sua frente, buscando levar a comida à sua boca em tal posição,`
 ` ......e falhou miseravelmente.`
 `Meu pai, que estava sentado ao lado dela, percebeu que algo não estava certo.`
@@ -92,10 +92,10 @@
 `Jessica ficou em vermelho vivo.`
 ` ......Ah, desculpa, eu não presto...`
 `Nós rolamos de rir.`
-`{n}Jessica protestou, ainda vermelha.`
-`{n}E a tia Natsuhi nos repreendeu pelo nosso comportamento.`
+`Jessica protestou, ainda vermelha.`
+`E a tia Natsuhi nos repreendeu pelo nosso comportamento.`
 `No fim, não importa o quanto a gente tente aliviar as coisas, somos quem somos.`
-`{n}Não conseguimos agir como se fôssemos outro alguém.`
+`Não conseguimos agir como se fôssemos outro alguém.`
 `No fim, as risadas nos ajudaram a relaxar.`
 `Ficamos tão preocupados da convidada estar ficando nervosa que nós mesmos acabamos ficando ainda mais nervosos.`
 `A animada conversa se espalhou do ponto central onde estávamos sentados até ambos os limites da mesa,`
@@ -131,7 +131,7 @@
 ` Jogar cartas!"`
 `Maria se agarrou nela enquanto ria.`
 `Esta franqueza peculiar dos jovens refletia Maria muito bem.`
-`{n}......Mas, por ora, nós deveríamos pensar nas condições físicas da Erika.`
+`......Mas, por ora, nós deveríamos pensar nas condições físicas da Erika.`
 `"Maria, não quer jogar cartas com a gente?`
 ` A Erika onee‐chan disse que está cansada."`
 `"......Eu também gosto de cartas.`
@@ -139,8 +139,8 @@
 `"Uu‐uu‐uu!! Ebaaa!!"`
 `"..................Quem seria aquela?"`
 `Enquanto passava pelo hall, indo em direção à porta de entrada, a Erika interrompeu seus passos......`
-`{n}Quando vimos o que ela estava olhando, ......nós também paramos.`
-`"......Ah, aquela é a Bruxa Dourada, {f:5:Beatrice}‐sama."`
+`Quando vimos o que ela estava olhando, ......nós também paramos.`
+`"......Ah, aquela é a Bruxa Dourada, Beatrice‐sama."`
 `"............A Bruxa...`
 `......Dourada."`
 `"O que estão fazendo, pirralhos?`
@@ -171,8 +171,8 @@
 ` ......isso nunca passou de um ávido pensamento, visto que nunca foi especificamente proclamado.`
 `E mesmo assim, mesmo tendo lido uma única vez......essa forasteira já chegou a tal conclusão.`
 `Como ela chegou nisso?`
-`{n}Não, .........esse não é o problema.`
-`{n}"Se resolver o epitáfio, você pode virar o novo chefe".`
+`Não, .........esse não é o problema.`
+`"Se resolver o epitáfio, você pode virar o novo chefe".`
 `Ela queria estabelecer que isso não era apenas um ávido desejo......mas um fato claro.`
 `Por isso eles se aproximaram de Erika, perguntando o porquê dela ter tanta certeza.`
 `".........Meio que é algo comum que pessoas extremamente ricas abram mão de suas riquezas para a pessoa que resolve determinado enigma.`
@@ -182,7 +182,7 @@
 `"Tem razão...`
 ` .........Por estar dentro da mansão, não tem como alguém sem permissão para entrar na mansão, resolver ele.`
 ` ...Então, isso significa que o vovô desafiou as pessoas desta mansão."`
-`".........{i:Good}.`
+`".........Good.`
 ` Bem pensado.`
 ` O simples fato do epitáfio estar dentro da mansão possibilita deduzir isto."`
 `À primeira vista, essa garota chamada Furudo Erika passou a impressão de ser taciturna,`
@@ -227,11 +227,11 @@
 `"...Isso mesmo......`
 ` Por isso é importante especificar claramente o sucessor, para que qualquer problema possa ser evitado.`
 ` Algumas vezes, até mesmo expurgar todos aqueles competindo pela sucessão."`
-`Mesmo o admirado comandante Hideyoshi do Período Sengoku, Toyotomi Hideyoshi, fez seu genro cometer {i:seppuku},`
+`Mesmo o admirado comandante Hideyoshi do Período Sengoku, Toyotomi Hideyoshi, fez seu genro cometer seppuku,`
 ` mas há rumores que indicam que isto foi feito para fazer com que Hideyori, que era seu verdadeiro filho, nascido após Hidetsugu, se tornasse seu verdadeiro herdeiro.`
 `......Em outras palavras, nomear um sucessor é uma forma de tornar de conhecimento do mundo que há uma única, e apenas uma pessoa que será reconhecida por todos como sucessor,`
 ` e uma maneira de eliminar todas as chances de outra pessoa se tornar um candidato opositor.`
-`".........{i:Good}.`
+`".........Good.`
 ` É precisamente isso.`
 ` O único propósito de um epitáfio como este é jogar o elemento da dúvida sobre a posição de sucessor do chefe do Krauss‐san.`
 ` Ou seja, se o Kinzo‐san desejasse que o Krauss‐san se tornasse o chefe sem quaisquer empecilhos, ele não teria motivos plausíveis para expor algo tão perigoso ao alcance de todos."`
@@ -257,11 +257,11 @@
 `"Calma, calma... P‐Pega leve, Jessica...`
 ` ......E, Erika, vamos encerrar isso pro ora."`
 `"Bem, hmm, podemos colocar o assunto sobre o sucessor de lado agora.`
-` Seja como for, não há dúvidas de que é uma {i:big question} que o pai trouxe à nós.`
+` Seja como for, não há dúvidas de que é uma big question que o pai trouxe à nós.`
 ` ......Wahahaha!`
 ` São 20 bilhões de iene!`
 ` Maria‐chan, com o que gastaria se encontrasse?`
-` Waha{0}ha{0}ha{0}ha{0}ha{0}haha!"`
+` Wahahahahahahaha!"`
 `"......Uu.`
 ` A Terra Dourada não é só ouro.`
 ` É um lugar muito mais sagrado!"`
@@ -303,7 +303,7 @@
 `Pensei que mais algumas dicas poderiam surgir se eu esperasse,`
 ` ......por isso fiquei esperando, ...e acabei parando de pensar......`
 `".........Já conseguiu descobrir a resposta por conta própria?`
-` .........Porque já estou prestes a {i:resolvê‐lo}."`
+` .........Porque já estou prestes a resolvê‐lo."`
 `"Q‐Quê......?"`
 `"Essa é a parte onde a Bern resolve o enigma do epitáfio.`
 ` ......Não esperaria menos da Bruxa dos Milagres.`
@@ -311,7 +311,7 @@
 ` ......Quantos anos levou para resolver esse?"`
 `".........Isso foi rude.`
 ` Eu o resolvi através de algumas centenas de Fragmentos."`
-`"Heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh......`
+`"Heheheheheheheheheheh......`
 ` Você é mesmo assustadora."`
 `"É melhor não ter trapaceado dizendo de repente a resposta em vermelho ou algo do tipo..."`
 `".........Não se preocupe.`
@@ -338,10 +338,10 @@
 ` ......Olha, nós não parecemos bem?`
 ` ......Acredite que seu pé está sobre uma superfície sólida e vai ser capaz de controlar a gravidade.`
 ` ......Se fizer isso, vai encontrar o equilíbrio."`
-`E‐Ela está certa... As duas bruxas {i:estavam} de pé sem quaisquer problemas, como se seus pés estivessem fixados à uma estrutura transparente de gelo.`
+`E‐Ela está certa... As duas bruxas estavam de pé sem quaisquer problemas, como se seus pés estivessem fixados à uma estrutura transparente de gelo.`
 `Eu era o único que estava flutuando como alguém dentro de um elevador despencando em alta velocidade.`
 `......Quando vi que as duas estavam bem, eu comecei a me acalmar, e percebi que não havia motivos para ficar assustado.`
-`Então, assim como a {f:5:Lambdadelta} tinha dito,`
+`Então, assim como a Lambdadelta tinha dito,`
 ` eu cerrei meus dentes e comecei a dizer para mim mesmo que havia um lugar plano para ficar de pé...e assim me acalmei......`
 `"Whoa, whoa............ Ohh..."`
 `"Ótimo, muito bem.`
@@ -353,13 +353,13 @@
 ` Afinal, este é um oceano.`
 ` Se perder seus propósitos, irá cair nas profundezas da eternidade e se tornar um pedaço de alga marinha.`
 ` Tome cuidado"`
-`Eu não entendi o que a {f:5:Lambdadelta} estava dizendo, mas tentei me acalmar após ouvi‐la.`
+`Eu não entendi o que a Lambdadelta estava dizendo, mas tentei me acalmar após ouvi‐la.`
 `Parece que quanto mais recupero meu equilíbrio, mais calmo vou ficando.`
 `Gradualmente, a estranha sensação de estar flutuando, como se estivesse em uma queda infinita, começou a desaparecer.`
 `......Ainda era estranho, como lutar para ficar de pé em uma piscina muito funda, mas já estava melhor do que antes.`
 `".........Muito bem, vamos começar.`
 ` .........Irei tecer um Fragmento para resolver o enigma do epitáfio......"`
-`{f:5:Bernkastel} abriu ambas as mãos.`
+`Bernkastel abriu ambas as mãos.`
 `E assim, como se fosse um planetário...`
 `......toda criação de Fragmentos ao longo deste espaço vazio começaram a girar, deixando para trás uma cauda atrás dos mesmos...`
 `A expressão "planetário" acabou se encaixando melhor do que imaginei...`
@@ -367,9 +367,9 @@
 ` e aquilo que aparentava ser uma constelação se aproximou de nós em alta velocidade, seguida de outra.`
 `Como se estivéssemos correndo através do espaço a uma incrível velocidade...`
 `Então, com caudas de luz à deriva por trás deles,`
-` ......numerosos Fragmentos de brilho reluzente rodopiaram ao redor de {f:5:Bernkastel}.`
+` ......numerosos Fragmentos de brilho reluzente rodopiaram ao redor de Bernkastel.`
 `Parecia que ela havia criado seu próprio sistema solar, tendo ela mesma assumido a posição de sol.`
-`O raio desse sistema solar que cercava {f:5:Bernkastel} cresceu de tal forma que nos engoliu.`
+`O raio desse sistema solar que cercava Bernkastel cresceu de tal forma que nos engoliu.`
 `Os Fragmentos desses satélites vinham na minha direção e passavam rapidamente.`
 `Quando esses Fragmentos passavam por mim,`
 ` ......era como se algum tipo de memória brotasse dentro de mim.`
@@ -380,17 +380,17 @@
 ` ......Bem, pode ser que para você pareçam memórias.`
 `"............Vamos começar.`
 ` ...Daremos início com este Fragmento."`
-`Um dos satélites deste sistema solar lentamente foi puxado na direção de {f:5:Bernkastel}, como se orbitasse ao seu redor.`
+`Um dos satélites deste sistema solar lentamente foi puxado na direção de Bernkastel, como se orbitasse ao seu redor.`
 `Ele traçou uma espiral conforme se aproximava dela, até descansar na palma da mão que a mesma havia esticado...`
 `Então, reluzindo fortemente, ele repintou o mundo com um branco puro......`
 `"...A "amada cidade passada" definitivamente não vai trair suas expectativas.`
-`{n}......O único passado que o pai valorizava era o de seus dias de juventude."`
+`......O único passado que o pai valorizava era o de seus dias de juventude."`
 `".........Eu lembro disso.`
 ` ...Isso foi quando, no terceiro jogo, a tia Eva estava prestes a resolver o enigma do epitáfio, e ficava pensando em conjunto com a bruxa dentro da sua cabeça."`
 `"............Isso mesmo.`
 ` E, desses pensamentos, ela trilhou seu caminho em direção à resposta correta.`
 ` Ou seja, este Fragmento exibe dicas vitais para se alcançar a verdade.`
-` .........Em outras palavras, significa que {i:esta teoria não é um erro}."`
+` .........Em outras palavras, significa que esta teoria não é um erro."`
 `"Então, ......você está dizendo que devemos assumir que a "minha amada cidade passada" não é uma metáfora nem nada disso...`
 `mas o lugar onde o vovô realmente passou sua juventude?"`
 `".........Por aí.`
@@ -402,12 +402,12 @@
 ` Pelo que eu ouvi, ele se divertiu muito durante sua juventude."`
 `"Isso mesmo......`
 ` ......A tia Eva e seus irmãos disseram que não era Odawara.`
-`{n}......E não foi só isso, parece que todos tinham uma boa ideia de onde era essa cidade do vovô."`
+`......E não foi só isso, parece que todos tinham uma boa ideia de onde era essa cidade do vovô."`
 `"......Correto.`
 ` E, infelizmente, o verdadeiro local não é mencionado em nenhum desses Fragmentos."`
 `"Isso é óbvio.`
 ` Se eu te dissesse até isso, seriam dicas demais.`
-` .........Quando a dificuldade do enigma não é tão alta, {i:nem tem motivo pra fazer isso}.`
+` .........Quando a dificuldade do enigma não é tão alta, nem tem motivo pra fazer isso.`
 ` ......Ops,`
 ` essa também é uma dica.`
 ` *risos*......"`
@@ -457,7 +457,7 @@
 ` Se essa outra coisa é uma palavra diferente que o termo "ayu" faz você pensar, a fala da Eva é sobre como isso "provavelmente não precisa ser um ayu", faz sentido..."`
 `"...................................."`
 `Com esses pensamentos, a tia Eva formou uma teoria,`
-` ......indo até aquela biblioteca, procurando algo em algum tipo de livro e {i:verificando que ela estava certa}.`
+` ......indo até aquela biblioteca, procurando algo em algum tipo de livro e verificando que ela estava certa.`
 `Ou seja, a tia Eva formou algum tipo de teoria sobre a verdadeira natureza desse rio de ayus que passa pela cidade.`
 `Então, ......ela abriu um certo livro para determinar se essa teoria estava correta ou não.`
 `Em outras palavras, essa teoria é algo que pode ser verificada através de algum livro específico...`
@@ -465,7 +465,7 @@
 `".........Belo pensamento.`
 ` ......O epitáfio continua, dizendo "quando você descer o rio, encontrará um vilarejo.".`
 ` Naquele momento, a Eva ainda não havia resolvido as três linhas que começavam a partir dessa."`
-`"......O que é um {i:vilarejo}?`
+`"......O que é um vilarejo?`
 ` O que isso significa?!`
 ` Vai ter um vilarejo se você descer o "rio"......?!`
 ` ............ah, .........aaaaaaaahhh......!!"`
@@ -474,9 +474,9 @@
 `...em um estalo,`
 ` se reunindo sozinhas em um mesmo lugar......`
 `Sequer lembrei de fechar minha própria boca.`
-`{n}...Minha garganta ficou completamente seca...`
+`...Minha garganta ficou completamente seca...`
 `Tudo bem......essa ser mesmo a resposta?`
-`{n}M‐Mesmo?`
+`M‐Mesmo?`
 ` Mesmo...?!`
 `"...Então...`
 `nós percebemos o que era o "rio de ayus que passa pela minha amada cidade passada",`
@@ -518,7 +518,7 @@
 `"N‐...No primeiro crepúsculo, você deve oferecer como sacrifício os seis escolhidos pela chave...`
 ` ......Os seis...escolhidos pela chave...`
 ` .........Seis caracteres......!"`
-`Em outras palavras, ......significa "no primeiro crepúsculo, sacrifique os seis {i:caracteres} escolhidos pela chave"...!`
+`Em outras palavras, ......significa "no primeiro crepúsculo, sacrifique os seis caracteres escolhidos pela chave"...!`
 `"Essa parte da chave certamente se refere a um grupo de seis pessoas.`
 ` ......Não, deveríamos dizer que aponta para um certo grupo específico de seis coisas.`
 ` ......Se isso não é literalmente um comando para oferecer sacrifícios.`
@@ -537,14 +537,14 @@
 ` de onde devemos matar esses caracteres?`
 ` ......Não sabemos que cadeia de caracteres é essa que nós supostamente devemos matar."`
 `No primeiro crepúsculo, mate os seis caracteres que são a chave.`
-`{n}.....................No primeiro crepúsculo.`
+`.....................No primeiro crepúsculo.`
 `"......Ou seja, ...no momento que chegamos no primeiro crepúsculo, já existe alguma cadeia de caracteres?`
-` Mas {ruby:o primeiro crepúsculo:{p:0:第一の晩}} tem apenas quatro caracteres.`
+` Mas o primeiro crepúsculo:第一の晩 tem apenas quatro caracteres.`
 ` Devemos ler de uma forma diferente?`
-` Se lermos isso em inglês, {i:da forma como o vovô leria, o que o "primeiro crepúsculo" se tornaria...?`
-`{i:First night}...?`
+` Se lermos isso em inglês, da forma como o vovô leria, o que o "primeiro crepúsculo" se tornaria...?`
+`First night...?`
 ` ............"`
-`".........{i:Good}.`
+`".........Good.`
 ` Sua forma de pensar não é nada mau, Battler‐san.`
 ` ......Podemos interpretar os seis sacrifícios escolhidos pela chave como uma cadeia de seis caracteres.`
 ` Acho que essa é uma maneira inteligente de se pensar fora da caixa.`
@@ -554,7 +554,7 @@
 ` Mas nesse caso, de onde removemos os seis caracteres?"`
 `"Esse é o ponto.`
 ` ......Como estamos removendo seis caracteres, seja o que for, precisa ter mais de seis.`
-` Como podemos ler isso{NOTE:"isso" se refere a "o primeiro crepúsculo":} de forma que nos dê mais de seis caracteres...?"`
+` Como podemos ler isso "isso" se refere a "o primeiro crepúsculo": de forma que nos dê mais de seis caracteres...?"`
 `"Se seguirmos a sensibilidade do pai...acho bem provável que seja em inglês..."`
 `".........Se parecer que estamos ficando presos, por que não partimos para o segundo crepúsculo e procuramos por dicas?"`
 `"......Os remanescentes devem separar os dois que são próximos..`
@@ -563,18 +563,18 @@
 `".........Entendi.`
 ` ......Eu entendi, então é sobre isso...!"`
 `Por exemplo, vamos pegar uma lista com nove caracteres: 123456789.`
-`{n}E então, vamos dizer que seis foram oferecidos como sacrifícios 1, 3, 6, 7, 8, e 9.`
-`{n}Nós apagamos os seis caracteres acima citados de 123456789...e ficamos com x2x45xxxx.`
+`E então, vamos dizer que seis foram oferecidos como sacrifícios 1, 3, 6, 7, 8, e 9.`
+`Nós apagamos os seis caracteres acima citados de 123456789...e ficamos com x2x45xxxx.`
 `"Logo sobrou 2, 4, e 5.`
 ` ......E?"`
 `"......Oh, ......4 e 5 são próximos..."`
 `"S‐Sim, eu entendi!!`
 ` Então, "os dois que são próximos" significa..."`
-`{a:c:x2x45xxxx}.`
+`x2x45xxxx.`
 `"Sim.`
 ` Há um espaço entre 2 e 4, mas 4 e 5 estão um do lado do outro.`
 ` Esses são os dois que são próximos...!"`
-`".........{i:Good}.`
+`".........Good.`
 ` Esplêndido, Battler‐san.`
 ` Não sei dizer se o "separe" significa eliminar 4 e 5,`
 ` ou colocar um espaço entre eles, mas acho essa uma boa observação."`
@@ -589,7 +589,7 @@
 `"Hã?`
 ` O que é? Me diga...!"`
 `"......Também é um...anagrama?"`
-`".........Mais uma vez, {i:good}.`
+`".........Mais uma vez, good.`
 ` ...Battler‐san, você é um pensador bem flexível."`
 `"Com anagrama, você se refere a brincar com as letras, certo?`
 ` ......Isso significa......"`
@@ -611,16 +611,16 @@
 ` eu percebi que isso significa que após eliminar os seis caracteres do primeiro crepúsculo, separar os dois que são próximos, e então eliminar mais cinco......`
 `não deveria restar nenhum."`
 `E isso faz que sejam 6+5=11 caracteres.`
-`{n}Se separar os dois que são próximos do segundo significa matar ambos,`
+`Se separar os dois que são próximos do segundo significa matar ambos,`
 ` seriam 6+2+5=13 caracteres.`
-`{n}Há uma chance de que a palavra que simbolize o primeiro crepúsculo possua onze ou treze caracteres......`
+`Há uma chance de que a palavra que simbolize o primeiro crepúsculo possua onze ou treze caracteres......`
 `".........É mesmo esplêndido. Exatamente igual a minha lógica.`
-` ......Parece que você foi abençoado com as mesmas pequenas células cinzentas que eu, {nobr:Battler‐san}."`
+` ......Parece que você foi abençoado com as mesmas pequenas células cinzentas que eu,  Battler‐san."`
 `"Ei, chega disso.`
 ` Apenas aja naturalmente."`
 `"............Pera aí, que merda é essa?`
 ` ......Minha peça é superinteligente, não é?`
-`{n}Nem tem mais motivos para eu teorizar."`
+`Nem tem mais motivos para eu teorizar."`
 `"Ah, desculpe por isso.`
 ` ......Você não tinha chegado ainda, então decidi controlar sua peça por você.`
 ` .........Não gostou de eu ter feito você parecer afiado...?"`
@@ -628,46 +628,46 @@
 ` Você parece muito mais esperto quando a Bern está jogando na sua posição.`
 ` ......Por que não desiste de ser um jogador e se concentra em ser uma peça?"`
 `Eu me juntei a este jogo no dia 5 de outubro, depois da primeira leva de assassinatos.`
-`Por isso, até certo ponto, a peça chamada "eu" estava sendo controlada pela {f:5:Bernkastel}, a jogadora.`
-`O que faz com que seja possível que a {f:5:Bernkastel} apresente seu raciocínio através da "minha" boca...`
+`Por isso, até certo ponto, a peça chamada "eu" estava sendo controlada pela Bernkastel, a jogadora.`
+`O que faz com que seja possível que a Bernkastel apresente seu raciocínio através da "minha" boca...`
 `......O jogo que estou assistindo agora não é mais do que um replay da parte que já se encerrou.`
 `Porém, por ora, isso é bom o suficiente.`
-`......Essa {f:5:Bernkastel}‐sama se empenhou em resolver o epitáfio por mim.`
+`......Essa Bernkastel‐sama se empenhou em resolver o epitáfio por mim.`
 `...Por isso, vou continuar assistindo com muita atenção.`
 `.........E......tentarei descobrir o que significa.`
-`{n}A {f:5:Lambdadelta} deixou isso escorrer um segundo atrás.`
+`A Lambdadelta deixou isso escorrer um segundo atrás.`
 `"Isso é óbvio.`
 ` Se eu te dissesse até isso, seriam dicas demais.`
-` .........Quando a dificuldade do enigma não é tão alta, {i:nem tem motivo pra fazer isso}.`
+` .........Quando a dificuldade do enigma não é tão alta, nem tem motivo pra fazer isso.`
 ` ......Ops, essa também é uma dica. *risos*......"`
 `......Essa teoria sobre o vovô ter criado o epitáfio com o intuito de escolher um sucessor não é ruim.`
-`A lógica da Erika e da {f:5:Bernkastel} é extremamente razoável.`
+`A lógica da Erika e da Bernkastel é extremamente razoável.`
 `Mas apenas se supormos que foi o vovô quem o criou.`
 `Ele provavelmente estava vivo na época em que o epitáfio foi exibido,`
 ` mas é claro, ......ele já estava morto em 1986.`
-`E, durante os jogos até agora, a {f:5:Beatrice} nos ameaçou repetidamente com cartas,`
+`E, durante os jogos até agora, a Beatrice nos ameaçou repetidamente com cartas,`
 ` dizendo que a única forma de sobreviver era resolvendo o epitáfio, e tentou nos forçar a resolver o enigma.`
-`Em outras palavras, ......era a intenção da {f:5:Beatrice}, ...sua esperança......de que tentaríamos resolver o enigma do epitáfio.`
+`Em outras palavras, ......era a intenção da Beatrice, ...sua esperança......de que tentaríamos resolver o enigma do epitáfio.`
 `O epitáfio é tão confuso que, na maioria das vezes,`
 ` os parentes nunca tentaram resolver de verdade até cartas ameaçadoras começarem a chegar.`
-`Por isso que a {f:5:Beatrice} deu o disparo de largada para fazer com que entendêssemos isso.`
+`Por isso que a Beatrice deu o disparo de largada para fazer com que entendêssemos isso.`
 `.................................`
-`.........Por que a {f:5:Beatrice} conduziu o último desejo do vovô......?`
+`.........Por que a Beatrice conduziu o último desejo do vovô......?`
 `Seguindo a teoria do primeiro jogo, ......que ela seja mesmo a confidente do vovô,`
 ` seguindo suas ordens mesmo após sua morte e tentando selecionar o sucessor através do enigma do epitáfio em seu lugar...?`
-`Isso significaria que a {f:5:Beatrice} é realmente uma confiável subordinada do vovô,`
+`Isso significaria que a Beatrice é realmente uma confiável subordinada do vovô,`
 ` e seja mesmo a alquimista da família que ela disse ser em sua carta...`
-`Depois da morte do vovô, a {f:5:Beatrice} teria obtido as dez toneladas de ouro e tomado o título de alquimista.`
+`Depois da morte do vovô, a Beatrice teria obtido as dez toneladas de ouro e tomado o título de alquimista.`
 `......Sem nunca ter defraudado o ouro,`
 ` ela o confiou ao enigma do epitáfio e esperou que um humano digno de ser o sucesso aparecesse para resolvê‐lo......`
 `E se esse humano não aparecer em um tempo limite pré‐determinado,`
-` ......significa que é um {i:game over}?`
+` ......significa que é um game over?`
 `Realmente, quando a tia Eva resolveu o enigma no terceiro jogo,`
 ` ela se tornou a única sobrevivente e, automaticamente, a última chefe da família Ushiromiya, herdando tudo.`
 `Até este momento, ninguém nunca sobreviveu ao 5 de outubro além da tia Eva, aquela que resolveu o epitáfio......`
-`Esse foi o único caso em que a {f:5:Beatrice} deixou alguém sobreviver......`
+`Esse foi o único caso em que a Beatrice deixou alguém sobreviver......`
 `.................................`
-`Seria a lealdade da {f:5:Beatrice} ao vovô......aquilo que a move.........?`
+`Seria a lealdade da Beatrice ao vovô......aquilo que a move.........?`
 `Teria o vovô dado alguma ordem terrível a ela para matar todo mundo se o epitáfio não for resolvido,`
 ` e tamanha lealdade a fez conduzir tudo fielmente......?`
 `........................`
@@ -675,9 +675,9 @@
 ` ...Não......pare de pensar......`
 `Não pense só sobre o enigma......pense sobre seu significado.`
 `.................................`
-`Por que a {f:5:Beatrice} está nos dizendo para resolver o epitáfio......?`
-`Por que ela impôs a nós um epitáfio {i:tão difícil de se resolver}......?`
-`......Se a {f:5:Beatrice} nos fez tentar resolver esse epitáfio que não tínhamos chances reais de resolver,`
+`Por que a Beatrice está nos dizendo para resolver o epitáfio......?`
+`Por que ela impôs a nós um epitáfio tão difícil de se resolver......?`
+`......Se a Beatrice nos fez tentar resolver esse epitáfio que não tínhamos chances reais de resolver,`
 ` .........e, devido a uma afortunada chance, um "milagre" ocorreu e alguém foi capaz de resolver......`
 `......que significado isso tem para ela.........?`
 `Eu não sei se......esse milagre teria algum valor para a Beato.`
@@ -686,7 +686,7 @@
 `"Mmph, ...fwaaaaaaaaaaahhhhhh......"`
 `Maria deixou um grande bocejo escapar.`
 `Isto fez com que muitos outros também bocejassem.`
-`{n}...Nós estamos usando tanto nossas cabeças que todos ficaram meio sonolentos.`
+`...Nós estamos usando tanto nossas cabeças que todos ficaram meio sonolentos.`
 `Jessica, que tinha ficado em silêncio e passou todo tempo aparentando estar aborrecida, se levantou rapidamente.`
 `"......Vou subir com a Maria.`
 ` Vamos ficar vendo televisão."`
@@ -729,7 +729,7 @@
 ` mas como a tia Rosa recusou, ela ficou lavando tudo sozinha.`
 `Como ela havia servido um café delicioso, eu decidi ajudar.`
 `......Eu não fiz isso só porque me senti na obrigação.`
-`{n}Eu queria ficar discutindo sobre o epitáfio com alguém.`
+`Eu queria ficar discutindo sobre o epitáfio com alguém.`
 `".........O primeiro crepúsculo...o primeiro crepúsculo.`
 ` ......Gah.`
 ` Tia Rosa, chegou a pensar em alguma lista de caracteres ou palavras?"`
@@ -739,17 +739,17 @@
 `"O décimo crepúsculo...?`
 ` O que tem ele?"`
 `"Bem,`
-` .........a palavra "Terra Dourada" ({ruby:ougonkyou:{p:0:黄金郷}}) aparece várias vezes, certo?"`
+` .........a palavra "Terra Dourada" (ougonkyou:黄金郷) aparece várias vezes, certo?"`
 `"Sim, é verdade."`
-`"Por algum motivo......o décimo crepúsculo é o único que, quando a jornada termina, diz que chegamos a "Vila do Ouro" ({p:0:黄金の郷}), lendo "ougon {i:no} kyou" — não, "ougon no sato".`
-` O kanji "Vila" ({ruby:kyou/sato:{p:0:郷}}) aparece separado.`
+`"Por algum motivo......o décimo crepúsculo é o único que, quando a jornada termina, diz que chegamos a "Vila do Ouro" (黄金の郷), lendo "ougon no kyou" — não, "ougon no sato".`
+` O kanji "Vila" (kyou/sato:郷) aparece separado.`
 ` Não consigo parar de pensar no motivo pelo qual essa é a única linha que aparece dessa forma."`
 `"............Tem razão.`
 ` ...Sem dúvida.`
-` Em todos os outros lugares diz "Terra Dourada" ({ruby:ougonkyou:{p:0:黄金郷}})..."`
+` Em todos os outros lugares diz "Terra Dourada" (ougonkyou:黄金郷)..."`
 `Mesmo estando escrito "Terra Dourada" em todo resto, o décimo é o único diferente,`
 ` e aparece escrito "Vila do Ouro"...`
-`Eu me pergunto se a palavra "Vila" ({ruby:kyou/sato:{p:0:郷}}) tem algum sentido especial.........`
+`Eu me pergunto se a palavra "Vila" (kyou/sato:郷) tem algum sentido especial.........`
 `...........................`
 `"Ainda assim, ......você e a Erika‐chan foram incríveis.`
 ` A forma como você pensa é mesmo flexível.`
@@ -776,8 +776,8 @@
 ` Há quantos quilômetros do ponto de partida...?`
 ` Coisas do tipo...`
 ` Não diga isso a ninguém tá?`
-` Não sou muito esperta, por isso, durante muito tempo eu li o kanji "Vila" ({p:0:郷}) como "kyou" quando provavelmente é "sato"."`
-`"......E "kyou" lembra Quioto ({ruby:kyouto:{p:0:京都}}), certo? Muitas vezes abreviado para "kyou" ({p:0:京}).`
+` Não sou muito esperta, por isso, durante muito tempo eu li o kanji "Vila" (郷) como "kyou" quando provavelmente é "sato"."`
+`"......E "kyou" lembra Quioto (kyouto:京都), certo? Muitas vezes abreviado para "kyou" (京).`
 ` Por isso pensei que essa viagem de dez dias pudesse ser entre a vila do pai e Quioto, e possa ter algo escondido há um décimo do caminho..."`
 `"Tá brincando? Essa ideia pode ser brilhante.`
 ` .........O primeiro crepúsculo como sendo uma jornada de dez dias...`
@@ -797,7 +797,7 @@
 ` ...E o lugar que se alcança logo no primeiro crepúsculo......"`
 `"Acredite ou não, mas eu acho que você consegue resolver isso facilmente, Battler‐kun.`
 ` ......Se resolver com a dica da sua tia, divida um pouco comigo, tá? 5% já seria ótimo.`
-` Promete{p:0:♪}"`
+` Promete♪"`
 `Ela piscou para mim e sorriu de forma que fez com que meu coração desse um pequeno salto, mesmo sendo minha tia.`
 `Enquanto eu ajudava a lavar as canecas de café,`
 ` ......eu fiquei ponderando sobre o enigma do epitáfio em silêncio.........`
@@ -809,7 +809,7 @@
 ` ......Pensei que pudesse estar aqui."`
 `"Procurando alguma coisa......?"`
 `Erika destrancou a porta e a abriu.`
-`{n}Um odor de poeira saiu de dentro...`
+`Um odor de poeira saiu de dentro...`
 `Era uma pequena biblioteca.`
 `A distância estre as estantes era tão pequena que mal dava para dizer que era uma biblioteca.`
 `Este quarto obviamente foi feito para guardar livros, não para lê‐los.`
@@ -820,7 +820,7 @@
 ` É bem admirável que ainda não tenha desistido.`
 ` Concordo que 20 bilhões de ienes é bem sedutor."`
 `Eu também não desisti ainda.`
-`{n}Ao que parece, ambos somos ruins em desistir......`
+`Ao que parece, ambos somos ruins em desistir......`
 `"Está brincando?`
 ` ......Estou unicamente interessada em resolver o enigma.`
 ` Só estou procurando pelo ouro porque quero provar que meu raciocínio estava correto.`
@@ -850,7 +850,7 @@
 ` ......O lugar que você chega no primeiro dia da jornada de dez dias.`
 ` Esse pedaço de terra, ou seja qual for o seu nome, deve ser a chave..."`
 `".........Eu também venho especulando que o nome do lugar possa ser a chave.`
-`{n}É por isso que estou procurando um livro de referência.`
+`É por isso que estou procurando um livro de referência.`
 ` Eu quero transformar essa especulação em uma certeza."`
 `"É isso.........que você está procurando?"`
 `Então, a mão de Erika parou de repente, ......e ela puxou um livro...`

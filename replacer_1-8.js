@@ -4,7 +4,7 @@ let targetScript = fs.readFileSync('script.rb', 'utf-8').split('\n')
 let output = targetScript.slice(0, startLine).join('\n') + '\n'
 targetScript = targetScript.slice(startLine).join('\n')
 const scriptBase = 'script_plain/umi'
-for (let ep = 1; ep <= 8; ep++) {
+for (let ep = 1; ep <= 11; ep++) {
   console.log(`Processing Episode ${ep}`)
   for (let chapter = 0; chapter <= 100; chapter++) {
     const scriptJp = `${scriptBase}${ep}_${chapter}_jp.txt`

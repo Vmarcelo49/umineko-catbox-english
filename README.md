@@ -7,14 +7,13 @@ Esse projeto visa portar a tradução dos capítulos extras do jogo feitos pela 
 
 Se ver algum erro nos extras abra um issue.
 ## Progresso
-###Na história principal 
 Inserido textos da história principal do episódio 1 ao 8.
 
 Corrigido até o capítulo 3 do episódio 1.
 
 Depois disso o texto pode ficar fora de sincronia ou dar crashes.
 
-###Capítulos Extras
+
 Todos os capítulos extras traduzidos e testados.
 
 Nome de todas musicas traduzidas para inglês.

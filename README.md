@@ -1,22 +1,25 @@
-# Patch em português para umineko catbox
+# Tradução para português dos capítulos extras do Umineko Catbox
 
 [![Patch build](https://github.com/ooa113y/umineko-catbox-english/actions/workflows/main.yml/badge.svg)](https://github.com/Vmarcelo49/umineko-catbox-ptbr/actions/workflows/main.yml)
 
 ## Descrição
-Este projeto visa portar a tradução da Knox Translations originalmente feita para o Umineko Project para a versão de Nintendo Switch com os extras, ainda em seus estágios preliminares, espere inúmeros erros nos textos.
+Esse projeto visa portar a tradução dos capítulos extras do jogo feitos pela Knox Translations, originalmente era para ser tudo mas eu não animei de continuar por ser uma melhor ler a história principal com o Umineko Project no pc.
 
-Não sei se vou seguir arrumando o resto dos episódios afinal ler eles pelo Umineko Project é uma experiência bem melhor por conta de ter mais efeitos nos textos e afins.
-
+Se ver algum erro nos extras abra um issue.
 ## Progresso
-Inserido textos do episódio 1 ao 8
+###Na história principal 
+Inserido textos da história principal do episódio 1 ao 8.
 
-Corrigido até o capítulo 3 do episódio 1
+Corrigido até o capítulo 3 do episódio 1.
 
-Todos os capítulos extras traduzidos
+Depois disso o texto pode ficar fora de sincronia ou dar crashes.
 
-Nome de todas musicas traduzidas para inglês
+###Capítulos Extras
+Todos os capítulos extras traduzidos e testados.
 
-Menus traduzidos (de maneira meio porca)
+Nome de todas musicas traduzidas para inglês.
+
+Menus traduzidos.
 
 
 ## Instalando
@@ -28,8 +31,8 @@ Baixe o [Ryujinx](https://ryujinx.org/) então
 
 Abra o Ryujinx, Clique em File>Open Ryujinx folder então cole a pasta "mods" lá dentro.
 
+No momento onde essa tradução foi feita tinha um bug no audio, para corrigir:
 Mude o Audio Backend para SoundIO.
-
 ### No Nintendo Switch
 
 Você precisará de um switch desbloqueado com Atmosphere

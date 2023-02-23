@@ -3,7 +3,8 @@
 [![Patch build](https://github.com/ooa113y/umineko-catbox-english/actions/workflows/main.yml/badge.svg)](https://github.com/Vmarcelo49/umineko-catbox-ptbr/actions/workflows/main.yml)
 
 ## Descrição
-Esse projeto visa portar a tradução dos capítulos extras do jogo feitos pela Knox Translations, originalmente era para ser tudo mas eu não animei de continuar por ser uma melhor ler a história principal com o Umineko Project no pc.
+Esse projeto visa portar a tradução dos capítulos extras do umineko catbox para português tradução feita pela Knox Translations.
+Originalmente era para ser todo conteúdo do jogo porém decidi parar pois a experiencia no pc pelo Umineko Project é muito melhor.
 
 Se ver algum erro nos extras abra um issue.
 ## Progresso
@@ -11,7 +12,7 @@ Inserido textos da história principal do episódio 1 ao 8.
 
 Corrigido até o capítulo 3 do episódio 1.
 
-Depois disso o texto pode ficar fora de sincronia ou dar crashes.
+Depois disso o texto pode ficar fora de sincronia com as falas ou dar crashes.
 
 
 Todos os capítulos extras traduzidos e testados.

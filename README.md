@@ -25,11 +25,12 @@ Menus traduzidos.
 ## Instalando
 
 ### No emulador
-
+Consiga a rom japonesa.
 Baixe o [Ryujinx](https://ryujinx.org/) então
 [Baixe o patch](../../releases/latest/download/patch.zip)
 
 Abra o Ryujinx, Clique em File>Open Ryujinx folder então cole a pasta "mods" lá dentro.
+Coloque [este save](https://1drv.ms/u/s!AuY-QvKkTxAsmAyr7Yb_2hObXH_b?e=1jxhQE) para desbloquear tudo, botao direito no jogo, saves, coloque lá dentro
 
 No momento onde essa tradução foi feita tinha um bug no audio, para corrigir:
 Mude o Audio Backend para SoundIO.
